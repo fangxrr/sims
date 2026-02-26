@@ -39,13 +39,13 @@ try {
     };
 
     const parseArray = (str) => {
-        if (!str) return undefined;
+        if (!str) return [];
         if (typeof str !== 'string') return [str];
         return str.split(',').map(s => s.trim()).filter(Boolean);
     };
 
     const parseRefs = (str) => {
-        if (!str) return undefined;
+        if (!str) return [];
         if (typeof str !== 'string') return [{ id: str }];
         return str.split(',').map(s => ({ id: s.trim() })).filter(r => r.id);
     };
@@ -118,6 +118,7 @@ try {
         name: getRowVal(row, 'name'),
         chineseName: getRowVal(row, 'chineseName'),
         description: getRowVal(row, 'description'),
+        sizes: parseArray(getRowVal(row, 'sizes')) || [],
         pack: getRowVal(row, 'pack'),
     }));
 
@@ -137,12 +138,8 @@ try {
     const creatorsData = rawCreators.map(row => ({
         id: getRowVal(row, 'id'),
         name: getRowVal(row, 'name'),
-        description: getRowVal(row, 'description'),
-        tags: parseArray(getRowVal(row, 'tags')) || [],
-        platforms: parseArray(getRowVal(row, 'platforms'))?.map(p => {
-            const parts = p.split('|');
-            return { name: parts[0]?.trim(), url: parts[1]?.trim() || '#' };
-        }) || [],
+        favLevel: getRowVal(row, 'favLevel'),
+        types: parseArray(getRowVal(row, 'types')) || [],
         status: getRowVal(row, 'status'),
         url: getRowVal(row, 'url')
     }));

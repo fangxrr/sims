@@ -28,7 +28,15 @@ export default {
           "level": 5
         }
       ],
-      "relationships": {}
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "GothBella",
@@ -44,13 +52,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Charisma",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "GothCassandra",
@@ -66,13 +77,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Violin",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "GothAlexander",
@@ -88,13 +102,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Creativity",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "KimDennis",
@@ -110,13 +127,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Gardening",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "SpencerLydia",
@@ -132,13 +152,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Logic",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "SpencerKimAlice",
@@ -154,13 +177,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Painting",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "LewisEric",
@@ -176,13 +202,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Programming",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "KimLewisOlivia",
@@ -198,13 +227,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Motor",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "PancakesBob",
@@ -220,13 +252,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Cooking",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "PancakesEliza",
@@ -242,13 +277,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Fitness",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "HolidaySummer",
@@ -264,13 +302,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Cooking",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "ScottTravis",
@@ -286,13 +327,16 @@ export default {
       "aspiration": {
         "name": ""
       },
-      "skills": [
-        {
-          "name": "Video Gaming",
-          "level": 1
-        }
-      ],
-      "relationships": {}
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     },
     {
       "id": "LeeLiberty",
@@ -308,13 +352,48 @@ export default {
       "aspiration": {
         "name": ""
       },
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
+    },
+    {
+      "id": "haha",
+      "familyId": "dss",
+      "name": "dsfes ",
+      "chineseName": "fangfang",
+      "gender": "female",
+      "age": "child",
+      "maritalStatus": "single ",
+      "world": "Oasis Springs",
+      "worldId": "oasis-springs",
+      "career": "Teacher",
+      "aspiration": {},
       "skills": [
         {
-          "name": "Rocket Science",
-          "level": 1
+          "name": "编织",
+          "level": 2
+        },
+        {
+          "name": "钢琴",
+          "level": 2
         }
       ],
-      "relationships": {}
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
     }
   ],
   "families": [
@@ -442,6 +521,12 @@ export default {
       "world": "San Myshuno",
       "lotId": "",
       "description": "",
+      "sims": []
+    },
+    {
+      "id": "fangfang",
+      "name": "FANGFFF",
+      "world": "San Myshuno",
       "sims": []
     }
   ],
@@ -685,6 +770,16 @@ export default {
       "worldId": "oasis-springs",
       "downloadUrl": "",
       "isDownloaded": false
+    },
+    {
+      "id": "blooms",
+      "name": "BLOOMS",
+      "type": "SmallBusiness",
+      "price": 0,
+      "size": "32x32",
+      "worldId": "oasis-springs",
+      "downloadUrl": "",
+      "isDownloaded": false
     }
   ],
   "worlds": [
@@ -692,31 +787,68 @@ export default {
       "id": "willow-creek",
       "name": "Willow Creek",
       "chineseName": "柳溪",
-      "description": "A lush, green world featuring traditional style homes, winding rivers, and plenty of parks for Sims to enjoy."
+      "description": "A lush, green world featuring traditional style homes, winding rivers, and plenty of parks for Sims to enjoy.",
+      "sizes": [
+        "50x50",
+        "40x30",
+        "30x20",
+        "20x15"
+      ]
     },
     {
       "id": "oasis-springs",
       "name": "Oasis Springs",
       "chineseName": "绿洲泉",
-      "description": "A desert landscape with modern homes and a mid-century vibe. Hot days and cool nights await."
+      "description": "A desert landscape with modern homes and a mid-century vibe. Hot days and cool nights await.",
+      "sizes": [
+        "50x50",
+        "30x20",
+        "20x15"
+      ]
     },
     {
       "id": "newcrest",
       "name": "Newcrest",
       "chineseName": "纽克雷斯特",
-      "description": "A blank canvas world waiting for your creativity. Build your dream neighborhood from scratch."
+      "description": "A blank canvas world waiting for your creativity. Build your dream neighborhood from scratch.",
+      "sizes": [
+        "50x40",
+        "40x30",
+        "30x20",
+        "20x15"
+      ]
     },
     {
       "id": "san-myshuno",
       "name": "San Myshuno",
       "chineseName": "三米舒诺",
-      "description": "A bustling city world with apartments, festivals, and a diverse population."
+      "description": "A bustling city world with apartments, festivals, and a diverse population.",
+      "sizes": [
+        "40x30",
+        "30x20"
+      ]
     },
     {
       "id": "windenburg",
       "name": "Windenburg",
       "chineseName": "温登堡",
-      "description": "An old-world European style town with ancient ruins, cozy cafes, and a beautiful island."
+      "description": "An old-world European style town with ancient ruins, cozy cafes, and a beautiful island.",
+      "sizes": [
+        "64x64",
+        "30x20",
+        "20x20"
+      ]
+    },
+    {
+      "id": "lovestuck",
+      "name": "Lovestuck",
+      "chineseName": "恋爱之城",
+      "description": "An old-world European style town with ancient ruins, cozy cafes, and a beautiful island.",
+      "sizes": [
+        "64x64",
+        "30x20",
+        "20x20"
+      ]
     }
   ],
   "districts": [
@@ -746,96 +878,141 @@ export default {
     {
       "id": "greenllama",
       "name": "GreenLlama",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Male Hair",
+        "Female Hair",
+        "Clothes"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     },
     {
       "id": "peacemaker",
       "name": "Peacemaker",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Furniture",
+        "Build Items"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     },
     {
       "id": "sentate",
       "name": "Sentate",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Clothes",
+        "Shoes"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     },
     {
       "id": "aharris00britney",
       "name": "Aharris00britney",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Female Hair",
+        "Clothes"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     },
     {
       "id": "felixandre",
       "name": "Felixandre",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Furniture",
+        "Build Items"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     },
     {
       "id": "harrie",
       "name": "Harrie",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Furniture",
+        "Build Items"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     },
     {
       "id": "simstrouble",
       "name": "SimsTrouble",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Female Hair"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     },
     {
       "id": "johnnysims",
       "name": "Johnnysims",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Male Hair"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     },
     {
       "id": "rusty",
       "name": "Rusty",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Clothes",
+        "Male Hair"
+      ],
       "status": "Not Updating",
       "url": "https://patreon.com"
     },
     {
       "id": "clumsyalien",
       "name": "ClumsyAlien",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Clothes",
+        "Female Hair"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     },
     {
       "id": "twistedmexi",
       "name": "TwistedMexi",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Mods",
+        "Build Items"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     },
     {
       "id": "lumpinou",
       "name": "Lumpinou",
-      "tags": [],
-      "platforms": [],
+      "favLevel": 0,
+      "types": [
+        "Mods",
+        "Gameplay"
+      ],
+      "status": "Active",
+      "url": "https://patreon.com"
+    },
+    {
+      "id": "zhuzhu ",
+      "name": "zhuzhu",
+      "favLevel": "A",
+      "types": [
+        "女发"
+      ],
       "status": "Active",
       "url": "https://patreon.com"
     }
@@ -930,6 +1107,15 @@ export default {
       "subtype": "Furniture",
       "downloadUrl": "#",
       "translationUrl": ""
+    },
+    {
+      "id": "mccc",
+      "title": "MCCC ",
+      "author": "Deaderpool",
+      "type": "B必备",
+      "subtype": "AAA必备",
+      "downloadUrl": "#",
+      "translationUrl": "#"
     }
   ],
   "finders": [
@@ -961,6 +1147,11 @@ export default {
     {
       "id": "lilsimsie-cc-finds",
       "name": "Lilsimsie CC Finds",
+      "url": "https://lilsimsiecc.tumblr.com/"
+    },
+    {
+      "id": "fangfang",
+      "name": "fangcc",
       "url": "https://lilsimsiecc.tumblr.com/"
     }
   ],
