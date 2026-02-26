@@ -63,6 +63,21 @@ try {
         return str.split(',').map(s => ({ id: normalizeId(s.trim()) })).filter(r => r.id);
     };
 
+    // --- PRE-LOAD LOOKUPS ---
+    const rawWorlds = getSheet('Worlds');
+    const worldLookup = {};
+    rawWorlds.forEach(row => {
+        const id = normalizeId(getRowVal(row, 'id') || getRowVal(row, 'name'));
+        if (id) worldLookup[id] = getRowVal(row, 'name');
+    });
+
+    const rawLots = getSheet('Lots');
+    const lotLookup = {};
+    rawLots.forEach(row => {
+        const id = normalizeId(getRowVal(row, 'id') || getRowVal(row, 'name'));
+        if (id) lotLookup[id] = getRowVal(row, 'name') || getRowVal(row, 'id');
+    });
+
     // 1. Sims
     const rawSims = getSheet('Sims');
     console.log(`Raw Sims found: ${rawSims.length}.`);
@@ -71,6 +86,7 @@ try {
         const rawId = getRowVal(row, 'id');
         const rawName = getRowVal(row, 'name');
         const id = normalizeId(rawId || rawName);
+        const worldId = normalizeId(getRowVal(row, 'worldId'));
 
         return {
             id,
@@ -80,8 +96,8 @@ try {
             gender: getRowVal(row, 'gender'),
             age: getRowVal(row, 'age'),
             maritalStatus: getRowVal(row, 'maritalStatus'),
-            world: getRowVal(row, 'world'),
-            worldId: normalizeId(getRowVal(row, 'worldId')),
+            world: getRowVal(row, 'world') || worldLookup[worldId],
+            worldId,
             image: getImagePath(rawId || rawName, 'sims'),
             career: getRowVal(row, 'career'),
             aspiration: { name: getRowVal(row, 'aspiration') },
@@ -106,33 +122,36 @@ try {
     const familiesData = rawFamilies.map(row => {
         const rawId = getRowVal(row, 'id');
         const rawName = getRowVal(row, 'name');
+        const worldId = normalizeId(getRowVal(row, 'worldId'));
+        const lotId = normalizeId(getRowVal(row, 'lotId'));
         return {
             id: normalizeId(rawId || rawName),
             name: rawName,
             chineseName: getRowVal(row, 'chineseName'),
-            world: getRowVal(row, 'world'),
+            world: getRowVal(row, 'world') || worldLookup[worldId],
             address: getRowVal(row, 'address'),
-            lotId: normalizeId(getRowVal(row, 'lotId')),
-            worldId: normalizeId(getRowVal(row, 'worldId')),
+            lot: getRowVal(row, 'lot') || lotLookup[lotId],
+            lotId,
+            worldId,
             image: getImagePath(rawId || rawName, 'families'),
             description: getRowVal(row, 'description'),
             sims: parseRefs(getRowVal(row, 'sims')) || []
         };
     }).filter(row => row.id);
 
-    // 3. Lots
-    const rawLots = getSheet('Lots');
+    // 3. Lots resolution happens here
     const lotsData = rawLots.map(row => {
         const rawId = getRowVal(row, 'id');
         const rawName = getRowVal(row, 'name');
+        const worldId = normalizeId(getRowVal(row, 'worldId'));
         return {
             id: normalizeId(rawId || rawName),
             name: rawName || rawId,
             type: getRowVal(row, 'type'),
             price: getRowVal(row, 'price') ? parseInt(getRowVal(row, 'price')) : 0,
             size: getRowVal(row, 'size'),
-            world: getRowVal(row, 'world'),
-            worldId: normalizeId(getRowVal(row, 'worldId')),
+            world: getRowVal(row, 'world') || worldLookup[worldId],
+            worldId,
             address: getRowVal(row, 'address'),
             districtId: normalizeId(getRowVal(row, 'districtId')),
             image: getImagePath(rawId || rawName, 'lots'),
@@ -147,8 +166,6 @@ try {
         };
     }).filter(row => row.id);
 
-    // 4. Worlds
-    const rawWorlds = getSheet('Worlds');
     const worldsData = rawWorlds.map(row => {
         const rawId = getRowVal(row, 'id');
         const rawName = getRowVal(row, 'name');
