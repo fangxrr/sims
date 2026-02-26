@@ -8,7 +8,7 @@ interface SmartImageProps extends React.ImgHTMLAttributes<HTMLImageElement> {
 
 export const SmartImage: React.FC<SmartImageProps> = ({
     src: initialSrc,
-    fallbackExtensions = ['.jpg', '.png', '.webp', '.jpeg'],
+    fallbackExtensions = ['.jpg', '.png', '.webp', '.jpeg', '.JPG', '.PNG', '.WEBP', '.JPEG'],
     className,
     alt = "",
     ...props
@@ -35,12 +35,14 @@ export const SmartImage: React.FC<SmartImageProps> = ({
         }
 
         const base = currentSrc.substring(0, lastDotIndex);
-        const currentExt = currentSrc.substring(lastDotIndex).toLowerCase();
+        const currentExt = currentSrc.substring(lastDotIndex); // Keep original case for comparison
 
-        // Find next extension that hasn't been tried
-        const nextExt = fallbackExtensions.find(ext =>
-            ext.toLowerCase() !== currentExt && !triedExtensions.includes(ext.toLowerCase())
-        );
+        // Find next extension that hasn't been tried (case-insensitive check)
+        const nextExt = fallbackExtensions.find(ext => {
+            const isAlreadyTried = triedExtensions.some(t => t.toLowerCase() === ext.toLowerCase());
+            const isCurrent = ext.toLowerCase() === currentExt.toLowerCase();
+            return !isAlreadyTried && !isCurrent;
+        });
 
         if (nextExt) {
             setTriedExtensions(prev => [...prev, currentExt]);
