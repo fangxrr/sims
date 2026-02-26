@@ -23,15 +23,6 @@ const defaultFindersData: Finder[] = [
 import generatedData from './generated';
 
 const getFindersData = (): Finder[] => {
-  try {
-    const stored = localStorage.getItem('sims_data_finders');
-    if (stored) {
-      const parsed = JSON.parse(stored);
-      return parsed.map((item: any) => createFinder(item));
-    }
-  } catch (e) {
-    console.error('Failed to load finders data from localStorage', e);
-  }
 
   // Use generated data if available
   if (generatedData?.finders?.length > 0) {

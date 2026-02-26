@@ -27,15 +27,6 @@ const defaultGalleryData: GalleryImage[] = [
 import generatedData from './generated';
 
 const getGalleryData = (): GalleryImage[] => {
-  try {
-    const stored = localStorage.getItem('sims_data_gallery');
-    if (stored) {
-      const parsed = JSON.parse(stored);
-      return parsed.map((item: any) => createGalleryImage(item.id));
-    }
-  } catch (e) {
-    console.error('Failed to load gallery data from localStorage', e);
-  }
 
   // Use generated data if available
   if (generatedData?.gallery?.length > 0) {

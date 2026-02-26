@@ -265,19 +265,6 @@ const defaultSimsData: Record<string, Sim> = {
 import generatedData from './generated';
 
 const getSimsData = (): Record<string, Sim> => {
-  try {
-    const stored = localStorage.getItem('sims_data_sims');
-    if (stored) {
-      const parsed = JSON.parse(stored);
-      const result: Record<string, Sim> = {};
-      for (const key in parsed) {
-        result[key] = createSim(parsed[key]);
-      }
-      return result;
-    }
-  } catch (e) {
-    console.error('Failed to load sims data from localStorage', e);
-  }
 
   // Use generated data if available
   if (generatedData?.sims?.length > 0) {

@@ -64,19 +64,6 @@ const defaultFamiliesData: Record<string, Family> = {
 import generatedData from './generated';
 
 const getFamiliesData = (): Record<string, Family> => {
-  try {
-    const stored = localStorage.getItem('sims_data_families');
-    if (stored) {
-      const parsed = JSON.parse(stored);
-      const result: Record<string, Family> = {};
-      for (const key in parsed) {
-        result[key] = createFamily(parsed[key]);
-      }
-      return result;
-    }
-  } catch (e) {
-    console.error('Failed to load families data from localStorage', e);
-  }
 
   // Use generated data if available
   if (generatedData?.families?.length > 0) {

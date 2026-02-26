@@ -43,19 +43,6 @@ const defaultLotsData: Record<string, Lot> = {
 import generatedData from './generated';
 
 const getLotsData = (): Record<string, Lot> => {
-  try {
-    const stored = localStorage.getItem('sims_data_lots');
-    if (stored) {
-      const parsed = JSON.parse(stored);
-      const result: Record<string, Lot> = {};
-      for (const key in parsed) {
-        result[key] = createLot(parsed[key]);
-      }
-      return result;
-    }
-  } catch (e) {
-    console.error('Failed to load lots data from localStorage', e);
-  }
 
   // Use generated data if available
   if (generatedData?.lots?.length > 0) {

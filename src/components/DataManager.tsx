@@ -2,17 +2,13 @@ import React, { useRef, useState, useEffect } from 'react';
 import { createPortal } from 'react-dom';
 import { motion, AnimatePresence } from 'motion/react';
 import { Download, Upload, Trash2, X, Database, Lock, KeyRound } from 'lucide-react';
-import { exportTemplate, importData, clearImportedData } from '../utils/excel';
+import { exportTemplate } from '../utils/excel';
 
 export const DataManager: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const [isImporting, setIsImporting] = useState(false);
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [password, setPassword] = useState('');
   const [authError, setAuthError] = useState('');
-  const [importStatus, setImportStatus] = useState<'idle' | 'success' | 'error'>('idle');
-  const [importMessage, setImportMessage] = useState('');
-  const fileInputRef = useRef<HTMLInputElement>(null);
 
   // Check if already authenticated in this session
   useEffect(() => {
@@ -46,40 +42,7 @@ export const DataManager: React.FC = () => {
     exportTemplate();
   };
 
-  const handleImport = async (e: React.ChangeEvent<HTMLInputElement>) => {
-    const file = e.target.files?.[0];
-    if (!file) return;
 
-    setIsImporting(true);
-    setImportStatus('idle');
-    setImportMessage('');
-
-    try {
-      await importData(file);
-      setImportStatus('success');
-      setImportMessage('Data imported successfully! The page will reload in 3 seconds to apply changes.');
-      setTimeout(() => {
-        window.location.reload();
-      }, 3000);
-    } catch (err: any) {
-      console.error(err);
-      const message = err instanceof Error ? err.message : 'Unknown validation error';
-      setImportStatus('error');
-      setImportMessage(message);
-    } finally {
-      setIsImporting(false);
-      if (fileInputRef.current) {
-        fileInputRef.current.value = '';
-      }
-    }
-  };
-
-  const handleClear = () => {
-    if (window.confirm('Are you sure you want to clear all imported data and revert to defaults?')) {
-      clearImportedData();
-      window.location.reload();
-    }
-  };
 
   return (
     <>
@@ -179,49 +142,7 @@ export const DataManager: React.FC = () => {
                       </button>
                     </div>
 
-                    <div className="p-4 rounded-xl bg-white/5 border border-white/5">
-                      <h3 className="text-sm font-medium text-white mb-2">2. Import Data</h3>
-                      <p className="text-xs text-white/50 mb-4">
-                        Upload your edited Excel file to update the website's data. This will overwrite the default data.
-                      </p>
-                      <input
-                        type="file"
-                        accept=".xlsx, .xls"
-                        className="hidden"
-                        ref={fileInputRef}
-                        onChange={handleImport}
-                      />
-                      <button
-                        onClick={() => fileInputRef.current?.click()}
-                        disabled={isImporting}
-                        className="w-full flex items-center justify-center gap-2 py-2.5 bg-white text-black hover:bg-white/90 text-sm font-medium rounded-lg transition-colors disabled:opacity-50"
-                      >
-                        <Upload size={16} />
-                        {isImporting ? 'Importing...' : 'Upload Excel File'}
-                      </button>
 
-                      {importStatus !== 'idle' && (
-                        <div className={`mt-4 p-3 rounded-lg text-xs font-medium border ${importStatus === 'success' ? 'bg-green-400/10 text-green-400 border-green-400/20' : 'bg-red-400/10 text-red-400 border-red-400/20'
-                          }`}>
-                          <div className="flex justify-between items-start">
-                            <span>{importMessage}</span>
-                            <button onClick={() => setImportStatus('idle')} className="opacity-60 hover:opacity-100">
-                              <X size={12} />
-                            </button>
-                          </div>
-                        </div>
-                      )}
-                    </div>
-
-                    <div className="pt-4 border-t border-white/10">
-                      <button
-                        onClick={handleClear}
-                        className="w-full flex items-center justify-center gap-2 py-2 text-red-400 hover:text-red-300 hover:bg-red-400/10 text-xs font-medium rounded-lg transition-colors"
-                      >
-                        <Trash2 size={14} />
-                        Clear Imported Data & Reset to Defaults
-                      </button>
-                    </div>
                   </div>
                 )}
               </motion.div>

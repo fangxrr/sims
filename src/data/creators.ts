@@ -32,15 +32,6 @@ const defaultCreatorsData: Creator[] = [
 import generatedData from './generated';
 
 const getCreatorsData = (): Creator[] => {
-  try {
-    const stored = localStorage.getItem('sims_data_creators');
-    if (stored) {
-      const parsed = JSON.parse(stored);
-      return parsed.map((item: any) => createCreator(item));
-    }
-  } catch (e) {
-    console.error('Failed to load creators data from localStorage', e);
-  }
 
   // Use generated data if available
   if (generatedData?.creators?.length > 0) {

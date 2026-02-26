@@ -88,19 +88,6 @@ const defaultWorldsData: Record<string, World> = {
 import generatedData from './generated';
 
 const getWorldsData = (): Record<string, World> => {
-  try {
-    const stored = localStorage.getItem('sims_data_worlds');
-    if (stored) {
-      const parsed = JSON.parse(stored);
-      const result: Record<string, World> = {};
-      for (const key in parsed) {
-        result[key] = createWorld(parsed[key]);
-      }
-      return result;
-    }
-  } catch (e) {
-    console.error('Failed to load worlds data from localStorage', e);
-  }
 
   // Use generated data if available
   if (generatedData?.worlds?.length > 0) {

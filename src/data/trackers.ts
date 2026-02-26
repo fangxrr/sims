@@ -31,15 +31,6 @@ const defaultTrackersData: CCItem[] = [
 import generatedData from './generated';
 
 const getTrackersData = (): CCItem[] => {
-  try {
-    const stored = localStorage.getItem('sims_data_trackers');
-    if (stored) {
-      const parsed = JSON.parse(stored);
-      return parsed.map((item: any) => createCCItem(item));
-    }
-  } catch (e) {
-    console.error('Failed to load trackers data from localStorage', e);
-  }
 
   // Use generated data if available
   if (generatedData?.trackers?.length > 0) {
