@@ -46,53 +46,85 @@ try {
 
     const normalizeId = (id) => {
         if (!id) return id;
-        return String(id).toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+        let normalized = String(id).trim().replace(/\s+/g, '-');
+        // Common world ID fixes for consistency with filenames
+        const lower = normalized.toLowerCase();
+        if (lower === 'willow-creek') return 'Willow-Creek';
+        if (lower === 'oasis-springs') return 'Oasis-Springs';
+        if (lower === 'newcrest') return 'Newcrest';
+        if (lower === 'san-myshuno') return 'San-Myshuno';
+        if (lower === 'windenburg') return 'Windenburg';
+        if (lower === 'brindleton-bay') return 'Brindleton-Bay';
+        if (lower === 'del-sol-valley') return 'Del-Sol-Valley';
+        if (lower === 'sulani') return 'Sulani';
+        if (lower === 'glimmerbrook') return 'Glimmerbrook';
+        if (lower === 'britechester') return 'Britechester';
+        if (lower === 'evergreen-harbor') return 'Evergreen-Harbor';
+        if (lower === 'mt-komorebi') return 'Mt-Komorebi';
+        if (lower === 'henford-on-bagley') return 'Henford-on-Bagley';
+        if (lower === 'tartosa') return 'Tartosa';
+        if (lower === 'moonwood-mill') return 'Moonwood-Mill';
+        if (lower === 'copperdale') return 'Copperdale';
+        if (lower === 'san-sequoia') return 'San-Sequoia';
+        if (lower === 'chestnut-ridge') return 'Chestnut-Ridge';
+        if (lower === 'tomarang') return 'Tomarang';
+        if (lower === 'ciudad-enamorada') return 'Ciudad-Enamorada';
+        if (lower === 'ravenwood') return 'Ravenwood';
+        return normalized;
     };
 
     const parseRefs = (str) => {
         if (!str) return [];
-        if (typeof str !== 'string') return [{ id: str }];
-        return str.split(',').map(s => ({ id: s.trim() })).filter(r => r.id);
+        if (typeof str !== 'string') return [{ id: normalizeId(str) }];
+        return str.split(',').map(s => ({ id: normalizeId(s.trim()) })).filter(r => r.id);
     };
 
     // 1. Sims
     const rawSims = getSheet('Sims');
-    const simsData = rawSims.map(row => ({
-        id: getRowVal(row, 'id'),
-        familyId: getRowVal(row, 'familyId'),
-        name: getRowVal(row, 'name'),
-        chineseName: getRowVal(row, 'chineseName'),
-        gender: getRowVal(row, 'gender'),
-        age: getRowVal(row, 'age'),
-        maritalStatus: getRowVal(row, 'maritalStatus'),
-        world: getRowVal(row, 'world'),
-        worldId: normalizeId(getRowVal(row, 'worldId')),
-        career: getRowVal(row, 'career'),
-        aspiration: { name: getRowVal(row, 'aspiration') },
-        skills: parseArray(getRowVal(row, 'skills'))?.map(s => {
-            const parts = s.split(':');
-            return { name: parts[0]?.trim(), level: parseInt(parts[1]?.trim() || '1') };
-        }) || [],
-        relationships: {
-            spouse: parseRefs(getRowVal(row, 'spouse')),
-            lover: parseRefs(getRowVal(row, 'lover')),
-            parents: parseRefs(getRowVal(row, 'parents')),
-            children: parseRefs(getRowVal(row, 'children')),
-            siblings: parseRefs(getRowVal(row, 'siblings')),
-            grandparents: parseRefs(getRowVal(row, 'grandparents')),
-            grandchildren: parseRefs(getRowVal(row, 'grandchildren')),
-        }
-    }));
+    console.log(`Raw Sims found: ${rawSims.length}.`);
+
+    const simsData = rawSims.map(row => {
+        const rawId = getRowVal(row, 'id');
+        const rawName = getRowVal(row, 'name');
+        const id = normalizeId(rawId || rawName);
+
+        return {
+            id,
+            familyId: normalizeId(getRowVal(row, 'familyId')),
+            name: rawName,
+            chineseName: getRowVal(row, 'chineseName'),
+            gender: getRowVal(row, 'gender'),
+            age: getRowVal(row, 'age'),
+            maritalStatus: getRowVal(row, 'maritalStatus'),
+            world: getRowVal(row, 'world'),
+            worldId: normalizeId(getRowVal(row, 'worldId')),
+            career: getRowVal(row, 'career'),
+            aspiration: { name: getRowVal(row, 'aspiration') },
+            skills: parseArray(getRowVal(row, 'skills'))?.map(s => {
+                const parts = s.split(':');
+                return { name: parts[0]?.trim(), level: parseInt(parts[1]?.trim() || '1') };
+            }) || [],
+            relationships: {
+                spouse: parseRefs(getRowVal(row, 'spouseIds') || getRowVal(row, 'spouse')),
+                lover: parseRefs(getRowVal(row, 'loverIds') || getRowVal(row, 'lover')),
+                parents: parseRefs(getRowVal(row, 'parentsIds') || getRowVal(row, 'parents')),
+                children: parseRefs(getRowVal(row, 'childrenIds') || getRowVal(row, 'children')),
+                siblings: parseRefs(getRowVal(row, 'siblingIds') || getRowVal(row, 'siblings')),
+                grandparents: parseRefs(getRowVal(row, 'grandparentIds') || getRowVal(row, 'grandparents')),
+                grandchildren: parseRefs(getRowVal(row, 'grandchildIds') || getRowVal(row, 'grandchildren')),
+            }
+        };
+    }).filter(row => row.id);
 
     // 2. Families
     const rawFamilies = getSheet('Families');
-    const familiesData = rawFamilies.map(row => ({
-        id: getRowVal(row, 'id'),
+    const familiesData = rawFamilies.filter(row => getRowVal(row, 'id')).map(row => ({
+        id: normalizeId(getRowVal(row, 'id')),
         name: getRowVal(row, 'name'),
         chineseName: getRowVal(row, 'chineseName'),
         world: getRowVal(row, 'world'),
         address: getRowVal(row, 'address'),
-        lotId: getRowVal(row, 'lotId'),
+        lotId: normalizeId(getRowVal(row, 'lotId')),
         worldId: normalizeId(getRowVal(row, 'worldId')),
         description: getRowVal(row, 'description'),
         sims: parseRefs(getRowVal(row, 'sims')) || []
@@ -100,8 +132,8 @@ try {
 
     // 3. Lots
     const rawLots = getSheet('Lots');
-    const lotsData = rawLots.map(row => ({
-        id: getRowVal(row, 'id'),
+    const lotsData = rawLots.filter(row => getRowVal(row, 'id')).map(row => ({
+        id: normalizeId(getRowVal(row, 'id')),
         name: getRowVal(row, 'name'),
         type: getRowVal(row, 'type'),
         price: getRowVal(row, 'price') ? parseInt(getRowVal(row, 'price')) : 0,
@@ -116,13 +148,13 @@ try {
         bathrooms: getRowVal(row, 'bathrooms') ? parseInt(getRowVal(row, 'bathrooms')) : undefined,
         creator: getRowVal(row, 'creator'),
         downloadUrl: getRowVal(row, 'downloadUrl'),
-        isDownloaded: getRowVal(row, 'isDownloaded') === 'true' || getRowVal(row, 'isDownloaded') === true,
-        isBuilt: getRowVal(row, 'isBuilt') === 'true' || getRowVal(row, 'isBuilt') === true
+        isDownloaded: String(getRowVal(row, 'isDownloaded')) === 'true' || getRowVal(row, 'isDownloaded') === true,
+        isBuilt: String(getRowVal(row, 'isBuilt')) === 'true' || getRowVal(row, 'isBuilt') === true
     }));
 
     // 4. Worlds
     const rawWorlds = getSheet('Worlds');
-    const worldsData = rawWorlds.map(row => ({
+    const worldsData = rawWorlds.filter(row => getRowVal(row, 'id')).map(row => ({
         id: normalizeId(getRowVal(row, 'id')),
         name: getRowVal(row, 'name'),
         chineseName: getRowVal(row, 'chineseName'),
@@ -133,7 +165,7 @@ try {
 
     // 5. Districts
     const rawDistricts = getSheet('Districts');
-    const districtsData = rawDistricts.map(row => ({
+    const districtsData = rawDistricts.filter(row => getRowVal(row, 'id')).map(row => ({
         id: normalizeId(getRowVal(row, 'id')),
         worldId: normalizeId(getRowVal(row, 'worldId')),
         name: getRowVal(row, 'name'),
@@ -144,8 +176,8 @@ try {
 
     // 6. Creators
     const rawCreators = getSheet('Creators');
-    const creatorsData = rawCreators.map(row => ({
-        id: getRowVal(row, 'id'),
+    const creatorsData = rawCreators.filter(row => getRowVal(row, 'id')).map(row => ({
+        id: normalizeId(getRowVal(row, 'id')),
         name: getRowVal(row, 'name'),
         favLevel: getRowVal(row, 'favLevel'),
         types: parseArray(getRowVal(row, 'types')) || [],
@@ -155,8 +187,8 @@ try {
 
     // 7. Trackers
     const rawTrackers = getSheet('Trackers');
-    const trackersData = rawTrackers.map(row => ({
-        id: getRowVal(row, 'id'),
+    const trackersData = rawTrackers.filter(row => getRowVal(row, 'id')).map(row => ({
+        id: normalizeId(getRowVal(row, 'id')),
         title: getRowVal(row, 'title'),
         author: getRowVal(row, 'author'),
         type: getRowVal(row, 'type'),
@@ -166,15 +198,15 @@ try {
     }));
 
     const rawFinders = getSheet('Finders');
-    const findersData = rawFinders.map(row => ({
-        id: getRowVal(row, 'id'),
+    const findersData = rawFinders.filter(row => getRowVal(row, 'id')).map(row => ({
+        id: normalizeId(getRowVal(row, 'id')),
         name: getRowVal(row, 'name'),
         url: getRowVal(row, 'url')
     }));
 
     const rawGallery = getSheet('Gallery');
-    const galleryData = rawGallery.map(row => ({
-        id: getRowVal(row, 'id')
+    const galleryData = rawGallery.filter(row => getRowVal(row, 'id')).map(row => ({
+        id: normalizeId(getRowVal(row, 'id'))
     }));
 
     const fullData = {
