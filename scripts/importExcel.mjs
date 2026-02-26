@@ -44,6 +44,11 @@ try {
         return str.split(',').map(s => s.trim()).filter(Boolean);
     };
 
+    const normalizeId = (id) => {
+        if (!id) return id;
+        return String(id).toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    };
+
     const parseRefs = (str) => {
         if (!str) return [];
         if (typeof str !== 'string') return [{ id: str }];
@@ -61,7 +66,7 @@ try {
         age: getRowVal(row, 'age'),
         maritalStatus: getRowVal(row, 'maritalStatus'),
         world: getRowVal(row, 'world'),
-        worldId: getRowVal(row, 'worldId'),
+        worldId: normalizeId(getRowVal(row, 'worldId')),
         career: getRowVal(row, 'career'),
         aspiration: { name: getRowVal(row, 'aspiration') },
         skills: parseArray(getRowVal(row, 'skills'))?.map(s => {
@@ -88,6 +93,7 @@ try {
         world: getRowVal(row, 'world'),
         address: getRowVal(row, 'address'),
         lotId: getRowVal(row, 'lotId'),
+        worldId: normalizeId(getRowVal(row, 'worldId')),
         description: getRowVal(row, 'description'),
         sims: parseRefs(getRowVal(row, 'sims')) || []
     }));
@@ -101,20 +107,23 @@ try {
         price: getRowVal(row, 'price') ? parseInt(getRowVal(row, 'price')) : 0,
         size: getRowVal(row, 'size'),
         world: getRowVal(row, 'world'),
-        worldId: getRowVal(row, 'worldId'),
+        worldId: normalizeId(getRowVal(row, 'worldId')),
         address: getRowVal(row, 'address'),
+        districtId: normalizeId(getRowVal(row, 'districtId')),
+        chineseName: getRowVal(row, 'chineseName'),
         description: getRowVal(row, 'description'),
         bedrooms: getRowVal(row, 'bedrooms') ? parseInt(getRowVal(row, 'bedrooms')) : undefined,
         bathrooms: getRowVal(row, 'bathrooms') ? parseInt(getRowVal(row, 'bathrooms')) : undefined,
         creator: getRowVal(row, 'creator'),
         downloadUrl: getRowVal(row, 'downloadUrl'),
-        isDownloaded: getRowVal(row, 'isDownloaded') === 'true' || getRowVal(row, 'isDownloaded') === true
+        isDownloaded: getRowVal(row, 'isDownloaded') === 'true' || getRowVal(row, 'isDownloaded') === true,
+        isBuilt: getRowVal(row, 'isBuilt') === 'true' || getRowVal(row, 'isBuilt') === true
     }));
 
     // 4. Worlds
     const rawWorlds = getSheet('Worlds');
     const worldsData = rawWorlds.map(row => ({
-        id: getRowVal(row, 'id'),
+        id: normalizeId(getRowVal(row, 'id')),
         name: getRowVal(row, 'name'),
         chineseName: getRowVal(row, 'chineseName'),
         description: getRowVal(row, 'description'),
@@ -125,8 +134,8 @@ try {
     // 5. Districts
     const rawDistricts = getSheet('Districts');
     const districtsData = rawDistricts.map(row => ({
-        id: getRowVal(row, 'id'),
-        worldId: getRowVal(row, 'worldId'),
+        id: normalizeId(getRowVal(row, 'id')),
+        worldId: normalizeId(getRowVal(row, 'worldId')),
         name: getRowVal(row, 'name'),
         chineseName: getRowVal(row, 'chineseName'),
         description: getRowVal(row, 'description'),
