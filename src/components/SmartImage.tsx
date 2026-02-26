@@ -35,14 +35,12 @@ export const SmartImage: React.FC<SmartImageProps> = ({
         }
 
         const base = currentSrc.substring(0, lastDotIndex);
-        const currentExt = currentSrc.substring(lastDotIndex); // Keep original case for comparison
+        const currentExt = currentSrc.substring(lastDotIndex);
 
-        // Find next extension that hasn't been tried (case-insensitive check)
-        const nextExt = fallbackExtensions.find(ext => {
-            const isAlreadyTried = triedExtensions.some(t => t.toLowerCase() === ext.toLowerCase());
-            const isCurrent = ext.toLowerCase() === currentExt.toLowerCase();
-            return !isAlreadyTried && !isCurrent;
-        });
+        // Find next extension that hasn't been tried (must be case-sensitive)
+        const nextExt = fallbackExtensions.find(ext =>
+            ext !== currentExt && !triedExtensions.includes(ext)
+        );
 
         if (nextExt) {
             setTriedExtensions(prev => [...prev, currentExt]);
