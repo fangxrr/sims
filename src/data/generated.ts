@@ -757,12 +757,6 @@ export default {
       "lots": []
     },
     {
-      "id": "magnolia-blossom-park",
-      "worldId": "willow-creek",
-      "image": "/images/worlds/districts/Magnolia-Blossom-Park.jpg",
-      "lots": []
-    },
-    {
       "id": "sylvan-glade",
       "worldId": "willow-creek",
       "image": "/images/worlds/districts/Sylvan-Glade.jpg",

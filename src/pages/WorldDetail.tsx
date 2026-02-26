@@ -159,7 +159,7 @@ export const WorldDetail: React.FC = () => {
               <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
                 {/* Left: District Info */}
                 <div className="lg:col-span-1 space-y-4">
-                  <div className="aspect-[4/3] rounded-2xl overflow-hidden border border-white/10 bg-white/5">
+                  <div className="aspect-[3/2] rounded-2xl overflow-hidden border border-white/10 bg-white/5">
                     <SmartImage
                       src={district.image}
                       alt={district.name}
