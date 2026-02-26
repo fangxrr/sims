@@ -148,7 +148,7 @@ export const Worlds: React.FC = () => {
                   className="flex flex-col md:flex-row gap-8 items-start"
                 >
                   {/* Spotlight Image */}
-                  <div className="w-full md:w-2/3 aspect-video rounded-2xl overflow-hidden border border-white/10 shadow-2xl relative group">
+                  <div className="w-full md:w-1/2 aspect-video rounded-2xl overflow-hidden border border-white/10 shadow-2xl relative group">
                     <SmartImage
                       src={selectedWorld.image}
                       alt={selectedWorld.name}

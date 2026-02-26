@@ -61,6 +61,8 @@ const defaultFamiliesData: Record<string, Family> = {
   'pizza': createFamily({ id: 'pizza', name: 'Pizza Enthusiasts', world: 'San Myshuno', worldId: 'san-myshuno' }),
 };
 
+import generatedData from './generated';
+
 const getFamiliesData = (): Record<string, Family> => {
   try {
     const stored = localStorage.getItem('sims_data_families');
@@ -75,6 +77,16 @@ const getFamiliesData = (): Record<string, Family> => {
   } catch (e) {
     console.error('Failed to load families data from localStorage', e);
   }
+
+  // Use generated data if available
+  if (generatedData?.families?.length > 0) {
+    const result: Record<string, Family> = {};
+    generatedData.families.forEach((family: any) => {
+      result[family.id] = createFamily(family);
+    });
+    return result;
+  }
+
   return defaultFamiliesData;
 };
 

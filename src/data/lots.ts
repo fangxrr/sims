@@ -40,6 +40,8 @@ const defaultLotsData: Record<string, Lot> = {
   'desert-bloom': createLot({ id: 'desert-bloom', name: 'Desert Bloom Park', size: '50x50', type: 'Park', worldId: 'oasis-springs' }),
 };
 
+import generatedData from './generated';
+
 const getLotsData = (): Record<string, Lot> => {
   try {
     const stored = localStorage.getItem('sims_data_lots');
@@ -54,6 +56,16 @@ const getLotsData = (): Record<string, Lot> => {
   } catch (e) {
     console.error('Failed to load lots data from localStorage', e);
   }
+
+  // Use generated data if available
+  if (generatedData?.lots?.length > 0) {
+    const result: Record<string, Lot> = {};
+    generatedData.lots.forEach((lot: any) => {
+      result[lot.id] = createLot(lot);
+    });
+    return result;
+  }
+
   return defaultLotsData;
 };
 

@@ -28,6 +28,8 @@ const defaultTrackersData: CCItem[] = [
   createCCItem({ id: 'boho-bedroom-set', title: 'Boho Bedroom Set', author: 'Felixandre', type: 'Build/Buy', subtype: 'Furniture', downloadUrl: '#' }),
 ];
 
+import generatedData from './generated';
+
 const getTrackersData = (): CCItem[] => {
   try {
     const stored = localStorage.getItem('sims_data_trackers');
@@ -38,6 +40,12 @@ const getTrackersData = (): CCItem[] => {
   } catch (e) {
     console.error('Failed to load trackers data from localStorage', e);
   }
+
+  // Use generated data if available
+  if (generatedData?.trackers?.length > 0) {
+    return generatedData.trackers.map((item: any) => createCCItem(item));
+  }
+
   return defaultTrackersData;
 };
 

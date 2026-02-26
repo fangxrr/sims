@@ -20,6 +20,8 @@ const defaultFindersData: Finder[] = [
   createFinder({ id: 'lilsimsie-cc-finds', name: 'Lilsimsie CC Finds', url: 'https://lilsimsiecc.tumblr.com/' }),
 ];
 
+import generatedData from './generated';
+
 const getFindersData = (): Finder[] => {
   try {
     const stored = localStorage.getItem('sims_data_finders');
@@ -30,6 +32,12 @@ const getFindersData = (): Finder[] => {
   } catch (e) {
     console.error('Failed to load finders data from localStorage', e);
   }
+
+  // Use generated data if available
+  if (generatedData?.finders?.length > 0) {
+    return generatedData.finders.map((item: any) => createFinder(item));
+  }
+
   return defaultFindersData;
 };
 

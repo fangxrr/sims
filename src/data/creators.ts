@@ -29,6 +29,8 @@ const defaultCreatorsData: Creator[] = [
   createCreator({ id: 'lumpinou', name: 'Lumpinou', favLevel: 'A', types: ['Mods', 'Gameplay'], status: 'Active', url: 'https://patreon.com' }),
 ];
 
+import generatedData from './generated';
+
 const getCreatorsData = (): Creator[] => {
   try {
     const stored = localStorage.getItem('sims_data_creators');
@@ -39,6 +41,12 @@ const getCreatorsData = (): Creator[] => {
   } catch (e) {
     console.error('Failed to load creators data from localStorage', e);
   }
+
+  // Use generated data if available
+  if (generatedData?.creators?.length > 0) {
+    return generatedData.creators.map((item: any) => createCreator(item));
+  }
+
   return defaultCreatorsData;
 };
 

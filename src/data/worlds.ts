@@ -85,6 +85,8 @@ const defaultWorldsData: Record<string, World> = {
   }),
 };
 
+import generatedData from './generated';
+
 const getWorldsData = (): Record<string, World> => {
   try {
     const stored = localStorage.getItem('sims_data_worlds');
@@ -99,6 +101,22 @@ const getWorldsData = (): Record<string, World> => {
   } catch (e) {
     console.error('Failed to load worlds data from localStorage', e);
   }
+
+  // Use generated data if available
+  if (generatedData?.worlds?.length > 0) {
+    const result: Record<string, World> = {};
+
+    // Process worlds and mix in districts
+    generatedData.worlds.forEach((world: any) => {
+      // Find districts for this world
+      const worldDistricts = generatedData.districts?.filter((d: any) => d.worldId === world.id) || [];
+      world.districts = worldDistricts;
+      result[world.id] = createWorld(world);
+    });
+
+    return result;
+  }
+
   return defaultWorldsData;
 };
 
