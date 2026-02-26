@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Maximize2, X, ChevronLeft, ChevronRight, Grid as GridIcon } from 'lucide-react';
 import { GALLERY_DATA } from '../data/gallery';
-import { resolveAssetPath } from '../utils/assets';
+import { SmartImage } from '../components/SmartImage';
 
 export const Gallery: React.FC = () => {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
@@ -46,8 +46,8 @@ export const Gallery: React.FC = () => {
                   onClick={() => setSelectedImage(item.url)}
                   className="cursor-pointer aspect-video w-full overflow-hidden rounded-2xl bg-black/20 border border-white/5 hover:border-white/20 transition-all duration-300"
                 >
-                  <img
-                    src={resolveAssetPath(item.url)}
+                  <SmartImage
+                    src={item.url}
                     alt={`Gallery Image ${item.id}`}
                     className="w-full h-full object-cover opacity-80 hover:opacity-100 transition-opacity duration-300"
                     referrerPolicy="no-referrer"
@@ -79,17 +79,15 @@ export const Gallery: React.FC = () => {
             >
               <X size={20} />
             </button>
-            <motion.img
-              initial={{ scale: 0.9, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 0.9, opacity: 0 }}
-              transition={{ duration: 0.3, ease: "easeOut" }}
-              src={selectedImage}
-              alt="Lightbox View"
-              className="max-w-full max-h-full object-contain rounded-lg shadow-2xl"
-              referrerPolicy="no-referrer"
-              onClick={(e) => e.stopPropagation()}
-            />
+            <div className="w-full h-full flex items-center justify-center p-4">
+              <SmartImage
+                src={selectedImage}
+                alt="Lightbox View"
+                className="max-w-full max-h-full object-contain rounded-lg shadow-2xl"
+                referrerPolicy="no-referrer"
+                onClick={(e) => e.stopPropagation()}
+              />
+            </div>
           </motion.div>
         )}
       </AnimatePresence>

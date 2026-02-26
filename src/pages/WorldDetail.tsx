@@ -6,7 +6,7 @@ import { LOTS_DATA } from '../data/lots';
 import { FAMILIES_DATA } from '../data/families';
 import { WORLDS_DATA } from '../data/worlds';
 import { useDraggableScroll } from '../hooks/useDraggableScroll';
-import { resolveAssetPath } from '../utils/assets';
+import { SmartImage } from '../components/SmartImage';
 
 export const WorldDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -72,8 +72,8 @@ export const WorldDetail: React.FC = () => {
             transition={{ delay: 0.1 }}
             className="aspect-video rounded-3xl overflow-hidden border border-white/10 shadow-2xl relative group"
           >
-            <img
-              src={resolveAssetPath(world.image)}
+            <SmartImage
+              src={world.image}
               alt={world.name}
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               referrerPolicy="no-referrer"
@@ -129,8 +129,8 @@ export const WorldDetail: React.FC = () => {
                   onClick={() => navigate(`/families/${family.id}`)}
                 >
                   <div className="aspect-square rounded-2xl overflow-hidden border border-white/10 bg-white/5 relative mb-3 transition-all duration-300 group-hover:-translate-y-2 group-hover:shadow-lg group-hover:shadow-white/5">
-                    <img
-                      src={resolveAssetPath(family.image)}
+                    <SmartImage
+                      src={family.image}
                       alt={family.name}
                       className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity"
                       referrerPolicy="no-referrer"
@@ -160,8 +160,8 @@ export const WorldDetail: React.FC = () => {
                 {/* Left: District Info */}
                 <div className="lg:col-span-1 space-y-4">
                   <div className="aspect-[4/3] rounded-2xl overflow-hidden border border-white/10 bg-white/5">
-                    <img
-                      src={resolveAssetPath(district.image)}
+                    <SmartImage
+                      src={district.image}
                       alt={district.name}
                       className="w-full h-full object-cover"
                       referrerPolicy="no-referrer"
@@ -183,8 +183,8 @@ export const WorldDetail: React.FC = () => {
                         className="flex items-center gap-4 p-3 rounded-xl bg-white/5 border border-white/5 hover:bg-white/10 hover:border-white/20 transition-all cursor-pointer group"
                       >
                         <div className="w-20 h-16 rounded-lg overflow-hidden flex-shrink-0 bg-black/20">
-                          <img
-                            src={resolveAssetPath(lot.image)}
+                          <SmartImage
+                            src={lot.image}
                             alt={lot.name}
                             className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity"
                             referrerPolicy="no-referrer"

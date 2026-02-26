@@ -5,7 +5,7 @@ import { ArrowLeft, Home, MapPin, Ruler, Download, Users, DoorOpen, ExternalLink
 import { LOTS_DATA } from '../data/lots';
 import { FAMILIES_DATA } from '../data/families';
 import { WORLDS_DATA } from '../data/worlds';
-import { resolveAssetPath } from '../utils/assets';
+import { SmartImage } from '../components/SmartImage';
 
 export const LotDetail = () => {
   const { id } = useParams<{ id: string }>();
@@ -92,8 +92,8 @@ export const LotDetail = () => {
           {/* Left Column: Image */}
           <div className="lg:col-span-2 space-y-8">
             <div className="relative aspect-video bg-black/50 rounded-2xl overflow-hidden border border-white/10 group shadow-2xl">
-              <img
-                src={resolveAssetPath(lot?.image || `https://picsum.photos/seed/${id}/1200/800`)}
+              <SmartImage
+                src={lot?.image || `https://picsum.photos/seed/${id}/1200/800`}
                 alt={lot?.name || "Lot Hero"}
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.02]"
                 referrerPolicy="no-referrer"
@@ -116,8 +116,8 @@ export const LotDetail = () => {
                 onClick={() => navigate(`/families/${residentFamily.id}`)}
               >
                 <div className="aspect-square relative overflow-hidden">
-                  <img
-                    src={resolveAssetPath(residentFamily.image)}
+                  <SmartImage
+                    src={residentFamily.image}
                     alt={residentFamily.name}
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                     referrerPolicy="no-referrer"

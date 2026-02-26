@@ -2,7 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { motion } from 'motion/react';
 import { Search, ExternalLink, Compass } from 'lucide-react';
 import { FINDERS_DATA, Finder } from '../data/finders';
-import { resolveAssetPath } from '../utils/assets';
+import { SmartImage } from '../components/SmartImage';
 
 export const Finders: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState('');
@@ -91,8 +91,8 @@ export const Finders: React.FC = () => {
                   className="group flex items-center gap-4 p-4 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 hover:border-white/20 transition-all duration-300 cursor-pointer"
                 >
                   <div className="w-16 h-16 rounded-full overflow-hidden bg-white/10 shrink-0 ring-4 ring-white/5 group-hover:ring-white/20 transition duration-300">
-                    <img
-                      src={resolveAssetPath(finder.avatar)}
+                    <SmartImage
+                      src={finder.avatar}
                       alt={finder.name}
                       className="w-full h-full object-cover"
                       referrerPolicy="no-referrer"

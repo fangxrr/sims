@@ -6,7 +6,7 @@ import { FAMILIES_DATA } from '../data/families';
 import { WORLDS_DATA } from '../data/worlds';
 import { LOTS_DATA } from '../data/lots';
 import { SIMS_DATA } from '../data/sims';
-import { resolveAssetPath } from '../utils/assets';
+import { SmartImage } from '../components/SmartImage';
 
 export const FamilyDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -47,8 +47,8 @@ export const FamilyDetail: React.FC = () => {
           transition={{ duration: 0.5 }}
           className="w-full lg:w-[40%] aspect-video rounded-2xl overflow-hidden shadow-2xl border border-white/5 relative group"
         >
-          <img
-            src={resolveAssetPath(family.image)}
+          <SmartImage
+            src={family.image}
             alt={family.name}
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             referrerPolicy="no-referrer"
@@ -137,7 +137,7 @@ export const FamilyDetail: React.FC = () => {
                 onClick={() => navigate(`/sims/${member.id}`)}
               >
                 <div className="aspect-square rounded-2xl overflow-hidden border border-white/5 bg-white/5 relative mb-4 transition-all duration-300 group-hover:border-white/20 group-hover:shadow-xl group-hover:shadow-white/5">
-                  <img
+                  <SmartImage
                     src={sim.image}
                     alt={sim.name}
                     className="w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-500"
