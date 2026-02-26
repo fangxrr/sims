@@ -126,7 +126,7 @@ try {
         const lotId = normalizeId(getRowVal(row, 'lotId'));
         return {
             id: normalizeId(rawId || rawName),
-            name: rawName,
+            name: rawName || rawId,
             chineseName: getRowVal(row, 'chineseName'),
             world: getRowVal(row, 'world') || worldLookup[worldId],
             address: getRowVal(row, 'address'),
@@ -135,7 +135,7 @@ try {
             worldId,
             image: getImagePath(rawId || rawName, 'families'),
             description: getRowVal(row, 'description'),
-            sims: parseRefs(getRowVal(row, 'sims')) || []
+            members: parseRefs(getRowVal(row, 'sims')) || []
         };
     }).filter(row => row.id);
 

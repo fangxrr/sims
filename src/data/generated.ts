@@ -42,7 +42,7 @@ export default {
     {
       "id": "bellagoth",
       "familyId": "goth",
-      "name": "BellaGoth",
+      "name": "Bella Goth",
       "image": "/images/sims/BellaGoth.jpg",
       "aspiration": {},
       "skills": [],
@@ -102,7 +102,7 @@ export default {
       "worldId": "willowcreek",
       "image": "/images/families/Goth.jpg",
       "description": "The aristocrats of Willow Creek. Known for their gloomy demeanor and mysterious past, the Goths are staples of the community with secrets buried deep within their history.",
-      "sims": []
+      "members": []
     },
     {
       "id": "spencerkimlewis",
@@ -114,24 +114,26 @@ export default {
       "worldId": "willowcreek",
       "image": "/images/families/SpencerKimLewis.jpg",
       "description": "A modern blended family living in a large modern home. They represent the new generation of Willow Creek residents.",
-      "sims": []
+      "members": []
     },
     {
       "id": "pancakes",
+      "name": "Pancakes",
       "world": "Willow Creek",
       "lotId": "courtyardlane",
       "worldId": "willowcreek",
       "image": "/images/families/Pancakes.jpg",
-      "sims": []
+      "members": []
     },
     {
       "id": "bff",
+      "name": "BFF",
       "world": "Willow Creek",
       "lot": "Garden Essence",
       "lotId": "gardenessence",
       "worldId": "willowcreek",
       "image": "/images/families/BFF.jpg",
-      "sims": []
+      "members": []
     }
   ],
   "lots": [
