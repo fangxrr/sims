@@ -132,7 +132,7 @@ export const exportTemplate = () => {
   const wsGallery = XLSX.utils.json_to_sheet(galleryData);
   XLSX.utils.book_append_sheet(wb, wsGallery, 'Gallery');
 
-  XLSX.writeFile(wb, 'SimsFiles_Template.xlsx');
+  XLSX.writeFile(wb, 'data.xlsx');
 };
 
 import { SimSchema, FamilySchema, LotSchema, WorldSchema, CreatorSchema, TrackersSchema, FinderSchema, GallerySchema } from '../types/schemas';
