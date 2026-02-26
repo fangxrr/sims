@@ -13,15 +13,17 @@ export const SmartImage: React.FC<SmartImageProps> = ({
     alt = "",
     ...props
 }) => {
-    const [currentSrc, setCurrentSrc] = useState(() => resolveAssetPath(initialSrc));
+    const [currentSrc, setCurrentSrc] = useState(() => initialSrc ? resolveAssetPath(initialSrc) : '');
     const [triedExtensions, setTriedExtensions] = useState<string[]>([]);
-    const [isFailed, setIsFailed] = useState(false);
+    const [isFailed, setIsFailed] = useState(!initialSrc);
 
     // Reset when initialSrc changes
     useEffect(() => {
-        setCurrentSrc(resolveAssetPath(initialSrc));
+        setIsFailed(!initialSrc);
+        if (initialSrc) {
+            setCurrentSrc(resolveAssetPath(initialSrc));
+        }
         setTriedExtensions([]);
-        setIsFailed(false);
     }, [initialSrc]);
 
     const handleError = () => {

@@ -1,10 +1,15 @@
 export const resolveAssetPath = (url: string | undefined): string => {
     if (!url) return '';
-    // If it's an absolute path from root, prepend the Vite base URL
-    if (url.startsWith('/') && !url.startsWith(import.meta.env.BASE_URL)) {
-        const base = import.meta.env.BASE_URL;
-        const normalizedUrl = url.substring(1);
-        return `${base}${base.endsWith('/') ? '' : '/'}${normalizedUrl}`;
+
+    // If it's already a full URL or starts with the base URL, return as is
+    const base = import.meta.env.BASE_URL;
+    if (url.startsWith('http') || url.startsWith(base)) {
+        return url;
     }
-    return url;
+
+    // Normalize path: remove leading slash if present
+    const normalizedPath = url.startsWith('/') ? url.substring(1) : url;
+
+    // Prepend base URL
+    return `${base}${base.endsWith('/') ? '' : '/'}${normalizedPath}`;
 };

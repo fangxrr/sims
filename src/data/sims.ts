@@ -270,7 +270,12 @@ const getSimsData = (): Record<string, Sim> => {
   if (generatedData?.sims?.length > 0) {
     const result: Record<string, Sim> = {};
     generatedData.sims.forEach((sim: any) => {
-      result[sim.id] = createSim(sim);
+      // Basic validation to prevent runtime crashes
+      if (sim && sim.id && sim.name) {
+        result[sim.id] = createSim(sim);
+      } else {
+        console.warn('Skipping invalid sim entry:', sim);
+      }
     });
     return result;
   }

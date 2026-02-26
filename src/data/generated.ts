@@ -601,7 +601,7 @@ export default {
       "price": 0,
       "size": "50×50",
       "worldId": "willow-creek",
-      "districtId": "magnolia-blossom-park",
+      "districtId": "crawdad-quarter",
       "isDownloaded": false,
       "isBuilt": false
     },
