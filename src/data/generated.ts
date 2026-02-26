@@ -1,7 +1,7 @@
 export default {
   "sims": [
     {
-      "id": "gothmortimer",
+      "id": "mortimergoth",
       "familyId": "goth",
       "name": "Mortimer Goth",
       "chineseName": "莫蒂默·哥特",
@@ -10,7 +10,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willow-creek",
-      "image": "/images/sims/GothMortimer.jpg",
+      "image": "/images/sims/MortimerGoth.jpg",
       "career": "Writer (Author Branch)",
       "aspiration": {
         "name": "Bestselling Author"
@@ -29,6 +29,51 @@ export default {
           "level": 5
         }
       ],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
+    },
+    {
+      "id": "bellagoth",
+      "image": "/images/sims/BellaGoth.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
+    },
+    {
+      "id": "cassandragoth",
+      "image": "/images/sims/CassandraGoth.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": []
+      }
+    },
+    {
+      "id": "alexandergoth",
+      "image": "/images/sims/AlexanderGoth.jpg",
+      "aspiration": {},
+      "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],

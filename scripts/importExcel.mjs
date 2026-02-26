@@ -52,8 +52,8 @@ try {
 
     const getImagePath = (id, subfolder) => {
         if (!id) return undefined;
-        // Preserves casing for the filename part
-        const filename = String(id).trim().replace(/\s+/g, '-');
+        // Removes spaces and hyphens to match the new naming convention (e.g., WillowCreek.jpg)
+        const filename = String(id).trim().replace(/[\s-]/g, '');
         return `/images/${subfolder}/${filename}.jpg`;
     };
 
