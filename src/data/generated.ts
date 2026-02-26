@@ -9,7 +9,7 @@ export default {
       "age": "Adult",
       "maritalStatus": "Married",
       "world": "Willow Creek",
-      "worldId": "willow-creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/MortimerGoth.jpg",
       "career": "Writer (Author Branch)",
       "aspiration": {
@@ -41,6 +41,8 @@ export default {
     },
     {
       "id": "bellagoth",
+      "familyId": "goth",
+      "name": "BellaGoth",
       "image": "/images/sims/BellaGoth.jpg",
       "aspiration": {},
       "skills": [],
@@ -56,6 +58,8 @@ export default {
     },
     {
       "id": "cassandragoth",
+      "familyId": "goth",
+      "name": "Cassandra Goth",
       "image": "/images/sims/CassandraGoth.jpg",
       "aspiration": {},
       "skills": [],
@@ -71,6 +75,8 @@ export default {
     },
     {
       "id": "alexandergoth",
+      "familyId": "goth",
+      "name": "Alexander Goth",
       "image": "/images/sims/AlexanderGoth.jpg",
       "aspiration": {},
       "skills": [],
