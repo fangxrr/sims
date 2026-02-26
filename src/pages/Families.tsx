@@ -22,7 +22,9 @@ export const Families: React.FC = () => {
 
   const filteredFamilies = useMemo(() => {
     return Object.values(FAMILIES_DATA).filter(family => {
-      const matchesSearch = family.name.toLowerCase().includes(searchQuery.toLowerCase());
+      if (!family) return false;
+      const name = family.chineseName || family.name || '';
+      const matchesSearch = name.toLowerCase().includes(searchQuery.toLowerCase());
       const matchesWorld = selectedWorld ? family.world === selectedWorld : true;
       const matchesHousing = housingStatus === 'All'
         ? true
@@ -185,7 +187,7 @@ export const Families: React.FC = () => {
                   className="group cursor-pointer flex flex-col gap-3"
                 >
                   <div className="aspect-[3/2] rounded-2xl overflow-hidden border border-white/5 bg-white/5 relative transition-all duration-300 group-hover:border-white/20 group-hover:shadow-lg group-hover:shadow-white/5">
-                    <SmartImage src={family.image} alt={family.name} className="w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-500" referrerPolicy="no-referrer" />
+                    <SmartImage src={family.image} alt={family.name || family.chineseName || 'Unknown Family'} className="w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-500" referrerPolicy="no-referrer" />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                   </div>
                   <div className="px-1">

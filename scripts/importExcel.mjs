@@ -244,7 +244,12 @@ try {
     };
 
     fs.writeFileSync(outputPath, `export default ${JSON.stringify(fullData, null, 2)};`);
-    console.log(`Successfully generated src/data/generated.ts with ${simsData.length} sims, ${familiesData.length} families.`);
+    console.log(`Successfully generated src/data/generated.ts:`);
+    console.log(`- Sims: ${simsData.length}`);
+    console.log(`- Families: ${familiesData.length}`);
+    console.log(`- Lots: ${lotsData.length}`);
+    console.log(`- Worlds: ${worldsData.length}`);
+    console.log(`- Districts: ${districtsData.length}`);
 
 } catch (error) {
     console.error("Error parsing excel file:", error);
