@@ -17,16 +17,20 @@ export const Worlds: React.FC = () => {
 
   const availableSizes = useMemo(() => {
     const allSizes = new Set<string>();
-    Object.values(WORLDS_DATA).forEach(w => w.sizes?.forEach(s => allSizes.add(s)));
+    WORLDS.forEach(w => {
+      if (w.sizes && Array.isArray(w.sizes)) {
+        w.sizes.forEach(s => allSizes.add(s));
+      }
+    });
     return ['All', ...Array.from(allSizes).sort().reverse()];
-  }, []);
+  }, [WORLDS]);
 
   const selectedWorld = WORLDS.find(w => w.id === selectedWorldId) || WORLDS[0];
 
   // Filter Logic
   const filteredWorlds = selectedSize === 'All'
     ? WORLDS
-    : WORLDS.filter(world => world.sizes.includes(selectedSize));
+    : WORLDS.filter(world => world.sizes?.includes(selectedSize));
 
   const isFiltering = selectedSize !== 'All';
 

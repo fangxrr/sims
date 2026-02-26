@@ -72,8 +72,8 @@ export const WorldSchema = z.object({
     chineseName: z.string().optional(),
     description: z.string(),
     image: z.string().optional(),
-    sizes: z.array(z.string()),
-    districts: z.array(DistrictSchema),
+    sizes: z.array(z.string()).optional(),
+    districts: z.array(DistrictSchema).optional(),
 });
 
 export const LotSchema = z.object({
