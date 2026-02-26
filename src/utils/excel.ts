@@ -198,22 +198,22 @@ export const importData = async (file: File) => {
             worldId: String(getRowVal(row, 'worldId') || '').trim(),
             career: careerStr ? String(careerStr).trim() : '',
             isHomeless: homelessVal === 'TRUE' || homelessVal === true,
-            traits: traitsStr ? String(traitsStr).split(',').map((t: string) => ({ name: t.trim() })) : undefined,
+            traits: traitsStr ? String(traitsStr).split(',').map((t: string) => ({ name: t.trim() })) : [],
             aspiration: aspirationStr ? { name: String(aspirationStr).trim() } : undefined,
             skills: skillsStr ? String(skillsStr).split(',').map((s: string) => {
               const parts = s.split(':');
               if (parts.length < 2) return { name: s.trim(), level: 1 };
               const [name, level] = parts;
               return { name: name.trim(), level: parseInt(level) || 1 };
-            }) : undefined,
+            }) : [],
             relationships: {
-              spouse: getRowVal(row, 'spouseIds') ? String(getRowVal(row, 'spouseIds')).split(',').map((id: string) => ({ id: id.trim() })) : undefined,
-              lover: getRowVal(row, 'loverIds') ? String(getRowVal(row, 'loverIds')).split(',').map((id: string) => ({ id: id.trim() })) : undefined,
-              children: getRowVal(row, 'childrenIds') ? String(getRowVal(row, 'childrenIds')).split(',').map((id: string) => ({ id: id.trim() })) : undefined,
-              parents: getRowVal(row, 'parentsIds') ? String(getRowVal(row, 'parentsIds')).split(',').map((id: string) => ({ id: id.trim() })) : undefined,
-              siblings: getRowVal(row, 'siblingIds') ? String(getRowVal(row, 'siblingIds')).split(',').map((id: string) => ({ id: id.trim() })) : undefined,
-              grandparents: getRowVal(row, 'grandparentIds') ? String(getRowVal(row, 'grandparentIds')).split(',').map((id: string) => ({ id: id.trim() })) : undefined,
-              grandchildren: getRowVal(row, 'grandchildIds') ? String(getRowVal(row, 'grandchildIds')).split(',').map((id: string) => ({ id: id.trim() })) : undefined,
+              spouse: getRowVal(row, 'spouseIds') ? String(getRowVal(row, 'spouseIds')).split(',').map((id: string) => ({ id: id.trim() })) : [],
+              lover: getRowVal(row, 'loverIds') ? String(getRowVal(row, 'loverIds')).split(',').map((id: string) => ({ id: id.trim() })) : [],
+              children: getRowVal(row, 'childrenIds') ? String(getRowVal(row, 'childrenIds')).split(',').map((id: string) => ({ id: id.trim() })) : [],
+              parents: getRowVal(row, 'parentsIds') ? String(getRowVal(row, 'parentsIds')).split(',').map((id: string) => ({ id: id.trim() })) : [],
+              siblings: getRowVal(row, 'siblingIds') ? String(getRowVal(row, 'siblingIds')).split(',').map((id: string) => ({ id: id.trim() })) : [],
+              grandparents: getRowVal(row, 'grandparentIds') ? String(getRowVal(row, 'grandparentIds')).split(',').map((id: string) => ({ id: id.trim() })) : [],
+              grandchildren: getRowVal(row, 'grandchildIds') ? String(getRowVal(row, 'grandchildIds')).split(',').map((id: string) => ({ id: id.trim() })) : [],
             }
           };
 
@@ -239,7 +239,7 @@ export const importData = async (file: File) => {
             worldId: String(getRowVal(row, 'worldId') || '').trim(),
             lot: getRowVal(row, 'lot') ? String(getRowVal(row, 'lot')).trim() : undefined,
             lotId: getRowVal(row, 'lotId') ? String(getRowVal(row, 'lotId')).trim() : undefined,
-            members: getRowVal(row, 'memberIds') ? String(getRowVal(row, 'memberIds')).split(',').map((id: string) => ({ id: id.trim() })) : undefined,
+            members: getRowVal(row, 'memberIds') ? String(getRowVal(row, 'memberIds')).split(',').map((id: string) => ({ id: id.trim() })) : [],
           };
 
           const result = FamilySchema.safeParse(processedFamily);
