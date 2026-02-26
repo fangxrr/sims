@@ -6,12 +6,13 @@ import { LOTS_DATA } from '../data/lots';
 import { FAMILIES_DATA } from '../data/families';
 import { WORLDS_DATA } from '../data/worlds';
 import { useDraggableScroll } from '../hooks/useDraggableScroll';
+import { resolveAssetPath } from '../utils/assets';
 
 export const WorldDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
   const scrollRef = useDraggableScroll<HTMLDivElement>();
-  
+
   // Use specific world data or fallback to Willow Creek if ID matches, otherwise default
   // For demo purposes, we'll just use Willow Creek data if the ID is willow-creek, 
   // otherwise we'll clone it to show data for any world ID.
@@ -21,7 +22,7 @@ export const WorldDetail: React.FC = () => {
   const world = useMemo(() => {
     const worldLots = Object.values(LOTS_DATA).filter(lot => lot.worldId === baseWorld.id);
     const worldFamilies = Object.values(FAMILIES_DATA).filter(family => family.worldId === baseWorld.id);
-    
+
     // Extract unique sizes and sort them descending (e.g. 50x50, 40x30)
     const uniqueSizes = Array.from(new Set(worldLots.map(lot => lot.size)))
       .sort((a, b) => {
@@ -46,14 +47,14 @@ export const WorldDetail: React.FC = () => {
 
   return (
     <main className="relative z-10 flex flex-col items-center justify-start h-full w-full px-4 pt-20 pb-28 overflow-y-auto custom-scrollbar">
-      <motion.div 
+      <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
         className="w-full max-w-6xl space-y-16"
       >
         {/* Back Button */}
-        <button 
+        <button
           onClick={() => navigate('/worlds')}
           className="flex items-center gap-2 text-white/60 hover:text-white transition-colors group mb-4"
         >
@@ -65,14 +66,14 @@ export const WorldDetail: React.FC = () => {
 
         {/* 1. World Hero Section */}
         <section className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
-          <motion.div 
+          <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ delay: 0.1 }}
             className="aspect-video rounded-3xl overflow-hidden border border-white/10 shadow-2xl relative group"
           >
-            <img 
-              src={world.image} 
+            <img
+              src={resolveAssetPath(world.image)}
               alt={world.name}
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               referrerPolicy="no-referrer"
@@ -88,7 +89,7 @@ export const WorldDetail: React.FC = () => {
                 </span>
               ))}
             </div>
-            
+
             <div className="flex flex-wrap items-baseline gap-4 mb-2">
               <h1 className="text-5xl md:text-7xl font-black text-white tracking-tighter leading-none">
                 {world.chineseName || world.name}
@@ -99,7 +100,7 @@ export const WorldDetail: React.FC = () => {
                 </h2>
               )}
             </div>
-            
+
             <p className="text-white/70 text-lg font-light leading-relaxed max-w-md">
               {world.description}
             </p>
@@ -113,8 +114,8 @@ export const WorldDetail: React.FC = () => {
               <Users size={20} className="text-white/80" />
               <h2 className="text-xl font-semibold text-white tracking-wide">Families in this World</h2>
             </div>
-            
-            <div 
+
+            <div
               ref={scrollRef}
               className="flex gap-6 overflow-x-auto pb-6 -mx-4 px-4 no-scrollbar mask-gradient-right"
             >
@@ -128,8 +129,8 @@ export const WorldDetail: React.FC = () => {
                   onClick={() => navigate(`/families/${family.id}`)}
                 >
                   <div className="aspect-square rounded-2xl overflow-hidden border border-white/10 bg-white/5 relative mb-3 transition-all duration-300 group-hover:-translate-y-2 group-hover:shadow-lg group-hover:shadow-white/5">
-                    <img 
-                      src={family.image} 
+                    <img
+                      src={resolveAssetPath(family.image)}
                       alt={family.name}
                       className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity"
                       referrerPolicy="no-referrer"
@@ -159,8 +160,8 @@ export const WorldDetail: React.FC = () => {
                 {/* Left: District Info */}
                 <div className="lg:col-span-1 space-y-4">
                   <div className="aspect-[4/3] rounded-2xl overflow-hidden border border-white/10 bg-white/5">
-                    <img 
-                      src={district.image} 
+                    <img
+                      src={resolveAssetPath(district.image)}
                       alt={district.name}
                       className="w-full h-full object-cover"
                       referrerPolicy="no-referrer"
@@ -182,8 +183,8 @@ export const WorldDetail: React.FC = () => {
                         className="flex items-center gap-4 p-3 rounded-xl bg-white/5 border border-white/5 hover:bg-white/10 hover:border-white/20 transition-all cursor-pointer group"
                       >
                         <div className="w-20 h-16 rounded-lg overflow-hidden flex-shrink-0 bg-black/20">
-                          <img 
-                            src={lot.image} 
+                          <img
+                            src={resolveAssetPath(lot.image)}
                             alt={lot.name}
                             className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity"
                             referrerPolicy="no-referrer"

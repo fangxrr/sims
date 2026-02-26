@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { resolveAssetPath } from '../utils/assets';
 
 interface SmartImageProps extends React.ImgHTMLAttributes<HTMLImageElement> {
     src: string;
@@ -12,13 +13,13 @@ export const SmartImage: React.FC<SmartImageProps> = ({
     alt = "",
     ...props
 }) => {
-    const [currentSrc, setCurrentSrc] = useState(initialSrc);
+    const [currentSrc, setCurrentSrc] = useState(() => resolveAssetPath(initialSrc));
     const [triedExtensions, setTriedExtensions] = useState<string[]>([]);
     const [isFailed, setIsFailed] = useState(false);
 
     // Reset when initialSrc changes
     useEffect(() => {
-        setCurrentSrc(initialSrc);
+        setCurrentSrc(resolveAssetPath(initialSrc));
         setTriedExtensions([]);
         setIsFailed(false);
     }, [initialSrc]);

@@ -6,12 +6,13 @@ import { FAMILIES_DATA } from '../data/families';
 import { WORLDS_DATA } from '../data/worlds';
 import { LOTS_DATA } from '../data/lots';
 import { SIMS_DATA } from '../data/sims';
+import { resolveAssetPath } from '../utils/assets';
 
 export const FamilyDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
-  
-  const family = id && FAMILIES_DATA[id] ? FAMILIES_DATA[id] : { 
+
+  const family = id && FAMILIES_DATA[id] ? FAMILIES_DATA[id] : {
     id: id || 'unknown',
     name: id?.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ') || 'Unknown Family',
     chineseName: id?.toUpperCase() || 'UNKNOWN',
@@ -25,9 +26,9 @@ export const FamilyDetail: React.FC = () => {
 
   return (
     <main className="relative z-10 w-full h-full px-8 pt-14 pb-32 overflow-y-auto custom-scrollbar">
-      
+
       {/* Back Button */}
-      <button 
+      <button
         onClick={() => navigate('/families')}
         className="flex items-center gap-3 text-white/50 hover:text-white transition-colors group mb-8"
       >
@@ -40,14 +41,14 @@ export const FamilyDetail: React.FC = () => {
       {/* Hero Section */}
       <div className="flex flex-col lg:flex-row gap-8 mb-12">
         {/* Left: Hero Image */}
-        <motion.div 
+        <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
           className="w-full lg:w-[40%] aspect-video rounded-2xl overflow-hidden shadow-2xl border border-white/5 relative group"
         >
-          <img 
-            src={family.image} 
+          <img
+            src={resolveAssetPath(family.image)}
             alt={family.name}
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             referrerPolicy="no-referrer"
@@ -57,8 +58,8 @@ export const FamilyDetail: React.FC = () => {
 
         {/* Right: Info */}
         <div className="flex-1 flex flex-col justify-center">
-          
-          <motion.div 
+
+          <motion.div
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.2 }}
@@ -71,7 +72,7 @@ export const FamilyDetail: React.FC = () => {
               {family.name}
             </h2>
           </motion.div>
-          
+
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
@@ -82,7 +83,7 @@ export const FamilyDetail: React.FC = () => {
             </p>
 
             <div className="flex flex-wrap gap-3">
-              <button 
+              <button
                 onClick={() => navigate(`/worlds/${family.worldId}`)}
                 className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-white/80 hover:bg-white/10 hover:text-white transition-colors cursor-pointer"
               >
@@ -92,7 +93,7 @@ export const FamilyDetail: React.FC = () => {
                 </span>
               </button>
               {family.lotId ? (
-                <button 
+                <button
                   onClick={() => navigate(`/lots/${family.lotId}`)}
                   className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-white/80 hover:bg-white/10 hover:text-white transition-colors cursor-pointer"
                 >
@@ -136,8 +137,8 @@ export const FamilyDetail: React.FC = () => {
                 onClick={() => navigate(`/sims/${member.id}`)}
               >
                 <div className="aspect-square rounded-2xl overflow-hidden border border-white/5 bg-white/5 relative mb-4 transition-all duration-300 group-hover:border-white/20 group-hover:shadow-xl group-hover:shadow-white/5">
-                  <img 
-                    src={sim.image} 
+                  <img
+                    src={sim.image}
                     alt={sim.name}
                     className="w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-500"
                     referrerPolicy="no-referrer"

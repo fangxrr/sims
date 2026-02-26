@@ -1,12 +1,13 @@
 import React, { useMemo } from 'react';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { useParams, useNavigate } from 'react-router-dom';
 import { ArrowLeft, Home, MapPin, Ruler, Download, Users, DoorOpen, ExternalLink } from 'lucide-react';
 import { LOTS_DATA } from '../data/lots';
 import { FAMILIES_DATA } from '../data/families';
 import { WORLDS_DATA } from '../data/worlds';
+import { resolveAssetPath } from '../utils/assets';
 
-export const LotDetail: React.FC = () => {
+export const LotDetail = () => {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
 
@@ -21,14 +22,14 @@ export const LotDetail: React.FC = () => {
 
   return (
     <main className="relative z-10 flex flex-col items-center justify-start h-full w-full overflow-y-auto custom-scrollbar">
-      <motion.div 
+      <motion.div
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, ease: "easeOut" }}
         className="w-full max-w-5xl px-6 pt-24 pb-28 z-10 relative"
       >
         {/* Back Button */}
-        <button 
+        <button
           onClick={() => navigate(-1)}
           className="flex items-center gap-2 text-white/60 hover:text-white transition-colors group mb-8"
         >
@@ -60,7 +61,7 @@ export const LotDetail: React.FC = () => {
               {lotName}
             </h2>
             <div className="flex items-center gap-2 text-white/60">
-              <button 
+              <button
                 onClick={() => navigate(`/worlds/${lot?.worldId || 'willow-creek'}`)}
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white/5 border border-white/10 text-white/80 hover:bg-white/10 hover:text-white transition-colors cursor-pointer"
               >
@@ -73,9 +74,9 @@ export const LotDetail: React.FC = () => {
           </div>
 
           {/* Download Button */}
-          <a 
-            href={lot?.downloadUrl || "#"} 
-            target="_blank" 
+          <a
+            href={lot?.downloadUrl || "#"}
+            target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-6 py-4 rounded-2xl bg-white text-black font-bold hover:bg-white/90 transition-all hover:scale-105 active:scale-95 shadow-xl shadow-white/10"
           >
@@ -87,14 +88,14 @@ export const LotDetail: React.FC = () => {
 
         {/* Content Grid */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-          
+
           {/* Left Column: Image */}
           <div className="lg:col-span-2 space-y-8">
-            <div className="aspect-video rounded-3xl overflow-hidden border border-white/10 shadow-2xl relative group">
-              <img 
-                src={lot?.image || `https://picsum.photos/seed/${id}/1200/800`}
-                alt="Lot Hero"
-                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+            <div className="relative aspect-video bg-black/50 rounded-2xl overflow-hidden border border-white/10 group shadow-2xl">
+              <img
+                src={resolveAssetPath(lot?.image || `https://picsum.photos/seed/${id}/1200/800`)}
+                alt={lot?.name || "Lot Hero"}
+                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.02]"
                 referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 ring-1 ring-inset ring-white/10 rounded-3xl pointer-events-none"></div>
@@ -109,14 +110,14 @@ export const LotDetail: React.FC = () => {
             </h3>
 
             {residentFamily ? (
-              <motion.div 
+              <motion.div
                 whileHover={{ y: -4 }}
                 className="bg-white/5 border border-white/10 rounded-3xl overflow-hidden backdrop-blur-md group cursor-pointer"
                 onClick={() => navigate(`/families/${residentFamily.id}`)}
               >
                 <div className="aspect-square relative overflow-hidden">
-                  <img 
-                    src={residentFamily.image} 
+                  <img
+                    src={resolveAssetPath(residentFamily.image)}
                     alt={residentFamily.name}
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                     referrerPolicy="no-referrer"
