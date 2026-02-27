@@ -124,8 +124,24 @@ try {
         const rawName = getRowVal(row, 'name');
         const worldId = normalizeId(getRowVal(row, 'worldId'));
         const lotId = normalizeId(getRowVal(row, 'lotId'));
+        const id = normalizeId(rawId || rawName);
+
+        // Get sims explicitly listed in the family sheet
+        const explicitMembers = parseRefs(getRowVal(row, 'sims')) || [];
+
+        // Find sims that have this familyId in the Sims sheet
+        const implicitMembers = simsData
+            .filter(sim => sim.familyId === id)
+            .map(sim => ({ id: sim.id }));
+
+        // Merge and remove duplicates
+        const memberMap = {};
+        [...explicitMembers, ...implicitMembers].forEach(m => {
+            if (m.id) memberMap[m.id] = m;
+        });
+
         return {
-            id: normalizeId(rawId || rawName),
+            id,
             name: rawName || rawId,
             chineseName: getRowVal(row, 'chineseName'),
             world: getRowVal(row, 'world') || worldLookup[worldId],
@@ -135,7 +151,7 @@ try {
             worldId,
             image: getImagePath(rawId || rawName, 'families'),
             description: getRowVal(row, 'description'),
-            members: parseRefs(getRowVal(row, 'sims')) || []
+            members: Object.values(memberMap)
         };
     }).filter(row => row.id);
 

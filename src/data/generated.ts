@@ -102,7 +102,20 @@ export default {
       "worldId": "willowcreek",
       "image": "/images/families/Goth.jpg",
       "description": "The aristocrats of Willow Creek. Known for their gloomy demeanor and mysterious past, the Goths are staples of the community with secrets buried deep within their history.",
-      "members": []
+      "members": [
+        {
+          "id": "mortimergoth"
+        },
+        {
+          "id": "bellagoth"
+        },
+        {
+          "id": "cassandragoth"
+        },
+        {
+          "id": "alexandergoth"
+        }
+      ]
     },
     {
       "id": "spencerkimlewis",
