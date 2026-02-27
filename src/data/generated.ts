@@ -133,7 +133,8 @@ export default {
       "id": "pancakes",
       "name": "Pancakes family",
       "world": "Willow Creek",
-      "lotId": "courtyardlane",
+      "lot": "Pique Hearth",
+      "lotId": "piquehearth",
       "worldId": "willowcreek",
       "image": "/images/families/Pancakes.jpg",
       "members": []
@@ -1276,7 +1277,7 @@ export default {
     {
       "id": "futuresimlabs",
       "name": "FutureSim Labs",
-      "type": "WorkPlace",
+      "type": "SecretLot",
       "price": 0,
       "size": "50×50",
       "world": "Magnolia Promenade",
@@ -1289,7 +1290,7 @@ export default {
     {
       "id": "sixam",
       "name": "Sixam",
-      "type": "WorkPlace",
+      "type": "SecretLot",
       "price": 0,
       "size": "20×20",
       "world": "Magnolia Promenade",
@@ -1614,7 +1615,7 @@ export default {
     {
       "id": "vonhauntestate",
       "name": "Von Haunt Estate",
-      "type": "ChaletGardens",
+      "type": "SpecialLot",
       "price": 0,
       "size": "40×30",
       "world": "Windenburg",
@@ -1627,7 +1628,7 @@ export default {
     {
       "id": "ancientruins",
       "name": "Ancient Ruins",
-      "type": "AncientRuins",
+      "type": "SpecialLot",
       "price": 0,
       "size": "20×15",
       "world": "Windenburg",
@@ -1640,7 +1641,7 @@ export default {
     {
       "id": "thebluffs",
       "name": "The Bluffs",
-      "type": "IslandBluff",
+      "type": "SpecialLot",
       "price": 0,
       "size": "30×20",
       "world": "Windenburg",
@@ -2009,7 +2010,7 @@ export default {
     {
       "id": "myshunomeadows",
       "name": "Myshuno Meadows",
-      "type": "CentralPark",
+      "type": "SpecialLot",
       "price": 0,
       "size": "64×64",
       "world": "San Myshuno",
