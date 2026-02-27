@@ -2046,6 +2046,8 @@ export default {
       "type": "Residential",
       "price": 0,
       "size": "40×30",
+      "world": "Forgotten Hollow",
+      "worldId": "forgottenhollow",
       "districtId": "forgottenhollow",
       "image": "/images/lots/StraudMansion.jpg",
       "isDownloaded": false,
