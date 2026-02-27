@@ -113,6 +113,7 @@ try {
                 siblings: parseRefs(getRowVal(row, 'siblingIds') || getRowVal(row, 'siblings')),
                 grandparents: parseRefs(getRowVal(row, 'grandparentIds') || getRowVal(row, 'grandparents')),
                 grandchildren: parseRefs(getRowVal(row, 'grandchildIds') || getRowVal(row, 'grandchildren')),
+                relatives: parseRefs(getRowVal(row, 'relativesIds') || getRowVal(row, 'relatives')),
             }
         };
     }).filter(row => row.id);

@@ -57,6 +57,9 @@ const defaultSimsData: Record<string, Sim> = {
       parents: [
         { id: 'GothGunther' },
         { id: 'GothCornelia' }
+      ],
+      relatives: [
+        { id: 'CalienteNina' }
       ]
     }
   }),

@@ -36,7 +36,8 @@ export default {
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": []
+        "grandchildren": [],
+        "relatives": []
       }
     },
     {
@@ -53,7 +54,8 @@ export default {
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": []
+        "grandchildren": [],
+        "relatives": []
       }
     },
     {
@@ -70,7 +72,8 @@ export default {
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": []
+        "grandchildren": [],
+        "relatives": []
       }
     },
     {
@@ -87,7 +90,8 @@ export default {
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": []
+        "grandchildren": [],
+        "relatives": []
       }
     }
   ],
@@ -367,6 +371,106 @@ export default {
       "lotId": "wolfsbanemanor",
       "worldId": "forgottenhollow",
       "image": "/images/families/Vatore.jpg",
+      "members": []
+    },
+    {
+      "id": "hecking",
+      "name": "Hecking family",
+      "world": "Brindleton Bay",
+      "lot": "It’s A Good House",
+      "lotId": "itsagoodhouse",
+      "worldId": "brindletonbay",
+      "image": "/images/families/Hecking.jpg",
+      "members": []
+    },
+    {
+      "id": "lynx",
+      "name": "Lynx family",
+      "world": "Brindleton Bay",
+      "lot": "Catscratch Cottage",
+      "lotId": "catscratchcottage",
+      "worldId": "brindletonbay",
+      "image": "/images/families/Lynx.jpg",
+      "members": []
+    },
+    {
+      "id": "delgato",
+      "name": "Delgato family",
+      "world": "Brindleton Bay",
+      "lot": "Chateau Frise",
+      "lotId": "chateaufrise",
+      "worldId": "brindletonbay",
+      "image": "/images/families/Delgato.jpg",
+      "members": []
+    },
+    {
+      "id": "jeong",
+      "name": "Jeong family",
+      "world": "Del Sol Valley",
+      "lot": "Upland Place",
+      "lotId": "uplandplace",
+      "worldId": "delsolvalley",
+      "image": "/images/families/Jeong.jpg",
+      "members": []
+    },
+    {
+      "id": "baileymoon",
+      "name": "Bailey-Moon family",
+      "world": "Del Sol Valley",
+      "lot": "Bailey-Moon Manor",
+      "lotId": "baileymoonmanor",
+      "worldId": "delsolvalley",
+      "image": "/images/families/BaileyMoon.jpg",
+      "members": []
+    },
+    {
+      "id": "ward",
+      "name": "Ward family",
+      "world": "Del Sol Valley",
+      "lot": "The Ward Den",
+      "lotId": "thewardden",
+      "worldId": "delsolvalley",
+      "image": "/images/families/Ward.jpg",
+      "members": []
+    },
+    {
+      "id": "sigworth",
+      "name": "Sigworth family",
+      "world": "Stranger Ville",
+      "lot": "Riverside Grove",
+      "lotId": "riversidegrove",
+      "worldId": "strangerville",
+      "image": "/images/families/Sigworth.jpg",
+      "members": []
+    },
+    {
+      "id": "cahill",
+      "name": "Cahill family",
+      "world": "Stranger Ville",
+      "lot": "Old Penelope",
+      "lotId": "oldpenelope",
+      "worldId": "strangerville",
+      "image": "/images/families/Cahill.jpg",
+      "members": []
+    },
+    {
+      "id": "roswell",
+      "name": "Roswell family",
+      "world": "Stranger Ville",
+      "lot": "StrangerVille Overlook",
+      "lotId": "strangervilleoverlook",
+      "worldId": "strangerville",
+      "image": "/images/families/Roswell.jpg",
+      "members": []
+    },
+    {
+      "id": "eclecticarts",
+      "name": "Eclectic Arts household",
+      "world": "Stranger Ville",
+      "lot": "Dream Weavers Way",
+      "lotId": "dreamweaversway",
+      "worldId": "strangerville",
+      "image": "/images/families/EclecticArts.jpg",
       "members": []
     }
   ],
@@ -2104,6 +2208,665 @@ export default {
       "image": "/images/lots/FledermausBend.jpg",
       "isDownloaded": false,
       "isBuilt": false
+    },
+    {
+      "id": "pupperstonepark",
+      "name": "Pupperstone Park",
+      "type": "Park",
+      "price": 0,
+      "size": "40×30",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "sablesquare",
+      "image": "/images/lots/PupperstonePark.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "brindletonpawspital",
+      "name": "Brindleton Pawspital",
+      "type": "Vet clinic",
+      "price": 0,
+      "size": "40×30",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "sablesquare",
+      "image": "/images/lots/BrindletonPawspital.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "itsagoodhouse",
+      "name": "It’s A Good House",
+      "type": "Residential",
+      "price": 0,
+      "size": "40×40",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "sablesquare",
+      "image": "/images/lots/ItsAGoodHouse.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "domusfamiliaris",
+      "name": "Domus Familiaris",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×30",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "sablesquare",
+      "image": "/images/lots/DomusFamiliaris.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "sportingspace",
+      "name": "Sporting Space",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "sablesquare",
+      "image": "/images/lots/SportingSpace.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "clubcalico",
+      "name": "Club Calico",
+      "type": "Lounge",
+      "price": 0,
+      "size": "40×30",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "whiskermanswharf",
+      "image": "/images/lots/ClubCalico.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "saltypawssaloon",
+      "name": "Salty Paws Saloon",
+      "type": "Bar",
+      "price": 0,
+      "size": "20×15",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "whiskermanswharf",
+      "image": "/images/lots/SaltyPawsSaloon.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "catscratchcottage",
+      "name": "Catscratch Cottage",
+      "type": "Residential",
+      "price": 0,
+      "size": "20×15",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "whiskermanswharf",
+      "image": "/images/lots/CatscratchCottage.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "ragdollrefurb",
+      "name": "Ragdoll Refurb",
+      "type": "Residential",
+      "price": 0,
+      "size": "20×20",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "whiskermanswharf",
+      "image": "/images/lots/RagdollRefurb.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "tailsend",
+      "name": "Tail’s End",
+      "type": "Residential",
+      "price": 0,
+      "size": "40×30",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "whiskermanswharf",
+      "image": "/images/lots/TailsEnd.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "chateaufrise",
+      "name": "Chateau Frise",
+      "type": "Residential",
+      "price": 0,
+      "size": "40×40",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "cavaliercove",
+      "image": "/images/lots/ChateauFrise.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "bedlingtonboathouse",
+      "name": "Bedlington Boathouse",
+      "type": "Residential",
+      "price": 0,
+      "size": "20×20",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "cavaliercove",
+      "image": "/images/lots/BedlingtonBoathouse.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "houndshead",
+      "name": "Hound’s Head",
+      "type": "Residential",
+      "price": 0,
+      "size": "64×64",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "cavaliercove",
+      "image": "/images/lots/HoundsHead.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "dachshundscreek",
+      "name": "Dachshund’s Creek",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "cavaliercove",
+      "image": "/images/lots/DachshundsCreek.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "hindquarterhideaway",
+      "name": "Hindquarter Hideaway",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "cavaliercove",
+      "image": "/images/lots/HindquarterHideaway.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "deadgrassdiscoveries",
+      "name": "Deadgrass Discoveries",
+      "type": "Museum",
+      "price": 0,
+      "size": "30×30",
+      "world": "Brindleton Bay",
+      "worldId": "brindletonbay",
+      "districtId": "deadgrassisle",
+      "image": "/images/lots/DeadgrassDiscoveries.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "alammuseumofarchaeology",
+      "name": "Alam Museum of Archaeology",
+      "type": "Museum",
+      "price": 0,
+      "size": "64×64",
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "puertollamantemarketplace",
+      "image": "/images/lots/AlamMuseumofArchaeology.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "hillviewhideaway",
+      "name": "Hillview Hideaway",
+      "type": "Rental",
+      "price": 0,
+      "size": "20×15",
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "puertollamantemarketplace",
+      "image": "/images/lots/HillviewHideaway.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "selvadoradavilla",
+      "name": "Selvadorada Villa",
+      "type": "Rental",
+      "price": 0,
+      "size": "30×20",
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "puertollamantemarketplace",
+      "image": "/images/lots/SelvadoradaVilla.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "cantinaelarboldeljaguar",
+      "name": "Cantina “El Arbol del Jaguar”",
+      "type": "Bar",
+      "price": 0,
+      "size": "40×30",
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "puertollamantemarketplace",
+      "image": "/images/lots/CantinaElArboldelJaguar.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "belomisiatrailhead",
+      "name": "Belomisia Trailhead",
+      "type": "National park",
+      "price": 0,
+      "size": "40×20",
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "belomisiajungle",
+      "image": "/images/lots/BelomisiaTrailhead.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "junglebungalow",
+      "name": "Jungle Bungalow",
+      "type": "Rental",
+      "price": 0,
+      "size": "30×30",
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "belomisiajungle",
+      "image": "/images/lots/JungleBungalow.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "belomisiafieldstation",
+      "name": "Belomisia Field Station",
+      "type": "Rental",
+      "price": 0,
+      "size": "30×20",
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "belomisiajungle",
+      "image": "/images/lots/BelomisiaFieldStation.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "planecrashsite",
+      "name": "Plane Crash Site",
+      "type": "Secret Lot",
+      "price": 0,
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "belomisiajungle",
+      "image": "/images/lots/PlaneCrashSite.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "omiscanroyalbaths",
+      "name": "Omiscan Royal Baths",
+      "type": "Secret Lot",
+      "price": 0,
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "belomisiajungle",
+      "image": "/images/lots/OmiscanRoyalBaths.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "omiscangardens",
+      "name": "Omiscan Gardens",
+      "type": "Secret Lot",
+      "price": 0,
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "belomisiajungle",
+      "image": "/images/lots/OmiscanGardens.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "omiscantemple",
+      "name": "Omiscan Temple",
+      "type": "Secret Lot",
+      "price": 0,
+      "world": "Selvadorada",
+      "worldId": "selvadorada",
+      "districtId": "belomisiajungle",
+      "image": "/images/lots/OmiscanTemple.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "vacuousgreen",
+      "name": "Vacuous Green",
+      "type": "Residential",
+      "price": 0,
+      "size": "50×40",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "miragepark",
+      "image": "/images/lots/VacuousGreen.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "innercircle",
+      "name": "Inner Circle",
+      "type": "Residential",
+      "price": 0,
+      "size": "40×30",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "miragepark",
+      "image": "/images/lots/InnerCircle.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "uplandplace",
+      "name": "Upland Place",
+      "type": "Residential",
+      "price": 0,
+      "size": "40×30",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "miragepark",
+      "image": "/images/lots/UplandPlace.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "chateaupeak",
+      "name": "Chateau Peak",
+      "type": "Residential",
+      "price": 0,
+      "size": "64×64",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "thepinnacles",
+      "image": "/images/lots/ChateauPeak.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "thewardden",
+      "name": "The Ward Den",
+      "type": "Residential",
+      "price": 0,
+      "size": "50×40",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "thepinnacles",
+      "image": "/images/lots/TheWardDen.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "baileymoonmanor",
+      "name": "Bailey-Moon Manor",
+      "type": "Residential",
+      "price": 0,
+      "size": "50×40",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "thepinnacles",
+      "image": "/images/lots/BaileyMoonManor.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "orchidagogo",
+      "name": "Orchid A Go Go",
+      "type": "Lounge",
+      "price": 0,
+      "size": "30×30",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "starlightboulevard",
+      "image": "/images/lots/OrchidAGoGo.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "wardpark",
+      "name": "Ward Park",
+      "type": "National Park",
+      "price": 0,
+      "size": "20×20",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "starlightboulevard",
+      "image": "/images/lots/WardPark.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "studiopbp",
+      "name": "Studio PBP",
+      "type": "Longue",
+      "price": 0,
+      "size": "40×30",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "starlightboulevard",
+      "image": "/images/lots/StudioPBP.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "plumbobpicturesmuseum",
+      "name": "Plumbob Pictures Museum",
+      "type": "Museum",
+      "price": 0,
+      "size": "40×30",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "starlightboulevard",
+      "image": "/images/lots/PlumbobPicturesMuseum.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "pectoralfitness",
+      "name": "Pectoral Fitness",
+      "type": "Gym",
+      "price": 0,
+      "size": "30×30",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "starlightboulevard",
+      "image": "/images/lots/PectoralFitness.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "studio",
+      "name": "Studio",
+      "type": "SpecialLot",
+      "price": 0,
+      "size": "50×50",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "districtId": "starlightboulevard",
+      "image": "/images/lots/Studio.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "8bells",
+      "name": "8 Bells",
+      "type": "Bar",
+      "price": 0,
+      "size": "20×20",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "strangervilleplaza",
+      "image": "/images/lots/8Bells.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "strangervilleinformationcenter",
+      "name": "StrangerVille Information Center",
+      "type": "Library",
+      "price": 0,
+      "size": "20×20",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "strangervilleplaza",
+      "image": "/images/lots/StrangerVilleInformationCenter.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "carpophagouscorner",
+      "name": "Carpophagous Corner",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "strangervilleplaza",
+      "image": "/images/lots/CarpophagousCorner.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "slip42",
+      "name": "Slip 42",
+      "type": "Residential",
+      "price": 0,
+      "size": "20×15",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "strangervilleplaza",
+      "image": "/images/lots/Slip42.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "oldpenelope",
+      "name": "Old Penelope",
+      "type": "Residential",
+      "price": 0,
+      "size": "50×40",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "strangervilleplaza",
+      "image": "/images/lots/OldPenelope.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "riversidegrove",
+      "name": "Riverside Grove",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "strangervilleplaza",
+      "image": "/images/lots/RiversideGrove.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "cliffsidecrest",
+      "name": "Cliff Side Crest",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "shadyacres",
+      "image": "/images/lots/CliffSideCrest.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "creekcornercove",
+      "name": "Creek Corner Cove",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "shadyacres",
+      "image": "/images/lots/CreekCornerCove.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "plateauplace",
+      "name": "Plateau Place",
+      "type": "Residential",
+      "price": 0,
+      "size": "40×30",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "shadyacres",
+      "image": "/images/lots/PlateauPlace.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "dreamweaversway",
+      "name": "Dream Weavers Way",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "shadyacres",
+      "image": "/images/lots/DreamWeaversWay.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "strangervilleoverlook",
+      "name": "StrangerVille Overlook",
+      "type": "Residential",
+      "price": 0,
+      "size": "40×30",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "shadyacres",
+      "image": "/images/lots/StrangerVilleOverlook.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "thelab",
+      "name": "The ██████ Lab",
+      "type": "SpecialLot",
+      "price": 0,
+      "size": "64×64",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "districtId": "strangervilleplaza",
+      "image": "/images/lots/TheLab.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
     }
   ],
   "worlds": [
@@ -2221,14 +2984,29 @@ export default {
       "chineseName": "虎斑湾",
       "description": "探索全新的海滨区「虎斑湾」，供您的模拟市民和宠物居住生活并享受户外活动。可以在码头边玩抛接游戏，或是前往公园设置障碍训练场。",
       "image": "/images/worlds/BrindletonBay.jpg",
-      "sizes": []
+      "sizes": [
+        "64x64",
+        "40x40",
+        "40x30",
+        "30x30",
+        "30x20",
+        "20x20",
+        "20x15"
+      ]
     },
     {
       "id": "selvadorada",
       "name": "Selvadorada",
       "chineseName": "瑟瓦多拉达",
       "image": "/images/worlds/Selvadorada.jpg",
-      "sizes": []
+      "sizes": [
+        "64x64",
+        "40x30",
+        "40x20",
+        "30x30",
+        "30x20",
+        "20x15"
+      ]
     },
     {
       "id": "delsolvalley",
@@ -2236,7 +3014,14 @@ export default {
       "chineseName": "太阳谷",
       "description": "加入五光十色的太阳谷，让您的模拟市民走向多采多姿的名人之路。入住幻象公园的新人之家，或是努力跻身位于顶峰山上的豪宅生活。",
       "image": "/images/worlds/DelSolValley.jpg",
-      "sizes": []
+      "sizes": [
+        "64x64",
+        "50x50",
+        "50x40",
+        "40x30",
+        "30x30",
+        "20x20"
+      ]
     },
     {
       "id": "strangerville",
@@ -2244,7 +3029,14 @@ export default {
       "chineseName": "诡奇小镇",
       "description": "欢迎光临诡奇小镇：「唯一比人还奇怪的就是植物！」诡奇小镇是个宁静的小镇，但有个怪异的问题。这里的居民非常友善，但到了晚上状况就会开始变得有趣。如果你想更了解这个城镇，你可以到当地酒吧寻找聚在那里的军事人员，去当地的图书馆找正在做研究的科学家，在拖车园区旁的珍奇异品店摊位则绝对会有些怪异的小东西供你发掘。",
       "image": "/images/worlds/StrangerVille.jpg",
-      "sizes": []
+      "sizes": [
+        "64x64",
+        "50x40",
+        "40x30",
+        "30x20",
+        "20x20",
+        "20x15"
+      ]
     },
     {
       "id": "sulani",
@@ -2609,6 +3401,83 @@ export default {
       "worldId": "forgottenhollow",
       "name": "遗忘山谷",
       "image": "/images/worlds/districts/ForgottenHollow.jpg",
+      "lots": []
+    },
+    {
+      "id": "sablesquare",
+      "worldId": "brindletonbay",
+      "name": "黑貂广场",
+      "image": "/images/worlds/districts/SableSquare.jpg",
+      "lots": []
+    },
+    {
+      "id": "whiskermanswharf",
+      "worldId": "brindletonbay",
+      "name": "威斯克曼码头",
+      "image": "/images/worlds/districts/WhiskermansWharf.jpg",
+      "lots": []
+    },
+    {
+      "id": "cavaliercove",
+      "worldId": "brindletonbay",
+      "name": "骑士海湾",
+      "image": "/images/worlds/districts/CavalierCove.jpg",
+      "lots": []
+    },
+    {
+      "id": "deadgrassisle",
+      "worldId": "brindletonbay",
+      "name": "死草小岛",
+      "image": "/images/worlds/districts/DeadgrassIsle.jpg",
+      "lots": []
+    },
+    {
+      "id": "puertollamantemarketplace",
+      "worldId": "selvadorada",
+      "name": "波多拉玛提市场",
+      "image": "/images/worlds/districts/PuertoLlamanteMarketplace.jpg",
+      "lots": []
+    },
+    {
+      "id": "belomisiajungle",
+      "worldId": "selvadorada",
+      "name": "贝洛米希亚丛林",
+      "image": "/images/worlds/districts/BelomisiaJungle.jpg",
+      "lots": []
+    },
+    {
+      "id": "miragepark",
+      "worldId": "delsolvalley",
+      "name": "幻象公园",
+      "image": "/images/worlds/districts/MiragePark.jpg",
+      "lots": []
+    },
+    {
+      "id": "thepinnacles",
+      "worldId": "delsolvalley",
+      "name": "顶峰山",
+      "image": "/images/worlds/districts/ThePinnacles.jpg",
+      "lots": []
+    },
+    {
+      "id": "starlightboulevard",
+      "worldId": "delsolvalley",
+      "name": "星光大道",
+      "image": "/images/worlds/districts/StarlightBoulevard.jpg",
+      "lots": []
+    },
+    {
+      "id": "strangervilleplaza",
+      "worldId": "strangerville",
+      "name": "诡奇小镇广场",
+      "image": "/images/worlds/districts/StrangerVillePlaza.jpg",
+      "lots": []
+    },
+    {
+      "id": "shadyacres",
+      "worldId": "strangerville",
+      "name": "林荫天地",
+      "image": "/images/worlds/districts/ShadyAcres.jpg",
       "lots": []
     }
   ],

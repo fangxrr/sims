@@ -196,10 +196,22 @@ export const SimDetail: React.FC = () => {
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                         {Object.entries(sim.relationships).map(([type, rels]) => {
                           if (!rels || !Array.isArray(rels)) return null;
+
+                          const labelMap: Record<string, string> = {
+                            spouse: 'Spouse / 配偶',
+                            lover: 'Lover / 恋人',
+                            children: 'Children / 子女',
+                            parents: 'Parents / 父母',
+                            siblings: 'Siblings / 兄弟姐妹',
+                            grandparents: 'Grandparents / 祖父母',
+                            grandchildren: 'Grandchildren / 孙子女',
+                            relatives: 'Relatives / 亲属'
+                          };
+
                           return (rels as { id: string }[]).map(rel => {
                             const relSim = SIMS_DATA[rel.id];
                             if (!relSim) return null;
-                            const label = type.charAt(0).toUpperCase() + type.slice(1);
+                            const label = labelMap[type] || (type.charAt(0).toUpperCase() + type.slice(1));
                             return (
                               <div key={`${type}-${rel.id}`} className="bg-white/5 border border-white/10 rounded-xl p-3 cursor-pointer hover:bg-white/10 transition-colors flex items-center justify-between gap-3" onClick={() => navigate(`/sims/${rel.id}`)}>
                                 <div className="flex flex-col gap-1 min-w-0">

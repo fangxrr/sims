@@ -39,6 +39,7 @@ export const SimSchema = z.object({
         siblings: z.array(RelationshipSchema).optional(),
         grandparents: z.array(RelationshipSchema).optional(),
         grandchildren: z.array(RelationshipSchema).optional(),
+        relatives: z.array(RelationshipSchema).optional(),
     }).optional(),
 });
 
