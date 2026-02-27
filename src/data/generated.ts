@@ -348,6 +348,26 @@ export default {
       "worldId": "sanmyshuno",
       "image": "/images/families/Rasoya.jpg",
       "members": []
+    },
+    {
+      "id": "straud",
+      "name": "Straud family",
+      "world": "Forgotten Hollow",
+      "lot": "Straud Mansion",
+      "lotId": "straudmansion",
+      "worldId": "forgottenhollow",
+      "image": "/images/families/Straud.jpg",
+      "members": []
+    },
+    {
+      "id": "vatore",
+      "name": "Vatore family",
+      "world": "Forgotten Hollow",
+      "lot": "Wolfsbane Manor",
+      "lotId": "wolfsbanemanor",
+      "worldId": "forgottenhollow",
+      "image": "/images/families/Vatore.jpg",
+      "members": []
     }
   ],
   "lots": [
@@ -2019,6 +2039,69 @@ export default {
       "image": "/images/lots/MyshunoMeadows.jpg",
       "isDownloaded": false,
       "isBuilt": false
+    },
+    {
+      "id": "straudmansion",
+      "name": "Straud Mansion",
+      "type": "Residential",
+      "price": 0,
+      "size": "40×30",
+      "districtId": "forgottenhollow",
+      "image": "/images/lots/StraudMansion.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "wolfsbanemanor",
+      "name": "Wolfsbane Manor",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×30",
+      "world": "Forgotten Hollow",
+      "worldId": "forgottenhollow",
+      "districtId": "forgottenhollow",
+      "image": "/images/lots/WolfsbaneManor.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "garliclauterplace",
+      "name": "Garliclauter Place",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Forgotten Hollow",
+      "worldId": "forgottenhollow",
+      "districtId": "forgottenhollow",
+      "image": "/images/lots/GarliclauterPlace.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "widowshildtownhome",
+      "name": "Widowshild Townhome",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Forgotten Hollow",
+      "worldId": "forgottenhollow",
+      "districtId": "forgottenhollow",
+      "image": "/images/lots/WidowshildTownhome.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "fledermausbend",
+      "name": "Fledermaus Bend",
+      "type": "Residential",
+      "price": 0,
+      "size": "20×20",
+      "world": "Forgotten Hollow",
+      "worldId": "forgottenhollow",
+      "districtId": "forgottenhollow",
+      "image": "/images/lots/FledermausBend.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
     }
   ],
   "worlds": [
@@ -2123,7 +2206,12 @@ export default {
       "chineseName": "遗忘山谷",
       "description": "「遗忘山谷」的城镇历经四代以来，始终没有任何改变。城镇建立不久后，所有元老创建者随即消失无踪，唯独弗拉德劳斯．斯特劳除外。他的曾孙弗拉德劳斯．斯特劳四世，至今仍守护着这座城镇。",
       "image": "/images/worlds/ForgottenHollow.jpg",
-      "sizes": []
+      "sizes": [
+        "40x30",
+        "30x30",
+        "30x20",
+        "20x20"
+      ]
     },
     {
       "id": "brindletonbay",
@@ -2489,25 +2577,36 @@ export default {
     {
       "id": "spicemarket",
       "worldId": "sanmyshuno",
+      "name": "香料市场",
       "image": "/images/worlds/districts/SpiceMarket.jpg",
       "lots": []
     },
     {
       "id": "artsquarter",
       "worldId": "sanmyshuno",
+      "name": "艺术区",
       "image": "/images/worlds/districts/ArtsQuarter.jpg",
       "lots": []
     },
     {
       "id": "fashiondistrict",
       "worldId": "sanmyshuno",
+      "name": "时尚区",
       "image": "/images/worlds/districts/FashionDistrict.jpg",
       "lots": []
     },
     {
       "id": "uptown",
       "worldId": "sanmyshuno",
+      "name": "上城区",
       "image": "/images/worlds/districts/Uptown.jpg",
+      "lots": []
+    },
+    {
+      "id": "forgottenhollow",
+      "worldId": "forgottenhollow",
+      "name": "遗忘山谷",
+      "image": "/images/worlds/districts/ForgottenHollow.jpg",
       "lots": []
     }
   ],
