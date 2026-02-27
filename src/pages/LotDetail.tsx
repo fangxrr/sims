@@ -14,10 +14,10 @@ export const LotDetail = () => {
   const lot = id ? LOTS_DATA[id] : null;
   const lotName = lot?.name || id?.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
 
-  // Find if any family lives in this lot
-  const residentFamily = useMemo(() => {
-    if (!id) return null;
-    return Object.values(FAMILIES_DATA).find(family => family.lotId === id);
+  // Find if any families live in this lot
+  const residentFamilies = useMemo(() => {
+    if (!id) return [];
+    return Object.values(FAMILIES_DATA).filter(family => family.lotId === id);
   }, [id]);
 
   return (
@@ -102,40 +102,45 @@ export const LotDetail = () => {
             </div>
           </div>
 
-          {/* Right Column: Resident Family */}
+          {/* Right Column: Resident Families */}
           <div className="space-y-6">
             <h3 className="text-sm font-semibold text-white/50 uppercase tracking-widest flex items-center gap-2">
               <Users size={16} />
-              Current Residents
+              Current Residents ({residentFamilies.length})
             </h3>
 
-            {residentFamily ? (
-              <motion.div
-                whileHover={{ y: -4 }}
-                className="bg-white/5 border border-white/10 rounded-3xl overflow-hidden backdrop-blur-md group cursor-pointer"
-                onClick={() => navigate(`/families/${residentFamily.id}`)}
-              >
-                <div className="aspect-square relative overflow-hidden">
-                  <SmartImage
-                    src={residentFamily.image}
-                    alt={residentFamily.name}
-                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                    referrerPolicy="no-referrer"
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-t from-[#1a1c20] to-transparent opacity-80"></div>
-                  <div className="absolute bottom-0 left-0 p-6 w-full">
-                    <span className="px-2 py-1 rounded bg-white/20 backdrop-blur-md border border-white/20 text-[10px] uppercase tracking-widest text-white mb-2 inline-block">
-                      Occupied
-                    </span>
-                    <h4 className="text-2xl font-bold text-white tracking-tight">
-                      {residentFamily.chineseName || residentFamily.name}
-                    </h4>
-                    <p className="text-sm text-white/60 mt-1">
-                      {residentFamily.members?.length || 0} Household Members
-                    </p>
-                  </div>
-                </div>
-              </motion.div>
+            {residentFamilies.length > 0 ? (
+              <div className="flex flex-col gap-4">
+                {residentFamilies.map((family) => (
+                  <motion.div
+                    key={family.id}
+                    whileHover={{ y: -4 }}
+                    className="bg-white/5 border border-white/10 rounded-3xl overflow-hidden backdrop-blur-md group cursor-pointer"
+                    onClick={() => navigate(`/families/${family.id}`)}
+                  >
+                    <div className="aspect-[2/1] relative overflow-hidden">
+                      <SmartImage
+                        src={family.image}
+                        alt={family.name}
+                        className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                        referrerPolicy="no-referrer"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-[#1a1c20] to-transparent opacity-80"></div>
+                      <div className="absolute bottom-0 left-0 p-4 w-full">
+                        <span className="px-2 py-0.5 rounded bg-white/20 backdrop-blur-md border border-white/20 text-[8px] uppercase tracking-widest text-white mb-1 inline-block">
+                          Occupied
+                        </span>
+                        <h4 className="text-lg font-bold text-white tracking-tight">
+                          {family.chineseName || family.name}
+                        </h4>
+                        <p className="text-[10px] text-white/60">
+                          {family.members?.length || 0} Household Members
+                        </p>
+                      </div>
+                    </div>
+                  </motion.div>
+                ))}
+              </div>
             ) : (
               <div className="bg-white/5 border border-white/10 rounded-3xl p-8 backdrop-blur-md flex flex-col items-center justify-center text-center h-[300px]">
                 <div className="w-16 h-16 rounded-full bg-white/5 border border-white/10 flex items-center justify-center mb-4">
