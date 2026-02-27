@@ -139,6 +139,11 @@ export const WorldDetail: React.FC = () => {
                   <h3 className="text-sm font-medium text-white/90 text-center group-hover:text-white transition-colors">
                     {family.chineseName || family.name}
                   </h3>
+                  {family.lotId && (
+                    <div className="text-[10px] text-white/40 text-center mt-1 font-mono uppercase tracking-wider">
+                      {family.lotId}
+                    </div>
+                  )}
                 </motion.div>
               ))}
             </div>
