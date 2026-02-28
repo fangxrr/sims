@@ -106,7 +106,7 @@ export const LotDetail = () => {
           <div className="space-y-6">
             <h3 className="text-sm font-semibold text-white/50 uppercase tracking-widest flex items-center gap-2">
               <Users size={16} />
-              Current Residents ({residentFamilies.length})
+              Current Residents
             </h3>
 
             {residentFamilies.length > 0 ? (
@@ -118,7 +118,7 @@ export const LotDetail = () => {
                     className="bg-white/5 border border-white/10 rounded-3xl overflow-hidden backdrop-blur-md group cursor-pointer"
                     onClick={() => navigate(`/families/${family.id}`)}
                   >
-                    <div className="aspect-[2/1] relative overflow-hidden">
+                    <div className="aspect-[3/2] relative overflow-hidden">
                       <SmartImage
                         src={family.image}
                         alt={family.name}
