@@ -21,7 +21,10 @@ export const LotsOverview: React.FC = () => {
   const filterOptions = useMemo(() => {
     const lots = Object.values(LOTS_DATA);
     const sizes = Array.from(new Set(lots.map(l => l.size))).filter(Boolean).sort();
-    const types = Array.from(new Set(lots.map(l => l.type))).filter(Boolean).sort();
+    const types = Array.from(new Set(lots.flatMap(l => l.type?.split(/[,，]\s*/) || [])))
+      .map(t => t.trim())
+      .filter(Boolean)
+      .sort();
     return { sizes, types };
   }, []);
 
@@ -42,7 +45,10 @@ export const LotsOverview: React.FC = () => {
     return Object.values(LOTS_DATA).filter(lot => {
       const matchesSearch = lot.name.toLowerCase().includes(searchQuery.toLowerCase());
       const matchesSize = selectedSize ? lot.size === selectedSize : true;
-      const matchesType = selectedTypes.length > 0 ? selectedTypes.includes(lot.type) : true;
+      const lotTypes = lot.type?.split(/[,，]\s*/).map(t => t.trim()) || [];
+      const matchesType = selectedTypes.length > 0
+        ? selectedTypes.some(type => lotTypes.includes(type))
+        : true;
       const matchesBuilt = builtStatus === 'All'
         ? true
         : builtStatus === 'Built'
@@ -299,8 +305,10 @@ export const LotsOverview: React.FC = () => {
                         <span className="capitalize">{WORLDS_DATA[lot.worldId]?.chineseName || lot.worldId.replace(/-/g, ' ')}</span>
                       </div>
                       <span className="w-0.5 h-0.5 rounded-full bg-white/20"></span>
-                      <div className="flex items-center gap-1 text-[10px] text-white/40 uppercase tracking-wider font-medium">
-                        <span>{lot.type}</span>
+                      <div className="flex items-center gap-1 text-[10px] text-white/40 uppercase tracking-wider font-medium overflow-hidden">
+                        {(lot.type || 'Residential').split(/[,，]\s*/).map((type, idx) => (
+                          <span key={idx} className="shrink-0">{type.trim()}{idx < (lot.type || 'Residential').split(/[,，]\s*/).length - 1 ? ' • ' : ''}</span>
+                        ))}
                       </div>
                     </div>
                   </div>

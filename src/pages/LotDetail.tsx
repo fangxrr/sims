@@ -42,10 +42,12 @@ export const LotDetail = () => {
         {/* Header Section */}
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
           <div>
-            <div className="flex items-center gap-3 mb-4">
-              <span className="px-3 py-1 rounded-full bg-white/5 backdrop-blur-md border border-white/10 text-[10px] uppercase tracking-widest text-white/70">
-                {lot?.type || 'Residential'}
-              </span>
+            <div className="flex items-center gap-2 mb-4">
+              {(lot?.type || 'Residential').split(/[,，]\s*/).map((type, idx) => (
+                <span key={idx} className="px-3 py-1 rounded-full bg-white/5 backdrop-blur-md border border-white/10 text-[10px] uppercase tracking-widest text-white/70">
+                  {type.trim()}
+                </span>
+              ))}
               <span className="px-3 py-1 rounded-full bg-white/5 backdrop-blur-md border border-white/10 text-[10px] uppercase tracking-widest text-white/70 flex items-center gap-1">
                 <Ruler size={10} />
                 {lot?.size || '30x20'}

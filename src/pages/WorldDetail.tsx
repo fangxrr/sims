@@ -194,8 +194,10 @@ export const WorldDetail: React.FC = () => {
                           <h4 className="text-sm font-medium text-white/90 group-hover:text-white transition-colors">
                             {lot.chineseName || lot.name}
                           </h4>
-                          <div className="flex items-center gap-2 mt-1">
-                            <span className="text-[10px] text-white/40 uppercase tracking-wider">{lot.type || 'Residential'}</span>
+                          <div className="flex flex-wrap items-center gap-1.5 mt-1">
+                            {(lot.type || 'Residential').split(/[,，]\s*/).map((type, idx) => (
+                              <span key={idx} className="text-[10px] text-white/40 uppercase tracking-wider">{type.trim()}</span>
+                            ))}
                             {lot.size && (
                               <span className="text-[10px] text-white/40 font-mono bg-white/5 px-1.5 py-0.5 rounded border border-white/5">
                                 {lot.size}
