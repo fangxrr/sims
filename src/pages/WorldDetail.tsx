@@ -8,6 +8,10 @@ import { WORLDS_DATA } from '../data/worlds';
 import { useDraggableScroll } from '../hooks/useDraggableScroll';
 import { SmartImage } from '../components/SmartImage';
 
+const SIZE_ORDER = [
+  '64x64', '50x50', '50x40', '40x40', '40x30', '40x20', '30x30', '30x20', '20x20', '20x15', '15x10'
+];
+
 export const WorldDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
@@ -23,9 +27,17 @@ export const WorldDetail: React.FC = () => {
     const worldLots = Object.values(LOTS_DATA).filter(lot => lot.worldId === baseWorld.id);
     const worldFamilies = Object.values(FAMILIES_DATA).filter(family => family.worldId === baseWorld.id);
 
-    // Extract unique sizes and sort them descending (e.g. 50x50, 40x30)
+    // Extract unique sizes, filter out blanks, and sort by predefined order or fallback to area
     const uniqueSizes = Array.from(new Set(worldLots.map(lot => lot.size)))
+      .filter((size): size is string => Boolean(size && size.trim() !== ''))
       .sort((a, b) => {
+        const aIndex = SIZE_ORDER.indexOf(a);
+        const bIndex = SIZE_ORDER.indexOf(b);
+
+        if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex;
+        if (aIndex !== -1) return -1;
+        if (bIndex !== -1) return 1;
+
         const aArea = parseInt(a.split('x')[0]) * parseInt(a.split('x')[1]);
         const bArea = parseInt(b.split('x')[0]) * parseInt(b.split('x')[1]);
         return bArea - aArea;
@@ -39,7 +51,7 @@ export const WorldDetail: React.FC = () => {
 
     return {
       ...baseWorld,
-      sizes: uniqueSizes.length > 0 ? uniqueSizes : ['Unknown'],
+      sizes: uniqueSizes,
       families: worldFamilies,
       districts: populatedDistricts
     };
@@ -82,13 +94,15 @@ export const WorldDetail: React.FC = () => {
           </motion.div>
 
           <div className="flex flex-col justify-center space-y-6">
-            <div className="flex flex-wrap items-center gap-2">
-              {world.sizes?.map((size: string) => (
-                <span key={size} className="px-3 py-1 rounded-full border border-white/20 text-[10px] font-mono text-white/70 bg-white/5 backdrop-blur-sm">
-                  {size}
-                </span>
-              ))}
-            </div>
+            {world.sizes && world.sizes.length > 0 && (
+              <div className="flex flex-wrap items-center gap-2">
+                {world.sizes.map((size: string) => (
+                  <span key={size} className="px-3 py-1 rounded-full border border-white/20 text-[10px] font-mono text-white/70 bg-white/5 backdrop-blur-sm">
+                    {size}
+                  </span>
+                ))}
+              </div>
+            )}
 
             <div className="flex flex-wrap items-baseline gap-4 mb-2">
               <h1 className="text-5xl md:text-7xl font-black text-white tracking-tighter leading-none">
