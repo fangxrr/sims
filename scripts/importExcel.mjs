@@ -101,6 +101,7 @@ try {
             image: getImagePath(rawId || rawName, 'sims'),
             career: getRowVal(row, 'career'),
             aspiration: { name: getRowVal(row, 'aspiration') },
+            traits: parseArray(getRowVal(row, 'traits'))?.map(t => ({ name: t.trim() })) || [],
             skills: parseArray(getRowVal(row, 'skills'))?.map(s => {
                 const parts = s.split(':');
                 return { name: parts[0]?.trim(), level: parseInt(parts[1]?.trim() || '1') };

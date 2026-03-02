@@ -15,6 +15,7 @@ export default {
       "aspiration": {
         "name": "Bestselling Author"
       },
+      "traits": [],
       "skills": [
         {
           "name": "Writing",
@@ -47,6 +48,7 @@ export default {
       "chineseName": "高斯·贝拉",
       "image": "/images/sims/GothBella.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -66,6 +68,7 @@ export default {
       "chineseName": "高斯·卡珊多拉",
       "image": "/images/sims/GothCassandra.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -85,6 +88,7 @@ export default {
       "chineseName": "高斯·亚历山大",
       "image": "/images/sims/GothAlexander.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -104,6 +108,7 @@ export default {
       "chineseName": "金·丹尼斯",
       "image": "/images/sims/KimDennis.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -123,6 +128,7 @@ export default {
       "chineseName": "路易斯·薇薇安",
       "image": "/images/sims/LewisVivian.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -142,6 +148,7 @@ export default {
       "chineseName": "斯宾塞·金·艾莉丝",
       "image": "/images/sims/KimSpencerAlice.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -161,6 +168,7 @@ export default {
       "chineseName": "路易斯·埃瑞克",
       "image": "/images/sims/LewisEric.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -180,6 +188,7 @@ export default {
       "chineseName": "路易斯·金·奥莉维亚",
       "image": "/images/sims/LewisKimOlivia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -199,6 +208,7 @@ export default {
       "chineseName": "潘克斯·鲍伯",
       "image": "/images/sims/PancakesBob.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -218,6 +228,7 @@ export default {
       "chineseName": "潘克斯·伊莱莎",
       "image": "/images/sims/PancakesEliza.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -237,6 +248,7 @@ export default {
       "chineseName": "李·莉柏缇",
       "image": "/images/sims/LeeLiberty.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -256,6 +268,7 @@ export default {
       "chineseName": "霍利迪·桑默",
       "image": "/images/sims/HolidaySummer.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -275,6 +288,7 @@ export default {
       "chineseName": "斯科特·崔维斯",
       "image": "/images/sims/ScottTravis.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -294,6 +308,7 @@ export default {
       "chineseName": "杰斯·强尼",
       "image": "/images/sims/ZestJohnny.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -313,6 +328,7 @@ export default {
       "chineseName": "帕托·柔依",
       "image": "/images/sims/PatelZoe.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -332,6 +348,7 @@ export default {
       "chineseName": "卡拉尼·米切尔",
       "image": "/images/sims/KalaniMitchell.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -351,6 +368,7 @@ export default {
       "chineseName": "亨廷顿三世·杰",
       "image": "/images/sims/HuntingtonIIIJ.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -370,6 +388,7 @@ export default {
       "chineseName": "理查·盖文",
       "image": "/images/sims/RichardsGavin.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -389,6 +408,7 @@ export default {
       "chineseName": "卡林恩特·卡崔娜",
       "image": "/images/sims/CalienteKatrina.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -408,6 +428,7 @@ export default {
       "chineseName": "卡林恩特·迪娜",
       "image": "/images/sims/CalienteDina.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -427,6 +448,7 @@ export default {
       "chineseName": "卡林恩特·妮娜",
       "image": "/images/sims/CalienteNina.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -446,6 +468,7 @@ export default {
       "chineseName": "罗塔里欧·唐恩",
       "image": "/images/sims/LotharioDon.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -465,6 +488,7 @@ export default {
       "chineseName": "朗德古拉伯·杰弗瑞",
       "image": "/images/sims/LandgraabGeoffrey.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -484,6 +508,7 @@ export default {
       "chineseName": "朗德古拉伯·南茜",
       "image": "/images/sims/LandgraabNancy.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -503,6 +528,7 @@ export default {
       "chineseName": "朗德古拉伯·马尔科姆",
       "image": "/images/sims/LandgraabMalcolm.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -522,6 +548,7 @@ export default {
       "chineseName": "哈斯·艾克",
       "image": "/images/sims/HaasMaaike.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -541,6 +568,7 @@ export default {
       "chineseName": "浮士德·乌里克",
       "image": "/images/sims/FaustUlrike.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -560,6 +588,7 @@ export default {
       "chineseName": "菲尔斯·多米尼克",
       "image": "/images/sims/FyresDominic.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -579,6 +608,7 @@ export default {
       "chineseName": "菲尔斯·莫拉",
       "image": "/images/sims/FyresMoira.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -598,6 +628,7 @@ export default {
       "chineseName": "菲尔斯·西沃恩",
       "image": "/images/sims/FyresSiobhan.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -617,6 +648,7 @@ export default {
       "chineseName": "菲尔斯·摩根",
       "image": "/images/sims/FyresMorgan.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -636,6 +668,7 @@ export default {
       "chineseName": "大嚼客·蜜拉",
       "image": "/images/sims/MunchMila.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -655,6 +688,7 @@ export default {
       "chineseName": "大嚼客·甘瑟",
       "image": "/images/sims/MunchGunther.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -674,6 +708,7 @@ export default {
       "chineseName": "大嚼客·沃夫冈",
       "image": "/images/sims/MunchWolfgang.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -693,6 +728,7 @@ export default {
       "chineseName": "大嚼客·卢卡斯",
       "image": "/images/sims/MunchLucas.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -712,6 +748,7 @@ export default {
       "chineseName": "维拉尔·雅克",
       "image": "/images/sims/VillarealJacques.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -731,6 +768,7 @@ export default {
       "chineseName": "维拉尔·卢娜",
       "image": "/images/sims/VillarealLuna.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -750,6 +788,7 @@ export default {
       "chineseName": "维拉尔·雨果",
       "image": "/images/sims/VillarealHugo.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -769,6 +808,7 @@ export default {
       "chineseName": "维拉尔·马克斯",
       "image": "/images/sims/VillarealMax.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -788,6 +828,7 @@ export default {
       "chineseName": "比耶格森·比约恩",
       "image": "/images/sims/BjergsenBjorn.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -807,6 +848,7 @@ export default {
       "chineseName": "比耶格森·克莱拉",
       "image": "/images/sims/BjergsenClara.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -826,6 +868,7 @@ export default {
       "chineseName": "比耶格森·索菲亚",
       "image": "/images/sims/BjergsenSofia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -845,6 +888,7 @@ export default {
       "chineseName": "比耶格森·艾莎",
       "image": "/images/sims/BjergsenElsa.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -864,6 +908,7 @@ export default {
       "chineseName": "勒千·瓦昆",
       "image": "/images/sims/LeChienJoaquin.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -883,6 +928,7 @@ export default {
       "chineseName": "罗密欧·瑟吉欧",
       "image": "/images/sims/RomeoSergio.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -902,6 +948,7 @@ export default {
       "chineseName": "贝洱·小雪",
       "image": "/images/sims/BehrYuki.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -921,6 +968,7 @@ export default {
       "chineseName": "贝洱·坎蒂",
       "image": "/images/sims/BehrCandy.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -940,6 +988,7 @@ export default {
       "chineseName": "卡布里乔莎·伊娃",
       "image": "/images/sims/CapricciosaEva.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -959,6 +1008,7 @@ export default {
       "chineseName": "罗莎·碧玉",
       "image": "/images/sims/RosaJade.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -978,6 +1028,7 @@ export default {
       "chineseName": "弗克斯·马库斯",
       "image": "/images/sims/FlexMarcus.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -997,6 +1048,7 @@ export default {
       "chineseName": "洛卡·保禄",
       "image": "/images/sims/RoccaPaolo.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1016,6 +1068,7 @@ export default {
       "chineseName": "瑞索亚·拉吉",
       "image": "/images/sims/RasoyaRaj.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1035,6 +1088,7 @@ export default {
       "chineseName": "瑞索亚·吉塔",
       "image": "/images/sims/RasoyaGeeta.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1054,6 +1108,7 @@ export default {
       "chineseName": "比达·阿伦",
       "image": "/images/sims/BheedaArun.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1073,6 +1128,7 @@ export default {
       "chineseName": "比达·洁敏德",
       "image": "/images/sims/BheedaJesminder.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1092,6 +1148,7 @@ export default {
       "chineseName": "芬恩·莉丽",
       "image": "/images/sims/FengLily.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1111,6 +1168,7 @@ export default {
       "chineseName": "芬恩·维克多",
       "image": "/images/sims/FengVictor.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1130,6 +1188,7 @@ export default {
       "chineseName": "罗保·迪亚戈",
       "image": "/images/sims/LoboDiego.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1149,6 +1208,7 @@ export default {
       "chineseName": "比萨兹·佩妮",
       "image": "/images/sims/PizzazzPenny.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1168,6 +1228,7 @@ export default {
       "chineseName": "基博·亮",
       "image": "/images/sims/KiboAkira.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1187,6 +1248,7 @@ export default {
       "chineseName": "奥祖·米可",
       "image": "/images/sims/OjoMiko.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1206,6 +1268,7 @@ export default {
       "chineseName": "沃尔什·达林",
       "image": "/images/sims/WalshDarling.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1225,6 +1288,7 @@ export default {
       "chineseName": "詹·安娜亚",
       "image": "/images/sims/JangAnaya.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1244,6 +1308,7 @@ export default {
       "chineseName": "詹·巴科",
       "image": "/images/sims/JangBaako.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1263,6 +1328,7 @@ export default {
       "chineseName": "詹·比莉",
       "image": "/images/sims/JangBillie.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1282,6 +1348,7 @@ export default {
       "chineseName": "贝纳里·萨利姆",
       "image": "/images/sims/BenaliSalim.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1301,6 +1368,7 @@ export default {
       "chineseName": "斯特劳·弗拉德劳斯",
       "image": "/images/sims/StraudVladislaus.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1320,6 +1388,7 @@ export default {
       "chineseName": "维托·莉莉丝",
       "image": "/images/sims/VatoreLilith.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1339,6 +1408,7 @@ export default {
       "chineseName": "维托·伽勒",
       "image": "/images/sims/VatoreCaleb.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1358,6 +1428,7 @@ export default {
       "chineseName": "林克斯·卡特琳娜",
       "image": "/images/sims/LynxCatarina.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1377,6 +1448,7 @@ export default {
       "chineseName": "戴尔加托·塞普莉亚",
       "image": "/images/sims/DelgatoSupriya.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1396,6 +1468,7 @@ export default {
       "chineseName": "戴尔加托·贾斯汀",
       "image": "/images/sims/DelgatoJustin.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1415,6 +1488,7 @@ export default {
       "chineseName": "戴尔加托·伊薇",
       "image": "/images/sims/DelgatoEvie.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1434,6 +1508,7 @@ export default {
       "chineseName": "戴尔加托·皮尔斯",
       "image": "/images/sims/DelgatoPierce.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1453,6 +1528,7 @@ export default {
       "chineseName": "赫金·布兰特",
       "image": "/images/sims/HeckingBrant.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1472,6 +1548,7 @@ export default {
       "chineseName": "赫金·布林特",
       "image": "/images/sims/HeckingBrent.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1491,6 +1568,7 @@ export default {
       "chineseName": "郑·凡妮莎",
       "image": "/images/sims/JeongVenessa.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1510,6 +1588,7 @@ export default {
       "chineseName": "瓦德·茱迪",
       "image": "/images/sims/WardJudith.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1529,6 +1608,7 @@ export default {
       "chineseName": "百利·索恩",
       "image": "/images/sims/BaileyThorne.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1548,6 +1628,7 @@ export default {
       "chineseName": "穆恩·欧克塔维雅",
       "image": "/images/sims/MoonOctavia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1567,6 +1648,7 @@ export default {
       "chineseName": "百利穆恩·奥治兰",
       "image": "/images/sims/BaileyMoonOrange.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1586,6 +1668,7 @@ export default {
       "chineseName": "周·布里坦妮",
       "image": "/images/sims/ChoBrytani.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1605,6 +1688,7 @@ export default {
       "chineseName": "德里莫·德克",
       "image": "/images/sims/DreamerDirk.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1624,6 +1708,7 @@ export default {
       "chineseName": "布洛柯·德斯汀",
       "image": "/images/sims/BrokeDustin.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1643,6 +1728,7 @@ export default {
       "chineseName": "艾托·荷莉",
       "image": "/images/sims/AltoHolly.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1662,6 +1748,7 @@ export default {
       "chineseName": "菲比乐斯 ·伊奇",
       "image": "/images/sims/FabulousIzzy.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1681,6 +1768,7 @@ export default {
       "chineseName": "弗莱明·凯拉",
       "image": "/images/sims/FlemmingKayla.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1700,6 +1788,7 @@ export default {
       "chineseName": "婴儿·艾莉",
       "image": "/images/sims/ArielBaby.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1719,6 +1808,7 @@ export default {
       "chineseName": "希格沃斯·杰茜",
       "image": "/images/sims/SigworthJess.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1738,6 +1828,7 @@ export default {
       "chineseName": "希格沃斯·狄伦",
       "image": "/images/sims/SigworthDylan.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1757,6 +1848,7 @@ export default {
       "chineseName": "希格沃斯·克莉丝缇",
       "image": "/images/sims/SigworthChristie.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1776,6 +1868,7 @@ export default {
       "chineseName": "卡希尔·乔治",
       "image": "/images/sims/CahillGeorge.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1795,6 +1888,7 @@ export default {
       "chineseName": "艾格斯顿·马克",
       "image": "/images/sims/EgglestonMark.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1814,6 +1908,7 @@ export default {
       "chineseName": "马丁·艾莉丝",
       "image": "/images/sims/MartinAlice.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1833,6 +1928,7 @@ export default {
       "chineseName": "荷兰·莱斯利",
       "image": "/images/sims/HollandLeslie.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1852,6 +1948,7 @@ export default {
       "chineseName": "罗斯威尔·泰德",
       "image": "/images/sims/RoswellTed.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1871,6 +1968,7 @@ export default {
       "chineseName": "罗斯威尔·梅瑞迪斯",
       "image": "/images/sims/RoswellMeredith.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1890,6 +1988,7 @@ export default {
       "chineseName": "普里斯·厄文",
       "image": "/images/sims/PriesErwin.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1909,6 +2008,7 @@ export default {
       "chineseName": "加塔·欧莉亚娜",
       "image": "/images/sims/NgataOliana.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1928,6 +2028,7 @@ export default {
       "chineseName": "伊利斯·莱拉",
       "image": "/images/sims/IllesLeila.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1947,6 +2048,7 @@ export default {
       "chineseName": "加塔·塔内",
       "image": "/images/sims/NgataTane.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1966,6 +2068,7 @@ export default {
       "chineseName": "卡哈南内·亚力卡",
       "image": "/images/sims/KahananuiAlika.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -1985,6 +2088,7 @@ export default {
       "chineseName": "卡哈南内·梅丽",
       "image": "/images/sims/KahananuiMele.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2004,6 +2108,7 @@ export default {
       "chineseName": "浩皮里·琪拉",
       "image": "/images/sims/HoapiliKeala.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2023,6 +2128,7 @@ export default {
       "chineseName": "哈乌阿塔·莉亚",
       "image": "/images/sims/HauataLia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2042,6 +2148,7 @@ export default {
       "chineseName": "基阿罗哈·马可亚",
       "image": "/images/sims/KealohaMakoa.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2061,6 +2168,7 @@ export default {
       "chineseName": "基阿罗哈·莉莉亚娜",
       "image": "/images/sims/KealohaLilliana.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2080,6 +2188,7 @@ export default {
       "chineseName": "塔拉·杜恩",
       "image": "/images/sims/TallaDuane.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2099,6 +2208,7 @@ export default {
       "chineseName": "基阿罗哈·纳尼",
       "image": "/images/sims/KealohaNani.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2118,6 +2228,7 @@ export default {
       "chineseName": "玛西艾·那拉尼",
       "image": "/images/sims/MahiaiNalani.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2137,6 +2248,7 @@ export default {
       "chineseName": "伊欧那·卡拉马伊努",
       "image": "/images/sims/IonaKalamainuu.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2156,6 +2268,7 @@ export default {
       "chineseName": "海克基亚·乌库帕尼波",
       "image": "/images/sims/HekekiaUkupanipo.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2175,6 +2288,7 @@ export default {
       "chineseName": "乌哈·帕卡亚",
       "image": "/images/sims/UhaPakaa.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2194,6 +2308,7 @@ export default {
       "chineseName": "克拉克·贝卡",
       "image": "/images/sims/ClarkeBecca.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2213,6 +2328,7 @@ export default {
       "chineseName": "莱特·尤莉娅",
       "image": "/images/sims/WrightJulia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2232,6 +2348,7 @@ export default {
       "chineseName": "接骨木莓·埃克拉姆",
       "image": "/images/sims/ElderberryEkram.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2251,6 +2368,7 @@ export default {
       "chineseName": "接骨木莓·伊莲诺",
       "image": "/images/sims/ElderberryEleanore.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2270,6 +2388,7 @@ export default {
       "chineseName": "接骨木莓·洛恩",
       "image": "/images/sims/ElderberryRohan.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2289,6 +2408,7 @@ export default {
       "chineseName": "普莱森特·安吉拉",
       "image": "/images/sims/PleasantAngela.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2308,6 +2428,7 @@ export default {
       "chineseName": "普莱森特·莉莉丝",
       "image": "/images/sims/PleasantLilith.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2327,6 +2448,7 @@ export default {
       "chineseName": "弗莱彻·卡梅伦",
       "image": "/images/sims/FletcherCameron.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2346,6 +2468,7 @@ export default {
       "chineseName": "巴姆拉·塞琳娜",
       "image": "/images/sims/BhamraSerena.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2365,6 +2488,7 @@ export default {
       "chineseName": "冯·晶",
       "image": "/images/sims/FenJing.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2384,6 +2508,7 @@ export default {
       "chineseName": "贾巴里·托马斯",
       "image": "/images/sims/JabariThomas.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2403,6 +2528,7 @@ export default {
       "chineseName": "麦金农·拉娜",
       "image": "/images/sims/McKinnonLana.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2422,6 +2548,7 @@ export default {
       "chineseName": "赛迪德·菲利克斯",
       "image": "/images/sims/PsydedFelix.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2441,6 +2568,7 @@ export default {
       "chineseName": "恰姆·米涅瓦",
       "image": "/images/sims/CharmMinerva.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2460,6 +2588,7 @@ export default {
       "chineseName": "恰姆·杰玛",
       "image": "/images/sims/CharmGemma.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2479,6 +2608,7 @@ export default {
       "chineseName": "恰姆·达雷尔",
       "image": "/images/sims/CharmDarrel.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2498,6 +2628,7 @@ export default {
       "chineseName": "埃内斯特·艾米莉亚",
       "image": "/images/sims/ErnestEmilia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2517,6 +2648,7 @@ export default {
       "chineseName": "阿南西·葛蕾丝",
       "image": "/images/sims/AnansiGrace.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2536,6 +2668,7 @@ export default {
       "chineseName": "科莱特·托麦斯",
       "image": "/images/sims/ColletteTomax.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2555,6 +2688,7 @@ export default {
       "chineseName": "炭炭·摩根",
       "image": "/images/sims/EmberMorgyn.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2574,6 +2708,7 @@ export default {
       "chineseName": "法芭·艾萝",
       "image": "/images/sims/FabaL.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2593,6 +2728,7 @@ export default {
       "chineseName": "席维史威特·西蒙",
       "image": "/images/sims/SilversweaterSimeon.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2612,6 +2748,7 @@ export default {
       "chineseName": "哈里斯·克莱特斯",
       "image": "/images/sims/HarrisCletus.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2631,6 +2768,7 @@ export default {
       "chineseName": "哈里斯·菲伊",
       "image": "/images/sims/HarrisFaye.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2650,6 +2788,7 @@ export default {
       "chineseName": "哈里斯·杰布",
       "image": "/images/sims/HarrisJeb.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2669,6 +2808,7 @@ export default {
       "chineseName": "哈里斯·吉恩迪",
       "image": "/images/sims/HarrisGideon.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2688,6 +2828,7 @@ export default {
       "chineseName": "斯宾塞·芙兰辛",
       "image": "/images/sims/SpencerFrancine.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2707,6 +2848,7 @@ export default {
       "chineseName": "廷克尔·蒂娜",
       "image": "/images/sims/TinkerTina.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2726,6 +2868,7 @@ export default {
       "chineseName": "廷克尔·雅思敏",
       "image": "/images/sims/TinkerYasemin.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2745,6 +2888,7 @@ export default {
       "chineseName": "廷克尔·奥莉薇",
       "image": "/images/sims/TinkerOlive.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2764,6 +2908,7 @@ export default {
       "chineseName": "斯特林·贝丝",
       "image": "/images/sims/SterlingBess.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2783,6 +2928,7 @@ export default {
       "chineseName": "里科·朱尔斯",
       "image": "/images/sims/RicoJules.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2802,6 +2948,7 @@ export default {
       "chineseName": "格林伯格·诺克斯",
       "image": "/images/sims/GreenburgKnox.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2821,6 +2968,7 @@ export default {
       "chineseName": "格林伯格·玛莉",
       "image": "/images/sims/GreenburgMary.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2840,6 +2988,7 @@ export default {
       "chineseName": "格林伯格·布洛森",
       "image": "/images/sims/GreenburgBlossom.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2859,6 +3008,7 @@ export default {
       "chineseName": "伊藤·直树",
       "image": "/images/sims/ItoNaoki.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2878,6 +3028,7 @@ export default {
       "chineseName": "伊藤·惠美",
       "image": "/images/sims/ItoMegumi.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2897,6 +3048,7 @@ export default {
       "chineseName": "伊藤·清志",
       "image": "/images/sims/ItoKiyoshi.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2916,6 +3068,7 @@ export default {
       "chineseName": "伊藤·七海",
       "image": "/images/sims/ItoNanami.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2935,6 +3088,7 @@ export default {
       "chineseName": "西岳·茂",
       "image": "/images/sims/NishidakeShigeru.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2954,6 +3108,7 @@ export default {
       "chineseName": "西岳·幸子",
       "image": "/images/sims/NishidakeSachiko.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2973,6 +3128,7 @@ export default {
       "chineseName": "西岳·香织",
       "image": "/images/sims/NishidakeKaori.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -2992,6 +3148,7 @@ export default {
       "chineseName": "秋山·廉",
       "image": "/images/sims/AkiyamaKado.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3011,6 +3168,7 @@ export default {
       "chineseName": "秋山·珍娜",
       "image": "/images/sims/AkiyamaJenna.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3030,6 +3188,7 @@ export default {
       "chineseName": "秋山·拓",
       "image": "/images/sims/AkiyamaTaku.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3049,6 +3208,7 @@ export default {
       "chineseName": "秋山·美纪",
       "image": "/images/sims/AkiyamaMiki.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3068,6 +3228,7 @@ export default {
       "chineseName": "穆迪·伊安",
       "image": "/images/sims/MoodyIan.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3087,6 +3248,7 @@ export default {
       "chineseName": "麦克米伦·德雷克",
       "image": "/images/sims/McMillanDerek.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3106,6 +3268,7 @@ export default {
       "chineseName": "沃森·伊姆兰",
       "image": "/images/sims/WatsonImran.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3125,6 +3288,7 @@ export default {
       "chineseName": "沃森·玛利亚",
       "image": "/images/sims/WatsonMaira.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3144,6 +3308,7 @@ export default {
       "chineseName": "沃森·拉赫米",
       "image": "/images/sims/WatsonRahmi.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3163,6 +3328,7 @@ export default {
       "chineseName": "沃森·拉希达",
       "image": "/images/sims/WatsonRashidah.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3182,6 +3348,7 @@ export default {
       "chineseName": "沃森·托马斯",
       "image": "/images/sims/WatsonThomas.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3201,6 +3368,7 @@ export default {
       "chineseName": "康·塞西莉亚",
       "image": "/images/sims/KangCecilia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3220,6 +3388,7 @@ export default {
       "chineseName": "斯科特·莎拉",
       "image": "/images/sims/ScottSimon.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3239,6 +3408,7 @@ export default {
       "chineseName": "斯科特·西蒙",
       "image": "/images/sims/ScottSara.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3258,6 +3428,7 @@ export default {
       "chineseName": "克兰普巴顿·安妮丝",
       "image": "/images/sims/CrumplebottomAgnes.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3277,6 +3448,7 @@ export default {
       "chineseName": "克兰普巴顿·阿嘉莎",
       "image": "/images/sims/CrumplebottomAgatha.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3296,6 +3468,7 @@ export default {
       "chineseName": "贝尔·麦可",
       "image": "/images/sims/BellMichael.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3315,6 +3488,7 @@ export default {
       "chineseName": "乔普拉·拉维娜",
       "image": "/images/sims/ChopraRahul.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3334,6 +3508,7 @@ export default {
       "chineseName": "乔普拉·拉胡尔",
       "image": "/images/sims/ChopraLavina.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3353,6 +3528,7 @@ export default {
       "chineseName": "戈德布鲁姆·金",
       "image": "/images/sims/GoldbloomKim.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3372,6 +3548,7 @@ export default {
       "chineseName": "劳伦特·格丽塔",
       "image": "/images/sims/LaurentGreta.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3391,6 +3568,7 @@ export default {
       "chineseName": "劳伦特·赫克托",
       "image": "/images/sims/LaurentHector.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3410,6 +3588,7 @@ export default {
       "chineseName": "劳伦特·希蕾莉",
       "image": "/images/sims/LaurentHilary.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3429,6 +3608,7 @@ export default {
       "chineseName": "劳伦特·杰斯",
       "image": "/images/sims/LaurentJace.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3448,6 +3628,7 @@ export default {
       "chineseName": "提比·阿妮莎",
       "image": "/images/sims/ThebeArnessa.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3467,6 +3648,7 @@ export default {
       "chineseName": "马尔科维奇·马蒂奥",
       "image": "/images/sims/MarkovicMateo.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3486,6 +3668,7 @@ export default {
       "chineseName": "马尔科维奇·露西亚",
       "image": "/images/sims/MarkovicLucia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3505,6 +3688,7 @@ export default {
       "chineseName": "马尔科维奇·托米",
       "image": "/images/sims/MarkovicTomi.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3524,6 +3708,7 @@ export default {
       "chineseName": "杰里尔·费兹",
       "image": "/images/sims/JaleelFaiz.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3543,6 +3728,7 @@ export default {
       "chineseName": "索托·卡米尔",
       "image": "/images/sims/SotoCamille.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3562,6 +3748,7 @@ export default {
       "chineseName": "索托·多米尼克",
       "image": "/images/sims/SotoDominique.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3581,6 +3768,7 @@ export default {
       "chineseName": "普莱斯·贾娜",
       "image": "/images/sims/PriceJanae.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3600,6 +3788,7 @@ export default {
       "chineseName": "普莱斯·马塞尔",
       "image": "/images/sims/PriceMarcel.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3619,6 +3808,7 @@ export default {
       "chineseName": "普莱斯·杰登",
       "image": "/images/sims/PriceJayden.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3638,6 +3828,7 @@ export default {
       "chineseName": "普莱斯·萨凡纳",
       "image": "/images/sims/PriceSavannah.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3657,6 +3848,7 @@ export default {
       "chineseName": "普莱斯·西德尼",
       "image": "/images/sims/PriceSidney.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3676,6 +3868,7 @@ export default {
       "chineseName": "普里·凯文",
       "image": "/images/sims/PuriKevin.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3695,6 +3888,7 @@ export default {
       "chineseName": "普列斯考特·艾米",
       "image": "/images/sims/PrescottAmy.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3714,6 +3908,7 @@ export default {
       "chineseName": "普列斯科特·梅",
       "image": "/images/sims/PrescottMei.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3733,6 +3928,7 @@ export default {
       "chineseName": "普列斯科特·莫莉",
       "image": "/images/sims/PrescottMolly.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3752,6 +3948,7 @@ export default {
       "chineseName": "卢·泰",
       "image": "/images/sims/LumTai.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3771,6 +3968,7 @@ export default {
       "chineseName": "哈卓·灰灰",
       "image": "/images/sims/HarjoAsh.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3790,6 +3988,7 @@ export default {
       "chineseName": "哈卓·艾娃",
       "image": "/images/sims/HarjoAva.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3809,6 +4008,7 @@ export default {
       "chineseName": "哈卓·鲁卡",
       "image": "/images/sims/HarjoLucha.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3828,6 +4028,7 @@ export default {
       "chineseName": "凯恩·诺亚",
       "image": "/images/sims/KaneNoah.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3847,6 +4048,7 @@ export default {
       "chineseName": "莫林德·安杰洛",
       "image": "/images/sims/MorlindAnjelo.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3866,6 +4068,7 @@ export default {
       "chineseName": "希多史提·伊洛丝",
       "image": "/images/sims/HiddlestixEloise.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3885,6 +4088,7 @@ export default {
       "chineseName": "库尔斯·丽塔",
       "image": "/images/sims/CoombesRita.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3904,6 +4108,7 @@ export default {
       "chineseName": "沃尔科夫·克里斯托弗",
       "image": "/images/sims/VolkovKristopher.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3923,6 +4128,7 @@ export default {
       "chineseName": "沃尔科夫·雅各布",
       "image": "/images/sims/VolkovJacob.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3942,6 +4148,7 @@ export default {
       "chineseName": "朱·莉莉",
       "image": "/images/sims/ZhuLily.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3961,6 +4168,7 @@ export default {
       "chineseName": "豪威尔·卢",
       "image": "/images/sims/HowellLou.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3980,6 +4188,7 @@ export default {
       "chineseName": "洛佩兹·赛琳",
       "image": "/images/sims/LopezCelene.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -3999,6 +4208,7 @@ export default {
       "chineseName": "奥克洛·洛里",
       "image": "/images/sims/OaklowRory.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4018,6 +4228,7 @@ export default {
       "chineseName": "威尔德·沃夫冈",
       "image": "/images/sims/WilderWolfgang.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4037,6 +4248,7 @@ export default {
       "chineseName": "格雷格",
       "image": "/images/sims/Greg.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4056,6 +4268,7 @@ export default {
       "chineseName": "罗布雷斯·杰",
       "image": "/images/sims/RoblesJay.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4075,6 +4288,7 @@ export default {
       "chineseName": "鲁阿诺·多莉",
       "image": "/images/sims/RuanoDoli.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4094,6 +4308,7 @@ export default {
       "chineseName": "鲁阿诺·塔拉",
       "image": "/images/sims/RuanoTala.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4113,6 +4328,7 @@ export default {
       "chineseName": "罗布雷斯·伊格纳西奥",
       "image": "/images/sims/RoblesIgnacio.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4132,6 +4348,7 @@ export default {
       "chineseName": "罗布雷斯·波妮丝",
       "image": "/images/sims/RoblesBernice.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4151,6 +4368,7 @@ export default {
       "chineseName": "罗布雷斯·伊恩",
       "image": "/images/sims/RoblesIan.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4170,6 +4388,7 @@ export default {
       "chineseName": "罗布雷斯·奥雷利奥",
       "image": "/images/sims/RoblesAurelio.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4189,6 +4408,7 @@ export default {
       "chineseName": "迈可尔森·塞莱斯特",
       "image": "/images/sims/MichaelsonCeleste.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4208,6 +4428,7 @@ export default {
       "chineseName": "迈可尔森·克里斯多夫",
       "image": "/images/sims/MichaelsonChristopher.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4227,6 +4448,7 @@ export default {
       "chineseName": "迈可尔森·阿特拉斯",
       "image": "/images/sims/MichaelsonAtlas.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4246,6 +4468,7 @@ export default {
       "chineseName": "迈可尔森·欧莱恩",
       "image": "/images/sims/MichaelsonOrion.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4265,6 +4488,7 @@ export default {
       "chineseName": "卢那·霍奇蒂尔",
       "image": "/images/sims/LunaXochitl.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4284,6 +4508,7 @@ export default {
       "chineseName": "沙利文·埃莉诺",
       "image": "/images/sims/SullivanEleanor.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4303,6 +4528,7 @@ export default {
       "chineseName": "卢那·卡尔敏",
       "image": "/images/sims/LunaKarmine.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4322,6 +4548,7 @@ export default {
       "chineseName": "凯尔森·凯尔",
       "image": "/images/sims/KylesonKyle.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4341,6 +4568,7 @@ export default {
       "chineseName": "古斯曼·唐恩",
       "image": "/images/sims/GoosemanDon.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4360,6 +4588,7 @@ export default {
       "chineseName": "特雷西·玛丽萨",
       "image": "/images/sims/TraceyMarissa.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4379,6 +4608,7 @@ export default {
       "chineseName": "达维拉·丹妮",
       "image": "/images/sims/DavilaDani.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4398,6 +4628,7 @@ export default {
       "chineseName": "格洛夫·安柏尔",
       "image": "/images/sims/GroveUmber.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4417,6 +4648,7 @@ export default {
       "chineseName": "格洛夫·朱妮珀",
       "image": "/images/sims/GroveJuniper.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4436,6 +4668,7 @@ export default {
       "chineseName": "格洛夫·雷恩",
       "image": "/images/sims/GroveWren.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4455,6 +4688,7 @@ export default {
       "chineseName": "格洛夫·西椰娜",
       "image": "/images/sims/GroveSienna.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4474,6 +4708,7 @@ export default {
       "chineseName": "克林克托普·罗伯托",
       "image": "/images/sims/CrinkletopRoberto.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4493,6 +4728,7 @@ export default {
       "chineseName": "卡雅普特里·瓦妮莎",
       "image": "/images/sims/CahyaputriVanesha.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4512,6 +4748,7 @@ export default {
       "chineseName": "卡雅普特里·扎菲拉",
       "image": "/images/sims/CahyaputriZhafira.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4531,6 +4768,7 @@ export default {
       "chineseName": "琳·札安",
       "image": "/images/sims/LinhChanh.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4550,6 +4788,7 @@ export default {
       "chineseName": "琳·阿图罗",
       "image": "/images/sims/LinhArturo.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4569,6 +4808,7 @@ export default {
       "chineseName": "萨迪亚·莉恩",
       "image": "/images/sims/SadyaLien.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4588,6 +4828,7 @@ export default {
       "chineseName": "萨迪亚·阿隆",
       "image": "/images/sims/SadyaAlon.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4607,6 +4848,7 @@ export default {
       "chineseName": "萨迪亚·坎姆",
       "image": "/images/sims/SadyaCam.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4626,6 +4868,7 @@ export default {
       "chineseName": "琳·缇",
       "image": "/images/sims/LinhThi.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4645,6 +4888,7 @@ export default {
       "chineseName": "邦玛·布雅",
       "image": "/images/sims/BunMaBua.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4664,6 +4908,7 @@ export default {
       "chineseName": "邦玛·卡塞姆",
       "image": "/images/sims/BunMaKasem.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4683,6 +4928,7 @@ export default {
       "chineseName": "邦玛·宁",
       "image": "/images/sims/BunMaNin.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4702,6 +4948,7 @@ export default {
       "chineseName": "邦玛·苏德",
       "image": "/images/sims/BunMaSud.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4721,6 +4968,7 @@ export default {
       "chineseName": "李·潘雅",
       "image": "/images/sims/LiPanya.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4740,6 +4988,7 @@ export default {
       "chineseName": "洛佩兹·莫妮卡",
       "image": "/images/sims/LopezMonica.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4759,6 +5008,7 @@ export default {
       "chineseName": "洛佩慈·卡洛斯",
       "image": "/images/sims/LopezCarlos.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4778,6 +5028,7 @@ export default {
       "chineseName": "洛佩兹·勒兹",
       "image": "/images/sims/LopezLuz.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4797,6 +5048,7 @@ export default {
       "chineseName": "奥尔特加·卡门",
       "image": "/images/sims/OrtegaCarmen.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4816,6 +5068,7 @@ export default {
       "chineseName": "克鲁兹·埃利亚",
       "image": "/images/sims/CruzElia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4835,6 +5088,7 @@ export default {
       "chineseName": "阿吉拉尔·曼努尔",
       "image": "/images/sims/AguilarManuel.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4854,6 +5108,7 @@ export default {
       "chineseName": "希科滕卡特尔·约尔蒂奇",
       "image": "/images/sims/XicotencatlYoltic.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4873,6 +5128,7 @@ export default {
       "chineseName": "纳迪尔·阿奇兹",
       "image": "/images/sims/NadirAziz.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4892,6 +5148,7 @@ export default {
       "chineseName": "纳迪尔·瓦伦缇娜",
       "image": "/images/sims/NadirValentina.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4911,6 +5168,7 @@ export default {
       "chineseName": "戈麦斯·埃斯特",
       "image": "/images/sims/GomesEsther.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4930,6 +5188,7 @@ export default {
       "chineseName": "伊扎迪·祖拉卡",
       "image": "/images/sims/IzadiZuleika.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4949,6 +5208,7 @@ export default {
       "chineseName": "戈麦斯·拉德万",
       "image": "/images/sims/GomesRadwan.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4968,6 +5228,7 @@ export default {
       "chineseName": "戈麦斯·茨波拉",
       "image": "/images/sims/GomesTziporah.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -4987,6 +5248,7 @@ export default {
       "chineseName": "戈麦斯·泽尔米拉",
       "image": "/images/sims/GomesZelmira.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5006,6 +5268,7 @@ export default {
       "chineseName": "伊瑟·凯",
       "image": "/images/sims/AetherKai.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5025,6 +5288,7 @@ export default {
       "chineseName": "伊瑟·埃卡德",
       "image": "/images/sims/AetherEkade.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5044,6 +5308,7 @@ export default {
       "chineseName": "伊瑟·高间",
       "image": "/images/sims/AetherTakama.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5063,6 +5328,7 @@ export default {
       "chineseName": "科芬·莱恩",
       "image": "/images/sims/CoffinLayne.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5082,6 +5348,7 @@ export default {
       "chineseName": "幽浑·尼昂",
       "image": "/images/sims/SpecterNyon.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5101,6 +5368,7 @@ export default {
       "chineseName": "幽浑·奥莉薇",
       "image": "/images/sims/SpecterOlive.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5120,6 +5388,7 @@ export default {
       "chineseName": "艾莉丝",
       "image": "/images/sims/Alice.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5139,6 +5408,7 @@ export default {
       "chineseName": "伊迪丝",
       "image": "/images/sims/Edith.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5158,6 +5428,7 @@ export default {
       "chineseName": "高斯·鸦舞者女士",
       "image": "/images/sims/GothLadyRavendancer.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5177,6 +5448,7 @@ export default {
       "chineseName": "瓦雷兹·威伦",
       "image": "/images/sims/WarezWaylon.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5196,6 +5468,7 @@ export default {
       "chineseName": "洛登·艾瑞克",
       "image": "/images/sims/LodenErik.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5215,6 +5488,7 @@ export default {
       "chineseName": "洛登·芙蕾雅",
       "image": "/images/sims/LodenFreya.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5234,6 +5508,7 @@ export default {
       "chineseName": "洛登·海蒂奶奶",
       "image": "/images/sims/LodenGrammaHattie.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5253,6 +5528,7 @@ export default {
       "chineseName": "洛登·诺拉",
       "image": "/images/sims/LodenNora.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5272,6 +5548,7 @@ export default {
       "chineseName": "洛登·达莉娅",
       "image": "/images/sims/LodenDahlia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5291,6 +5568,7 @@ export default {
       "chineseName": "萨普昂·莱拉托",
       "image": "/images/sims/SarpongLerato.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5310,6 +5588,7 @@ export default {
       "chineseName": "萨普昂·尼娅",
       "image": "/images/sims/SarpongNia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5329,6 +5608,7 @@ export default {
       "chineseName": "科尔曼·肯诺伯",
       "image": "/images/sims/ColemanCannonball.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5348,6 +5628,7 @@ export default {
       "chineseName": "布莱克·克里斯平",
       "image": "/images/sims/BlackCrispin.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5367,6 +5648,7 @@ export default {
       "chineseName": "马克·奥利",
       "image": "/images/sims/MarkOllie.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5386,6 +5668,7 @@ export default {
       "chineseName": "库普曼·格特",
       "image": "/images/sims/KoopmanGert.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5405,6 +5688,7 @@ export default {
       "chineseName": "库普曼·乔兰达",
       "image": "/images/sims/KoopmanJolanda.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5424,6 +5708,7 @@ export default {
       "chineseName": "霍夫曼·布鲁诺",
       "image": "/images/sims/HoffmanBruno.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5443,6 +5728,7 @@ export default {
       "chineseName": "霍夫曼·菲利克斯",
       "image": "/images/sims/HoffmanFelix.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5462,6 +5748,7 @@ export default {
       "chineseName": "尼赫斯·科里",
       "image": "/images/sims/NyhusCorey.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5481,6 +5768,7 @@ export default {
       "chineseName": "艾姆利·札因",
       "image": "/images/sims/AmriZain.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5500,6 +5788,7 @@ export default {
       "chineseName": "诺姆·格努",
       "image": "/images/sims/NhoamGlen.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5519,6 +5808,7 @@ export default {
       "chineseName": "拉迪波·阿约",
       "image": "/images/sims/LadipoAyo.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5538,6 +5828,7 @@ export default {
       "chineseName": "拉迪波·芙洛拉",
       "image": "/images/sims/LadipoFlora.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5557,6 +5848,7 @@ export default {
       "chineseName": "德穆雷·艾尔里克",
       "image": "/images/sims/DeMurayElric.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5576,6 +5868,7 @@ export default {
       "chineseName": "阿滕伯里·托德",
       "image": "/images/sims/AttenberryTodd.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5595,6 +5888,7 @@ export default {
       "chineseName": "夏梦·缇塔尼亚",
       "image": "/images/sims/SummerdreamTitania.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5614,6 +5908,7 @@ export default {
       "chineseName": "夏梦·奥伯伦",
       "image": "/images/sims/SummerdreamOberon.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5633,6 +5928,7 @@ export default {
       "chineseName": "夏梦·玛拉",
       "image": "/images/sims/SummerdreamMara.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5652,6 +5948,7 @@ export default {
       "chineseName": "拉迪波·伊丽丝",
       "image": "/images/sims/LadipoIris.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5671,6 +5968,7 @@ export default {
       "chineseName": "基什卡·娜迪亚",
       "image": "/images/sims/KishkaNadya.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5690,6 +5988,7 @@ export default {
       "chineseName": "阿曼尼·札勒",
       "image": "/images/sims/AmaniZhaleh.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5709,6 +6008,7 @@ export default {
       "chineseName": "任·凯尔",
       "image": "/images/sims/RenCare.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5728,6 +6028,7 @@ export default {
       "chineseName": "天树·王牌",
       "image": "/images/sims/AlmightySpruce.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5747,6 +6048,7 @@ export default {
       "chineseName": "自然·之母",
       "image": "/images/sims/NatureMother.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5766,6 +6068,7 @@ export default {
       "chineseName": "商·乔",
       "image": "/images/sims/TraderJoe.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5785,6 +6088,7 @@ export default {
       "chineseName": "查维兹-劳斯顿·奈杰尔",
       "image": "/images/sims/ChavezRalstonNigel.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5804,6 +6108,7 @@ export default {
       "chineseName": "查维兹-劳斯顿·莎拉",
       "image": "/images/sims/ChavezRalstonSara.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5823,6 +6128,7 @@ export default {
       "chineseName": "查维兹-劳斯顿·艾莉丝",
       "image": "/images/sims/ChavezRalstonAeris.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5842,6 +6148,7 @@ export default {
       "chineseName": "查维兹-劳斯顿·艾琳",
       "image": "/images/sims/ChavezRalstonErin.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5861,6 +6168,7 @@ export default {
       "chineseName": "亚当·珍",
       "image": "/images/sims/AddamJane.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5880,6 +6188,7 @@ export default {
       "chineseName": "亚当·斯塔",
       "image": "/images/sims/AddamStar.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5899,6 +6208,7 @@ export default {
       "chineseName": "托榭克·阿戈拉",
       "image": "/images/sims/TchotchkeAgora.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5918,6 +6228,7 @@ export default {
       "chineseName": "布罗克·斯基普",
       "image": "/images/sims/BrokeSkip.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5937,6 +6248,7 @@ export default {
       "chineseName": "佩里·芙丽达",
       "image": "/images/sims/PerryFreeda.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5956,6 +6268,7 @@ export default {
       "chineseName": "佩里·道奇",
       "image": "/images/sims/PerryDougie.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5975,6 +6288,7 @@ export default {
       "chineseName": "史酷普·巴迪",
       "image": "/images/sims/ScoopBuddy.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5994,6 +6308,7 @@ export default {
       "chineseName": "普利挪·普鲁艾拉",
       "image": "/images/sims/PreenerPruella.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6013,6 +6328,7 @@ export default {
       "chineseName": "赤岭·托诗",
       "image": "/images/sims/AkamineToshie.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6032,6 +6348,7 @@ export default {
       "chineseName": "库南·拉希尔",
       "image": "/images/sims/KunalRaheel.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6051,6 +6368,7 @@ export default {
       "chineseName": "库南·拉克希米",
       "image": "/images/sims/KunalLaxmi.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6078,6 +6396,23 @@ export default {
       "aspiration": {
         "name": "Successful Lineage"
       },
+      "traits": [
+        {
+          "name": "Foodie"
+        },
+        {
+          "name": "Family-Oriented"
+        },
+        {
+          "name": "Ambitious"
+        },
+        {
+          "name": "Entrepreneurial"
+        },
+        {
+          "name": "Savant"
+        }
+      ],
       "skills": [
         {
           "name": "Charisma",
@@ -6144,11 +6479,18 @@ export default {
       "aspiration": {
         "name": "Soulmate"
       },
-      "skills": [
+      "traits": [
         {
-          "name": "",
-          "level": 10
+          "name": "Bro"
         },
+        {
+          "name": "Outgoing"
+        },
+        {
+          "name": "Foodie"
+        }
+      ],
+      "skills": [
         {
           "name": "Gourmet Cooking",
           "level": 8
@@ -6196,6 +6538,17 @@ export default {
       "aspiration": {
         "name": "Joke Star"
       },
+      "traits": [
+        {
+          "name": "Goofball"
+        },
+        {
+          "name": "Good"
+        },
+        {
+          "name": "Gregarious"
+        }
+      ],
       "skills": [
         {
           "name": "Cooking",
@@ -6246,6 +6599,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/AltoEnzo.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6273,6 +6627,23 @@ export default {
       "aspiration": {
         "name": "Mansion Baron"
       },
+      "traits": [
+        {
+          "name": "Materialistic"
+        },
+        {
+          "name": "Snob"
+        },
+        {
+          "name": "Ambitious"
+        },
+        {
+          "name": "Regal Romancer"
+        },
+        {
+          "name": "Gregarious"
+        }
+      ],
       "skills": [
         {
           "name": "Charisma",
@@ -6333,6 +6704,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/CappBeatrice.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6354,6 +6726,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/CappCeleste.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6375,6 +6748,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/CappVirgilio.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6396,6 +6770,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/DarongAdekoya.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6417,6 +6792,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/DarongJawara.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6438,6 +6814,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/DarongAmarachi.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6459,6 +6836,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/DarongObi.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6480,6 +6858,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/AnanouEkene.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6501,6 +6880,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/AnanouAfua.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6522,6 +6902,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/ThebeVCordelia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6543,6 +6924,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/AbrantesThiago.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6564,6 +6946,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/AbrantesErmelinda.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6585,6 +6968,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/AbrantesSofia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6606,6 +6990,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/RomualdoAloisio.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6627,6 +7012,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/OnojaAkachi.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6648,6 +7034,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/FidentialConnie.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6669,6 +7056,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/CappConsort.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6690,6 +7078,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/sims/AcostaFia.jpg",
       "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],

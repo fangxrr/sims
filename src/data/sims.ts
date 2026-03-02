@@ -38,6 +38,11 @@ const defaultSimsData: Record<string, Sim> = {
     worldId: 'willow-creek',
     career: 'Writer (Author Branch)',
     aspiration: { name: 'Bestselling Author' },
+    traits: [
+      { name: 'Bookworm' },
+      { name: 'Gloomy' },
+      { name: 'Creative' }
+    ],
     skills: [
       { name: 'Writing', level: 8 },
       { name: 'Logic', level: 6 },
