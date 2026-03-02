@@ -8,6 +8,10 @@ import { SmartImage } from '../components/SmartImage';
 
 const WORLDS = Object.values(WORLDS_DATA);
 
+const SIZE_ORDER = [
+  '64x64', '50x50', '50x40', '40x40', '40x30', '40x20', '30x30', '30x20', '20x20', '20x15', '15x10'
+];
+
 export const Worlds: React.FC = () => {
   const [selectedWorldId, setSelectedWorldId] = useState(WORLDS[0].id);
   const [isFilterOpen, setIsFilterOpen] = useState(false);
@@ -17,8 +21,24 @@ export const Worlds: React.FC = () => {
 
   const availableSizes = useMemo(() => {
     const allSizes = new Set<string>();
-    Object.values(WORLDS_DATA).forEach(w => w.sizes?.forEach(s => allSizes.add(s)));
-    return ['All', ...Array.from(allSizes).sort().reverse()];
+    Object.values(WORLDS_DATA).forEach(w => w.sizes?.forEach(s => {
+      if (s) allSizes.add(s.replace('×', 'x'));
+    }));
+
+    return ['All', ...Array.from(allSizes).sort((a, b) => {
+      const aIndex = SIZE_ORDER.indexOf(a);
+      const bIndex = SIZE_ORDER.indexOf(b);
+
+      if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex;
+      if (aIndex !== -1) return -1;
+      if (bIndex !== -1) return 1;
+
+      const aParts = a.split('x');
+      const bParts = b.split('x');
+      const aArea = parseInt(aParts[0]) * parseInt(aParts[1] || '0');
+      const bArea = parseInt(bParts[0]) * parseInt(bParts[1] || '0');
+      return bArea - aArea;
+    })];
   }, []);
 
   const selectedWorld = WORLDS.find(w => w.id === selectedWorldId) || WORLDS[0];

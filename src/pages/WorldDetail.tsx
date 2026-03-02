@@ -28,7 +28,8 @@ export const WorldDetail: React.FC = () => {
     const worldFamilies = Object.values(FAMILIES_DATA).filter(family => family.worldId === baseWorld.id);
 
     // Extract unique sizes, filter out blanks, and sort by predefined order or fallback to area
-    const uniqueSizes = Array.from(new Set(worldLots.map(lot => lot.size)))
+    // Normalizing '×' to 'x' for consistent comparison
+    const uniqueSizes = Array.from(new Set(worldLots.map(lot => lot.size?.replace('×', 'x'))))
       .filter((size): size is string => Boolean(size && size.trim() !== ''))
       .sort((a, b) => {
         const aIndex = SIZE_ORDER.indexOf(a);
@@ -38,8 +39,10 @@ export const WorldDetail: React.FC = () => {
         if (aIndex !== -1) return -1;
         if (bIndex !== -1) return 1;
 
-        const aArea = parseInt(a.split('x')[0]) * parseInt(a.split('x')[1]);
-        const bArea = parseInt(b.split('x')[0]) * parseInt(b.split('x')[1]);
+        const aParts = a.split('x');
+        const bParts = b.split('x');
+        const aArea = parseInt(aParts[0]) * parseInt(aParts[1] || '0');
+        const bArea = parseInt(bParts[0]) * parseInt(bParts[1] || '0');
         return bArea - aArea;
       });
 
@@ -214,7 +217,7 @@ export const WorldDetail: React.FC = () => {
                             ))}
                             {lot.size && (
                               <span className="text-[10px] text-white/40 font-mono bg-white/5 px-1.5 py-0.5 rounded border border-white/5">
-                                {lot.size}
+                                {lot.size.replace('×', 'x')}
                               </span>
                             )}
                           </div>
