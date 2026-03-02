@@ -1,16 +1,16 @@
 export default {
   "sims": [
     {
-      "id": "mortimergoth",
+      "id": "gothmortimer",
       "familyId": "goth",
-      "name": "Mortimer Goth",
-      "chineseName": "莫蒂默·哥特",
+      "name": "Goth Mortimer",
+      "chineseName": "高斯·莫蒂默",
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/MortimerGoth.jpg",
+      "image": "/images/sims/GothMortimer.jpg",
       "career": "Writer (Author Branch)",
       "aspiration": {
         "name": "Bestselling Author"
@@ -41,10 +41,11 @@ export default {
       }
     },
     {
-      "id": "bellagoth",
+      "id": "gothbella",
       "familyId": "goth",
-      "name": "Bella Goth",
-      "image": "/images/sims/BellaGoth.jpg",
+      "name": "Goth Bella",
+      "chineseName": "高斯·贝拉",
+      "image": "/images/sims/GothBella.jpg",
       "aspiration": {},
       "skills": [],
       "relationships": {
@@ -59,10 +60,11 @@ export default {
       }
     },
     {
-      "id": "cassandragoth",
+      "id": "gothcassandra",
       "familyId": "goth",
-      "name": "Cassandra Goth",
-      "image": "/images/sims/CassandraGoth.jpg",
+      "name": "Goth Cassandra",
+      "chineseName": "高斯·卡珊多拉",
+      "image": "/images/sims/GothCassandra.jpg",
       "aspiration": {},
       "skills": [],
       "relationships": {
@@ -77,10 +79,6616 @@ export default {
       }
     },
     {
-      "id": "alexandergoth",
+      "id": "gothalexander",
       "familyId": "goth",
-      "name": "Alexander Goth",
-      "image": "/images/sims/AlexanderGoth.jpg",
+      "name": "Goth Alexander",
+      "chineseName": "高斯·亚历山大",
+      "image": "/images/sims/GothAlexander.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kimdennis",
+      "familyId": "spencerkimlewis",
+      "name": "Kim Dennis",
+      "chineseName": "金·丹尼斯",
+      "image": "/images/sims/KimDennis.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lewisvivian",
+      "familyId": "spencerkimlewis",
+      "name": "Lewis Vivian",
+      "chineseName": "路易斯·薇薇安",
+      "image": "/images/sims/LewisVivian.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kimspenceralice",
+      "familyId": "spencerkimlewis",
+      "name": "KimSpencer Alice",
+      "chineseName": "斯宾塞·金·艾莉丝",
+      "image": "/images/sims/KimSpencerAlice.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lewiseric",
+      "familyId": "spencerkimlewis",
+      "name": "Lewis Eric",
+      "chineseName": "路易斯·埃瑞克",
+      "image": "/images/sims/LewisEric.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lewiskimolivia",
+      "familyId": "spencerkimlewis",
+      "name": "LewisKim Olivia",
+      "chineseName": "路易斯·金·奥莉维亚",
+      "image": "/images/sims/LewisKimOlivia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "pancakesbob",
+      "familyId": "pancakes",
+      "name": "Pancakes Bob",
+      "chineseName": "潘克斯·鲍伯",
+      "image": "/images/sims/PancakesBob.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "pancakeseliza",
+      "familyId": "pancakes",
+      "name": "Pancakes Eliza",
+      "chineseName": "潘克斯·伊莱莎",
+      "image": "/images/sims/PancakesEliza.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "leeliberty",
+      "familyId": "bff",
+      "name": "Lee Liberty",
+      "chineseName": "李·莉柏缇",
+      "image": "/images/sims/LeeLiberty.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "holidaysummer",
+      "familyId": "bff",
+      "name": "Holiday Summer",
+      "chineseName": "霍利迪·桑默",
+      "image": "/images/sims/HolidaySummer.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "scotttravis",
+      "familyId": "bff",
+      "name": "Scott Travis",
+      "chineseName": "斯科特·崔维斯",
+      "image": "/images/sims/ScottTravis.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "zestjohnny",
+      "familyId": "zest",
+      "name": "Zest Johnny",
+      "chineseName": "杰斯·强尼",
+      "image": "/images/sims/ZestJohnny.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "patelzoe",
+      "familyId": "roomies",
+      "name": "Patel Zoe",
+      "chineseName": "帕托·柔依",
+      "image": "/images/sims/PatelZoe.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kalanimitchell",
+      "familyId": "roomies",
+      "name": "Kalani Mitchell",
+      "chineseName": "卡拉尼·米切尔",
+      "image": "/images/sims/KalaniMitchell.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "huntingtoniiij",
+      "familyId": "roomies",
+      "name": "HuntingtonIII J",
+      "chineseName": "亨廷顿三世·杰",
+      "image": "/images/sims/HuntingtonIIIJ.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "richardsgavin",
+      "familyId": "roomies",
+      "name": "Richards Gavin",
+      "chineseName": "理查·盖文",
+      "image": "/images/sims/RichardsGavin.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "calientekatrina",
+      "familyId": "caliente",
+      "name": "Caliente Katrina",
+      "chineseName": "卡林恩特·卡崔娜",
+      "image": "/images/sims/CalienteKatrina.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "calientedina",
+      "familyId": "caliente",
+      "name": "Caliente Dina",
+      "chineseName": "卡林恩特·迪娜",
+      "image": "/images/sims/CalienteDina.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "calientenina",
+      "familyId": "caliente",
+      "name": "Caliente Nina",
+      "chineseName": "卡林恩特·妮娜",
+      "image": "/images/sims/CalienteNina.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lothariodon",
+      "familyId": "caliente",
+      "name": "Lothario Don",
+      "chineseName": "罗塔里欧·唐恩",
+      "image": "/images/sims/LotharioDon.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "landgraabgeoffrey",
+      "familyId": "landgraab",
+      "name": "Landgraab Geoffrey",
+      "chineseName": "朗德古拉伯·杰弗瑞",
+      "image": "/images/sims/LandgraabGeoffrey.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "landgraabnancy",
+      "familyId": "landgraab",
+      "name": "Landgraab Nancy",
+      "chineseName": "朗德古拉伯·南茜",
+      "image": "/images/sims/LandgraabNancy.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "landgraabmalcolm",
+      "familyId": "landgraab",
+      "name": "Landgraab Malcolm",
+      "chineseName": "朗德古拉伯·马尔科姆",
+      "image": "/images/sims/LandgraabMalcolm.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "haasmaaike",
+      "familyId": "freespirits",
+      "name": "Haas Maaike",
+      "chineseName": "哈斯·艾克",
+      "image": "/images/sims/HaasMaaike.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "faustulrike",
+      "familyId": "freespirits",
+      "name": "Faust Ulrike",
+      "chineseName": "浮士德·乌里克",
+      "image": "/images/sims/FaustUlrike.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fyresdominic",
+      "familyId": "fyres",
+      "name": "Fyres Dominic",
+      "chineseName": "菲尔斯·多米尼克",
+      "image": "/images/sims/FyresDominic.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fyresmoira",
+      "familyId": "fyres",
+      "name": "Fyres Moira",
+      "chineseName": "菲尔斯·莫拉",
+      "image": "/images/sims/FyresMoira.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fyressiobhan",
+      "familyId": "fyres",
+      "name": "Fyres Siobhan",
+      "chineseName": "菲尔斯·西沃恩",
+      "image": "/images/sims/FyresSiobhan.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fyresmorgan",
+      "familyId": "fyres",
+      "name": "Fyres Morgan",
+      "chineseName": "菲尔斯·摩根",
+      "image": "/images/sims/FyresMorgan.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "munchmila",
+      "familyId": "munch",
+      "name": "Munch Mila",
+      "chineseName": "大嚼客·蜜拉",
+      "image": "/images/sims/MunchMila.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "munchgunther",
+      "familyId": "munch",
+      "name": "Munch Gunther",
+      "chineseName": "大嚼客·甘瑟",
+      "image": "/images/sims/MunchGunther.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "munchwolfgang",
+      "familyId": "munch",
+      "name": "Munch Wolfgang",
+      "chineseName": "大嚼客·沃夫冈",
+      "image": "/images/sims/MunchWolfgang.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "munchlucas",
+      "familyId": "munch",
+      "name": "Munch Lucas",
+      "chineseName": "大嚼客·卢卡斯",
+      "image": "/images/sims/MunchLucas.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "villarealjacques",
+      "familyId": "villareal",
+      "name": "Villareal Jacques",
+      "chineseName": "维拉尔·雅克",
+      "image": "/images/sims/VillarealJacques.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "villarealluna",
+      "familyId": "villareal",
+      "name": "Villareal Luna",
+      "chineseName": "维拉尔·卢娜",
+      "image": "/images/sims/VillarealLuna.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "villarealhugo",
+      "familyId": "villareal",
+      "name": "Villareal Hugo",
+      "chineseName": "维拉尔·雨果",
+      "image": "/images/sims/VillarealHugo.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "villarealmax",
+      "familyId": "villareal",
+      "name": "Villareal Max",
+      "chineseName": "维拉尔·马克斯",
+      "image": "/images/sims/VillarealMax.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bjergsenbjorn",
+      "familyId": "bjergsen",
+      "name": "Bjergsen Bjorn",
+      "chineseName": "比耶格森·比约恩",
+      "image": "/images/sims/BjergsenBjorn.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bjergsenclara",
+      "familyId": "bjergsen",
+      "name": "Bjergsen Clara",
+      "chineseName": "比耶格森·克莱拉",
+      "image": "/images/sims/BjergsenClara.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bjergsensofia",
+      "familyId": "bjergsen",
+      "name": "Bjergsen Sofia",
+      "chineseName": "比耶格森·索菲亚",
+      "image": "/images/sims/BjergsenSofia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bjergsenelsa",
+      "familyId": "bjergsen",
+      "name": "Bjergsen Elsa",
+      "chineseName": "比耶格森·艾莎",
+      "image": "/images/sims/BjergsenElsa.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lechienjoaquin",
+      "familyId": "bro",
+      "name": "LeChien Joaquin",
+      "chineseName": "勒千·瓦昆",
+      "image": "/images/sims/LeChienJoaquin.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "romeosergio",
+      "familyId": "bro",
+      "name": "Romeo Sergio",
+      "chineseName": "罗密欧·瑟吉欧",
+      "image": "/images/sims/RomeoSergio.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "behryuki",
+      "familyId": "behr",
+      "name": "Behr Yuki",
+      "chineseName": "贝洱·小雪",
+      "image": "/images/sims/BehrYuki.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "behrcandy",
+      "familyId": "behr",
+      "name": "Behr Candy",
+      "chineseName": "贝洱·坎蒂",
+      "image": "/images/sims/BehrCandy.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "capricciosaeva",
+      "familyId": "partihaus",
+      "name": "Capricciosa Eva",
+      "chineseName": "卡布里乔莎·伊娃",
+      "image": "/images/sims/CapricciosaEva.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "rosajade",
+      "familyId": "partihaus",
+      "name": "Rosa Jade",
+      "chineseName": "罗莎·碧玉",
+      "image": "/images/sims/RosaJade.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "flexmarcus",
+      "familyId": "partihaus",
+      "name": "Flex Marcus",
+      "chineseName": "弗克斯·马库斯",
+      "image": "/images/sims/FlexMarcus.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "roccapaolo",
+      "familyId": "partihaus",
+      "name": "Rocca Paolo",
+      "chineseName": "洛卡·保禄",
+      "image": "/images/sims/RoccaPaolo.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "rasoyaraj",
+      "familyId": "rasoya",
+      "name": "Rasoya Raj",
+      "chineseName": "瑞索亚·拉吉",
+      "image": "/images/sims/RasoyaRaj.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "rasoyageeta",
+      "familyId": "rasoya",
+      "name": "Rasoya Geeta",
+      "chineseName": "瑞索亚·吉塔",
+      "image": "/images/sims/RasoyaGeeta.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bheedaarun",
+      "familyId": "bheeda",
+      "name": "Bheeda Arun",
+      "chineseName": "比达·阿伦",
+      "image": "/images/sims/BheedaArun.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bheedajesminder",
+      "familyId": "bheeda",
+      "name": "Bheeda Jesminder",
+      "chineseName": "比达·洁敏德",
+      "image": "/images/sims/BheedaJesminder.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fenglily",
+      "familyId": "feng",
+      "name": "Feng Lily",
+      "chineseName": "芬恩·莉丽",
+      "image": "/images/sims/FengLily.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fengvictor",
+      "familyId": "feng",
+      "name": "Feng Victor",
+      "chineseName": "芬恩·维克多",
+      "image": "/images/sims/FengVictor.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lobodiego",
+      "familyId": "lobo",
+      "name": "Lobo Diego",
+      "chineseName": "罗保·迪亚戈",
+      "image": "/images/sims/LoboDiego.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "pizzazzpenny",
+      "familyId": "pizzazz",
+      "name": "Pizzazz Penny",
+      "chineseName": "比萨兹·佩妮",
+      "image": "/images/sims/PizzazzPenny.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kiboakira",
+      "familyId": "karaokelegends",
+      "name": "Kibo Akira",
+      "chineseName": "基博·亮",
+      "image": "/images/sims/KiboAkira.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ojomiko",
+      "familyId": "karaokelegends",
+      "name": "Ojo Miko",
+      "chineseName": "奥祖·米可",
+      "image": "/images/sims/OjoMiko.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "walshdarling",
+      "familyId": "karaokelegends",
+      "name": "Walsh Darling",
+      "chineseName": "沃尔什·达林",
+      "image": "/images/sims/WalshDarling.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "janganaya",
+      "familyId": "jang",
+      "name": "Jang Anaya",
+      "chineseName": "詹·安娜亚",
+      "image": "/images/sims/JangAnaya.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "jangbaako",
+      "familyId": "jang",
+      "name": "Jang Baako",
+      "chineseName": "詹·巴科",
+      "image": "/images/sims/JangBaako.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "jangbillie",
+      "familyId": "jang",
+      "name": "Jang Billie",
+      "chineseName": "詹·比莉",
+      "image": "/images/sims/JangBillie.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "benalisalim",
+      "familyId": "benali",
+      "name": "Benali Salim",
+      "chineseName": "贝纳里·萨利姆",
+      "image": "/images/sims/BenaliSalim.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "straudvladislaus",
+      "familyId": "straud",
+      "name": "Straud Vladislaus",
+      "chineseName": "斯特劳·弗拉德劳斯",
+      "image": "/images/sims/StraudVladislaus.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "vatorelilith",
+      "familyId": "vatore",
+      "name": "Vatore Lilith",
+      "chineseName": "维托·莉莉丝",
+      "image": "/images/sims/VatoreLilith.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "vatorecaleb",
+      "familyId": "vatore",
+      "name": "Vatore Caleb",
+      "chineseName": "维托·伽勒",
+      "image": "/images/sims/VatoreCaleb.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lynxcatarina",
+      "familyId": "lynx",
+      "name": "Lynx Catarina",
+      "chineseName": "林克斯·卡特琳娜",
+      "image": "/images/sims/LynxCatarina.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "delgatosupriya",
+      "familyId": "delgato",
+      "name": "Delgato Supriya",
+      "chineseName": "戴尔加托·塞普莉亚",
+      "image": "/images/sims/DelgatoSupriya.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "delgatojustin",
+      "familyId": "delgato",
+      "name": "Delgato Justin",
+      "chineseName": "戴尔加托·贾斯汀",
+      "image": "/images/sims/DelgatoJustin.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "delgatoevie",
+      "familyId": "delgato",
+      "name": "Delgato Evie",
+      "chineseName": "戴尔加托·伊薇",
+      "image": "/images/sims/DelgatoEvie.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "delgatopierce",
+      "familyId": "delgato",
+      "name": "Delgato Pierce",
+      "chineseName": "戴尔加托·皮尔斯",
+      "image": "/images/sims/DelgatoPierce.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "heckingbrant",
+      "familyId": "hecking",
+      "name": "Hecking Brant",
+      "chineseName": "赫金·布兰特",
+      "image": "/images/sims/HeckingBrant.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "heckingbrent",
+      "familyId": "hecking",
+      "name": "Hecking Brent",
+      "chineseName": "赫金·布林特",
+      "image": "/images/sims/HeckingBrent.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "jeongvenessa",
+      "familyId": "jeong",
+      "name": "Jeong Venessa",
+      "chineseName": "郑·凡妮莎",
+      "image": "/images/sims/JeongVenessa.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "wardjudith",
+      "familyId": "ward",
+      "name": "Ward Judith",
+      "chineseName": "瓦德·茱迪",
+      "image": "/images/sims/WardJudith.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "baileythorne",
+      "familyId": "baileymoon",
+      "name": "Bailey Thorne",
+      "chineseName": "百利·索恩",
+      "image": "/images/sims/BaileyThorne.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "moonoctavia",
+      "familyId": "baileymoon",
+      "name": "Moon Octavia",
+      "chineseName": "穆恩·欧克塔维雅",
+      "image": "/images/sims/MoonOctavia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "baileymoonorange",
+      "familyId": "baileymoon",
+      "name": "BaileyMoon Orange",
+      "chineseName": "百利穆恩·奥治兰",
+      "image": "/images/sims/BaileyMoonOrange.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "chobrytani",
+      "familyId": "cho",
+      "name": "Cho Brytani",
+      "chineseName": "周·布里坦妮",
+      "image": "/images/sims/ChoBrytani.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "dreamerdirk",
+      "familyId": "dreamer",
+      "name": "Dreamer Dirk",
+      "chineseName": "德里莫·德克",
+      "image": "/images/sims/DreamerDirk.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "brokedustin",
+      "familyId": "dustin",
+      "name": "Broke Dustin",
+      "chineseName": "布洛柯·德斯汀",
+      "image": "/images/sims/BrokeDustin.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "altoholly",
+      "familyId": "alto",
+      "name": "Alto Holly",
+      "chineseName": "艾托·荷莉",
+      "image": "/images/sims/AltoHolly.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fabulousizzy",
+      "familyId": "fabulous",
+      "name": "Fabulous Izzy",
+      "chineseName": "菲比乐斯 ·伊奇",
+      "image": "/images/sims/FabulousIzzy.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "flemmingkayla",
+      "familyId": "flemming",
+      "name": "Flemming Kayla",
+      "chineseName": "弗莱明·凯拉",
+      "image": "/images/sims/FlemmingKayla.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "arielbaby",
+      "familyId": "baby",
+      "name": "Ariel Baby",
+      "chineseName": "婴儿·艾莉",
+      "image": "/images/sims/ArielBaby.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sigworthjess",
+      "familyId": "sigworth",
+      "name": "Sigworth Jess",
+      "chineseName": "希格沃斯·杰茜",
+      "image": "/images/sims/SigworthJess.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sigworthdylan",
+      "familyId": "sigworth",
+      "name": "Sigworth Dylan",
+      "chineseName": "希格沃斯·狄伦",
+      "image": "/images/sims/SigworthDylan.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sigworthchristie",
+      "familyId": "sigworth",
+      "name": "Sigworth Christie",
+      "chineseName": "希格沃斯·克莉丝缇",
+      "image": "/images/sims/SigworthChristie.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "cahillgeorge",
+      "familyId": "cahill",
+      "name": "Cahill George",
+      "chineseName": "卡希尔·乔治",
+      "image": "/images/sims/CahillGeorge.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "egglestonmark",
+      "familyId": "eclecticarts",
+      "name": "Eggleston Mark",
+      "chineseName": "艾格斯顿·马克",
+      "image": "/images/sims/EgglestonMark.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "martinalice",
+      "familyId": "eclecticarts",
+      "name": "Martin Alice",
+      "chineseName": "马丁·艾莉丝",
+      "image": "/images/sims/MartinAlice.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "hollandleslie",
+      "familyId": "eclecticarts",
+      "name": "Holland Leslie",
+      "chineseName": "荷兰·莱斯利",
+      "image": "/images/sims/HollandLeslie.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "roswellted",
+      "familyId": "roswell",
+      "name": "Roswell Ted",
+      "chineseName": "罗斯威尔·泰德",
+      "image": "/images/sims/RoswellTed.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "roswellmeredith",
+      "familyId": "roswell",
+      "name": "Roswell Meredith",
+      "chineseName": "罗斯威尔·梅瑞迪斯",
+      "image": "/images/sims/RoswellMeredith.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "prieserwin",
+      "familyId": "pries",
+      "name": "Pries Erwin",
+      "chineseName": "普里斯·厄文",
+      "image": "/images/sims/PriesErwin.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ngataoliana",
+      "familyId": "ngata",
+      "name": "Ngata Oliana",
+      "chineseName": "加塔·欧莉亚娜",
+      "image": "/images/sims/NgataOliana.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "illesleila",
+      "familyId": "ngata",
+      "name": "Illes Leila",
+      "chineseName": "伊利斯·莱拉",
+      "image": "/images/sims/IllesLeila.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ngatatane",
+      "familyId": "ngata",
+      "name": "Ngata Tane",
+      "chineseName": "加塔·塔内",
+      "image": "/images/sims/NgataTane.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kahananuialika",
+      "familyId": "kahananui",
+      "name": "Kahananui Alika",
+      "chineseName": "卡哈南内·亚力卡",
+      "image": "/images/sims/KahananuiAlika.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kahananuimele",
+      "familyId": "kahananui",
+      "name": "Kahananui Mele",
+      "chineseName": "卡哈南内·梅丽",
+      "image": "/images/sims/KahananuiMele.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "hoapilikeala",
+      "familyId": "hoapili",
+      "name": "Hoapili Keala",
+      "chineseName": "浩皮里·琪拉",
+      "image": "/images/sims/HoapiliKeala.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "hauatalia",
+      "familyId": "hoapili",
+      "name": "Hauata Lia",
+      "chineseName": "哈乌阿塔·莉亚",
+      "image": "/images/sims/HauataLia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kealohamakoa",
+      "familyId": "kealoha",
+      "name": "Kealoha Makoa",
+      "chineseName": "基阿罗哈·马可亚",
+      "image": "/images/sims/KealohaMakoa.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kealohalilliana",
+      "familyId": "kealoha",
+      "name": "Kealoha Lilliana",
+      "chineseName": "基阿罗哈·莉莉亚娜",
+      "image": "/images/sims/KealohaLilliana.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "talladuane",
+      "familyId": "kealoha",
+      "name": "Talla Duane",
+      "chineseName": "塔拉·杜恩",
+      "image": "/images/sims/TallaDuane.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kealohanani",
+      "familyId": "kealoha",
+      "name": "Kealoha Nani",
+      "chineseName": "基阿罗哈·纳尼",
+      "image": "/images/sims/KealohaNani.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "mahiainalani",
+      "familyId": "mahiai",
+      "name": "Mahiai Nalani",
+      "chineseName": "玛西艾·那拉尼",
+      "image": "/images/sims/MahiaiNalani.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ionakalamainuu",
+      "familyId": "iona",
+      "name": "Iona Kalamainuu",
+      "chineseName": "伊欧那·卡拉马伊努",
+      "image": "/images/sims/IonaKalamainuu.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "hekekiaukupanipo",
+      "familyId": "hekekia",
+      "name": "Hekekia Ukupanipo",
+      "chineseName": "海克基亚·乌库帕尼波",
+      "image": "/images/sims/HekekiaUkupanipo.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "uhapakaa",
+      "familyId": "uha",
+      "name": "Uha Pakaa",
+      "chineseName": "乌哈·帕卡亚",
+      "image": "/images/sims/UhaPakaa.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "clarkebecca",
+      "familyId": "bestoffriends",
+      "name": "Clarke Becca",
+      "chineseName": "克拉克·贝卡",
+      "image": "/images/sims/ClarkeBecca.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "wrightjulia",
+      "familyId": "bestoffriends",
+      "name": "Wright Julia",
+      "chineseName": "莱特·尤莉娅",
+      "image": "/images/sims/WrightJulia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "elderberryekram",
+      "familyId": "elderberry",
+      "name": "Elderberry Ekram",
+      "chineseName": "接骨木莓·埃克拉姆",
+      "image": "/images/sims/ElderberryEkram.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "elderberryeleanore",
+      "familyId": "elderberry",
+      "name": "Elderberry Eleanore",
+      "chineseName": "接骨木莓·伊莲诺",
+      "image": "/images/sims/ElderberryEleanore.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "elderberryrohan",
+      "familyId": "elderberry",
+      "name": "Elderberry Rohan",
+      "chineseName": "接骨木莓·洛恩",
+      "image": "/images/sims/ElderberryRohan.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "pleasantangela",
+      "familyId": "pleasant",
+      "name": "Pleasant Angela",
+      "chineseName": "普莱森特·安吉拉",
+      "image": "/images/sims/PleasantAngela.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "pleasantlilith",
+      "familyId": "pleasant",
+      "name": "Pleasant Lilith",
+      "chineseName": "普莱森特·莉莉丝",
+      "image": "/images/sims/PleasantLilith.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fletchercameron",
+      "familyId": "fletcher",
+      "name": "Fletcher Cameron",
+      "chineseName": "弗莱彻·卡梅伦",
+      "image": "/images/sims/FletcherCameron.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bhamraserena",
+      "familyId": "bhamra",
+      "name": "Bhamra Serena",
+      "chineseName": "巴姆拉·塞琳娜",
+      "image": "/images/sims/BhamraSerena.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fenjing",
+      "familyId": "fen",
+      "name": "Fen Jing",
+      "chineseName": "冯·晶",
+      "image": "/images/sims/FenJing.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "jabarithomas",
+      "familyId": "jabari",
+      "name": "Jabari Thomas",
+      "chineseName": "贾巴里·托马斯",
+      "image": "/images/sims/JabariThomas.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "mckinnonlana",
+      "familyId": "mckinnon",
+      "name": "McKinnon Lana",
+      "chineseName": "麦金农·拉娜",
+      "image": "/images/sims/McKinnonLana.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "psydedfelix",
+      "familyId": "psyded",
+      "name": "Psyded Felix",
+      "chineseName": "赛迪德·菲利克斯",
+      "image": "/images/sims/PsydedFelix.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "charmminerva",
+      "familyId": "charm",
+      "name": "Charm Minerva",
+      "chineseName": "恰姆·米涅瓦",
+      "image": "/images/sims/CharmMinerva.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "charmgemma",
+      "familyId": "charm",
+      "name": "Charm Gemma",
+      "chineseName": "恰姆·杰玛",
+      "image": "/images/sims/CharmGemma.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "charmdarrel",
+      "familyId": "charm",
+      "name": "Charm Darrel",
+      "chineseName": "恰姆·达雷尔",
+      "image": "/images/sims/CharmDarrel.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ernestemilia",
+      "familyId": "charm",
+      "name": "Ernest Emilia",
+      "chineseName": "埃内斯特·艾米莉亚",
+      "image": "/images/sims/ErnestEmilia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "anansigrace",
+      "familyId": "amicableacolytes",
+      "name": "Anansi Grace",
+      "chineseName": "阿南西·葛蕾丝",
+      "image": "/images/sims/AnansiGrace.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "collettetomax",
+      "familyId": "amicableacolytes",
+      "name": "Collette Tomax",
+      "chineseName": "科莱特·托麦斯",
+      "image": "/images/sims/ColletteTomax.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "embermorgyn",
+      "familyId": "ember",
+      "name": "Ember Morgyn",
+      "chineseName": "炭炭·摩根",
+      "image": "/images/sims/EmberMorgyn.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fabal",
+      "familyId": "faba",
+      "name": "Faba L",
+      "chineseName": "法芭·艾萝",
+      "image": "/images/sims/FabaL.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "silversweatersimeon",
+      "familyId": "silversweater",
+      "name": "Silversweater Simeon",
+      "chineseName": "席维史威特·西蒙",
+      "image": "/images/sims/SilversweaterSimeon.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "harriscletus",
+      "familyId": "harris",
+      "name": "Harris Cletus",
+      "chineseName": "哈里斯·克莱特斯",
+      "image": "/images/sims/HarrisCletus.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "harrisfaye",
+      "familyId": "harris",
+      "name": "Harris Faye",
+      "chineseName": "哈里斯·菲伊",
+      "image": "/images/sims/HarrisFaye.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "harrisjeb",
+      "familyId": "harris",
+      "name": "Harris Jeb",
+      "chineseName": "哈里斯·杰布",
+      "image": "/images/sims/HarrisJeb.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "harrisgideon",
+      "familyId": "harris",
+      "name": "Harris Gideon",
+      "chineseName": "哈里斯·吉恩迪",
+      "image": "/images/sims/HarrisGideon.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "spencerfrancine",
+      "familyId": "harris",
+      "name": "Spencer Francine",
+      "chineseName": "斯宾塞·芙兰辛",
+      "image": "/images/sims/SpencerFrancine.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "tinkertina",
+      "familyId": "tinker",
+      "name": "Tinker Tina",
+      "chineseName": "廷克尔·蒂娜",
+      "image": "/images/sims/TinkerTina.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "tinkeryasemin",
+      "familyId": "tinker",
+      "name": "Tinker Yasemin",
+      "chineseName": "廷克尔·雅思敏",
+      "image": "/images/sims/TinkerYasemin.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "tinkerolive",
+      "familyId": "tinker",
+      "name": "Tinker Olive",
+      "chineseName": "廷克尔·奥莉薇",
+      "image": "/images/sims/TinkerOlive.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sterlingbess",
+      "familyId": "sterlingrico",
+      "name": "Sterling Bess",
+      "chineseName": "斯特林·贝丝",
+      "image": "/images/sims/SterlingBess.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ricojules",
+      "familyId": "sterlingrico",
+      "name": "Rico Jules",
+      "chineseName": "里科·朱尔斯",
+      "image": "/images/sims/RicoJules.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "greenburgknox",
+      "familyId": "greenburg",
+      "name": "Greenburg Knox",
+      "chineseName": "格林伯格·诺克斯",
+      "image": "/images/sims/GreenburgKnox.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "greenburgmary",
+      "familyId": "greenburg",
+      "name": "Greenburg Mary",
+      "chineseName": "格林伯格·玛莉",
+      "image": "/images/sims/GreenburgMary.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "greenburgblossom",
+      "familyId": "greenburg",
+      "name": "Greenburg Blossom",
+      "chineseName": "格林伯格·布洛森",
+      "image": "/images/sims/GreenburgBlossom.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "itonaoki",
+      "familyId": "ito",
+      "name": "Ito Naoki",
+      "chineseName": "伊藤·直树",
+      "image": "/images/sims/ItoNaoki.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "itomegumi",
+      "familyId": "ito",
+      "name": "Ito Megumi",
+      "chineseName": "伊藤·惠美",
+      "image": "/images/sims/ItoMegumi.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "itokiyoshi",
+      "familyId": "ito",
+      "name": "Ito Kiyoshi",
+      "chineseName": "伊藤·清志",
+      "image": "/images/sims/ItoKiyoshi.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "itonanami",
+      "familyId": "ito",
+      "name": "Ito Nanami",
+      "chineseName": "伊藤·七海",
+      "image": "/images/sims/ItoNanami.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "nishidakeshigeru",
+      "familyId": "nishidake",
+      "name": "Nishidake Shigeru",
+      "chineseName": "西岳·茂",
+      "image": "/images/sims/NishidakeShigeru.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "nishidakesachiko",
+      "familyId": "nishidake",
+      "name": "Nishidake Sachiko",
+      "chineseName": "西岳·幸子",
+      "image": "/images/sims/NishidakeSachiko.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "nishidakekaori",
+      "familyId": "nishidake",
+      "name": "Nishidake Kaori",
+      "chineseName": "西岳·香织",
+      "image": "/images/sims/NishidakeKaori.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "akiyamakado",
+      "familyId": "akiyama",
+      "name": "Akiyama Kado",
+      "chineseName": "秋山·廉",
+      "image": "/images/sims/AkiyamaKado.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "akiyamajenna",
+      "familyId": "akiyama",
+      "name": "Akiyama Jenna",
+      "chineseName": "秋山·珍娜",
+      "image": "/images/sims/AkiyamaJenna.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "akiyamataku",
+      "familyId": "akiyama",
+      "name": "Akiyama Taku",
+      "chineseName": "秋山·拓",
+      "image": "/images/sims/AkiyamaTaku.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "akiyamamiki",
+      "familyId": "akiyama",
+      "name": "Akiyama Miki",
+      "chineseName": "秋山·美纪",
+      "image": "/images/sims/AkiyamaMiki.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "moodyian",
+      "familyId": "moodymcmillan",
+      "name": "Moody Ian",
+      "chineseName": "穆迪·伊安",
+      "image": "/images/sims/MoodyIan.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "mcmillanderek",
+      "familyId": "moodymcmillan",
+      "name": "McMillan Derek",
+      "chineseName": "麦克米伦·德雷克",
+      "image": "/images/sims/McMillanDerek.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "watsonimran",
+      "familyId": "watson",
+      "name": "Watson Imran",
+      "chineseName": "沃森·伊姆兰",
+      "image": "/images/sims/WatsonImran.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "watsonmaira",
+      "familyId": "watson",
+      "name": "Watson Maira",
+      "chineseName": "沃森·玛利亚",
+      "image": "/images/sims/WatsonMaira.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "watsonrahmi",
+      "familyId": "watson",
+      "name": "Watson Rahmi",
+      "chineseName": "沃森·拉赫米",
+      "image": "/images/sims/WatsonRahmi.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "watsonrashidah",
+      "familyId": "watson",
+      "name": "Watson Rashidah",
+      "chineseName": "沃森·拉希达",
+      "image": "/images/sims/WatsonRashidah.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "watsonthomas",
+      "familyId": "watson",
+      "name": "Watson Thomas",
+      "chineseName": "沃森·托马斯",
+      "image": "/images/sims/WatsonThomas.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kangcecilia",
+      "familyId": "anewstart",
+      "name": "Kang Cecilia",
+      "chineseName": "康·塞西莉亚",
+      "image": "/images/sims/KangCecilia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "scottsimon",
+      "familyId": "scott",
+      "name": "Scott Simon",
+      "chineseName": "斯科特·莎拉",
+      "image": "/images/sims/ScottSimon.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "scottsara",
+      "familyId": "scott",
+      "name": "Scott Sara",
+      "chineseName": "斯科特·西蒙",
+      "image": "/images/sims/ScottSara.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "crumplebottomagnes",
+      "familyId": "crumplebottom",
+      "name": "Crumplebottom Agnes",
+      "chineseName": "克兰普巴顿·安妮丝",
+      "image": "/images/sims/CrumplebottomAgnes.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "crumplebottomagatha",
+      "familyId": "crumplebottom",
+      "name": "Crumplebottom Agatha",
+      "chineseName": "克兰普巴顿·阿嘉莎",
+      "image": "/images/sims/CrumplebottomAgatha.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bellmichael",
+      "familyId": "bell",
+      "name": "Bell Michael",
+      "chineseName": "贝尔·麦可",
+      "image": "/images/sims/BellMichael.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "choprarahul",
+      "familyId": "chopra",
+      "name": "Chopra Rahul",
+      "chineseName": "乔普拉·拉维娜",
+      "image": "/images/sims/ChopraRahul.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "chopralavina",
+      "familyId": "chopra",
+      "name": "Chopra Lavina",
+      "chineseName": "乔普拉·拉胡尔",
+      "image": "/images/sims/ChopraLavina.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "goldbloomkim",
+      "familyId": "goldbloom",
+      "name": "Goldbloom Kim",
+      "chineseName": "戈德布鲁姆·金",
+      "image": "/images/sims/GoldbloomKim.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "laurentgreta",
+      "familyId": "laurent",
+      "name": "Laurent Greta",
+      "chineseName": "劳伦特·格丽塔",
+      "image": "/images/sims/LaurentGreta.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "laurenthector",
+      "familyId": "laurent",
+      "name": "Laurent Hector",
+      "chineseName": "劳伦特·赫克托",
+      "image": "/images/sims/LaurentHector.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "laurenthilary",
+      "familyId": "laurent",
+      "name": "Laurent Hilary",
+      "chineseName": "劳伦特·希蕾莉",
+      "image": "/images/sims/LaurentHilary.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "laurentjace",
+      "familyId": "laurent",
+      "name": "Laurent Jace",
+      "chineseName": "劳伦特·杰斯",
+      "image": "/images/sims/LaurentJace.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "thebearnessa",
+      "familyId": "laurent",
+      "name": "Thebe Arnessa",
+      "chineseName": "提比·阿妮莎",
+      "image": "/images/sims/ThebeArnessa.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "markovicmateo",
+      "familyId": "markovic",
+      "name": "Markovic Mateo",
+      "chineseName": "马尔科维奇·马蒂奥",
+      "image": "/images/sims/MarkovicMateo.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "markoviclucia",
+      "familyId": "markovic",
+      "name": "Markovic Lucia",
+      "chineseName": "马尔科维奇·露西亚",
+      "image": "/images/sims/MarkovicLucia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "markovictomi",
+      "familyId": "markovic",
+      "name": "Markovic Tomi",
+      "chineseName": "马尔科维奇·托米",
+      "image": "/images/sims/MarkovicTomi.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "jaleelfaiz",
+      "familyId": "jaleel",
+      "name": "Jaleel Faiz",
+      "chineseName": "杰里尔·费兹",
+      "image": "/images/sims/JaleelFaiz.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sotocamille",
+      "familyId": "soto",
+      "name": "Soto Camille",
+      "chineseName": "索托·卡米尔",
+      "image": "/images/sims/SotoCamille.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sotodominique",
+      "familyId": "soto",
+      "name": "Soto Dominique",
+      "chineseName": "索托·多米尼克",
+      "image": "/images/sims/SotoDominique.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "pricejanae",
+      "familyId": "price",
+      "name": "Price Janae",
+      "chineseName": "普莱斯·贾娜",
+      "image": "/images/sims/PriceJanae.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "pricemarcel",
+      "familyId": "price",
+      "name": "Price Marcel",
+      "chineseName": "普莱斯·马塞尔",
+      "image": "/images/sims/PriceMarcel.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "pricejayden",
+      "familyId": "price",
+      "name": "Price Jayden",
+      "chineseName": "普莱斯·杰登",
+      "image": "/images/sims/PriceJayden.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "pricesavannah",
+      "familyId": "price",
+      "name": "Price Savannah",
+      "chineseName": "普莱斯·萨凡纳",
+      "image": "/images/sims/PriceSavannah.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "pricesidney",
+      "familyId": "price",
+      "name": "Price Sidney",
+      "chineseName": "普莱斯·西德尼",
+      "image": "/images/sims/PriceSidney.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "purikevin",
+      "familyId": "price",
+      "name": "Puri Kevin",
+      "chineseName": "普里·凯文",
+      "image": "/images/sims/PuriKevin.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "prescottamy",
+      "familyId": "prescott",
+      "name": "Prescott Amy",
+      "chineseName": "普列斯考特·艾米",
+      "image": "/images/sims/PrescottAmy.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "prescottmei",
+      "familyId": "prescott",
+      "name": "Prescott Mei",
+      "chineseName": "普列斯科特·梅",
+      "image": "/images/sims/PrescottMei.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "prescottmolly",
+      "familyId": "prescott",
+      "name": "Prescott Molly",
+      "chineseName": "普列斯科特·莫莉",
+      "image": "/images/sims/PrescottMolly.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lumtai",
+      "familyId": "prescott",
+      "name": "Lum Tai",
+      "chineseName": "卢·泰",
+      "image": "/images/sims/LumTai.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "harjoash",
+      "familyId": "harjo",
+      "name": "Harjo Ash",
+      "chineseName": "哈卓·灰灰",
+      "image": "/images/sims/HarjoAsh.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "harjoava",
+      "familyId": "harjo",
+      "name": "Harjo Ava",
+      "chineseName": "哈卓·艾娃",
+      "image": "/images/sims/HarjoAva.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "harjolucha",
+      "familyId": "harjo",
+      "name": "Harjo Lucha",
+      "chineseName": "哈卓·鲁卡",
+      "image": "/images/sims/HarjoLucha.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kanenoah",
+      "familyId": "harjo",
+      "name": "Kane Noah",
+      "chineseName": "凯恩·诺亚",
+      "image": "/images/sims/KaneNoah.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "morlind-anjelo",
+      "familyId": "morlind",
+      "name": "Morlind  Anjelo",
+      "chineseName": "莫林德·安杰洛",
+      "image": "/images/sims/MorlindAnjelo.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "hiddlestixeloise",
+      "familyId": "hiddlestix",
+      "name": "Hiddlestix Eloise",
+      "chineseName": "希多史提·伊洛丝",
+      "image": "/images/sims/HiddlestixEloise.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "coombesrita",
+      "familyId": "coombes",
+      "name": "Coombes Rita",
+      "chineseName": "库尔斯·丽塔",
+      "image": "/images/sims/CoombesRita.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "volkovkristopher",
+      "familyId": "volkov",
+      "name": "Volkov Kristopher",
+      "chineseName": "沃尔科夫·克里斯托弗",
+      "image": "/images/sims/VolkovKristopher.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "volkovjacob",
+      "familyId": "volkov",
+      "name": "Volkov Jacob",
+      "chineseName": "沃尔科夫·雅各布",
+      "image": "/images/sims/VolkovJacob.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "zhulily",
+      "familyId": "volkov",
+      "name": "Zhu Lily",
+      "chineseName": "朱·莉莉",
+      "image": "/images/sims/ZhuLily.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "howelllou",
+      "familyId": "howell",
+      "name": "Howell Lou",
+      "chineseName": "豪威尔·卢",
+      "image": "/images/sims/HowellLou.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lopezcelene",
+      "familyId": "lopezcelene",
+      "name": "Lopez Celene",
+      "chineseName": "洛佩兹·赛琳",
+      "image": "/images/sims/LopezCelene.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "oaklowrory",
+      "familyId": "oaklow",
+      "name": "Oaklow Rory",
+      "chineseName": "奥克洛·洛里",
+      "image": "/images/sims/OaklowRory.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "wilderwolfgang",
+      "familyId": "wilder",
+      "name": "Wilder Wolfgang",
+      "chineseName": "威尔德·沃夫冈",
+      "image": "/images/sims/WilderWolfgang.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "greg",
+      "familyId": "greg",
+      "name": "Greg",
+      "chineseName": "格雷格",
+      "image": "/images/sims/Greg.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "roblesjay",
+      "familyId": "roblesruano",
+      "name": "Robles Jay",
+      "chineseName": "罗布雷斯·杰",
+      "image": "/images/sims/RoblesJay.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ruanodoli",
+      "familyId": "roblesruano",
+      "name": "Ruano Doli",
+      "chineseName": "鲁阿诺·多莉",
+      "image": "/images/sims/RuanoDoli.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ruanotala",
+      "familyId": "roblesruano",
+      "name": "Ruano Tala",
+      "chineseName": "鲁阿诺·塔拉",
+      "image": "/images/sims/RuanoTala.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "roblesignacio",
+      "familyId": "robles",
+      "name": "Robles Ignacio",
+      "chineseName": "罗布雷斯·伊格纳西奥",
+      "image": "/images/sims/RoblesIgnacio.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "roblesbernice",
+      "familyId": "robles",
+      "name": "Robles Bernice",
+      "chineseName": "罗布雷斯·波妮丝",
+      "image": "/images/sims/RoblesBernice.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "roblesian",
+      "familyId": "robles",
+      "name": "Robles Ian",
+      "chineseName": "罗布雷斯·伊恩",
+      "image": "/images/sims/RoblesIan.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "roblesaurelio",
+      "familyId": "robles",
+      "name": "Robles Aurelio",
+      "chineseName": "罗布雷斯·奥雷利奥",
+      "image": "/images/sims/RoblesAurelio.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "michaelsonceleste",
+      "familyId": "michaelson",
+      "name": "Michaelson Celeste",
+      "chineseName": "迈可尔森·塞莱斯特",
+      "image": "/images/sims/MichaelsonCeleste.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "michaelsonchristopher",
+      "familyId": "michaelson",
+      "name": "Michaelson Christopher",
+      "chineseName": "迈可尔森·克里斯多夫",
+      "image": "/images/sims/MichaelsonChristopher.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "michaelsonatlas",
+      "familyId": "michaelson",
+      "name": "Michaelson Atlas",
+      "chineseName": "迈可尔森·阿特拉斯",
+      "image": "/images/sims/MichaelsonAtlas.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "michaelsonorion",
+      "familyId": "michaelson",
+      "name": "Michaelson Orion",
+      "chineseName": "迈可尔森·欧莱恩",
+      "image": "/images/sims/MichaelsonOrion.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lunaxochitl",
+      "familyId": "lunasullivan",
+      "name": "Luna Xochitl",
+      "chineseName": "卢那·霍奇蒂尔",
+      "image": "/images/sims/LunaXochitl.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sullivaneleanor",
+      "familyId": "lunasullivan",
+      "name": "Sullivan Eleanor",
+      "chineseName": "沙利文·埃莉诺",
+      "image": "/images/sims/SullivanEleanor.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lunakarmine",
+      "familyId": "lunasullivan",
+      "name": "Luna Karmine",
+      "chineseName": "卢那·卡尔敏",
+      "image": "/images/sims/LunaKarmine.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kylesonkyle",
+      "familyId": "kyleson",
+      "name": "Kyleson Kyle",
+      "chineseName": "凯尔森·凯尔",
+      "image": "/images/sims/KylesonKyle.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "goosemandon",
+      "familyId": "gooseman",
+      "name": "Gooseman Don",
+      "chineseName": "古斯曼·唐恩",
+      "image": "/images/sims/GoosemanDon.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "traceymarissa",
+      "familyId": "nectarmakingduo",
+      "name": "Tracey Marissa",
+      "chineseName": "特雷西·玛丽萨",
+      "image": "/images/sims/TraceyMarissa.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "daviladani",
+      "familyId": "nectarmakingduo",
+      "name": "Davila Dani",
+      "chineseName": "达维拉·丹妮",
+      "image": "/images/sims/DavilaDani.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "groveumber",
+      "familyId": "grovefamily",
+      "name": "Grove Umber",
+      "chineseName": "格洛夫·安柏尔",
+      "image": "/images/sims/GroveUmber.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "grovejuniper",
+      "familyId": "grovefamily",
+      "name": "Grove Juniper",
+      "chineseName": "格洛夫·朱妮珀",
+      "image": "/images/sims/GroveJuniper.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "grovewren",
+      "familyId": "grovefamily",
+      "name": "Grove Wren",
+      "chineseName": "格洛夫·雷恩",
+      "image": "/images/sims/GroveWren.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "grovesienna",
+      "familyId": "siennaflapjack",
+      "name": "Grove Sienna",
+      "chineseName": "格洛夫·西椰娜",
+      "image": "/images/sims/GroveSienna.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "crinkletoproberto",
+      "familyId": "crinkletop",
+      "name": "Crinkletop Roberto",
+      "chineseName": "克林克托普·罗伯托",
+      "image": "/images/sims/CrinkletopRoberto.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "cahyaputrivanesha",
+      "familyId": "cahyaputri",
+      "name": "Cahyaputri Vanesha",
+      "chineseName": "卡雅普特里·瓦妮莎",
+      "image": "/images/sims/CahyaputriVanesha.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "cahyaputrizhafira",
+      "familyId": "cahyaputri",
+      "name": "Cahyaputri Zhafira",
+      "chineseName": "卡雅普特里·扎菲拉",
+      "image": "/images/sims/CahyaputriZhafira.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "linhchanh",
+      "familyId": "linhsadya",
+      "name": "Linh Chanh",
+      "chineseName": "琳·札安",
+      "image": "/images/sims/LinhChanh.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "linharturo",
+      "familyId": "linhsadya",
+      "name": "Linh Arturo",
+      "chineseName": "琳·阿图罗",
+      "image": "/images/sims/LinhArturo.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sadyalien",
+      "familyId": "linhsadya",
+      "name": "Sadya Lien",
+      "chineseName": "萨迪亚·莉恩",
+      "image": "/images/sims/SadyaLien.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sadya-alon",
+      "familyId": "linhsadya",
+      "name": "Sadya  Alon",
+      "chineseName": "萨迪亚·阿隆",
+      "image": "/images/sims/SadyaAlon.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sadyacam",
+      "familyId": "linhsadya",
+      "name": "Sadya Cam",
+      "chineseName": "萨迪亚·坎姆",
+      "image": "/images/sims/SadyaCam.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "linhthi",
+      "familyId": "linh",
+      "name": "Linh Thi",
+      "chineseName": "琳·缇",
+      "image": "/images/sims/LinhThi.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bunmabua",
+      "familyId": "bunma",
+      "name": "BunMa Bua",
+      "chineseName": "邦玛·布雅",
+      "image": "/images/sims/BunMaBua.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bunmakasem",
+      "familyId": "bunma",
+      "name": "BunMa Kasem",
+      "chineseName": "邦玛·卡塞姆",
+      "image": "/images/sims/BunMaKasem.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bunmanin",
+      "familyId": "bunma",
+      "name": "BunMa Nin",
+      "chineseName": "邦玛·宁",
+      "image": "/images/sims/BunMaNin.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "bunmasud",
+      "familyId": "bunma",
+      "name": "BunMa Sud",
+      "chineseName": "邦玛·苏德",
+      "image": "/images/sims/BunMaSud.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lipanya",
+      "familyId": "li",
+      "name": "Li Panya",
+      "chineseName": "李·潘雅",
+      "image": "/images/sims/LiPanya.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lopezmonica",
+      "familyId": "lopez",
+      "name": "Lopez Monica",
+      "chineseName": "洛佩兹·莫妮卡",
+      "image": "/images/sims/LopezMonica.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lopezcarlos",
+      "familyId": "lopez",
+      "name": "Lopez Carlos",
+      "chineseName": "洛佩慈·卡洛斯",
+      "image": "/images/sims/LopezCarlos.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lopezluz",
+      "familyId": "lopez",
+      "name": "Lopez Luz",
+      "chineseName": "洛佩兹·勒兹",
+      "image": "/images/sims/LopezLuz.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ortegacarmen",
+      "familyId": "dynamicdaters",
+      "name": "Ortega Carmen",
+      "chineseName": "奥尔特加·卡门",
+      "image": "/images/sims/OrtegaCarmen.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "cruzelia",
+      "familyId": "dynamicdaters",
+      "name": "Cruz Elia",
+      "chineseName": "克鲁兹·埃利亚",
+      "image": "/images/sims/CruzElia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "aguilarmanuel",
+      "familyId": "dynamicdaters",
+      "name": "Aguilar Manuel",
+      "chineseName": "阿吉拉尔·曼努尔",
+      "image": "/images/sims/AguilarManuel.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "xicotencatlyoltic",
+      "familyId": "dynamicdaters",
+      "name": "Xicotencatl Yoltic",
+      "chineseName": "希科滕卡特尔·约尔蒂奇",
+      "image": "/images/sims/XicotencatlYoltic.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "nadiraziz",
+      "familyId": "nadir",
+      "name": "Nadir Aziz",
+      "chineseName": "纳迪尔·阿奇兹",
+      "image": "/images/sims/NadirAziz.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "nadirvalentina",
+      "familyId": "nadir",
+      "name": "Nadir Valentina",
+      "chineseName": "纳迪尔·瓦伦缇娜",
+      "image": "/images/sims/NadirValentina.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "gomesesther",
+      "familyId": "izadigomes",
+      "name": "Gomes Esther",
+      "chineseName": "戈麦斯·埃斯特",
+      "image": "/images/sims/GomesEsther.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "izadizuleika",
+      "familyId": "izadigomes",
+      "name": "Izadi Zuleika",
+      "chineseName": "伊扎迪·祖拉卡",
+      "image": "/images/sims/IzadiZuleika.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "gomesradwan",
+      "familyId": "gomes",
+      "name": "Gomes Radwan",
+      "chineseName": "戈麦斯·拉德万",
+      "image": "/images/sims/GomesRadwan.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "gomestziporah",
+      "familyId": "gomes",
+      "name": "Gomes Tziporah",
+      "chineseName": "戈麦斯·茨波拉",
+      "image": "/images/sims/GomesTziporah.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "gomeszelmira",
+      "familyId": "gomes",
+      "name": "Gomes Zelmira",
+      "chineseName": "戈麦斯·泽尔米拉",
+      "image": "/images/sims/GomesZelmira.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "aetherkai",
+      "familyId": "aether",
+      "name": "Aether Kai",
+      "chineseName": "伊瑟·凯",
+      "image": "/images/sims/AetherKai.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "aetherekade",
+      "familyId": "aether",
+      "name": "Aether Ekade",
+      "chineseName": "伊瑟·埃卡德",
+      "image": "/images/sims/AetherEkade.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "aethertakama",
+      "familyId": "aether",
+      "name": "Aether Takama",
+      "chineseName": "伊瑟·高间",
+      "image": "/images/sims/AetherTakama.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "coffinlayne",
+      "familyId": "specter",
+      "name": "Coffin Layne",
+      "chineseName": "科芬·莱恩",
+      "image": "/images/sims/CoffinLayne.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "specternyon",
+      "familyId": "specter",
+      "name": "Specter Nyon",
+      "chineseName": "幽浑·尼昂",
+      "image": "/images/sims/SpecterNyon.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "specterolive",
+      "familyId": "specter",
+      "name": "Specter Olive",
+      "chineseName": "幽浑·奥莉薇",
+      "image": "/images/sims/SpecterOlive.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "alice",
+      "familyId": "alice",
+      "name": "Alice",
+      "chineseName": "艾莉丝",
+      "image": "/images/sims/Alice.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "edith",
+      "familyId": "edith",
+      "name": "Edith",
+      "chineseName": "伊迪丝",
+      "image": "/images/sims/Edith.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "gothladyravendancer",
+      "familyId": "gothlady",
+      "name": "Goth LadyRavendancer",
+      "chineseName": "高斯·鸦舞者女士",
+      "image": "/images/sims/GothLadyRavendancer.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "warezwaylon",
+      "familyId": "warez",
+      "name": "Warez Waylon",
+      "chineseName": "瓦雷兹·威伦",
+      "image": "/images/sims/WarezWaylon.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lodenerik",
+      "familyId": "loden",
+      "name": "Loden Erik",
+      "chineseName": "洛登·艾瑞克",
+      "image": "/images/sims/LodenErik.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lodenfreya",
+      "familyId": "loden",
+      "name": "Loden Freya",
+      "chineseName": "洛登·芙蕾雅",
+      "image": "/images/sims/LodenFreya.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lodengrammahattie",
+      "familyId": "loden",
+      "name": "Loden GrammaHattie",
+      "chineseName": "洛登·海蒂奶奶",
+      "image": "/images/sims/LodenGrammaHattie.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lodennora",
+      "familyId": "loden",
+      "name": "Loden Nora",
+      "chineseName": "洛登·诺拉",
+      "image": "/images/sims/LodenNora.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "lodendahlia",
+      "familyId": "loden",
+      "name": "Loden Dahlia",
+      "chineseName": "洛登·达莉娅",
+      "image": "/images/sims/LodenDahlia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sarponglerato",
+      "familyId": "sarpong",
+      "name": "Sarpong Lerato",
+      "chineseName": "萨普昂·莱拉托",
+      "image": "/images/sims/SarpongLerato.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "sarpongnia",
+      "familyId": "sarpong",
+      "name": "Sarpong Nia",
+      "chineseName": "萨普昂·尼娅",
+      "image": "/images/sims/SarpongNia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "colemancannonball",
+      "familyId": "urbanehousesharers",
+      "name": "Coleman Cannonball",
+      "chineseName": "科尔曼·肯诺伯",
+      "image": "/images/sims/ColemanCannonball.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "blackcrispin",
+      "familyId": "urbanehousesharers",
+      "name": "Black Crispin",
+      "chineseName": "布莱克·克里斯平",
+      "image": "/images/sims/BlackCrispin.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "markollie",
+      "familyId": "urbanehousesharers",
+      "name": "Mark Ollie",
+      "chineseName": "马克·奥利",
+      "image": "/images/sims/MarkOllie.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "koopmangert",
+      "familyId": "koopman",
+      "name": "Koopman Gert",
+      "chineseName": "库普曼·格特",
+      "image": "/images/sims/KoopmanGert.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "koopmanjolanda",
+      "familyId": "koopman",
+      "name": "Koopman Jolanda",
+      "chineseName": "库普曼·乔兰达",
+      "image": "/images/sims/KoopmanJolanda.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "hoffmanbruno",
+      "familyId": "hoffman",
+      "name": "Hoffman Bruno",
+      "chineseName": "霍夫曼·布鲁诺",
+      "image": "/images/sims/HoffmanBruno.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "hoffmanfelix",
+      "familyId": "hoffman",
+      "name": "Hoffman Felix",
+      "chineseName": "霍夫曼·菲利克斯",
+      "image": "/images/sims/HoffmanFelix.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "nyhuscorey",
+      "familyId": "nyhus",
+      "name": "Nyhus Corey",
+      "chineseName": "尼赫斯·科里",
+      "image": "/images/sims/NyhusCorey.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "amrizain",
+      "familyId": "amri",
+      "name": "Amri Zain",
+      "chineseName": "艾姆利·札因",
+      "image": "/images/sims/AmriZain.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "nhoamglen",
+      "familyId": "nhoam",
+      "name": "Nhoam Glen",
+      "chineseName": "诺姆·格努",
+      "image": "/images/sims/NhoamGlen.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ladipoayo",
+      "familyId": "ladipo",
+      "name": "Ladipo Ayo",
+      "chineseName": "拉迪波·阿约",
+      "image": "/images/sims/LadipoAyo.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ladipoflora",
+      "familyId": "ladipo",
+      "name": "Ladipo Flora",
+      "chineseName": "拉迪波·芙洛拉",
+      "image": "/images/sims/LadipoFlora.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "demurayelric",
+      "familyId": "enchantedlovers",
+      "name": "DeMuray Elric",
+      "chineseName": "德穆雷·艾尔里克",
+      "image": "/images/sims/DeMurayElric.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "attenberrytodd",
+      "familyId": "enchantedlovers",
+      "name": "Attenberry Todd",
+      "chineseName": "阿滕伯里·托德",
+      "image": "/images/sims/AttenberryTodd.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "summerdreamtitania",
+      "familyId": "summerdream",
+      "name": "Summerdream Titania",
+      "chineseName": "夏梦·缇塔尼亚",
+      "image": "/images/sims/SummerdreamTitania.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "summerdreamoberon",
+      "familyId": "summerdream",
+      "name": "Summerdream Oberon",
+      "chineseName": "夏梦·奥伯伦",
+      "image": "/images/sims/SummerdreamOberon.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "summerdreammara",
+      "familyId": "summerdream",
+      "name": "Summerdream Mara",
+      "chineseName": "夏梦·玛拉",
+      "image": "/images/sims/SummerdreamMara.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ladipoiris",
+      "familyId": "mysticalbesties",
+      "name": "Ladipo Iris",
+      "chineseName": "拉迪波·伊丽丝",
+      "image": "/images/sims/LadipoIris.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kishkanadya",
+      "familyId": "mysticalbesties",
+      "name": "Kishka Nadya",
+      "chineseName": "基什卡·娜迪亚",
+      "image": "/images/sims/KishkaNadya.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "amanizhaleh",
+      "familyId": "amani",
+      "name": "Amani Zhaleh",
+      "chineseName": "阿曼尼·札勒",
+      "image": "/images/sims/AmaniZhaleh.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "rencare",
+      "familyId": "ren",
+      "name": "Ren Care",
+      "chineseName": "任·凯尔",
+      "image": "/images/sims/RenCare.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "almightyspruce",
+      "familyId": "almighty",
+      "name": "Almighty Spruce",
+      "chineseName": "天树·王牌",
+      "image": "/images/sims/AlmightySpruce.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "naturemother",
+      "familyId": "nature",
+      "name": "Nature Mother",
+      "chineseName": "自然·之母",
+      "image": "/images/sims/NatureMother.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "traderjoe",
+      "familyId": "trader",
+      "name": "Trader Joe",
+      "chineseName": "商·乔",
+      "image": "/images/sims/TraderJoe.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "chavezralstonnigel",
+      "familyId": "chavezralston",
+      "name": "ChavezRalston Nigel",
+      "chineseName": "查维兹-劳斯顿·奈杰尔",
+      "image": "/images/sims/ChavezRalstonNigel.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "chavezralstonsara",
+      "familyId": "chavezralston",
+      "name": "ChavezRalston Sara",
+      "chineseName": "查维兹-劳斯顿·莎拉",
+      "image": "/images/sims/ChavezRalstonSara.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "chavezralstonaeris",
+      "familyId": "chavezralston",
+      "name": "ChavezRalston Aeris",
+      "chineseName": "查维兹-劳斯顿·艾莉丝",
+      "image": "/images/sims/ChavezRalstonAeris.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "chavezralstonerin",
+      "familyId": "chavezralston",
+      "name": "ChavezRalston Erin",
+      "chineseName": "查维兹-劳斯顿·艾琳",
+      "image": "/images/sims/ChavezRalstonErin.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "addamjane",
+      "familyId": "addamcommune",
+      "name": "Addam Jane",
+      "chineseName": "亚当·珍",
+      "image": "/images/sims/AddamJane.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "addamstar",
+      "familyId": "addamcommune",
+      "name": "Addam Star",
+      "chineseName": "亚当·斯塔",
+      "image": "/images/sims/AddamStar.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "tchotchkeagora",
+      "familyId": "addamcommune",
+      "name": "Tchotchke Agora",
+      "chineseName": "托榭克·阿戈拉",
+      "image": "/images/sims/TchotchkeAgora.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "brokeskip",
+      "familyId": "addamcommune",
+      "name": "Broke Skip",
+      "chineseName": "布罗克·斯基普",
+      "image": "/images/sims/BrokeSkip.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "perryfreeda",
+      "familyId": "perry",
+      "name": "Perry Freeda",
+      "chineseName": "佩里·芙丽达",
+      "image": "/images/sims/PerryFreeda.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "perrydougie",
+      "familyId": "perry",
+      "name": "Perry Dougie",
+      "chineseName": "佩里·道奇",
+      "image": "/images/sims/PerryDougie.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "scoopbuddy",
+      "familyId": "scoop",
+      "name": "Scoop Buddy",
+      "chineseName": "史酷普·巴迪",
+      "image": "/images/sims/ScoopBuddy.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "preenerpruella",
+      "familyId": "preener",
+      "name": "Preener Pruella",
+      "chineseName": "普利挪·普鲁艾拉",
+      "image": "/images/sims/PreenerPruella.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "akaminetoshie",
+      "familyId": "akamine",
+      "name": "Akamine Toshie",
+      "chineseName": "赤岭·托诗",
+      "image": "/images/sims/AkamineToshie.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kunalraheel",
+      "familyId": "kunal",
+      "name": "Kunal Raheel",
+      "chineseName": "库南·拉希尔",
+      "image": "/images/sims/KunalRaheel.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "kunallaxmi",
+      "familyId": "kunal",
+      "name": "Kunal Laxmi",
+      "chineseName": "库南·拉克希米",
+      "image": "/images/sims/KunalLaxmi.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "montyjuliette",
+      "familyId": "monty",
+      "name": "Monty Juliette",
+      "chineseName": "蒙蒂·茱丽叶",
+      "gender": "Female",
+      "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/MontyJuliette.jpg",
+      "career": "无业",
+      "aspiration": {
+        "name": "Successful Lineage"
+      },
+      "skills": [
+        {
+          "name": "Charisma",
+          "level": 10
+        },
+        {
+          "name": "Piano",
+          "level": 4
+        },
+        {
+          "name": "Swordsmanship",
+          "level": 6
+        }
+      ],
+      "relationships": {
+        "spouse": [
+          {
+            "id": "montyromeo"
+          }
+        ],
+        "lover": [],
+        "parents": [],
+        "children": [
+          {
+            "id": "montydante"
+          }
+        ],
+        "siblings": [
+          {
+            "id": "capptybalt"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "cappconsort"
+          }
+        ],
+        "grandchildren": [],
+        "relatives": [
+          {
+            "id": "cappbeatrice"
+          },
+          {
+            "id": "cappbeatrice"
+          },
+          {
+            "id": "cappvirgilio"
+          }
+        ]
+      }
+    },
+    {
+      "id": "montyromeo",
+      "familyId": "monty",
+      "name": "Monty Romeo",
+      "chineseName": "蒙蒂·罗密欧",
+      "gender": "Male",
+      "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/MontyRomeo.jpg",
+      "career": "烹饪",
+      "aspiration": {
+        "name": "Soulmate"
+      },
+      "skills": [
+        {
+          "name": "",
+          "level": 10
+        },
+        {
+          "name": "Gourmet Cooking",
+          "level": 8
+        },
+        {
+          "name": "Mixology",
+          "level": 7
+        },
+        {
+          "name": "Video gaming",
+          "level": 2
+        }
+      ],
+      "relationships": {
+        "spouse": [
+          {
+            "id": "montyjuliette"
+          }
+        ],
+        "lover": [],
+        "parents": [],
+        "children": [
+          {
+            "id": "montydante"
+          }
+        ],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "montydante",
+      "familyId": "monty",
+      "name": "Monty Dante",
+      "chineseName": "蒙蒂·但丁",
+      "gender": "Male",
+      "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/MontyDante.jpg",
+      "career": "HighSchool",
+      "aspiration": {
+        "name": "Joke Star"
+      },
+      "skills": [
+        {
+          "name": "Cooking",
+          "level": 5
+        },
+        {
+          "name": "Video gaming",
+          "level": 8
+        }
+      ],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [
+          {
+            "id": "montyromeo"
+          },
+          {
+            "id": "montyjuliette"
+          }
+        ],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": [
+          {
+            "id": "capptybalt"
+          },
+          {
+            "id": "cappbeatrice"
+          },
+          {
+            "id": "cappbeatrice"
+          },
+          {
+            "id": "cappvirgilio"
+          }
+        ]
+      }
+    },
+    {
+      "id": "altoenzo",
+      "familyId": "alto",
+      "name": "Alto Enzo",
+      "chineseName": "艾托·恩佐",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/AltoEnzo.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "capptybalt",
+      "familyId": "capp",
+      "name": "Capp Tybalt",
+      "chineseName": "盖普·提伯特",
+      "gender": "Male",
+      "age": "Adult",
+      "maritalStatus": "Single",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/CappTybalt.jpg",
+      "career": "Respected Regent",
+      "aspiration": {
+        "name": "Mansion Baron"
+      },
+      "skills": [
+        {
+          "name": "Charisma",
+          "level": 9
+        },
+        {
+          "name": "Painting",
+          "level": 8
+        },
+        {
+          "name": "Piano",
+          "level": 6
+        },
+        {
+          "name": "Swordsmanship",
+          "level": 2
+        }
+      ],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [
+          {
+            "id": "cappbeatrice"
+          },
+          {
+            "id": "cappbeatrice"
+          },
+          {
+            "id": "cappvirgilio"
+          }
+        ],
+        "siblings": [
+          {
+            "id": "montyjuliette"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "cappconsort"
+          }
+        ],
+        "grandchildren": [],
+        "relatives": [
+          {
+            "id": "montydante"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cappbeatrice",
+      "familyId": "capp",
+      "name": "Capp Beatrice",
+      "chineseName": "盖普·比阿特丽丝",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/CappBeatrice.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "cappceleste",
+      "familyId": "capp",
+      "name": "Capp Celeste",
+      "chineseName": "盖普·塞莱斯特",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/CappCeleste.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "cappvirgilio",
+      "familyId": "capp",
+      "name": "Capp Virgilio",
+      "chineseName": "盖普·维吉里欧",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/CappVirgilio.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "darongadekoya",
+      "familyId": "darong",
+      "name": "Darong Adekoya",
+      "chineseName": "达隆·阿德科亚",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/DarongAdekoya.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "darongjawara",
+      "familyId": "darong",
+      "name": "Darong Jawara",
+      "chineseName": "达隆·贾瓦拉",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/DarongJawara.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "darongamarachi",
+      "familyId": "darong",
+      "name": "Darong Amarachi",
+      "chineseName": "达隆·阿玛拉奇",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/DarongAmarachi.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "darongobi",
+      "familyId": "darong",
+      "name": "Darong Obi",
+      "chineseName": "达隆·奥比",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/DarongObi.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ananouekene",
+      "familyId": "ananou",
+      "name": "Ananou Ekene",
+      "chineseName": "阿南努·埃克内",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/AnanouEkene.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "ananouafua",
+      "familyId": "ananou",
+      "name": "Ananou Afua",
+      "chineseName": "阿南努·阿芙娅",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/AnanouAfua.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "thebevcordelia",
+      "familyId": "thebe",
+      "name": "ThebeV Cordelia",
+      "chineseName": "提比五世·柯德莉亚",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/ThebeVCordelia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "abrantesthiago",
+      "familyId": "thebe",
+      "name": "Abrantes Thiago",
+      "chineseName": "阿布兰特斯·蒂亚戈",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/AbrantesThiago.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "abrantesermelinda",
+      "familyId": "abrantes",
+      "name": "Abrantes Ermelinda",
+      "chineseName": "阿布兰特斯·埃尔梅琳达",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/AbrantesErmelinda.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "abrantessofia",
+      "familyId": "abrantes",
+      "name": "Abrantes Sofia",
+      "chineseName": "阿布兰特斯·索菲亚",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/AbrantesSofia.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "romualdoaloisio",
+      "familyId": "romualdo",
+      "name": "Romualdo Aloisio",
+      "chineseName": "罗穆阿尔多·阿洛伊西奥",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/RomualdoAloisio.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "onojaakachi",
+      "familyId": "akachi",
+      "name": "Onoja Akachi",
+      "chineseName": "奥诺贾·阿卡其 ",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/OnojaAkachi.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "fidentialconnie",
+      "familyId": "fidential",
+      "name": "Fidential Connie",
+      "chineseName": "菲德纳尔·康妮",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/FidentialConnie.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "cappconsort",
+      "familyId": "cappconsort",
+      "name": "Capp Consort",
+      "chineseName": "盖普·康索特",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/CappConsort.jpg",
+      "aspiration": {},
+      "skills": [],
+      "relationships": {
+        "spouse": [],
+        "lover": [],
+        "parents": [],
+        "children": [],
+        "siblings": [],
+        "grandparents": [],
+        "grandchildren": [],
+        "relatives": []
+      }
+    },
+    {
+      "id": "acostafia",
+      "familyId": "acosta",
+      "name": "Acosta Fia",
+      "chineseName": "阿科斯塔·菲娅",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/sims/AcostaFia.jpg",
       "aspiration": {},
       "skills": [],
       "relationships": {
@@ -99,339 +6707,758 @@ export default {
     {
       "id": "goth",
       "name": "Goth Family",
-      "chineseName": "哥特家族",
+      "chineseName": "高斯",
       "world": "Willow Creek",
       "lot": "Ophelia Villa",
       "lotId": "opheliavilla",
       "worldId": "willowcreek",
       "image": "/images/families/Goth.jpg",
-      "description": "The aristocrats of Willow Creek. Known for their gloomy demeanor and mysterious past, the Goths are staples of the community with secrets buried deep within their history.",
+      "description": "高斯是怀着贵族气息，被阴森围绕的家族。 夹在莫蒂默所写的恐怖故事与贝拉的神秘消失之间，卡珊多拉与亚历山大会不会也同样长大成为阴沉的人？",
       "members": [
         {
-          "id": "mortimergoth"
+          "id": "gothmortimer"
         },
         {
-          "id": "bellagoth"
+          "id": "gothbella"
         },
         {
-          "id": "cassandragoth"
+          "id": "gothcassandra"
         },
         {
-          "id": "alexandergoth"
+          "id": "gothalexander"
         }
       ]
     },
     {
       "id": "spencerkimlewis",
       "name": "Spencer-Kim-Lewis",
-      "chineseName": "斯宾塞-金-路易斯",
+      "chineseName": "斯宾塞·金·路易斯",
       "world": "Willow Creek",
       "lot": "Cypress Terrace",
       "lotId": "cypressterrace",
       "worldId": "willowcreek",
       "image": "/images/families/SpencerKimLewis.jpg",
-      "description": "A modern blended family living in a large modern home. They represent the new generation of Willow Creek residents.",
-      "members": []
+      "description": "好吧，以下是详细分析：丹尼斯·金和莉迪亚·斯宾塞生了一个女儿叫做艾莉丝·斯宾塞·金，然后离婚了。艾莉丝嫁给埃瑞克·路易斯，然后有了她自己的女儿奥莉维亚.金.路易斯。他们和艾莉丝的父亲（还记得丹尼斯吧？）和埃瑞克的母亲薇薇安．路易斯一起住。喂，可从没人说过家庭这回事很简单！",
+      "members": [
+        {
+          "id": "kimdennis"
+        },
+        {
+          "id": "lewisvivian"
+        },
+        {
+          "id": "kimspenceralice"
+        },
+        {
+          "id": "lewiseric"
+        },
+        {
+          "id": "lewiskimolivia"
+        }
+      ]
     },
     {
       "id": "pancakes",
       "name": "Pancakes family",
+      "chineseName": "潘克斯",
       "world": "Willow Creek",
       "lot": "Pique Hearth",
       "lotId": "piquehearth",
       "worldId": "willowcreek",
       "image": "/images/families/Pancakes.jpg",
-      "members": []
+      "description": "好可怜的鲍伯与伊莱莎 -- 他们曾经快乐过吗？他们似乎没有办法做任何事来讨彼此欢心。是什么让这对情侣继续在一起？或是反过来说，到底要怎样的火花才有办法让他们分离？",
+      "members": [
+        {
+          "id": "pancakesbob"
+        },
+        {
+          "id": "pancakeseliza"
+        }
+      ]
     },
     {
       "id": "bff",
       "name": "BFF household",
+      "chineseName": "永远的麻吉",
       "world": "Willow Creek",
       "lot": "Garden Essence",
       "lotId": "gardenessence",
       "worldId": "willowcreek",
       "image": "/images/families/BFF.jpg",
-      "members": []
+      "description": "自由自在的莉柏缇、活泼的桑默与宅宅崔维斯是不太相像的好友，没什么可以拆散他们三个。除了桑默与李柏缇对崔维斯那慢慢增长、若有似无的情意…",
+      "members": [
+        {
+          "id": "leeliberty"
+        },
+        {
+          "id": "holidaysummer"
+        },
+        {
+          "id": "scotttravis"
+        }
+      ]
     },
     {
       "id": "zest",
       "name": "Zest family",
+      "chineseName": "杰斯",
       "world": "Oasis Springs",
       "lot": "Slipshod Mesquite",
       "lotId": "slipshodmesquite",
       "worldId": "oasissprings",
       "image": "/images/families/Zest.jpg",
-      "members": []
+      "description": "强尼·杰斯有艺名也有明星梦，偏偏就是没有才华...强尼因为翘课所以被朗德古拉伯小学退学，想要当一个单人喜剧谐星，靠自己名利双收。",
+      "members": [
+        {
+          "id": "zestjohnny"
+        }
+      ]
     },
     {
       "id": "roomies",
       "name": "Roomies household",
+      "chineseName": "室友",
       "world": "Oasis Springs",
       "lot": "Cacti Casa",
       "lotId": "cacticasa",
       "worldId": "oasissprings",
       "image": "/images/families/Roomies.jpg",
-      "members": []
+      "description": "这个家庭看来就像是从电视情境喜剧里搬出来的。这个星期得意的柔依、随和的米切尔、淑女情人杰、还有知性的盖文又会有什么古怪的倒楣事呢？记得收看哦！",
+      "members": [
+        {
+          "id": "patelzoe"
+        },
+        {
+          "id": "kalanimitchell"
+        },
+        {
+          "id": "huntingtoniiij"
+        },
+        {
+          "id": "richardsgavin"
+        }
+      ]
     },
     {
       "id": "caliente",
       "name": "Caliente family",
+      "chineseName": "卡林恩特",
       "world": "Oasis Springs",
       "lot": "Sultry Springside",
       "lotId": "sultryspringside",
       "worldId": "oasissprings",
       "image": "/images/families/Caliente.jpg",
-      "members": []
+      "description": "现在卡崔娜‧卡琳恩特女家长已经搬去和无赖男孩玩伴唐恩一起住，不再是只有女孩的世界了。现在唐恩家里有三个热情迷人的女人，他有办法忠贞不渝，还是会和好几个卡林恩特女人乱来呢？",
+      "members": [
+        {
+          "id": "calientekatrina"
+        },
+        {
+          "id": "calientedina"
+        },
+        {
+          "id": "calientenina"
+        },
+        {
+          "id": "lothariodon"
+        }
+      ]
     },
     {
       "id": "landgraab",
       "name": "Landgraab family",
+      "chineseName": "朗德古拉伯",
       "world": "Oasis Springs",
       "lot": "Affluista Mansion",
       "lotId": "affluistamansion",
       "worldId": "oasissprings",
       "image": "/images/families/Landgraab.jpg",
-      "members": []
+      "description": "朗德古拉伯一家似乎家庭美满、有钱、有礼且勇敢。但南茜和杰弗瑞似乎隐藏着什么。他们的秘密会让他们走向陌路，还是会让他们继续建立起属于自己的富裕王朝？",
+      "members": [
+        {
+          "id": "landgraabgeoffrey"
+        },
+        {
+          "id": "landgraabnancy"
+        },
+        {
+          "id": "landgraabmalcolm"
+        }
+      ]
     },
     {
       "id": "behr",
       "name": "Behr family",
+      "chineseName": "贝洱",
       "world": "Windenburg",
       "lot": "Waterlock Redoubt",
       "lotId": "waterlockredoubt",
       "worldId": "windenburg",
       "image": "/images/families/Behr.jpg",
-      "members": []
+      "description": "小雪和坎蒂最近从她们过世的亲爱的贝洱奶奶那继承了一栋古典稳重的房子。极客少女小雪非常崇拜她那很酷的DJ姐姐坎蒂，不过小雪自己也有一些疯狂技能。当然，她可能没办法成为像坎蒂一样的前卫搓碟大师，但她可以在“炫动方块”上击败任何人。她也迅速地成为温登堡最恶名昭彰的地下黑客。",
+      "members": [
+        {
+          "id": "behryuki"
+        },
+        {
+          "id": "behrcandy"
+        }
+      ]
     },
     {
       "id": "bjergsen",
       "name": "Bjergsen family",
+      "chineseName": "比耶格森",
       "world": "Windenburg",
       "lot": "The Lighthouse",
       "lotId": "thelighthouse",
       "worldId": "windenburg",
       "image": "/images/families/Bjergsen.jpg",
-      "members": []
+      "description": "青少年音乐剧天才索菲亚有梦想，她想成就一番事业。甚至连她阴沉的老爸，完美主义者的老妈，或是讨人厌的天才儿童妹妹都无法阻止她努力攀上颠峰！",
+      "members": [
+        {
+          "id": "bjergsenbjorn"
+        },
+        {
+          "id": "bjergsenclara"
+        },
+        {
+          "id": "bjergsensofia"
+        },
+        {
+          "id": "bjergsenelsa"
+        }
+      ]
     },
     {
       "id": "bro",
       "name": "Bro household",
+      "chineseName": "好哥们",
       "world": "Windenburg",
       "lot": "Dock Den",
       "lotId": "dockden",
       "worldId": "windenburg",
       "image": "/images/families/Bro.jpg",
-      "members": []
+      "description": "科技通大块头瑟吉欧和急躁的DJ瓦昆除了生命中的美好事物之外……没什么共通点。当他们迅速在排行榜爬升并赚进大把钞票时，他们能让他们的住所变得多棒呢？",
+      "members": [
+        {
+          "id": "lechienjoaquin"
+        },
+        {
+          "id": "romeosergio"
+        }
+      ]
     },
     {
       "id": "freespirits",
       "name": "Free Spirits household",
+      "chineseName": "自由灵魂",
       "world": "Windenburg",
       "lot": "Cottage Am See",
       "lotId": "cottageamsee",
       "worldId": "windenburg",
       "image": "/images/families/FreeSpirits.jpg",
-      "members": []
+      "description": "书呆子艾克跟具艺术气息的乌里克不太注重物质生活，不过即使如此，这两个室友也承认他们的房子需要一些改进。艾克可以卖得出去几个故事，或是乌里克终于能拿得出一幅符合他严格标准的画作吗？",
+      "members": [
+        {
+          "id": "haasmaaike"
+        },
+        {
+          "id": "faustulrike"
+        }
+      ]
     },
     {
       "id": "fyres",
       "name": "Fyres family",
+      "chineseName": "丹麦壁炉",
       "world": "Windenburg",
       "lot": "Dresden House",
       "lotId": "dresdenhouse",
       "worldId": "windenburg",
       "image": "/images/families/Fyres.jpg",
-      "members": []
+      "description": "在多米尼克与莫拉这对爱侣之间，所有事都好得不能再好了，可惜他们的女儿不这么认为！富含自由精神的摩根只想和她的叛逆朋友们享乐，但西沃恩本无法忍受那种态度。西沃恩本决心要建立一个可以帮助她事业抱负并受朋友欢迎的机制。这对父母可以享受一点自己的宁静时光吗？还是西沃恩本会在房里的紧张气氛爆发之前搬出去自立呢？",
+      "members": [
+        {
+          "id": "fyresdominic"
+        },
+        {
+          "id": "fyresmoira"
+        },
+        {
+          "id": "fyressiobhan"
+        },
+        {
+          "id": "fyresmorgan"
+        }
+      ]
     },
     {
       "id": "munch",
       "name": "Munch family",
+      "chineseName": "大嚼客",
       "world": "Windenburg",
       "lot": "Coorinberg Cottage",
       "lotId": "coorinbergcottage",
       "worldId": "windenburg",
       "image": "/images/families/Munch.jpg",
-      "members": []
+      "description": "扶养三个孩子从来都不容易，尤其是其中一个拒绝搬出家里，而另一个阴沉又叛逆。不过蜜拉·大嚼客不是为她的家庭牺牲奉献，她就会一无是处，而且她的小卢卡斯总是在她在餐厅辛苦工作一天后，让她打起精神。",
+      "members": [
+        {
+          "id": "munchmila"
+        },
+        {
+          "id": "munchgunther"
+        },
+        {
+          "id": "munchwolfgang"
+        },
+        {
+          "id": "munchlucas"
+        }
+      ]
     },
     {
       "id": "partihaus",
       "name": "Partihaus household",
+      "chineseName": "派对屋",
       "world": "Windenburg",
       "lot": "Factory One",
       "lotId": "factoryone",
       "worldId": "windenburg",
       "image": "/images/families/Partihaus.jpg",
-      "members": []
+      "description": "喝酒，调情，跳舞，再重复这些。在马库斯扩大邀请后，碧玉，伊娃跟保禄很快地就抓紧机会探索世界，并在温登堡建立了终极婴儿床。从此派对便未曾停歇。当他们在一起时，永远都有好戏可看，而他们总是在一起！他们四个人只有做一份半的工作，他们究竟是怎么弄到钱来付帐单的？",
+      "members": [
+        {
+          "id": "capricciosaeva"
+        },
+        {
+          "id": "rosajade"
+        },
+        {
+          "id": "flexmarcus"
+        },
+        {
+          "id": "roccapaolo"
+        }
+      ]
     },
     {
       "id": "villareal",
       "name": "Villareal family",
+      "chineseName": "维拉尔",
       "world": "Windenburg",
       "lot": "Von-Windenburg Estate",
       "lotId": "vonwindenburgestate",
       "worldId": "windenburg",
       "image": "/images/families/Villareal.jpg",
-      "members": []
+      "description": "雅克的妻子在...呃...神秘的状况下消失后，他被留在他巨大的宅邸里扶养三个孩子长大。卢娜和雨果是拥有典型青少年问题的好孩子，但最小的马克斯是浑然天成的恶势力。究竟是雅克会先被孩子们搞疯呢，还是雅克古怪的习惯跟嗜好会把孩子们搞疯？",
+      "members": [
+        {
+          "id": "villarealjacques"
+        },
+        {
+          "id": "villarealluna"
+        },
+        {
+          "id": "villarealhugo"
+        },
+        {
+          "id": "villarealmax"
+        }
+      ]
     },
     {
       "id": "benali",
       "name": "Benali family",
+      "chineseName": "贝纳里",
       "world": "San Myshuno",
       "lot": "910 Medina Studios",
       "lotId": "910medinastudios",
       "worldId": "sanmyshuno",
       "image": "/images/families/Benali.jpg",
-      "members": []
+      "description": "萨利姆在艺术区长大，从小被诗人，音乐家与艺术家环绕。就在他完成那本书之后……他下定决心要当个伟大的作家。喔，还有那个他得破关的电子游戏。再想想，他也得小睡一下。",
+      "members": [
+        {
+          "id": "benalisalim"
+        }
+      ]
     },
     {
       "id": "bheeda",
       "name": "Bheeda family",
+      "chineseName": "比达",
       "world": "San Myshuno",
       "lot": "2A Jasmine Suites",
       "lotId": "2ajasminesuites",
       "worldId": "sanmyshuno",
       "image": "/images/families/Bheeda.jpg",
-      "members": []
+      "description": "有个即将出世的宝宝和狭小的城市公寓，洁敏德和阿伦能为他们的新生儿腾出空间吗？宝宝出生后洁敏德会继续她的调酒工作，还是选择待在家里画画？",
+      "members": [
+        {
+          "id": "bheedaarun"
+        },
+        {
+          "id": "bheedajesminder"
+        }
+      ]
     },
     {
       "id": "feng",
       "name": "Feng family",
+      "chineseName": "芬恩",
       "world": "San Myshuno",
       "lot": "IX Landgraab",
       "lotId": "ixlandgraab",
       "worldId": "sanmyshuno",
       "image": "/images/families/Feng.jpg",
-      "members": []
+      "description": "维克托是受人尊敬且位高权重的政治家。莉丽是一名强悍的女商人。他们受人敬重但阴郁的本质掩盖了他们总有一天要掌管圣米舒诺的邪恶秘密计划！",
+      "members": [
+        {
+          "id": "fenglily"
+        },
+        {
+          "id": "fengvictor"
+        }
+      ]
     },
     {
       "id": "jang",
       "name": "Jang family",
+      "chineseName": "詹",
       "world": "San Myshuno",
       "lot": "121 Hakim House",
       "lotId": "121hakimhouse",
       "worldId": "sanmyshuno",
       "image": "/images/families/Jang.jpg",
-      "members": []
+      "description": "巴科与安娜亚来到圣米舒诺这座熙嚷的城市，好让巴科拓展他正在崛起的喜剧演员事业，而安娜亚则可厘清究竟该专注于哪种兴趣来作为她的职业生涯：该成为启发人心的女歌手还是成功的画家？他们古怪的孩子比莉则乐于享受各种活动。讲到交新朋友，这只交际达人可是没有任何筛选条件的，就算没受邀请也要闯进她邻居的公寓！",
+      "members": [
+        {
+          "id": "janganaya"
+        },
+        {
+          "id": "jangbaako"
+        },
+        {
+          "id": "jangbillie"
+        }
+      ]
     },
     {
       "id": "karaokelegends",
       "name": "Karaoke Legends household",
+      "chineseName": "卡拉OK传奇",
       "world": "San Myshuno",
       "lot": "701 ZenView",
       "lotId": "701zenview",
       "worldId": "sanmyshuno",
       "image": "/images/families/KaraokeLegends.jpg",
-      "members": []
+      "description": "米可是个活泼，有抱负的政治家，和她热爱篮球的好兄弟达林共用一个房间。他们魅力无限的室友基博在米可的眼中梦幻十足，但他对于她再明显不过的调情完全不以为意。他们对卡拉OK共同的热爱能让他们在一起吗？",
+      "members": [
+        {
+          "id": "kiboakira"
+        },
+        {
+          "id": "ojomiko"
+        },
+        {
+          "id": "walshdarling"
+        }
+      ]
     },
     {
       "id": "lobo",
       "name": "Lobo family",
+      "chineseName": "罗保",
       "world": "San Myshuno",
       "lot": "1020 Alto Apartments",
       "lotId": "1020altoapartments",
       "worldId": "sanmyshuno",
       "image": "/images/families/Lobo.jpg",
-      "members": []
+      "description": "不论你是已打响名号或初出茅庐的艺术家，都会在迪亚戈·罗保将他的批判脚步踏进艺廊的那一天期待到浑身颤抖。如果你让他留下深刻印象，你这辈子就注定成功。但如果出了点差错，哪怕只有一种颜色他不喜欢，你可能永远再也无法在这个城镇工作。",
+      "members": [
+        {
+          "id": "lobodiego"
+        }
+      ]
     },
     {
       "id": "pizzazz",
       "name": "Pizzazz family",
+      "chineseName": "比萨兹",
       "world": "San Myshuno",
       "lot": "1312 21 Chic Street",
       "lotId": "131221chic-street",
       "worldId": "sanmyshuno",
       "image": "/images/families/Pizzazz.jpg",
-      "members": []
+      "description": "佩妮是圣米舒诺最酷的事件以及最新潮流的来源。但这位一线网红对她职业生涯的忠贞奉献是否会阻碍她寻找恋情呢？",
+      "members": [
+        {
+          "id": "pizzazzpenny"
+        }
+      ]
     },
     {
       "id": "rasoya",
       "name": "Rasoya family",
+      "chineseName": "瑞索亚",
       "world": "San Myshuno",
       "lot": "20 Culpepper House",
       "lotId": "20culpepperhouse",
       "worldId": "sanmyshuno",
       "image": "/images/families/Rasoya.jpg",
-      "members": []
+      "description": "拉吉可能是个成功的厨师，但他那严厉的母亲仍很担心他何时才能找个好女孩，延续香火……",
+      "members": [
+        {
+          "id": "rasoyaraj"
+        },
+        {
+          "id": "rasoyageeta"
+        }
+      ]
     },
     {
       "id": "straud",
       "name": "Straud family",
+      "chineseName": "斯特劳",
       "world": "Forgotten Hollow",
       "lot": "Straud Mansion",
       "lotId": "straudmansion",
       "worldId": "forgottenhollow",
       "image": "/images/families/Straud.jpg",
-      "members": []
+      "description": "弗拉德劳斯·斯特劳伯爵四世是最近一位住在斯特劳豪宅的后裔，他长得和祖先们非常相似。自从遗忘山谷创建以来，他们世世代代都居住在这里。",
+      "members": [
+        {
+          "id": "straudvladislaus"
+        }
+      ]
     },
     {
       "id": "vatore",
       "name": "Vatore family",
+      "chineseName": "维托",
       "world": "Forgotten Hollow",
       "lot": "Wolfsbane Manor",
       "lotId": "wolfsbanemanor",
       "worldId": "forgottenhollow",
       "image": "/images/families/Vatore.jpg",
-      "members": []
+      "description": "维托家的兄弟姐妹几年前搬进遗忘山谷并努力让遗忘山谷成为他们的家。这有时并不容易，因位他们和弗拉德劳斯·斯特劳处得不是很好，但被问到这点时，他们只提到他们对烹饪的品味不太相同。",
+      "members": [
+        {
+          "id": "vatorelilith"
+        },
+        {
+          "id": "vatorecaleb"
+        }
+      ]
     },
     {
       "id": "hecking",
       "name": "Hecking family",
+      "chineseName": "赫金",
       "world": "Brindleton Bay",
       "lot": "It’s A Good House",
       "lotId": "itsagoodhouse",
       "worldId": "brindletonbay",
       "image": "/images/families/Hecking.jpg",
-      "members": []
+      "description": "新婚的布林特和布兰特似乎对他们的新家生活很满意。小镇的喧嚣为布林特的画作带来灵感，布兰特则热爱探索湾区的美丽社区。但该由谁带着心爱的小玫这件事，他们似乎一直无法取得共识。",
+      "members": [
+        {
+          "id": "heckingbrant"
+        },
+        {
+          "id": "heckingbrent"
+        }
+      ]
     },
     {
       "id": "lynx",
       "name": "Lynx family",
+      "chineseName": "林克斯",
       "world": "Brindleton Bay",
       "lot": "Catscratch Cottage",
       "lotId": "catscratchcottage",
       "worldId": "brindletonbay",
       "image": "/images/families/Lynx.jpg",
-      "members": []
+      "description": "社区里的猫很清楚要上哪去吃顿大餐。卡特琳娜对动物总是很心软，和她住在一起的猫拥有猫咪们所能奢求的最好的家。有时候卡特琳娜会自问，生命的意义是否不仅止于猫……通常她想完就随即又收留了另一只浪猫。",
+      "members": [
+        {
+          "id": "lynxcatarina"
+        }
+      ]
     },
     {
       "id": "delgato",
       "name": "Delgato family",
+      "chineseName": "戴尔加托",
       "world": "Brindleton Bay",
       "lot": "Chateau Frise",
       "lotId": "chateaufrise",
       "worldId": "brindletonbay",
       "image": "/images/families/Delgato.jpg",
-      "members": []
+      "description": "虽然塞普莉亚很爱她全职妈妈的工作，但要压抑她当个受过充分训练的兽医的梦想却越来越难。尤其是现在虎斑兽医诊所的老板想把诊所卖掉。她的先生贾斯汀一直都很支持，且一直提议要暂时离开工作岗位，好让她追求自己的梦想。但塞普莉亚真的可以信任他能在布鲁和巴塞洛谬之间维持家里的和平吗？更别说还有皮尔斯和伊薇了！",
+      "members": [
+        {
+          "id": "delgatosupriya"
+        },
+        {
+          "id": "delgatojustin"
+        },
+        {
+          "id": "delgatoevie"
+        },
+        {
+          "id": "delgatopierce"
+        }
+      ]
     },
     {
       "id": "jeong",
       "name": "Jeong family",
+      "chineseName": "郑",
       "world": "Del Sol Valley",
       "lot": "Upland Place",
       "lotId": "uplandplace",
       "worldId": "delsolvalley",
       "image": "/images/families/Jeong.jpg",
-      "members": []
+      "description": "凡妮莎·郑刚从古朴的乡村小镇搬到太阳谷。她希望能以新兴女演员的身分闯出一番大事业。她已经出演了几个小规模广告，但她的经纪人一直表示她有资质，只要找到能打破既往印象的角色就好。",
+      "members": [
+        {
+          "id": "jeongvenessa"
+        }
+      ]
     },
     {
       "id": "baileymoon",
       "name": "Bailey-Moon family",
+      "chineseName": "百利穆恩",
       "world": "Del Sol Valley",
       "lot": "Bailey-Moon Manor",
       "lotId": "baileymoonmanor",
       "worldId": "delsolvalley",
       "image": "/images/families/BaileyMoon.jpg",
-      "members": []
+      "description": "欧克塔维雅·穆恩与索恩·百利是本世纪的强大夫妻档。欧克塔维雅是索恩所有热门歌曲背后的天才作词人。由于索恩近日在社交媒体上的失败举动，导致他的公众形象开始走下坡。索恩的粉丝逐渐觉悟到欧克塔维雅才是天赋异禀的人。他们有个天性善良的儿子叫奥兰治，由于他丰衣足食，没什么人生目标，因此有些幼稚。",
+      "members": [
+        {
+          "id": "baileythorne"
+        },
+        {
+          "id": "moonoctavia"
+        },
+        {
+          "id": "baileymoonorange"
+        }
+      ]
     },
     {
       "id": "ward",
       "name": "Ward family",
+      "chineseName": "瓦德",
       "world": "Del Sol Valley",
       "lot": "The Ward Den",
       "lotId": "thewardden",
       "worldId": "delsolvalley",
       "image": "/images/families/Ward.jpg",
-      "members": []
+      "description": "茱迪·瓦德是演员界的传奇。从喜剧到戏剧，她都曾出演过。你想得到的作品，她都曾出演过。但这不代表与她当朋友是件容易的事，茱迪已经毁了无数与他人之间的友谊桥梁。她不惜代价，一心想变有钱人。为了在职业生涯中更进一步，不惜把人推入火坑。她已历经多次婚姻，但她的另一半只会拖慢她前进的脚步。她喜爱快节奏的生活，不甘于平庸一生。",
+      "members": [
+        {
+          "id": "wardjudith"
+        }
+      ]
+    },
+    {
+      "id": "cho",
+      "name": "Cho",
+      "chineseName": "周",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "image": "/images/families/Cho.jpg",
+      "members": [
+        {
+          "id": "chobrytani"
+        }
+      ]
+    },
+    {
+      "id": "dreamer",
+      "name": "Dreamer",
+      "chineseName": "德里莫",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "image": "/images/families/Dreamer.jpg",
+      "members": [
+        {
+          "id": "dreamerdirk"
+        }
+      ]
+    },
+    {
+      "id": "dustin",
+      "name": "Dustin",
+      "chineseName": "布洛柯",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "image": "/images/families/Dustin.jpg",
+      "members": [
+        {
+          "id": "brokedustin"
+        }
+      ]
+    },
+    {
+      "id": "alto",
+      "name": "Alto",
+      "chineseName": "艾托",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "image": "/images/families/Alto.jpg",
+      "members": [
+        {
+          "id": "altoholly"
+        },
+        {
+          "id": "altoenzo"
+        }
+      ]
+    },
+    {
+      "id": "fabulous",
+      "name": "Fabulous",
+      "chineseName": "菲比乐斯 ",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "image": "/images/families/Fabulous.jpg",
+      "members": [
+        {
+          "id": "fabulousizzy"
+        }
+      ]
+    },
+    {
+      "id": "flemming",
+      "name": "Flemming",
+      "chineseName": "弗莱明",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "image": "/images/families/Flemming.jpg",
+      "members": [
+        {
+          "id": "flemmingkayla"
+        }
+      ]
+    },
+    {
+      "id": "baby",
+      "name": "Baby",
+      "chineseName": "婴儿",
+      "world": "Del Sol Valley",
+      "worldId": "delsolvalley",
+      "image": "/images/families/Baby.jpg",
+      "members": [
+        {
+          "id": "arielbaby"
+        }
+      ]
     },
     {
       "id": "sigworth",
@@ -441,7 +7468,18 @@ export default {
       "lotId": "riversidegrove",
       "worldId": "strangerville",
       "image": "/images/families/Sigworth.jpg",
-      "members": []
+      "description": "希格沃斯一家是镇上的新居民。妈妈杰茜因工作关系转来诡奇小镇的国立基地。在基地待了几天后，丈夫狄伦发现他的妻子显得有点奇怪。尽管狄伦尽他所能向女儿克莉丝缇保证一切都没事，她也开始渐渐留意到状况有异，而且她发现事情真相只是时间早晚的问题。",
+      "members": [
+        {
+          "id": "sigworthjess"
+        },
+        {
+          "id": "sigworthdylan"
+        },
+        {
+          "id": "sigworthchristie"
+        }
+      ]
     },
     {
       "id": "cahill",
@@ -451,7 +7489,12 @@ export default {
       "lotId": "oldpenelope",
       "worldId": "strangerville",
       "image": "/images/families/Cahill.jpg",
-      "members": []
+      "description": "乔治·卡希尔是一名退休驾驶员，他曾经十分享受驾着心爱的飞机潘妮洛普，横跨世界各地长途飞行。途经诡奇小镇时出现一道巨大的闪光，导致他的飞机短路而坠毁。此后，乔治便在老潘妮洛普的货舱中扎营，并一直居住在诡奇小镇的郊区至今。尽管他对诡奇小镇的居民抱持着疑心，但他并无恶意，且几乎不与人往来。",
+      "members": [
+        {
+          "id": "cahillgeorge"
+        }
+      ]
     },
     {
       "id": "roswell",
@@ -461,690 +7504,2095 @@ export default {
       "lotId": "strangervilleoverlook",
       "worldId": "strangerville",
       "image": "/images/families/Roswell.jpg",
-      "members": []
+      "description": "罗斯威尔一家人是诡奇小镇最资深的住户之一。泰德.罗斯威尔自从成了镇长后，就一直积极要推动诡奇小镇的高科技发展。他做了一些见不得人的交易，但他成就了一些重要的建设，例如陨石坑基地和秘密实验室。泰德的妻子梅瑞迪斯留意到他晚上的行为举止非常怪异，也许这和他为了试图掩盖某些事而频繁造访秘密实验室有关。",
+      "members": [
+        {
+          "id": "roswellted"
+        },
+        {
+          "id": "roswellmeredith"
+        }
+      ]
     },
     {
       "id": "eclecticarts",
       "name": "Eclectic Arts household",
+      "chineseName": "多元艺术家庭",
       "world": "Stranger Ville",
       "lot": "Dream Weavers Way",
       "lotId": "dreamweaversway",
       "worldId": "strangerville",
       "image": "/images/families/EclecticArts.jpg",
-      "members": []
+      "description": "“多元艺术”家庭由三位好友组成，他们为了探所内在的创造力而决定挥别现代世界。他们从父母那里收到了一大笔可观的金钱，并用这些钱在节奏较慢的镇上探索创造力的梦想。",
+      "members": [
+        {
+          "id": "egglestonmark"
+        },
+        {
+          "id": "martinalice"
+        },
+        {
+          "id": "hollandleslie"
+        }
+      ]
+    },
+    {
+      "id": "pries",
+      "name": "Pries family",
+      "chineseName": "普里斯",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
+      "image": "/images/families/Pries.jpg",
+      "members": [
+        {
+          "id": "prieserwin"
+        }
+      ]
     },
     {
       "id": "kahananui",
       "name": "Kahananui family",
+      "chineseName": "卡哈南内",
       "world": "Sulani",
+      "lot": "Journey’s End",
+      "lotId": "journeysend",
       "worldId": "sulani",
       "image": "/images/families/Kahananui.jpg",
-      "members": []
+      "description": "自封为“索拉尼岛大使”的梅丽与亚力卡是对有进取心的夫妻，他们决定在远离欧汉纳里镇喧嚣的梦幻行馆里度过退休生活。",
+      "members": [
+        {
+          "id": "kahananuialika"
+        },
+        {
+          "id": "kahananuimele"
+        }
+      ]
     },
     {
       "id": "ngata",
       "name": "Ngata family",
+      "chineseName": "加塔",
       "world": "Sulani",
+      "lot": "Reef Finery",
+      "lotId": "reeffinery",
       "worldId": "sulani",
       "image": "/images/families/Ngata.jpg",
-      "members": []
+      "description": "来称索拉尼岛寻找灵感的莱拉没想到会深深爱上这座岛。她爱上的不只是岛屿风光，还有轻易接受她进入他们家庭的欧莉亚娜和她的儿子塔内。现在他们三人是密不可分的三人组，索拉尼为他们的家，用自己的脚步享受岛上的沙滩与海洋。",
+      "members": [
+        {
+          "id": "ngataoliana"
+        },
+        {
+          "id": "illesleila"
+        },
+        {
+          "id": "ngatatane"
+        }
+      ]
     },
     {
       "id": "hoapili",
       "name": "Hoapili family",
+      "chineseName": "浩皮里",
       "world": "Sulani",
       "lot": "Chieftain’s Villa",
       "lotId": "chieftainsvilla",
       "worldId": "sulani",
       "image": "/images/families/Hoapili.jpg",
-      "members": []
+      "description": "位于欧哈纳里镇中心的高处，琪拉俯瞰着寻求她指引的镇民。这位充满活力，拥有年轻内心的老奶奶将年轻的莉亚纳入她的羽翼之下，将索拉尼岛世代传承的知识与文化传递下去。",
+      "members": [
+        {
+          "id": "hoapilikeala"
+        },
+        {
+          "id": "hauatalia"
+        }
+      ]
     },
     {
       "id": "kealoha",
       "name": "Kealoha household",
+      "chineseName": "基阿罗哈",
       "world": "Sulani",
       "lot": "Kin-Ship",
       "lotId": "kinship",
       "worldId": "sulani",
       "image": "/images/families/Kealoha.jpg",
-      "members": []
+      "description": "基阿罗哈家族是索拉尼岛的缩影：一个勤奋、热情且团结一致的年轻家族，在支持他们扩大的家族社区光明未来的同时，坚定地根植于岛上的传统以纪念过往历史。",
+      "members": [
+        {
+          "id": "kealohamakoa"
+        },
+        {
+          "id": "kealohalilliana"
+        },
+        {
+          "id": "talladuane"
+        },
+        {
+          "id": "kealohanani"
+        }
+      ]
     },
     {
-      "id": "charm",
-      "name": "Charm family",
-      "world": "Glimmerbrook",
-      "lot": "Rock Ridge Canyon",
-      "lotId": "rockridgecanyon",
-      "worldId": "glimmerbrook",
-      "image": "/images/families/Charm.jpg",
-      "members": []
+      "id": "mahiai",
+      "name": "Mahiai family",
+      "chineseName": "玛西艾",
+      "world": "Sulani",
+      "worldId": "sulani",
+      "image": "/images/families/Mahiai.jpg",
+      "members": [
+        {
+          "id": "mahiainalani"
+        }
+      ]
     },
     {
-      "id": "amicableacolytes",
-      "name": "Amicable Acolytes household",
-      "world": "Glimmerbrook",
-      "lot": "Creek Side Corner",
-      "lotId": "creeksidecorner",
-      "worldId": "glimmerbrook",
-      "image": "/images/families/AmicableAcolytes.jpg",
-      "members": []
+      "id": "iona",
+      "name": "Iona family",
+      "chineseName": "伊欧那",
+      "world": "Sulani",
+      "worldId": "sulani",
+      "image": "/images/families/Iona.jpg",
+      "members": [
+        {
+          "id": "ionakalamainuu"
+        }
+      ]
+    },
+    {
+      "id": "hekekia",
+      "name": "Hekekia family",
+      "chineseName": "海克基亚",
+      "world": "Sulani",
+      "worldId": "sulani",
+      "image": "/images/families/Hekekia.jpg",
+      "members": [
+        {
+          "id": "hekekiaukupanipo"
+        }
+      ]
+    },
+    {
+      "id": "uha",
+      "name": "Uha family",
+      "chineseName": "乌哈",
+      "world": "Sulani",
+      "worldId": "sulani",
+      "image": "/images/families/Uha.jpg",
+      "members": [
+        {
+          "id": "uhapakaa"
+        }
+      ]
     },
     {
       "id": "fletcher",
       "name": "Fletcher family",
+      "chineseName": "弗莱彻",
       "world": "Britechester",
       "lot": "Briny Tower",
       "lotId": "brinytower",
       "worldId": "britechester",
       "image": "/images/families/Fletcher.jpg",
-      "members": []
+      "description": "卡梅伦·弗莱彻一心想着在学校里问道求知，获得真知灼见。然而他不太懂得如何跟身边的人交朋友。但只要往正确方向轻轻一推，卡梅伦一定能掌握大学生活。",
+      "members": [
+        {
+          "id": "fletchercameron"
+        }
+      ]
     },
     {
       "id": "elderberry",
       "name": "Elderberry family",
+      "chineseName": "接骨木莓",
       "world": "Britechester",
       "lot": "Spring Steppes",
       "lotId": "springsteppes",
       "worldId": "britechester",
       "image": "/images/families/Elderberry.jpg",
-      "members": []
+      "description": "埃克拉姆和伊莲诺在吉布斯山丘度过了他们的一生，从年轻的爱情到成长的家庭，最后退休。伊莲诺喜欢看到每个学期新生到来，但埃克拉姆并不总是喜欢青年人接管他们安静的小镇。最近，这对夫妇十几岁的孙子罗洛恩正准备考虑上大学，所以搬来和他们住在一起了。洛恩很快就要高中毕业了，他必须决定自己到底要上哪所大学。",
+      "members": [
+        {
+          "id": "elderberryekram"
+        },
+        {
+          "id": "elderberryeleanore"
+        },
+        {
+          "id": "elderberryrohan"
+        }
+      ]
     },
     {
       "id": "bestoffriends",
       "name": "Best of Friends household",
+      "chineseName": "最好的朋友",
       "world": "Britechester",
       "lot": "Wyvern Hall",
       "lotId": "wyvernhall",
       "worldId": "britechester",
       "image": "/images/families/BestofFriends.jpg",
-      "members": []
+      "description": "尤莉娅和贝卡自从在幼儿园第一次见面起就一直是最好的朋友。认识他们的人都无法想象他们没有形影成双上大学是什么情景。现在，他们开始了进入象牙塔的全新旅程，两人要看他们的友谊是否能经受住这次新冒险的考研，让他们顺利进入成人世界。",
+      "members": [
+        {
+          "id": "clarkebecca"
+        },
+        {
+          "id": "wrightjulia"
+        }
+      ]
     },
     {
       "id": "pleasant",
       "name": "Pleasant family",
+      "chineseName": "普莱森特",
       "world": "Britechester",
       "lot": "Mossy Lane",
       "lotId": "mossylane",
       "worldId": "britechester",
       "image": "/images/families/Pleasant.jpg",
-      "members": []
+      "description": "安吉拉·普莱森特和莉莉丝·普莱森特已经搬到吉布斯山的一处老房子里去了，准备住在这儿去布莱斯彻特的名牌大学求学了。这将是一个真正的考验，看看他们作为双胞胎的关系能否克服他们之间的差异。他们的专业已经把他们分成了不同的大学，但是他们究竟会产生分歧，还是一起努力共度难关，这成为了他们生活中的一个全新挑战。",
+      "members": [
+        {
+          "id": "pleasantangela"
+        },
+        {
+          "id": "pleasantlilith"
+        }
+      ]
+    },
+    {
+      "id": "bhamra",
+      "name": "Bhamra family",
+      "chineseName": "巴姆拉",
+      "world": "Britechester",
+      "worldId": "britechester",
+      "image": "/images/families/Bhamra.jpg",
+      "members": [
+        {
+          "id": "bhamraserena"
+        }
+      ]
+    },
+    {
+      "id": "fen",
+      "name": "Fen family",
+      "chineseName": "冯",
+      "world": "Britechester",
+      "worldId": "britechester",
+      "image": "/images/families/Fen.jpg",
+      "members": [
+        {
+          "id": "fenjing"
+        }
+      ]
+    },
+    {
+      "id": "jabari",
+      "name": "Jabari family",
+      "chineseName": "贾巴里",
+      "world": "Britechester",
+      "worldId": "britechester",
+      "image": "/images/families/Jabari.jpg",
+      "members": [
+        {
+          "id": "jabarithomas"
+        }
+      ]
+    },
+    {
+      "id": "mckinnon",
+      "name": "McKinnon family",
+      "chineseName": "麦金农",
+      "world": "Britechester",
+      "worldId": "britechester",
+      "image": "/images/families/McKinnon.jpg",
+      "members": [
+        {
+          "id": "mckinnonlana"
+        }
+      ]
+    },
+    {
+      "id": "psyded",
+      "name": "Psyded family",
+      "chineseName": "赛迪德",
+      "world": "Britechester",
+      "worldId": "britechester",
+      "image": "/images/families/Psyded.jpg",
+      "members": [
+        {
+          "id": "psydedfelix"
+        }
+      ]
+    },
+    {
+      "id": "charm",
+      "name": "Charm family",
+      "chineseName": "恰姆",
+      "world": "Glimmerbrook",
+      "lot": "Rock Ridge Canyon",
+      "lotId": "rockridgecanyon",
+      "worldId": "glimmerbrook",
+      "image": "/images/families/Charm.jpg",
+      "description": "恰姆家族造就了一代又一代杰出的施法术士，米涅瓦经常对她的孩子们提起这件事。杰玛厌恶她家人的高度期望，尽管她暗中想让他们感到骄傲。达雷尔是一位有抱负的决斗家，他最近和艾米莉亚订婚，艾米莉亚刚成为施法术士不久，为了达到该家族的期望而肩负不少重担。",
+      "members": [
+        {
+          "id": "charmminerva"
+        },
+        {
+          "id": "charmgemma"
+        },
+        {
+          "id": "charmdarrel"
+        },
+        {
+          "id": "ernestemilia"
+        }
+      ]
+    },
+    {
+      "id": "amicableacolytes",
+      "name": "Amicable Acolytes household",
+      "chineseName": "和睦学徒",
+      "world": "Glimmerbrook",
+      "lot": "Creek Side Corner",
+      "lotId": "creeksidecorner",
+      "worldId": "glimmerbrook",
+      "image": "/images/families/AmicableAcolytes.jpg",
+      "description": "葛蕾丝和托麦斯自从成为施法术士起就是室友了。他们白天有各自的工作，但魔法仍是他们的主要目标，而且他们之间有着良性的竞争，要比赛谁会先成为高手施法术士！",
+      "members": [
+        {
+          "id": "anansigrace"
+        },
+        {
+          "id": "collettetomax"
+        }
+      ]
+    },
+    {
+      "id": "ember",
+      "name": "Ember family",
+      "chineseName": "炭炭",
+      "world": "Glimmerbrook",
+      "worldId": "glimmerbrook",
+      "image": "/images/families/Ember.jpg",
+      "members": [
+        {
+          "id": "embermorgyn"
+        }
+      ]
+    },
+    {
+      "id": "faba",
+      "name": "Faba family",
+      "chineseName": "法芭",
+      "world": "Glimmerbrook",
+      "worldId": "glimmerbrook",
+      "image": "/images/families/Faba.jpg",
+      "members": [
+        {
+          "id": "fabal"
+        }
+      ]
+    },
+    {
+      "id": "silversweater",
+      "name": "Silversweater family",
+      "chineseName": "席维史威特",
+      "world": "Glimmerbrook",
+      "worldId": "glimmerbrook",
+      "image": "/images/families/Silversweater.jpg",
+      "members": [
+        {
+          "id": "silversweatersimeon"
+        }
+      ]
     },
     {
       "id": "greenburg",
       "name": "Greenburg family",
+      "chineseName": "格林伯格",
       "world": "Evergreen Harbor",
       "lot": "The Portsmouth Promenade",
       "lotId": "theportsmouthpromenade",
       "worldId": "evergreenharbor",
       "image": "/images/families/Greenburg.jpg",
-      "members": []
+      "description": "玛莉和布洛森是城里的一对老派夫妻。他们想把城里装饰得更漂亮，玛莉专注于她的花园，布洛森则在闲置的空间上绘画。但是岁月不饶人。幸好他们的养子诺克斯在为家族的名声而奋斗，帮助世界变得更环保一点。可惜，有时候他的“奋斗”太字面了。",
+      "members": [
+        {
+          "id": "greenburgknox"
+        },
+        {
+          "id": "greenburgmary"
+        },
+        {
+          "id": "greenburgblossom"
+        }
+      ]
     },
     {
       "id": "harris",
       "name": "Harris family",
+      "chineseName": "哈里斯一家",
       "world": "Evergreen Harbor",
+      "lot": "Miner Mansion",
+      "lotId": "minermansion",
       "worldId": "evergreenharbor",
       "image": "/images/families/Harris.jpg",
-      "members": []
+      "description": "克莱特斯和菲伊在格里姆斯采石场以超低价格找到了这个传统悠久的房子。它看起来没有什么问题，哈里斯夫妇也不会质疑这么优惠的交易。克莱特斯自由奔放的母亲很快搬了过来，组成了这个快乐的大家庭。奇怪的是，他们的大儿子头上总是套着一个丢人的袋子。而且全家人只有菲伊有工作，但房子却装修得很好。这到底是怎么回事？",
+      "members": [
+        {
+          "id": "harriscletus"
+        },
+        {
+          "id": "harrisfaye"
+        },
+        {
+          "id": "harrisjeb"
+        },
+        {
+          "id": "harrisgideon"
+        },
+        {
+          "id": "spencerfrancine"
+        }
+      ]
     },
     {
       "id": "sterlingrico",
       "name": "Sterling Rico family",
+      "chineseName": "科特林与里科",
       "world": "Evergreen Harbor",
       "lot": "The Old Mill",
       "lotId": "theoldmill",
       "worldId": "evergreenharbor",
       "image": "/images/families/SterlingRico.jpg",
-      "members": []
+      "description": "贝丝和朱尔斯是一对有远大梦想的夫妻。他们的梦想就是美妙的金钱。身为土木设计师的贝丝处在一个完美的位置，可以说服市政府官员和居民们通过对她的收入有利的计划。而她的共犯朱尔斯是一名潮流教主，热爱时尚就像他热爱说服人们花钱买他那糟糕的时尚风格一样。他们性格开朗、魅力十足，像一阵企业家旋风一样在常青港四处奔波。",
+      "members": [
+        {
+          "id": "sterlingbess"
+        },
+        {
+          "id": "ricojules"
+        }
+      ]
     },
     {
       "id": "tinker",
       "name": "Tinker family",
+      "chineseName": "巧手匠",
       "world": "Evergreen Harbor",
       "lot": "Pigulock Manor",
       "lotId": "pigulockmanor",
       "worldId": "evergreenharbor",
       "image": "/images/families/Tinker.jpg",
-      "members": []
+      "description": "天才但却永远充满压力的蒂娜·廷克尔是一名非常成功的自由手工艺者。和她同样成功的伴侣雅丝敏说服她和女儿奥莉薇一起搬到了针叶车站。蒂娜接了太多的工作，雅丝敏想让她放松下来，多陪陪家人。与此同时，充满好奇心的小奥莉薇最喜欢的莫过于欣赏她两位母亲的作品，并梦想着追随她们的脚步。",
+      "members": [
+        {
+          "id": "tinkertina"
+        },
+        {
+          "id": "tinkeryasemin"
+        },
+        {
+          "id": "tinkerolive"
+        }
+      ]
     },
     {
       "id": "akiyama",
       "name": "Akiyama family",
+      "chineseName": "秋山",
       "world": "Mt. Komorebi",
       "lot": "5-3-1 Shinrinyoku",
       "lotId": "5-3-1shinrinyoku",
       "worldId": "mtkomorebi",
       "image": "/images/families/Akiyama.jpg",
-      "members": []
+      "description": "秋山一家离开忙碌喧嚣的城市，搬到了廉长大的安静小镇。虽然要牺牲通勤时间，不过珍娜和廉希望这里关系亲密的社区和美丽的自然环境能够弥补这一点。廉惊讶地得知他儿时的心上人伊藤惠美也搬回了树影斑驳山。他很想让过去就留在过去，但少年时的心伤还在隐隐作痛。",
+      "members": [
+        {
+          "id": "akiyamakado"
+        },
+        {
+          "id": "akiyamajenna"
+        },
+        {
+          "id": "akiyamataku"
+        },
+        {
+          "id": "akiyamamiki"
+        }
+      ]
     },
     {
       "id": "ito",
       "name": "Ito family",
+      "chineseName": "伊藤",
       "world": "Mt. Komorebi",
       "lot": "2-5-1 Wakabamori",
       "lotId": "2-5-1wakabamori",
       "worldId": "mtkomorebi",
       "image": "/images/families/Ito.jpg",
-      "members": []
+      "description": "伊藤惠美从小在千叶町长大，身为金牌双板滑雪者，她想让自己的孩子也在这里成长，但旧日的情愫或许会让她分心。伊藤直树也曾是奖牌获得者，他是一个精于计算的商人，对树影斑驳山有着颇具争议的设想，包括更多的旅游业、金钱和现代化。七海和清志继承了父母的运动天赋，但他们都各有主意。七海只想做个无忧无虑的孩子，而清志一见钟情的并不只是雪道……",
+      "members": [
+        {
+          "id": "itonaoki"
+        },
+        {
+          "id": "itomegumi"
+        },
+        {
+          "id": "itokiyoshi"
+        },
+        {
+          "id": "itonanami"
+        }
+      ]
     },
     {
       "id": "nishidake",
       "name": "Nishidake family",
+      "chineseName": "西岳",
       "world": "Mt. Komorebi",
       "lot": "5-6-1 Shinrinyoku",
       "lotId": "5-6-1shinrinyoku",
       "worldId": "mtkomorebi",
       "image": "/images/families/Nishidake.jpg",
-      "members": []
+      "description": "据说西岳家族是木漏隙光山的神圣守护者。确实，伊藤家族的当地开发计划让茂大为震怒。不过幸子因为和惠美的妈妈是老朋友了，对这位年轻姑娘很有好感。而且她也清楚自己孙女的心里装着谁……香织在失去父母后搬到了木漏隙光山，她很快爱上了这里的雪道，以及她祖父的世仇的儿子！她最大的愿望就是融化祖父冻结成冰的心。",
+      "members": [
+        {
+          "id": "nishidakeshigeru"
+        },
+        {
+          "id": "nishidakesachiko"
+        },
+        {
+          "id": "nishidakekaori"
+        }
+      ]
     },
     {
       "id": "anewstart",
       "name": "A New Start household",
+      "chineseName": "新的开始",
       "world": "Henford-on-Bagley",
       "lot": "4 Olde Mill Lane",
       "lotId": "4oldemilllane",
       "worldId": "henfordonbagley",
       "image": "/images/families/ANewStart.jpg",
-      "members": []
+      "description": "在大城市生活并心碎后，塞西莉亚决定为了一小块园地和几只鸡放弃她过去的一切。她仍在寻找能够共度余生的人，不过在跟当地生物饲养员迈克尔·贝尔进行了一次想要忘记的约会后，她暂时只想和来访的小动物们建立长期关系。",
+      "members": [
+        {
+          "id": "kangcecilia"
+        }
+      ]
     },
     {
       "id": "moodymcmillan",
       "name": "Moody & McMillan family",
+      "chineseName": "穆迪和麦克米伦",
       "world": "Henford-on-Bagley",
       "lot": "14 Nettle Lane",
       "lotId": "14nettlelane",
       "worldId": "henfordonbagley",
       "image": "/images/families/MoodyMcMillan.jpg",
-      "members": []
+      "description": "在从事了时间长到自己都不想承认的办公室工作后，德里克找到了一个愿意和他一起过他年轻时梦想的田园生活的人，于是两人搬到了他家的小屋，再也没有离开。除了拒绝那些很想买下他们房子的开发商的出价时，伊安和德雷克轮流制定日程，过着既刺激又安宁的生活。尽管——或者说正是由于——他们有着不同点，时间对这对老情侣非常仁慈，他们作为亨福昂贝格利社区的核心成员，过着心满意足的退休生活。",
+      "members": [
+        {
+          "id": "moodyian"
+        },
+        {
+          "id": "mcmillanderek"
+        }
+      ]
     },
     {
       "id": "scott",
       "name": "Scott family",
+      "chineseName": "斯科特",
       "world": "Henford-on-Bagley",
       "lot": "3 Cobblebottom Street",
       "lotId": "3cobblebottomstreet",
       "worldId": "henfordonbagley",
       "image": "/images/families/Scott.jpg",
-      "members": []
+      "description": "作为芬奇维克受欢迎的酒吧地精的臂膀的老板，斯科特一家简直过上了梦想中的生活！呃，至少是莎拉的梦想。西蒙是一个不再生活在城市中的城市男孩，他每次遇到鸡时还是会感觉有些尴尬。不过，他还是决定支持妻子的梦想。他们为小家庭增加新成员的愿望是会让这一切变得更好还是更糟呢？",
+      "members": [
+        {
+          "id": "scottsimon"
+        },
+        {
+          "id": "scottsara"
+        }
+      ]
     },
     {
       "id": "watson",
       "name": "Watson family",
+      "chineseName": "沃森一家",
       "world": "Henford-on-Bagley",
       "lot": "Olde Mill Hill",
       "lotId": "oldemillhill",
       "worldId": "henfordonbagley",
       "image": "/images/families/Watson.jpg",
-      "members": []
+      "description": "虽然托马斯一直计划要继承家产，但他感觉力不从心。作为一个把成功等同于庄稼大小的人，他的信心和家庭都在渐行渐远。虽然他的妻子拉赫米喜爱乡间的空气，但她对丈夫的感情正逐渐失去新鲜感，喜爱也日渐消退。他们的三个孩子中最年长的拉希达感觉自己被困在了这里，成天梦想着在贝格利亨福德之外生活——这些梦想让她与一个志同道合的人之间产生了火花。而两个年纪较小的孩子性格则大不相同！伊姆兰喜欢待在安全的家里，而玛利亚则勇敢地探索未知的世界。这个忙乱的家庭是会团结在一起，还是会在他们的“老新”家里分崩离析呢？",
+      "members": [
+        {
+          "id": "watsonimran"
+        },
+        {
+          "id": "watsonmaira"
+        },
+        {
+          "id": "watsonrahmi"
+        },
+        {
+          "id": "watsonrashidah"
+        },
+        {
+          "id": "watsonthomas"
+        }
+      ]
     },
     {
       "id": "chopra",
       "name": "Chopra family",
+      "chineseName": "乔普拉",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
       "image": "/images/families/Chopra.jpg",
-      "members": []
+      "description": "作为单亲妈妈，抚养拉胡尔并不容易，但拉维娜越来越喜欢这种关系，并且很享受照料村庄做个好邻居的快乐。拉胡尔很尊敬他能干的母亲，但他一直生活在这个小村庄里，他渴望出去旅行，看看大千世界。不过他也不忍心留下妈妈独自一人生活。",
+      "members": [
+        {
+          "id": "choprarahul"
+        },
+        {
+          "id": "chopralavina"
+        }
+      ]
     },
     {
       "id": "crumplebottom",
       "name": "Crumplebottom family",
+      "chineseName": "克兰普巴顿",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
       "image": "/images/families/Crumplebottom.jpg",
-      "members": []
+      "members": [
+        {
+          "id": "crumplebottomagnes"
+        },
+        {
+          "id": "crumplebottomagatha"
+        }
+      ]
+    },
+    {
+      "id": "bell",
+      "name": "Bell family",
+      "chineseName": "贝尔",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
+      "image": "/images/families/Bell.jpg",
+      "description": "比起与模拟市民相处，动物的陪伴更能给麦可带来慰藉。尽管他在约会时有些尴尬，但这样的他作为布兰伯伍德森林的生物饲养员是很称职的。多年前，他修缮了一间破败的林中小屋，从此便成为了那里各种植物和动物的非正式护理员。",
+      "members": [
+        {
+          "id": "bellmichael"
+        }
+      ]
+    },
+    {
+      "id": "goldbloom",
+      "name": "Goldbloom family",
+      "chineseName": "戈德布鲁姆",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
+      "image": "/images/families/Goldbloom.jpg",
+      "description": "对金来说，在温馨的亨福昂贝格利生活最棒的一点就是可以结识许多新朋友，比如精神饱满的小马伊拉，还有沉迷幻想的麦可·贝尔。另一个让她感到骄傲的就是杂货摊位：那是一个社交活动和优质产品的枢纽。金见证了这个村庄的沉浮，总是想知道顾客们生活中的琐事。",
+      "members": [
+        {
+          "id": "goldbloomkim"
+        }
+      ]
     },
     {
       "id": "laurent",
       "name": "Laurent family",
+      "chineseName": "劳伦特",
       "world": "Tartosa",
       "lot": "Thebe Estate",
       "lotId": "thebeestate",
       "worldId": "tartosa",
       "image": "/images/families/Laurent.jpg",
-      "members": []
+      "description": "“劳伦特”对这个地区来说可能稍显陌生，但这个家族肯定一点都不新。他们的几代人都经营着当地的婚礼场所，是该地区婚庆行业的基石。希蕾莉一家搬到这个地区后，在村庄广场上开了第一家食品摊。现在她在父母的餐厅里担任主厨，而当地的美食市场也繁荣起来了。携手合作后，这个家族就成了婚庆行业中的强大集团。",
+      "members": [
+        {
+          "id": "laurentgreta"
+        },
+        {
+          "id": "laurenthector"
+        },
+        {
+          "id": "laurenthilary"
+        },
+        {
+          "id": "laurentjace"
+        },
+        {
+          "id": "thebearnessa"
+        }
+      ]
     },
     {
       "id": "markovic",
       "name": "Markovic family",
+      "chineseName": "马尔科维奇",
       "world": "Tartosa",
       "lot": "The Old Wood Nectary",
       "lotId": "theoldwoodnectary",
       "worldId": "tartosa",
       "image": "/images/families/Markovic.jpg",
-      "members": []
+      "description": "马尔科维奇家族在当地因为对婚庆行业中的音乐贡献而闻名，尽管他们自己的婚礼一再推迟。其中有相当一部分原因是由于他们和劳伦特家族之间的关系有些紧张。马蒂奥认为劳伦特家族把持着当地的婚礼业务，因此他非常努力地维持自己家族在婚庆行业中的地位。尽管露西亚对赫克托这位前任确是充满敌意，但这些恩怨情仇再加上工作让他们忙得不可开交……连办婚礼都没时间！",
+      "members": [
+        {
+          "id": "markovicmateo"
+        },
+        {
+          "id": "markoviclucia"
+        },
+        {
+          "id": "markovictomi"
+        }
+      ]
+    },
+    {
+      "id": "jaleel",
+      "name": "Jaleel household",
+      "chineseName": "杰里尔",
+      "world": "Tartosa",
+      "worldId": "tartosa",
+      "image": "/images/families/Jaleel.jpg",
+      "description": "费兹是一名满腔诗意、无可救药的浪漫主义者，而他又住在专门从事婚庆行业的区域之中——这不断提醒着他自己的单身状态。他大多数时间都在村庄广场卖花，幻想着他生命中缺失的灵魂伴侣。也许有一天，他的梦想能够成真。但在那之前……他那有适合所有人的花朵",
+      "members": [
+        {
+          "id": "jaleelfaiz"
+        }
+      ]
+    },
+    {
+      "id": "soto",
+      "name": "Soto family",
+      "chineseName": "索托",
+      "world": "Tartosa",
+      "worldId": "tartosa",
+      "image": "/images/families/Soto.jpg",
+      "description": "多年前，多米尼克和卡米尔在塔图沙成婚。每年她们都会回来度假，希望能够再次体验只有塔图沙能够给予的满满爱意——以及丰富的当地文化。两人都退休后，她们决定取消这每年的行程，改为永久定居。\r\n\r\n多米尼克是一名艺术家，现在大部分时间都在村庄广场绘制风景画和肖像画；卡米尔则是一名作家，她对这个地区的历史沿革深感兴趣。许多人将她视为是光明港的历史学家，而她也时常会和多明妮可一起享受户外风光，同时也会向愿意聆听的人畅谈当地的历史。",
+      "members": [
+        {
+          "id": "sotocamille"
+        },
+        {
+          "id": "sotodominique"
+        }
+      ]
     },
     {
       "id": "volkov",
       "name": "Volkov household",
+      "chineseName": "沃尔科夫",
       "world": "Moonwood Mill",
       "lot": "The Collective Cabin",
       "lotId": "thecollectivecabin",
       "worldId": "moonwoodmill",
       "image": "/images/families/Volkov.jpg",
-      "members": []
+      "description": "克里斯托弗·沃尔科夫在世的时间比大多数人的记忆还长。他创立并领导了月亮木集体，并热心接纳任何流离失所或感到迷失的狼人。 莉莉很久以前就加入了这个家庭，她是一个孤独的流浪者，吸血鬼夺去了她最亲密的朋友。在她之后罗里也加入了，然后是雅各布。虽然罗里和养父的关系恶化了，雅各布和克里斯托弗的关系却变好起来。他们都有着同样冷静而强烈的灵魂，月亮木工厂的每个人都知道克里斯托弗想让雅各布成为他族群的继承人。",
+      "members": [
+        {
+          "id": "volkovkristopher"
+        },
+        {
+          "id": "volkovjacob"
+        },
+        {
+          "id": "zhulily"
+        }
+      ]
+    },
+    {
+      "id": "howell",
+      "name": "Howell household",
+      "chineseName": "豪威尔",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
+      "image": "/images/families/Howell.jpg",
+      "description": "卢来到月木锯木厂后不久，为了给约会对象赛琳留下好印象，他取笑了镇上臭名昭著的野蛮狼人格雷格。他的错误决定给他和赛琳都带来了糟糕的后果，但当她寻求解药时，卢认为他可以挺过去……结果并不像他的预期那样。这个恶作剧大师是会学着去爱内心出现的狼性呢，还是会尝试着从他陷入的麻烦中找到出路呢？",
+      "members": [
+        {
+          "id": "howelllou"
+        }
+      ]
+    },
+    {
+      "id": "lopezcelene",
+      "name": "Lopez household",
+      "chineseName": "洛佩兹",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
+      "image": "/images/families/LopezCelene.jpg",
+      "description": "从她还是个小女孩的时候，赛琳就被浪漫的狼人故事迷住了。然而，在一次午夜的森林约会中，意料之外的事发生了。幸运的是，她发现了一种可以避免变成狼的解药。她现在更加谨慎了，但作为当地酒吧的老板，她可以在不会受伤的情况下更近距离了解狼人的奇妙世界。",
+      "members": [
+        {
+          "id": "lopezcelene"
+        }
+      ]
+    },
+    {
+      "id": "oaklow",
+      "name": "Oaklow household",
+      "chineseName": "奥克洛",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
+      "image": "/images/families/Oaklow.jpg",
+      "description": "大多数月亮木工厂的居民都知道罗里是獠牙的首领，但她最初到来时也是困惑的年轻狼人，那时是克里斯托弗·沃尔科夫在照顾她。他试图教她控制自己，把她当作花园里的一朵花来养育，但随着洛里的成长，两人渐行渐远。他的理想和价值观压抑了她内心的狼性，最终洛里臣服于她内心的野兽，离开了自己的族群。如今，洛里似乎已经明白了一切，但在内心深处，她仍在探索如何成为一名她一直希望克里斯托弗能够成为的领袖。",
+      "members": [
+        {
+          "id": "oaklowrory"
+        }
+      ]
+    },
+    {
+      "id": "wilder",
+      "name": "Wilder houshold",
+      "chineseName": "威尔德",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
+      "image": "/images/families/Wilder.jpg",
+      "description": "沃夫冈在月亮锯木厂生活了几十年，他一直在记录狼人的历史，并试图给他们一个更光明的未来。他是一位专门写狼人“小说”的著名作家，他的书将“友好的狼人邻居”的概念引入了流行文化。因为他用了笔名，没有人意识到他的真实身份实际上就是他所拥护的狼人。",
+      "members": [
+        {
+          "id": "wilderwolfgang"
+        }
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "Greg household",
+      "chineseName": "格雷格",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
+      "image": "/images/families/Greg.jpg",
+      "members": [
+        {
+          "id": "greg"
+        }
+      ]
     },
     {
       "id": "harjo",
       "name": "Harjo family",
+      "chineseName": "哈卓",
       "world": "Copperdale",
+      "lot": "Water Tower Way",
+      "lotId": "watertowerway",
       "worldId": "copperdale",
       "image": "/images/families/Harjo.jpg",
-      "members": []
+      "description": "对美食的共同热爱让艾娃和鲁卡走到一起，相爱了。艾娃最近在高中的食堂工作，她专业的烹饪技能让食堂的食物变得前所未有的美味！鲁卡还在学习阶段，但已经被提升为洗碗工头，因此高兴极了。灰灰决定全身心投入到时尚生活中，潜心研究模拟市民潮流人士的生活方式，还花了大量的时间研究Trendi。诺亚有点喜欢搞恶作剧，他每天不是忙着美式足球训练，就是幻想着自己的暗恋对象西德尼·普莱斯。哈卓夫妇既要养育青少年，又要创作食谱，一系列疯狂的冒险之旅正等着他们。",
+      "members": [
+        {
+          "id": "harjoash"
+        },
+        {
+          "id": "harjoava"
+        },
+        {
+          "id": "harjolucha"
+        },
+        {
+          "id": "kanenoah"
+        }
+      ]
     },
     {
       "id": "prescott",
       "name": "Prescott family",
+      "chineseName": "普列斯考特",
       "world": "Copperdale",
+      "lot": "Golden Peak",
+      "lotId": "goldenpeak",
       "worldId": "copperdale",
       "image": "/images/families/Prescott.jpg",
-      "members": []
+      "description": "这座庄园历史悠久，经过几代人的传承，现在的主人是普列斯考特家族。梅·普列斯考特和她的两个女儿以及她的父亲泰住在这里，梅是考柏戴尔高中的校长。梅的丈夫去世后，她把所有精力都放在了保护女儿上，对她们精心呵护，有时候甚至都到了令人尴尬的程度。莫莉是在学生中间很出名，她对音乐有着谜一般的热情。她从捣蛋鬼小妹艾米身上受到了启发，正学着接受自己更叛逆的一面。泰很享受和孙女们在一起的时光，特别是在学校做校工时与莫莉多待一会。这个家庭相亲相爱，一同自豪地继承了普列斯考特这个姓氏。",
+      "members": [
+        {
+          "id": "prescottamy"
+        },
+        {
+          "id": "prescottmei"
+        },
+        {
+          "id": "prescottmolly"
+        },
+        {
+          "id": "lumtai"
+        }
+      ]
     },
     {
       "id": "price",
       "name": "Price household",
+      "chineseName": "普莱斯",
       "world": "Copperdale",
       "lot": "BridgeCreek Drive",
       "lotId": "bridgecreekdrive",
       "worldId": "copperdale",
       "image": "/images/families/Price.jpg",
-      "members": []
+      "description": "考柏戴尔的校园情侣校友贾娜·普莱斯和马塞尔·普莱斯回来了，带着他们的三个孩子西德尼、萨凡纳和杰登搬回了原来的社区。他们还邀请外国交换生凯文到热闹的家里来做客。这是个忙碌的家庭，热衷于参与活动、发展爱好。马塞尔在写他最新的小说，贾娜有自己的全职工作，是一名成功的地区经理。萨凡纳和西德尼这对双胞胎，既沉浸于自己的兴趣爱好，同时努力保持好成绩。杰登非常尊敬他的兄弟姐妹，迫不及待地想成为像他们和他的朋友凯文一样的人。生活当然可以让他们分离，但他们知道彼此之间一定可以互相依赖。",
+      "members": [
+        {
+          "id": "pricejanae"
+        },
+        {
+          "id": "pricemarcel"
+        },
+        {
+          "id": "pricejayden"
+        },
+        {
+          "id": "pricesavannah"
+        },
+        {
+          "id": "pricesidney"
+        },
+        {
+          "id": "purikevin"
+        }
+      ]
+    },
+    {
+      "id": "morlind",
+      "name": "Morlind household",
+      "chineseName": "莫林德",
+      "world": "Copperdale",
+      "worldId": "copperdale",
+      "image": "/images/families/Morlind.jpg",
+      "members": [
+        {
+          "id": "morlind-anjelo"
+        }
+      ]
+    },
+    {
+      "id": "hiddlestix",
+      "name": "Hiddlestix household",
+      "chineseName": "希多史提",
+      "world": "Copperdale",
+      "worldId": "copperdale",
+      "image": "/images/families/Hiddlestix.jpg",
+      "members": [
+        {
+          "id": "hiddlestixeloise"
+        }
+      ]
+    },
+    {
+      "id": "coombes",
+      "name": "Coombes household",
+      "chineseName": "库尔斯",
+      "world": "Copperdale",
+      "worldId": "copperdale",
+      "image": "/images/families/Coombes.jpg",
+      "members": [
+        {
+          "id": "coombesrita"
+        }
+      ]
     },
     {
       "id": "michaelson",
       "name": "Michaelson family",
+      "chineseName": "迈克尔森",
       "world": "San Sequoia",
       "lot": "7 Eucalyptus Lane",
       "lotId": "7eucalyptuslane",
       "worldId": "sansequoia",
       "image": "/images/families/Michaelson.jpg",
-      "members": []
+      "description": "塞莱斯特和克里斯多夫是在同一家初创公司上班时认识的。两人第一次出去喝咖啡的时候，不可思议地发现彼此竟有那么多共同点！他们结婚之后收养了阿特拉斯，然后很快把他宠成了混世魔王。现在他们又收养了欧莱恩，每天努力工作，立志要把两个孩子养成和自己一样的书呆子。",
+      "members": [
+        {
+          "id": "michaelsonceleste"
+        },
+        {
+          "id": "michaelsonchristopher"
+        },
+        {
+          "id": "michaelsonatlas"
+        },
+        {
+          "id": "michaelsonorion"
+        }
+      ]
     },
     {
       "id": "robles",
       "name": "Robles family",
+      "chineseName": "罗布雷斯",
       "world": "San Sequoia",
       "lot": "Robles Point",
       "lotId": "roblespoint",
       "worldId": "sansequoia",
       "image": "/images/families/Robles.jpg",
-      "members": []
+      "description": "罗布雷斯家族在这个社区的地位相当稳固——从渔业贸易开始飞速发展的时候，他们就一直住在这里，多年来把持着兴旺繁荣的家族企业。伊格纳西奥是一家之主，他们家族在此地根基深厚，却并未因此而守旧古板。他们认识这里的每一个人，也热衷于参与到社区的一切事务中——例如不仅投入大把的空闲时间在水岸边停留，还在吉尔伯特花园组织大型家庭聚会，如此种种，不一而足。",
+      "members": [
+        {
+          "id": "roblesignacio"
+        },
+        {
+          "id": "roblesbernice"
+        },
+        {
+          "id": "roblesian"
+        },
+        {
+          "id": "roblesaurelio"
+        }
+      ]
     },
     {
       "id": "roblesruano",
       "name": "Robles-Ruano family",
+      "chineseName": "罗布雷斯-鲁阿诺",
       "world": "San Sequoia",
       "worldId": "sansequoia",
       "image": "/images/families/RoblesRuano.jpg",
-      "members": []
+      "description": "罗布雷斯-鲁阿诺家族是有点不合常规，但什么都按着规矩来也太太太无聊了啊，不是吗？这些人是无论如何都要表达自我、树立个性的人。父母两人都希望他们特立独行的风范能够让略微有点粘人的女儿塔拉发生一点变化。只要多付出一点爱，塔拉肯定会成长为一个自信（且创造力十足！）的孩子。",
+      "members": [
+        {
+          "id": "roblesjay"
+        },
+        {
+          "id": "ruanodoli"
+        },
+        {
+          "id": "ruanotala"
+        }
+      ]
     },
     {
       "id": "lunasullivan",
       "name": "Luna-Sullivan family",
+      "chineseName": "卢那-沙利文",
       "world": "San Sequoia",
       "lotId": "36bayaniplace",
       "worldId": "sansequoia",
       "image": "/images/families/LunaSullivan.jpg",
-      "members": []
+      "description": "卢那-沙利文一家有点不同寻常，卡尔敏的爸爸在一场不幸的厨房事故中丧生，她的妈妈需要帮助……所以她的祖母埃莉诺就搬到她家做起了当家祖母。可是不得不说，卡尔敏的好祖母就跟她一样，傻里傻气的！",
+      "members": [
+        {
+          "id": "lunaxochitl"
+        },
+        {
+          "id": "sullivaneleanor"
+        },
+        {
+          "id": "lunakarmine"
+        }
+      ]
     },
     {
       "id": "kyleson",
       "name": "Kyleson Family",
+      "chineseName": "凯尔森",
       "world": "San Sequoia",
       "worldId": "sansequoia",
       "image": "/images/families/Kyleson.jpg",
-      "members": []
+      "description": "凯尔也就是个，普通的家伙，好吗？",
+      "members": [
+        {
+          "id": "kylesonkyle"
+        }
+      ]
     },
     {
       "id": "gooseman",
       "name": "Gooseman household",
+      "chineseName": "古斯曼",
       "world": "Chestnut Ridge",
       "lot": "Canyon Crossing",
       "lotId": "canyoncrossing",
       "worldId": "chestnutridge",
       "image": "/images/families/Gooseman.jpg",
-      "members": []
+      "description": "这位传奇马术冠军是西耶娜和安柏尔母亲的导师，退役后就和他的爱马“杜克”隐居驰骋峡谷，过着简单快乐的生活。唐和“杜克”相依为伴，欣赏峡谷壮阔的景色，享受着辛勤工作的成果。",
+      "members": [
+        {
+          "id": "goosemandon"
+        }
+      ]
     },
     {
       "id": "nectarmakingduo",
       "name": "The Nectar Making Duo household",
+      "chineseName": "佳酿制作搭档",
       "world": "Chestnut Ridge",
       "lot": "Sweet Nectar Glade",
       "lotId": "sweetnectarglade",
       "worldId": "chestnutridge",
       "image": "/images/families/NectarMakingDuo.jpg",
-      "members": []
+      "description": "这对组合准备在佳酿制造界闯出名堂。玛丽莎凭借她爱社交的个性和雄心壮志建立关系网。丹妮则是个鉴赏家，一心一意钻研深奥的佳酿制作工艺。两人的关系有时会有些紧张，但在内心深处她们总是互相依靠。",
+      "members": [
+        {
+          "id": "traceymarissa"
+        },
+        {
+          "id": "daviladani"
+        }
+      ]
     },
     {
       "id": "grovefamily",
       "name": "The Grove Family household",
+      "chineseName": "格罗夫一家",
       "world": "Chestnut Ridge",
       "lot": "Biscuit’s Bastion",
       "lotId": "biscuitsbastion",
       "worldId": "chestnutridge",
       "image": "/images/families/GroveFamily.jpg",
-      "members": []
+      "description": "安柏尔和朱妮珀是青梅竹马，从母亲哪儿学习马术后，安柏尔会给朱妮珀歌颂小曲夸奖她的马术技能。在双亲过世后，为了纪念自己的本土传承，安柏尔继承了家族牧场，而他的姐妹西耶娜成了镇里的驯马师。他们的儿子雷恩对动物很有热情，正在训练斯塔布莱特，也就是安柏尔小时候救助的马儿露娜生的小马驹……伴随着安柏尔甜蜜而悠扬的门廊赞歌，牧场生活徐徐展开。",
+      "members": [
+        {
+          "id": "groveumber"
+        },
+        {
+          "id": "grovejuniper"
+        },
+        {
+          "id": "grovewren"
+        }
+      ]
     },
     {
       "id": "siennaflapjack",
       "name": "Sienna & Flapjack household",
+      "chineseName": "西耶娜与燕麦饼",
       "world": "Chestnut Ridge",
       "lot": "Champion’s Grove",
       "lotId": "championsgrove",
       "worldId": "chestnutridge",
       "image": "/images/families/SiennaFlapjack.jpg",
-      "members": []
+      "description": "西耶娜曾多次携手她的爱马盐湖燕麦饼（简称燕麦饼）斩获终极马术冠军赛，她很乐意分享自己的独门秘笈，将马儿们训练成优秀的赛马。双亲过世以后，她的兄弟继承了家族牧场，她则开始正式驯马和参与比赛。现在她运营着骑马啦！马术中心，对有上进心的爱马人士不吝鼓励、倾囊相授。",
+      "members": [
+        {
+          "id": "grovesienna"
+        }
+      ]
+    },
+    {
+      "id": "crinkletop",
+      "name": "Crinkletop household",
+      "chineseName": "克林克托普",
+      "world": "Chestnut Ridge",
+      "worldId": "chestnutridge",
+      "image": "/images/families/Crinkletop.jpg",
+      "members": [
+        {
+          "id": "crinkletoproberto"
+        }
+      ]
     },
     {
       "id": "cahyaputri",
       "name": "Cahyaputri family",
+      "chineseName": "卡雅普特里",
       "world": "Tomarang",
       "lot": "Taka Soi 15",
       "lotId": "takasoi15",
       "worldId": "tomarang",
       "image": "/images/families/Cahyaputri.jpg",
-      "members": []
+      "description": "不幸的微波炉加热水事件令他们失去了父母查亚和武兰，那之后，凡妮莎不得不承担重任。作为“大姐”和“监护人”，要在同一屋檐下同时照顾一位青少年，并应付租客的恶作剧可不容易！",
+      "members": [
+        {
+          "id": "cahyaputrivanesha"
+        },
+        {
+          "id": "cahyaputrizhafira"
+        }
+      ]
     },
     {
       "id": "linhsadya",
       "name": "Linh-Sadya family",
+      "chineseName": "琳·萨迪亚",
       "world": "Tomarang",
       "lot": "Sungai Point",
       "lotId": "sungaipoint",
       "worldId": "tomarang",
       "image": "/images/families/LinhSadya.jpg",
-      "members": []
+      "description": "要养活琳·萨迪亚一家确实需要全村之力。莉恩和阿隆为了照顾孩子和年迈的父母，忙得不可开交。幸好，多种收入来源让他们能够轻松支付租金。一个热闹的家庭，也会带来一些混乱。幸好，只要踏出家门，就能够重获平静。",
+      "members": [
+        {
+          "id": "linhchanh"
+        },
+        {
+          "id": "linharturo"
+        },
+        {
+          "id": "sadyalien"
+        },
+        {
+          "id": "sadya-alon"
+        },
+        {
+          "id": "sadyacam"
+        }
+      ]
     },
     {
       "id": "linh",
       "name": "Linh household",
+      "chineseName": "琳",
       "world": "Tomarang",
       "lot": "Sungai Point",
       "lotId": "sungaipoint",
       "worldId": "tomarang",
       "image": "/images/families/Linh.jpg",
-      "members": []
+      "description": "一个人住看似很孤独，但缇的所有家人都住在她楼上！她为自己“怪阿姨”的称号而感到自豪，而她的奇怪之处并不仅限于她独特的室内装潢。然而，她还是有些不为人知的事。有时独居的好处，就是能够拥有隐私……除了要藏好她的小丑画作就是了。",
+      "members": [
+        {
+          "id": "linhthi"
+        }
+      ]
     },
     {
       "id": "bunma",
       "name": "Bun Ma family",
+      "chineseName": "邦玛",
       "world": "Tomarang",
       "lot": "Hothotok Shore",
       "lotId": "hothotokshore",
       "worldId": "tomarang",
       "image": "/images/families/BunMa.jpg",
-      "members": []
+      "description": "邦玛一家非常传统，他们依靠牢固的家庭纽带来渡过生活中的起起落落。布雅坚持让她儿子一家搬进来跟她一起同住，好让她帮忙照顾自己的孙子苏德。虽然他有时很黏人，但布雅非常珍惜这个将自己世世代代的智慧传承下去的机会，而卡塞姆和宁则努力工作，享受他们的新婚生活。",
+      "members": [
+        {
+          "id": "bunmabua"
+        },
+        {
+          "id": "bunmakasem"
+        },
+        {
+          "id": "bunmanin"
+        },
+        {
+          "id": "bunmasud"
+        }
+      ]
+    },
+    {
+      "id": "li",
+      "name": "Li household",
+      "chineseName": "李",
+      "world": "Tomarang",
+      "worldId": "tomarang",
+      "image": "/images/families/Li.jpg",
+      "members": [
+        {
+          "id": "lipanya"
+        }
+      ]
     },
     {
       "id": "nadir",
       "name": "Nadir family",
+      "chineseName": "纳迪尔",
       "world": "Ciudad Enamorada",
       "lot": "La Suite del Flechazo",
       "lotId": "lasuitedelflechazo",
       "worldId": "ciudadenamorada",
       "image": "/images/families/Nadir.jpg",
-      "members": []
+      "description": "阿奇兹和瓦伦蒂娜首次相遇时，他们是两名高中生，在家乡的一间花店里一起为情侣制作周年纪念花束。他们被彼此对爱情的共同热爱所吸引。虽然这种平静的生活方式对阿齐兹而言非常完美，但瓦伦蒂娜一直想搬到城市里，将她对爱情的迷恋变成更有野心的职业生涯。他们在青年时期克服了许多起起落落，存了一笔钱并搬到城市里，他们终于成功了——好吧，至少瓦伦蒂娜觉得自己成功了。瓦伦蒂娜成为了爱慕之城的知名媒人，全心投入到她新的人生热情：协助其他人找到像她和阿齐兹一样精彩的爱情。不过，阿奇兹却觉得自己被抛下了。这从来都不是他的梦想，而他的妻子总是忙于处理其他情侣的问题，却忽视了自己的问题。瓦伦蒂娜会继续花费精力处理其他情侣的关系，而让自己的爱情关系破裂吗？她能够学会如何在爱情、工作和阿奇兹之间找到平衡吗？",
+      "members": [
+        {
+          "id": "nadiraziz"
+        },
+        {
+          "id": "nadirvalentina"
+        }
+      ]
     },
     {
       "id": "dynamicdaters",
       "name": "Dynamic Daters household",
+      "chineseName": "精力充沛的约会者",
       "world": "Ciudad Enamorada",
       "lot": "Avenida de la Eternidad",
       "lotId": "avenidadelaeternidad",
       "worldId": "ciudadenamorada",
       "image": "/images/families/DynamicDaters.jpg",
-      "members": []
+      "description": "这四个非常不一样的模拟市民怎么会住在一个屋檐下？故事是这样的，听好了。卡门是一位极为成功的退休执行长，她的妻子去世后，她希望在自己的黄金岁月里找到一点乐趣。多年前，爱利亚被聘请为卡门公司的主厨，两人因此相识并从那以后形影不离。曼努尔最近也加入了这群朋友，他在一次晚上聚会中认识了爱利亚和卡门后，便立即迷上了卡门。卡门也觉得他超凡脱俗的个性非常有趣，他的吸引力讨人喜欢的同时也带点傻气。不久后，曼努尔的密友兼造型顾问约尔提克，也加入了这个有趣的室友圈子。谁知道这个家庭到底会发生怎样的疯狂浪漫事件呢！",
+      "members": [
+        {
+          "id": "ortegacarmen"
+        },
+        {
+          "id": "cruzelia"
+        },
+        {
+          "id": "aguilarmanuel"
+        },
+        {
+          "id": "xicotencatlyoltic"
+        }
+      ]
     },
     {
       "id": "lopez",
       "name": "López family",
+      "chineseName": "洛佩兹",
       "world": "Ciudad Enamorada",
       "lot": "Calle de la Promesa",
       "lotId": "calledelapromesa",
       "worldId": "ciudadenamorada",
       "image": "/images/families/Lopez.jpg",
-      "members": []
+      "description": "莫妮卡的前夫发现自己在草坪地精雕刻方面的天赋后，决定离开他的家人，在地精艺术的奇异世界里追求事业，自此之后，洛佩兹家庭的情况便发生了改变。莫妮卡觉得自己再也找不到爱情了，并决心要将生活奉献给她孩子们的幸福。然而，孩子们逐渐长大了，她正面临可怕的空巢危机。莫妮卡决定，是时候重新探索她的浪漫一面了——她不知道这将会令她爱上那位独一无二、镇上臭名昭著的梦中情人，曼努尔·阿吉拉尔…他碰巧也是她儿子的高中同学。随着自己的前同学与妈妈踏入了变幻莫测的成人约会世界，卡洛斯觉得受到威胁，而勒兹则进入了青少年时期，对爱情抱持着紧张的态度。这个家庭的未来生活中真的能拥有幸福和爱情吗？",
+      "members": [
+        {
+          "id": "lopezmonica"
+        },
+        {
+          "id": "lopezcarlos"
+        },
+        {
+          "id": "lopezluz"
+        }
+      ]
     },
     {
       "id": "specter",
       "name": "Specter family",
+      "chineseName": "幽浑",
       "world": "Ravenwood",
       "lot": "Specter Family Manor",
       "lotId": "specterfamilymanor",
       "worldId": "ravenwood",
       "image": "/images/families/Specter.jpg",
-      "members": []
+      "description": "幽浑家族充满了神秘色彩。有传言说，奥莉薇的前几任丈夫都死于非命，这让她现在与莱恩 科芬——枯萎逆时针乐队的创始人和唯一成员——订婚变得相当尴尬。莱恩是否知道，这位即将成为他配偶的幽浑家族一员，在她的储藏室里藏着骷髅呢？他肯定不会过多地询问她儿子尼昂的神秘身世。这么说吧，也许死神之所以不监视他们家，完全是因为奥莉薇过去的风流韵事。",
+      "members": [
+        {
+          "id": "coffinlayne"
+        },
+        {
+          "id": "specternyon"
+        },
+        {
+          "id": "specterolive"
+        }
+      ]
     },
     {
       "id": "izadigomes",
       "name": "Izadi-Gomes household",
+      "chineseName": "伊扎迪-戈麦斯",
       "world": "Ravenwood",
       "lot": "Mourning Mist Manor",
       "lotId": "mourningmistmanor",
       "worldId": "ravenwood",
       "image": "/images/families/IzadiGomes.jpg",
-      "members": []
+      "description": "当埃丝特·戈麦斯正在寻找鬼魂室友时，可怜的苏莱卡因一起不幸的牛头摇摇树「事故」而离世，并恰巧也在同个社区寻找新住处。如今，两人共享一个家，埃丝特正慢慢教苏莱卡适应鬼魂生活、以及在死神手下工作的职涯发展技巧。",
+      "members": [
+        {
+          "id": "gomesesther"
+        },
+        {
+          "id": "izadizuleika"
+        }
+      ]
     },
     {
       "id": "gomes",
       "name": "Gomes family",
+      "chineseName": "戈麦斯",
       "world": "Ravenwood",
       "lot": "Teardrop Cottage",
       "lotId": "teardropcottage",
       "worldId": "ravenwood",
       "image": "/images/families/Gomes.jpg",
-      "members": []
+      "description": "拉德万和茨波拉·戈麦斯试过做鬼的滋味后，认为做鬼并不适合他们——至少现在还不适合。与此同时，拉德万还得全力阻止他笨拙的妻子不要过早地遇到死神。在一片混乱中，他们的孩子，十几岁的泽尔米拉有一天在散步时发现了一张塔罗牌，从此便一头扎进了自己对来世的研究中。现在，泽尔米拉开始接受内心的恐怖一面，并发现家族过去曾与哥特一家一位非常特殊的成员有着独特的联系。对这个家庭来说，事情似乎变得有点诡异了！",
+      "members": [
+        {
+          "id": "gomesradwan"
+        },
+        {
+          "id": "gomestziporah"
+        },
+        {
+          "id": "gomeszelmira"
+        }
+      ]
     },
     {
       "id": "aether",
       "name": "Aether family",
+      "chineseName": "艾瑟",
       "world": "Ravenwood",
       "lot": "The Marigold Chateau",
       "lotId": "themarigoldchateau",
       "worldId": "ravenwood",
       "image": "/images/families/Aether.jpg",
-      "members": []
+      "description": "在与一只宠物乌鸦沟通失败后，凯·艾瑟发现自己的肉体形态比预期的要差。这是一个许多家庭都熟悉的故事，但这个故事里有一个不幸的变故，给凯的丈夫埃卡德以及他们的儿子高间都带来了巨大的压力——凯似乎不仅不知道自己已经死了，他也不相信有鬼魂。很尴尬吧？但在当地互助小组的帮助下，以及在家人的关爱下，也许凯会开始看到曙光。",
+      "members": [
+        {
+          "id": "aetherkai"
+        },
+        {
+          "id": "aetherekade"
+        },
+        {
+          "id": "aethertakama"
+        }
+      ]
+    },
+    {
+      "id": "alice",
+      "name": "Alice household",
+      "chineseName": "艾莉丝",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
+      "image": "/images/families/Alice.jpg",
+      "members": [
+        {
+          "id": "alice"
+        }
+      ]
+    },
+    {
+      "id": "edith",
+      "name": "Edith houshehold",
+      "chineseName": "伊迪丝",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
+      "image": "/images/families/Edith.jpg",
+      "members": [
+        {
+          "id": "edith"
+        }
+      ]
+    },
+    {
+      "id": "gothlady",
+      "name": "GothLady household",
+      "chineseName": "鸦舞者女士",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
+      "image": "/images/families/GothLady.jpg",
+      "members": [
+        {
+          "id": "gothladyravendancer"
+        }
+      ]
+    },
+    {
+      "id": "warez",
+      "name": "Warez household",
+      "chineseName": "瓦雷兹",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
+      "image": "/images/families/Warez.jpg",
+      "members": [
+        {
+          "id": "warezwaylon"
+        }
+      ]
     },
     {
       "id": "koopman",
       "name": "Koopman family",
+      "chineseName": "库普曼",
       "world": "Nordhaven",
       "lot": "Terra-Potta",
       "lotId": "terrapotta",
       "worldId": "nordhaven",
       "image": "/images/families/Koopman.jpg",
-      "members": []
+      "description": "几十年来，库普曼家族烧制的精美陶器一直是诺黑凡的主打特色。格特年轻时便接手了家族店铺，那时他并没有信心能够独自经营，直到遇到了乔兰达。两人一见钟情，在一起后，陶土大地获得了前所未有的成功。然而，世事难料。经过多年的婚姻生活，加上女儿已经离开家去上大学，乔兰达和格特不再像以前那样相濡以沫。他们的大部分时间都是各行其是；她照看总店，而他则经常在当地市场摆摊——据小道消息说，有人看到他和一些顾客的关系特别亲昵。这对夫妇能否重燃旧情，还是这段爱情已经破裂到无法修复？",
+      "members": [
+        {
+          "id": "koopmangert"
+        },
+        {
+          "id": "koopmanjolanda"
+        }
+      ]
     },
     {
       "id": "urbanehousesharers",
       "name": "Urbane Housesharers household",
+      "chineseName": "都市合租者",
       "world": "Nordhaven",
       "lot": "The Old Foundry",
       "lotId": "theoldfoundry",
       "worldId": "nordhaven",
       "image": "/images/families/UrbaneHousesharers.jpg",
-      "members": []
+      "description": "肯诺伯搬到北港后，先在“酒红旋律”演出，赚了一些钱。当地人非常喜欢他的音乐，没过多久，他有了买下这家酒吧的想法，以实现自己长久以来经营一家爵士酒廊的梦想——只可惜，他的钱还不太够。后来，肯诺伯认识了克里斯平，这给他带来了新的机会。克里斯平年轻时在后现代艺术雕塑上砸了太多钱，现在他想为他收养的孩子奥利存点模拟币。没过多久，他们就搬到了一起，从此开始分摊账单。是的，克里斯平有时太过自负，而且肯诺伯也还没攒够酒吧的钱，但我们的这位梦想家已经在这座新城市找到了自己的方向。作为一个从未有过机会成为父亲的人，他越来越喜欢奥利出现在他的生活中。",
+      "members": [
+        {
+          "id": "colemancannonball"
+        },
+        {
+          "id": "blackcrispin"
+        },
+        {
+          "id": "markollie"
+        }
+      ]
     },
     {
       "id": "sarpong",
       "name": "Sarpong family",
+      "chineseName": "萨普昂",
       "world": "Nordhaven",
       "lot": "Spilled Neon",
       "lotId": "spilledneon",
       "worldId": "nordhaven",
       "image": "/images/families/Sarpong.jpg",
-      "members": []
+      "description": "在跟随一对地下纹身艺术家学艺多年后，尼娅搬回了诺黑凡，在她从小长大的家乡追逐开设纹身工作室的梦想。但除了新的技能和事业心，她还带回了一个小孩。她的女儿莱拉托也很开心可以搬到新的地方……她希望能住上最高层的房间，离她喜欢研究的星座更近一些。这是尼娅人生新篇章的开始，她开始思考，做单亲妈妈和开创自己的事业，哪个更具挑战性？",
+      "members": [
+        {
+          "id": "sarponglerato"
+        },
+        {
+          "id": "sarpongnia"
+        }
+      ]
     },
     {
       "id": "loden",
       "name": "Loden family",
+      "chineseName": "洛登",
       "world": "Nordhaven",
       "lot": "Koffieboon",
       "lotId": "koffieboon",
       "worldId": "nordhaven",
       "image": "/images/families/Loden.jpg",
-      "members": []
+      "description": "自加莫克建成以来，快乐咖啡就成了这里的一部分，并且始终由洛登家族经营。轮到诺拉接手时，她欣然接受，但谁能当她的继承者呢？诺拉的女儿芙蕾娅对继承咖啡馆毫无兴趣，她更喜欢自己深爱的舞蹈艺术。同样，小儿子艾瑞克在黏土和颜料制作方面更具天赋，对经营生意兴趣寥寥。现在，诺拉倍感压力，尽管她的母亲海蒂一再安慰她，她还是觉得自己不能辜负已故父亲和众多洛登家先祖留下的遗产。幸好她有妻子达莉娅的支持，后者广受好评的煽情爱情小说能够让诺拉逃避现实片刻。",
+      "members": [
+        {
+          "id": "lodenerik"
+        },
+        {
+          "id": "lodenfreya"
+        },
+        {
+          "id": "lodengrammahattie"
+        },
+        {
+          "id": "lodennora"
+        },
+        {
+          "id": "lodendahlia"
+        }
+      ]
     },
     {
       "id": "hoffman",
       "name": "Hoffman family",
+      "chineseName": "霍夫曼",
       "world": "Nordhaven",
       "worldId": "nordhaven",
       "image": "/images/families/Hoffman.jpg",
-      "members": []
+      "description": "霍夫曼的糖果摊一直以来都是诺黑凡所有孩子的最爱。然而，随着他的妻子去世，他的孩子纷纷搬走。每个人都认为，即使是不知疲倦的布鲁诺·霍夫曼最终也会卖掉他的生意然后退休。",
+      "members": [
+        {
+          "id": "hoffmanbruno"
+        },
+        {
+          "id": "hoffmanfelix"
+        }
+      ]
     },
     {
       "id": "nyhus",
       "name": "Nyhus family",
+      "chineseName": "尼赫斯",
       "world": "Nordhaven",
       "worldId": "nordhaven",
       "image": "/images/families/Nyhus.jpg",
-      "members": []
+      "description": "科里随遇而安，热爱每一天。他在柜台后面端出饮料，看着人们打情骂俏，不断迸发出新的激情。 他在想，是否有一天，他也能找到心爱的人。",
+      "members": [
+        {
+          "id": "nyhuscorey"
+        }
+      ]
     },
     {
       "id": "amri",
       "name": "Amri family",
+      "chineseName": "艾姆利",
       "world": "Nordhaven",
       "worldId": "nordhaven",
       "image": "/images/families/Amri.jpg",
-      "members": []
+      "description": "这一切终于发生了——带着一把吉他和充满希望的乐观主义，札因鼓起勇气离开了家，去追求真正的爱好：唱歌。 当然，大多数人都无法在音乐的道路上走得很远，但如果你连尝试都不敢，又有什么意义呢？札因已经准备好迎接生活的挑战！",
+      "members": [
+        {
+          "id": "amrizain"
+        }
+      ]
     },
     {
       "id": "enchantedlovers",
       "name": "Enchanted Lovers household",
+      "chineseName": "魔法恋人",
       "world": "Innisgreen",
       "lot": "Gimmley Gardensbrook",
       "lotId": "gimmleygardensbrook",
       "worldId": "innisgreen",
       "image": "/images/families/EnchantedLovers.jpg",
-      "members": []
+      "description": "两个性格迥异的恋人排除万难走到一起，如今拥有了一个温馨小家。托德和艾尔里克因喜爱自然与魔法而结缘，他们经常整天晒太阳，或在水畔采探。但生活不可能事事完美——托德的药剂师事业蒸蒸日上，艾尔里克则开始寻找调酒师之外的更大人生目标。他陷入了对真实自我本质的迷茫，甚至开始思索，剪断翅膀能否让自己获得更多的自由。只有时间能知道答案。",
+      "members": [
+        {
+          "id": "demurayelric"
+        },
+        {
+          "id": "attenberrytodd"
+        }
+      ]
     },
     {
       "id": "mysticalbesties",
       "name": "Mystical Besties household",
+      "chineseName": "神秘闺蜜",
       "world": "Innisgreen",
       "lot": "Bard Boulevard",
       "lotId": "bardboulevard",
       "worldId": "innisgreen",
       "image": "/images/families/MysticalBesties.jpg",
-      "members": []
+      "description": "原本为单身人士打造的空间，现在被伊丽丝和娜迪亚打造成共同住所。两人在举办晚会的仙灵之家外偶遇，迅速结为好友，娜迪亚更是要求伊丽丝搬入她空余的那间房间。这对闺蜜都热爱自然和魔法，偶尔还有点叛逆，她们一面享受大好青春年华，一面寻找着属于自己的神秘之路，无论它最后会通向何方。",
+      "members": [
+        {
+          "id": "ladipoiris"
+        },
+        {
+          "id": "kishkanadya"
+        }
+      ]
     },
     {
       "id": "ladipo",
       "name": "Ladipo family",
+      "chineseName": "拉迪波",
       "world": "Innisgreen",
+      "lot": "42 Normfair Drive",
+      "lotId": "42normfairdrive",
       "worldId": "innisgreen",
       "image": "/images/families/Ladipo.jpg",
-      "members": []
+      "description": "虽然搬到了一个风景更优美的地方，拉迪波一家仍然过着依赖科技的生活。对芙洛拉和阿约而言，最贴近园艺的活动就是给自己的鲜活室内盆栽浇水——显然，大自然只是他们生活的一个美好布景。但需要额外照料的不只是鲜活室内盆栽。在他们的女儿伊丽丝离开家去追寻充满魔法的生活后，这个家庭内部出现了一道裂隙。面对这份逐渐疏离的沉重关系，拉迪波夫妇必须与女儿建立共识，否则彼此间的隔阂将越来越大。",
+      "members": [
+        {
+          "id": "ladipoayo"
+        },
+        {
+          "id": "ladipoflora"
+        }
+      ]
     },
     {
       "id": "nhoam",
       "name": "Nhoam family",
+      "chineseName": "诺姆",
       "world": "Innisgreen",
       "lot": "8 Gnome Coast Street",
       "lotId": "8gnomecoaststreet",
       "worldId": "innisgreen",
       "image": "/images/families/Nhoam.jpg",
-      "members": []
+      "description": "格努•诺姆——阿德摩尔海岸当地的疯狂挥舞手臂非充气地精小人，住在这个简陋居所里，房间里摆满了个人收藏的地精。格努很享受这种遗世独立的生活，喜欢在格努姆的店传播地精福音，或者做做木工，打磨自己最近写的专业大作（也许是地精题材的同人小说）。年级虽大但风采依旧，格努是一个乐于助人的热心领居，有时也会给地精施魔法让它代劳。",
+      "members": [
+        {
+          "id": "nhoamglen"
+        }
+      ]
     },
     {
       "id": "summerdream",
       "name": "Summerdream family",
+      "chineseName": "夏梦",
       "world": "Innisgreen",
       "lot": "Puckitt Hall",
       "lotId": "puckitthall",
       "worldId": "innisgreen",
       "image": "/images/families/Summerdream.jpg",
-      "members": []
+      "description": "早在很久之前，夏梦家族便是恒露森林的高阶仙灵家族。缇塔尼亚和奥伯伦这对知名夫妇在应对育儿难题的同时，还需艰难维系他们那充满情绪动荡的婚姻。不过幸运的是，仙灵以情绪起伏为生，因此这些冲突闹剧反而让他们无比满足。至于玛拉，她迫切渴望自己长出翅膀的那一天到来，午后不是陪父亲钓鱼，就是追着蝴蝶跑。",
+      "members": [
+        {
+          "id": "summerdreamtitania"
+        },
+        {
+          "id": "summerdreamoberon"
+        },
+        {
+          "id": "summerdreammara"
+        }
+      ]
+    },
+    {
+      "id": "amani",
+      "name": "Amani household",
+      "chineseName": "阿曼尼",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
+      "image": "/images/families/Amani.jpg",
+      "members": [
+        {
+          "id": "amanizhaleh"
+        }
+      ]
+    },
+    {
+      "id": "ren",
+      "name": "Ren household",
+      "chineseName": "任",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
+      "image": "/images/families/Ren.jpg",
+      "members": [
+        {
+          "id": "rencare"
+        }
+      ]
+    },
+    {
+      "id": "almighty",
+      "name": "Almighty household",
+      "chineseName": "天树",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
+      "image": "/images/families/Almighty.jpg",
+      "members": [
+        {
+          "id": "almightyspruce"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Nature household",
+      "chineseName": "自然",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
+      "image": "/images/families/Nature.jpg",
+      "members": [
+        {
+          "id": "naturemother"
+        }
+      ]
+    },
+    {
+      "id": "trader",
+      "name": "Trader household",
+      "chineseName": "商",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
+      "image": "/images/families/Trader.jpg",
+      "members": [
+        {
+          "id": "traderjoe"
+        }
+      ]
     },
     {
       "id": "addamcommune",
       "name": "Addam Commune household",
+      "chineseName": "亚当公社",
       "world": "Gibbi Point",
       "lot": "Love Highland",
       "lotId": "lovehighland",
       "worldId": "gibbipoint",
       "image": "/images/families/AddamCommune.jpg",
-      "members": []
+      "description": "珍与斯塔·亚当以他们的「爱的高地」度假地闻名──还有他们那带刺的个性。他们还有两位室友斯基普和阿戈拉。在这四人同住的情况下，真难理解他们为什么还需要走出家门寻找生活中的额外刺激。",
+      "members": [
+        {
+          "id": "addamjane"
+        },
+        {
+          "id": "addamstar"
+        },
+        {
+          "id": "tchotchkeagora"
+        },
+        {
+          "id": "brokeskip"
+        }
+      ]
     },
     {
       "id": "perry",
       "name": "Perry family",
+      "chineseName": "佩里",
       "world": "Gibbi Point",
       "lot": "Seabreeze Scenic",
       "lotId": "seabreezescenic",
       "worldId": "gibbipoint",
       "image": "/images/families/Perry.jpg",
-      "members": []
+      "description": "芙丽达·佩里从没想过自己会一边经营「重燃新生健身静修营」，一边照顾她那害羞又贴心的孙子道奇——但事到如今，也只能一边兼顾了！芙丽达每天忙于飞轮课程与激励他人突破自我，同时也鼓励道奇走出户外、探索世界，也许还能唤醒他内心那位潜藏的「野孩子」。",
+      "members": [
+        {
+          "id": "perryfreeda"
+        },
+        {
+          "id": "perrydougie"
+        }
+      ]
     },
     {
       "id": "chavezralston",
       "name": "Chavez-Ralston family",
+      "chineseName": "查维兹-劳斯顿",
       "world": "Gibbi Point",
       "lot": "Wanderwood Wonder",
       "lotId": "wanderwoodwonder",
       "worldId": "gibbipoint",
       "image": "/images/families/ChavezRalston.jpg",
-      "members": []
+      "description": "一家之长奈吉尔正在吉比吉比营地实现他儿时的梦想，担任营地主任；而他的妻子莎拉则将她对创意与混乱的热爱投入在担任营地辅导员的工作中。他们的双胞胎女儿，艾莉丝与艾琳，也常常看起来像是一对截然不同的极端姐妹花。",
+      "members": [
+        {
+          "id": "chavezralstonnigel"
+        },
+        {
+          "id": "chavezralstonsara"
+        },
+        {
+          "id": "chavezralstonaeris"
+        },
+        {
+          "id": "chavezralstonerin"
+        }
+      ]
+    },
+    {
+      "id": "kunal",
+      "name": "Kunal family",
+      "chineseName": "库南",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
+      "image": "/images/families/Kunal.jpg",
+      "members": [
+        {
+          "id": "kunalraheel"
+        },
+        {
+          "id": "kunallaxmi"
+        }
+      ]
     },
     {
       "id": "capp",
       "name": "Capp family",
+      "chineseName": "盖普",
       "world": "Ondarion",
       "lot": "Bellacorde Palace",
       "lotId": "bellacordepalace",
       "worldId": "ondarion",
       "image": "/images/families/Capp.jpg",
-      "members": []
+      "description": "提伯特的人生可说是样样不缺——拥有所有人梦寐以求的模拟币，还有一栋适合举办豪华派对的梦想豪宅。哦，还有，自从把妹妹茱丽叶赶走之后，他就是贝拉科德中地位最高的贵族。但也许他还能得到更多？毕竟，在昂达里昂还有谁比他这样的富翁更适合当国王？他完美形象中唯一的小污点，就是三个孩子都已长大，却坚持长期单身、拒绝安定下来！首先是比阿特丽丝，她是整个王国都爱戴的明珠，她明明可以选任何人，却还在抱怨自己渴望更「有意义」的东西。接着是理想主义者塞莱斯特，她居然相信家族那一套关于荣誉与骑士精神的家训就该被当真。真是天真到极点。最后是维吉里欧。呃。真是丢脸的儿子，老是批评上流社会，说他们虚伪。为什么他就不能像提伯特一样，好好享受他的财富呢！",
+      "members": [
+        {
+          "id": "capptybalt"
+        },
+        {
+          "id": "cappbeatrice"
+        },
+        {
+          "id": "cappceleste"
+        },
+        {
+          "id": "cappvirgilio"
+        }
+      ]
     },
     {
       "id": "monty",
       "name": "Monty family",
+      "chineseName": "蒙蒂",
       "world": "Ondarion",
       "lot": "Renaissance Road",
       "lotId": "renaissanceroad",
       "worldId": "ondarion",
       "image": "/images/families/Monty.jpg",
-      "members": []
+      "description": "追随内心，为茱丽叶·蒙蒂（前姓盖普）带来了巨大的后果。被原本的世家除名后，她失去了贵族阶级与大部分财富。然而，与挚爱罗密欧在一起的生活却美好得多。看到他们的儿子但丁逐渐长大，成为和父亲一样心地善良的人，更让她由衷地感到满足。然而——如今新家庭已在此扎根安定——她仍不时幻想夺回曾经失去的一切。",
+      "members": [
+        {
+          "id": "montyjuliette"
+        },
+        {
+          "id": "montyromeo"
+        },
+        {
+          "id": "montydante"
+        }
+      ]
     },
     {
       "id": "abrantes",
       "name": "Abrantes family",
+      "chineseName": "阿布兰特斯",
       "world": "Ondarion",
       "lot": "Abrantes Estate",
       "lotId": "abrantesestate",
       "worldId": "ondarion",
       "image": "/images/families/Abrantes.jpg",
-      "members": []
+      "description": "在长子与提比家族的女性继承人成功联姻后，埃尔梅琳达．阿布兰特斯理应能安心退休才对。但她希望家族更上一层楼的野心并未随着岁月一同流逝。在家族政治与权力斗争之间，她正值青春年少的女儿索菲亚往往只是贵族生活的天真旁观者，偶尔也会不小心捕捉到宫廷里本应悄然无声的丑闻。",
+      "members": [
+        {
+          "id": "abrantesermelinda"
+        },
+        {
+          "id": "abrantessofia"
+        }
+      ]
     },
     {
       "id": "thebe",
       "name": "Thebe family",
+      "chineseName": "提比",
       "world": "Ondarion",
       "lot": "Verdemar Palace",
       "lotId": "verdemarpalace",
       "worldId": "ondarion",
       "image": "/images/families/Thebe.jpg",
-      "members": []
+      "description": "经历多年的海上冒险后，柯德莉亚·提比五世终于回到了维德玛，并且似乎在此定居了下来。如今她快乐地与阿布兰特斯世家的蒂亚戈结为连理，仿佛获得了登上王位所需的一切。但不少人依然好奇，柯德莉亚究竟是真的想统治王国，还是对冒险的渴望终将胜过一切呢？许多双眼睛都正紧盯着她，渴求着下一个丑闻的发生……",
+      "members": [
+        {
+          "id": "thebevcordelia"
+        },
+        {
+          "id": "abrantesthiago"
+        }
+      ]
     },
     {
       "id": "romualdo",
       "name": "Romualdo family",
+      "chineseName": "罗穆阿尔多",
       "world": "Ondarion",
       "lot": "Casa Do Corsário",
       "lotId": "casadocorsario",
       "worldId": "ondarion",
       "image": "/images/families/Romualdo.jpg",
-      "members": []
+      "description": "年少时，阿洛伊西奥学到人生最深刻的一课：只问结果，不问手段。在丹贝莱长大的时光很美好，但他知道自己渴望更多刺激。因此，他搬到了父亲的故乡维德玛。他很快就在这里发现，只要你怀抱雄心壮志、也足够精明，无论是挑战平民与贵族间的不公，或是要趁势从中获益，都能找到不少引人入胜的机会。",
+      "members": [
+        {
+          "id": "romualdoaloisio"
+        }
+      ]
     },
     {
       "id": "darong",
       "name": "Darong family",
+      "chineseName": "达隆",
       "world": "Ondarion",
       "lot": "Dambele Palace",
       "lotId": "dambelepalace",
       "worldId": "ondarion",
       "image": "/images/families/Darong.jpg",
+      "description": "「团结带来力量」是达隆家族的家训。他们也确实世世代代同心一体……但这真能永远持续吗？年迈的世家首领阿德科亚，自女儿贾瓦拉年幼时，便梦想她有朝一日成为女王。多年来，她也证明自己是绝佳人选，透过慈善事业在全王国赢得青睐。她登上王冠的道路似乎正一路顺遂，直到丈夫猝不及防的早逝。仿佛这还不够，随着她的人气日渐高涨，越来越多好事之徒开始打探达隆家，追究这个看似完美的家族是否真的毫无丑闻可言。挑战接踵而来之际，贾瓦拉仍奋勇向前，集结挚爱家族的力量，支撑她在争夺王冠的竞逐中挺进。",
+      "members": [
+        {
+          "id": "darongadekoya"
+        },
+        {
+          "id": "darongjawara"
+        },
+        {
+          "id": "darongamarachi"
+        },
+        {
+          "id": "darongobi"
+        }
+      ]
+    },
+    {
+      "id": "ananou",
+      "name": "Ananou family",
+      "chineseName": "阿南努",
+      "world": "Ondarion",
+      "lot": "18 Bright Cliff",
+      "lotId": "18brightcliff",
+      "worldId": "ondarion",
+      "image": "/images/families/Ananou.jpg",
+      "description": "爱玩又傻气，阿南努一家是热情好客的家族——只要你不介意那些恶作剧！但他们可不只有欢笑和游戏而已。埃克内·阿南努，一辈子都只是个朴实工匠，如今在女儿过世后肩负起抚养孙女阿芙娅的责任。那孩子的父亲呢？嗯，没人真正知道他是谁。埃克内只说，那人跟他们其他人实在太不一样。于是双方同意由阿南娅留在阿娜努家，长大后过一种「普通人生」，不管那到底是什么意思。但许多人仍对这个谜团闲言闲语，甚至有人发誓看见阿南努家信箱里出现过数笔相当可观的捐款。",
+      "members": [
+        {
+          "id": "ananouekene"
+        },
+        {
+          "id": "ananouafua"
+        }
+      ]
+    },
+    {
+      "id": "altoenzo",
+      "name": "Alto family",
+      "chineseName": "艾托",
+      "world": "Ondarion",
+      "lot": "12 Lakeview Apartments",
+      "lotId": "12lakeviewapartments",
+      "worldId": "ondarion",
+      "image": "/images/families/AltoEnzo.jpg",
+      "description": "你听好，恩佐可是整个昂达里昂最炙手可热、最迷人的黄金单身汉。至少他妈妈是这么说的，她一直盼着他别再到处玩乐、去做点正事。至于他前后甩了的几十位前任，对他的想法可能就跟他妈妈不太一样了。",
       "members": []
+    },
+    {
+      "id": "akachi",
+      "name": "Akachi family",
+      "chineseName": "阿卡其",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/families/Akachi.jpg",
+      "description": "要成为真正的菁英，必须兼具技能、美貌与智慧。而阿卡奇全都具备。那为何依然感到人生应该还有更多、更高远的目标正呼唤着自己前去实现呢？",
+      "members": [
+        {
+          "id": "onojaakachi"
+        }
+      ]
+    },
+    {
+      "id": "fidential",
+      "name": "Fidential family",
+      "chineseName": "菲德纳尔",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/families/Fidential.jpg",
+      "description": "康妮真的非常了解昂達里昂居民們的生活與八卦。或許知道得太多了。",
+      "members": [
+        {
+          "id": "fidentialconnie"
+        }
+      ]
+    },
+    {
+      "id": "cappconsort",
+      "name": "CappConsort family",
+      "chineseName": "盖普",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/families/CappConsort.jpg",
+      "description": "康索特·盖普对自己的世家变成如今这副德性震惊不已，决心无论过多久都要留下，务必让这些肮脏、纵欲的后代重新学会洁身自爱。就算要花上永恒的时光也在所不惜。",
+      "members": [
+        {
+          "id": "cappconsort"
+        }
+      ]
+    },
+    {
+      "id": "acosta",
+      "name": "Acosta family",
+      "chineseName": "阿科斯塔",
+      "world": "Ondarion",
+      "worldId": "ondarion",
+      "image": "/images/families/Acosta.jpg",
+      "description": "在满是黑暗流言的世界里，菲娅也有着属于自己的秘密。但凭借着传奇般的剑术与追求正义的天命，她的信念始终坚不可摧。",
+      "members": [
+        {
+          "id": "acostafia"
+        }
+      ]
     }
   ],
   "lots": [
@@ -3724,83 +12172,6 @@ export default {
       "isBuilt": false
     },
     {
-      "id": "rockridgecanyon",
-      "name": "Rock Ridge Canyon",
-      "type": "Residential",
-      "price": 0,
-      "size": "40×30",
-      "world": "Glimmerbrook",
-      "worldId": "glimmerbrook",
-      "districtId": "glimmerbrook",
-      "image": "/images/lots/RockRidgeCanyon.jpg",
-      "isDownloaded": false,
-      "isBuilt": false
-    },
-    {
-      "id": "creeksidecorner",
-      "name": "Creek Side Corner",
-      "type": "Residential",
-      "price": 0,
-      "size": "30×20",
-      "world": "Glimmerbrook",
-      "worldId": "glimmerbrook",
-      "districtId": "glimmerbrook",
-      "image": "/images/lots/CreekSideCorner.jpg",
-      "isDownloaded": false,
-      "isBuilt": false
-    },
-    {
-      "id": "brooksbridgeborough",
-      "name": "Brooks Bridge Borough",
-      "type": "Residential",
-      "price": 0,
-      "size": "30×20",
-      "world": "Glimmerbrook",
-      "worldId": "glimmerbrook",
-      "districtId": "glimmerbrook",
-      "image": "/images/lots/BrooksBridgeBorough.jpg",
-      "isDownloaded": false,
-      "isBuilt": false
-    },
-    {
-      "id": "glimmerbrookwatch",
-      "name": "Glimmerbrook Watch",
-      "type": "Residential",
-      "price": 0,
-      "size": "30×20",
-      "world": "Glimmerbrook",
-      "worldId": "glimmerbrook",
-      "districtId": "glimmerbrook",
-      "image": "/images/lots/GlimmerbrookWatch.jpg",
-      "isDownloaded": false,
-      "isBuilt": false
-    },
-    {
-      "id": "elixirsandbrews",
-      "name": "Elixirs and Brews",
-      "type": "Bar",
-      "price": 0,
-      "size": "30×20",
-      "world": "Glimmerbrook",
-      "worldId": "glimmerbrook",
-      "districtId": "glimmerbrook",
-      "image": "/images/lots/ElixirsandBrews.jpg",
-      "isDownloaded": false,
-      "isBuilt": false
-    },
-    {
-      "id": "themagicrealm",
-      "name": "The Magic Realm",
-      "type": "SecretLot",
-      "price": 0,
-      "world": "Glimmerbrook",
-      "worldId": "glimmerbrook",
-      "districtId": "glimmerbrook",
-      "image": "/images/lots/TheMagicRealm.jpg",
-      "isDownloaded": false,
-      "isBuilt": false
-    },
-    {
       "id": "darbysden",
       "name": "Darby’s Den",
       "type": "University",
@@ -3966,6 +12337,83 @@ export default {
       "worldId": "britechester",
       "districtId": "gibbshill",
       "image": "/images/lots/SpringSteppes.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "rockridgecanyon",
+      "name": "Rock Ridge Canyon",
+      "type": "Residential",
+      "price": 0,
+      "size": "40×30",
+      "world": "Glimmerbrook",
+      "worldId": "glimmerbrook",
+      "districtId": "glimmerbrook",
+      "image": "/images/lots/RockRidgeCanyon.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "creeksidecorner",
+      "name": "Creek Side Corner",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Glimmerbrook",
+      "worldId": "glimmerbrook",
+      "districtId": "glimmerbrook",
+      "image": "/images/lots/CreekSideCorner.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "brooksbridgeborough",
+      "name": "Brooks Bridge Borough",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Glimmerbrook",
+      "worldId": "glimmerbrook",
+      "districtId": "glimmerbrook",
+      "image": "/images/lots/BrooksBridgeBorough.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "glimmerbrookwatch",
+      "name": "Glimmerbrook Watch",
+      "type": "Residential",
+      "price": 0,
+      "size": "30×20",
+      "world": "Glimmerbrook",
+      "worldId": "glimmerbrook",
+      "districtId": "glimmerbrook",
+      "image": "/images/lots/GlimmerbrookWatch.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "elixirsandbrews",
+      "name": "Elixirs and Brews",
+      "type": "Bar",
+      "price": 0,
+      "size": "30×20",
+      "world": "Glimmerbrook",
+      "worldId": "glimmerbrook",
+      "districtId": "glimmerbrook",
+      "image": "/images/lots/ElixirsandBrews.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
+      "id": "themagicrealm",
+      "name": "The Magic Realm",
+      "type": "SecretLot",
+      "price": 0,
+      "world": "Glimmerbrook",
+      "worldId": "glimmerbrook",
+      "districtId": "glimmerbrook",
+      "image": "/images/lots/TheMagicRealm.jpg",
       "isDownloaded": false,
       "isBuilt": false
     },
@@ -5787,6 +14235,18 @@ export default {
       "isBuilt": false
     },
     {
+      "id": "42normfairdrive",
+      "name": "42 Normfair Drive",
+      "type": "Residential",
+      "price": 0,
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
+      "districtId": "coastofadhmor",
+      "image": "/images/lots/42NormfairDrive.jpg",
+      "isDownloaded": false,
+      "isBuilt": false
+    },
+    {
       "id": "8gnomecoaststreet",
       "name": "8 Gnome Coast Street",
       "type": "Residential",
@@ -6526,17 +14986,6 @@ export default {
       ]
     },
     {
-      "id": "glimmerbrook",
-      "name": "Glimmerbrook",
-      "chineseName": "微光溪流",
-      "description": "微光溪流这座小镇的内幕，也许不如表面上那般宁静…",
-      "image": "/images/worlds/Glimmerbrook.jpg",
-      "sizes": [
-        "40x30",
-        "30x20"
-      ]
-    },
-    {
       "id": "britechester",
       "name": "Britechester",
       "chineseName": "布莱彻斯特",
@@ -6547,6 +14996,17 @@ export default {
         "30x20",
         "20x20",
         "20x15"
+      ]
+    },
+    {
+      "id": "glimmerbrook",
+      "name": "Glimmerbrook",
+      "chineseName": "微光溪流",
+      "description": "微光溪流这座小镇的内幕，也许不如表面上那般宁静…",
+      "image": "/images/worlds/Glimmerbrook.jpg",
+      "sizes": [
+        "40x30",
+        "30x20"
       ]
     },
     {
@@ -7075,13 +15535,6 @@ export default {
       "lots": []
     },
     {
-      "id": "glimmerbrook",
-      "worldId": "glimmerbrook",
-      "name": "微光溪流",
-      "image": "/images/worlds/districts/Glimmerbrook.jpg",
-      "lots": []
-    },
-    {
       "id": "universityofbritechester",
       "worldId": "britechester",
       "name": "布莱彻斯特大学",
@@ -7103,6 +15556,13 @@ export default {
       "name": "吉布斯山丘",
       "image": "/images/worlds/districts/GibbsHill.jpg",
       "description": "吉布斯山丘就坐落于布莱彻斯特中心，即狐陵学院和布莱彻斯特大学两所大学中间。这里是布莱彻斯特第一个活动集中地，其知名的桂冠图书馆更是许多学生念书与学籍的重要场所。胡椒饮料吧也是两所大学学生的共有地点，在这里，他们可以抛开竞争关系，成为朋友。",
+      "lots": []
+    },
+    {
+      "id": "glimmerbrook",
+      "worldId": "glimmerbrook",
+      "name": "微光溪流",
+      "image": "/images/worlds/districts/Glimmerbrook.jpg",
       "lots": []
     },
     {
