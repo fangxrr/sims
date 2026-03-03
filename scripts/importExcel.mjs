@@ -102,40 +102,10 @@ try {
             career: getRowVal(row, 'career'),
             aspiration: { name: getRowVal(row, 'aspiration') },
             traits: parseArray(getRowVal(row, 'traits'))?.map(t => ({ name: t.trim() })) || [],
-            skills: (() => {
-                const skillsList = parseArray(getRowVal(row, 'skills'))?.map(s => {
-                    const parts = s.split(':');
-                    return { name: parts[0]?.trim(), level: parseInt(parts[1]?.trim() || '1') };
-                }) || [];
-
-                // Standard non-skill columns to ignore
-                const excluded = [
-                    'id', 'name', 'chineseName', 'familyId', 'worldId', 'world',
-                    'gender', 'age', 'maritalStatus', 'career', 'aspiration',
-                    'traits', 'skills', 'ishomeless', 'image',
-                    'spouseids', 'spouse', 'loverids', 'lover',
-                    'parentsids', 'parents', 'childrenids', 'children',
-                    'siblingids', 'siblings', 'grandparentids', 'grandparents',
-                    'grandchildids', 'grandchildren', 'relativesids', 'relatives'
-                ];
-
-                // Dynamically find other columns that might be skills (columns with numeric values)
-                Object.keys(row).forEach(key => {
-                    const lowerKey = key.trim().toLowerCase();
-                    if (!excluded.includes(lowerKey)) {
-                        const val = row[key];
-                        const level = parseInt(val);
-                        if (!isNaN(level) && level > 0) {
-                            // Check if already added via traditional column (avoid duplicates)
-                            if (!skillsList.some(s => s.name.toLowerCase() === key.trim().toLowerCase())) {
-                                skillsList.push({ name: key.trim(), level });
-                            }
-                        }
-                    }
-                });
-
-                return skillsList;
-            })(),
+            skills: parseArray(getRowVal(row, 'skills'))?.map(s => {
+                const parts = s.split(':');
+                return { name: parts[0]?.trim(), level: parseInt(parts[1]?.trim() || '1') };
+            }) || [],
             relationships: {
                 spouse: parseRefs(getRowVal(row, 'spouseIds') || getRowVal(row, 'spouse')),
                 lover: parseRefs(getRowVal(row, 'loverIds') || getRowVal(row, 'lover')),

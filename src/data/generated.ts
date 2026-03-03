@@ -29,12 +29,7 @@ export default {
           "name": "Quick Learner"
         }
       ],
-      "skills": [
-        {
-          "name": "Writing",
-          "level": 4
-        }
-      ],
+      "skills": [],
       "relationships": {
         "spouse": [
           {
@@ -86,24 +81,7 @@ export default {
           "name": "Gregarious"
         }
       ],
-      "skills": [
-        {
-          "name": "Charisma",
-          "level": 2
-        },
-        {
-          "name": "Fitness",
-          "level": 2
-        },
-        {
-          "name": "Programming",
-          "level": 2
-        },
-        {
-          "name": "Violin",
-          "level": 2
-        }
-      ],
+      "skills": [],
       "relationships": {
         "spouse": [
           {
