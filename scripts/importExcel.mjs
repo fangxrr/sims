@@ -41,7 +41,7 @@ try {
     const parseArray = (str) => {
         if (!str) return [];
         if (typeof str !== 'string') return [str];
-        return str.split(',').map(s => s.trim()).filter(Boolean);
+        return str.split(/[,，]/).map(s => s.trim()).filter(Boolean);
     };
 
     const normalizeId = (id) => {
@@ -102,7 +102,7 @@ try {
             career: getRowVal(row, 'career'),
             aspiration: { name: getRowVal(row, 'aspiration') },
             traits: parseArray(getRowVal(row, 'traits'))?.map(t => ({ name: t.trim() })) || [],
-            skills: parseArray(getRowVal(row, 'skills'))?.map(s => {
+            skills: parseArray(getRowVal(row, 'skills') || getRowVal(row, 'skill'))?.map(s => {
                 // Support formats like "Cooking:5", "Cooking 5", or "Cooking5"
                 if (s.includes(':')) {
                     const parts = s.split(':');

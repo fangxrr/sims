@@ -29,7 +29,12 @@ export default {
           "name": "Quick Learner"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "Writing",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [
           {
@@ -81,7 +86,20 @@ export default {
           "name": "Gregarious"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "Charisma",
+          "level": 2
+        },
+        {
+          "name": "Fitness",
+          "level": 2
+        },
+        {
+          "name": "Programming",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [
           {
@@ -130,7 +148,12 @@ export default {
           "name": "Muser"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "Violin",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -173,7 +196,24 @@ export default {
           "name": "Bookworm"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "Creativity",
+          "level": 1
+        },
+        {
+          "name": "Mental",
+          "level": 1
+        },
+        {
+          "name": "Motor",
+          "level": 1
+        },
+        {
+          "name": "Social",
+          "level": 1
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -225,7 +265,16 @@ export default {
           "name": "Domestic"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "Comedy",
+          "level": 1
+        },
+        {
+          "name": "Cooking",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -281,7 +330,16 @@ export default {
           "name": "Domestic"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "Comedy",
+          "level": 1
+        },
+        {
+          "name": "Gardening",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -337,7 +395,28 @@ export default {
           "name": "Muser"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "Charisma",
+          "level": 1
+        },
+        {
+          "name": "Comedy",
+          "level": 1
+        },
+        {
+          "name": "Cooking",
+          "level": 1
+        },
+        {
+          "name": "Mischief",
+          "level": 1
+        },
+        {
+          "name": "Painting",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [
           {
@@ -394,7 +473,16 @@ export default {
           "name": "Business Savvy"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "Logic",
+          "level": 1
+        },
+        {
+          "name": "Programming",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [
           {
@@ -427,19 +515,56 @@ export default {
       "familyId": "spencerkimlewis",
       "name": "LewisKim Olivia",
       "chineseName": "路易斯·金·奥莉维亚",
+      "gender": "Female",
+      "age": "Child",
+      "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/LewisKimOlivia.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "Grade School",
+      "aspiration": {
+        "name": "Artistic Prodigy"
+      },
+      "traits": [
+        {
+          "name": "Goofball"
+        }
+      ],
+      "skills": [
+        {
+          "name": "Mental",
+          "level": 1
+        },
+        {
+          "name": "Motor",
+          "level": 1
+        },
+        {
+          "name": "Social",
+          "level": 1
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "kimspenceralice"
+          },
+          {
+            "id": "lewiseric"
+          }
+        ],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "kimdennis"
+          },
+          {
+            "id": "lewisvivian"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
