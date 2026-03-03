@@ -370,21 +370,56 @@ export default {
       "familyId": "spencerkimlewis",
       "name": "Lewis Eric",
       "chineseName": "路易斯·埃瑞克",
+      "gender": "Male",
+      "age": "Young Audlt",
+      "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/LewisEric.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "Unemployed",
+      "aspiration": {
+        "name": "Mansion Baron"
+      },
+      "traits": [
+        {
+          "name": "Materialistic"
+        },
+        {
+          "name": "Glutton"
+        },
+        {
+          "name": "Self-Assured"
+        },
+        {
+          "name": "Business Savvy"
+        }
+      ],
       "skills": [],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "kimspenceralice"
+          }
+        ],
         "lover": [],
-        "parents": [],
-        "children": [],
+        "parents": [
+          {
+            "id": "lewisvivian"
+          }
+        ],
+        "children": [
+          {
+            "id": "lewiskimolivia"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "kimdennis"
+          }
+        ]
       }
     },
     {
