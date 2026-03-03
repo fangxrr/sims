@@ -103,8 +103,20 @@ try {
             aspiration: { name: getRowVal(row, 'aspiration') },
             traits: parseArray(getRowVal(row, 'traits'))?.map(t => ({ name: t.trim() })) || [],
             skills: parseArray(getRowVal(row, 'skills'))?.map(s => {
-                const parts = s.split(':');
-                return { name: parts[0]?.trim(), level: parseInt(parts[1]?.trim() || '1') };
+                // Support formats like "Cooking:5", "Cooking 5", or "Cooking5"
+                if (s.includes(':')) {
+                    const parts = s.split(':');
+                    return { name: parts[0]?.trim(), level: parseInt(parts[1]?.trim() || '1') };
+                }
+
+                // Matches "Skill Name 5" or "SkillName5" - captures name and trailing number
+                const match = s.match(/^(.*?)\s*(\d+)$/);
+                if (match) {
+                    return { name: match[1].trim(), level: parseInt(match[2]) };
+                }
+
+                // Fallback for just "Skill Name"
+                return { name: s.trim(), level: 1 };
             }) || [],
             relationships: {
                 spouse: parseRefs(getRowVal(row, 'spouseIds') || getRowVal(row, 'spouse')),
