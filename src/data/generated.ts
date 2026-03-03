@@ -11,30 +11,46 @@ export default {
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/GothMortimer.jpg",
-      "career": "Writer (Author Branch)",
+      "career": "Freelance Article Writer",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "Renaissance Sim"
       },
-      "traits": [],
+      "traits": [
+        {
+          "name": "Bookworm"
+        },
+        {
+          "name": "Outgoing"
+        },
+        {
+          "name": "Creative"
+        },
+        {
+          "name": "Quick Learner"
+        }
+      ],
       "skills": [
         {
           "name": "Writing",
-          "level": 8
-        },
-        {
-          "name": "Logic",
-          "level": 6
-        },
-        {
-          "name": "Charisma",
-          "level": 5
+          "level": 4
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "gothbella"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "gothcassandra"
+          },
+          {
+            "id": "gothalexander"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -46,15 +62,64 @@ export default {
       "familyId": "goth",
       "name": "Goth Bella",
       "chineseName": "高斯·贝拉",
+      "gender": "Female",
+      "age": "Young Audlt",
+      "maritalStatus": "Married",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/GothBella.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "Intelligence Researcher",
+      "aspiration": {
+        "name": "Party Animal"
+      },
+      "traits": [
+        {
+          "name": "Good"
+        },
+        {
+          "name": "Family-Oriented"
+        },
+        {
+          "name": "Romantic"
+        },
+        {
+          "name": "Gregarious"
+        }
+      ],
+      "skills": [
+        {
+          "name": "Charisma",
+          "level": 2
+        },
+        {
+          "name": "Fitness",
+          "level": 2
+        },
+        {
+          "name": "Programming",
+          "level": 2
+        },
+        {
+          "name": "Violin",
+          "level": 2
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "gothmortimer"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "gothcassandra"
+          },
+          {
+            "id": "gothalexander"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -66,16 +131,45 @@ export default {
       "familyId": "goth",
       "name": "Goth Cassandra",
       "chineseName": "高斯·卡珊多拉",
+      "gender": "Female",
+      "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/GothCassandra.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "High School",
+      "aspiration": {
+        "name": "Musical Genius"
+      },
+      "traits": [
+        {
+          "name": "Creative"
+        },
+        {
+          "name": "Gloomy"
+        },
+        {
+          "name": "Muser"
+        }
+      ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "gothmortimer"
+          },
+          {
+            "id": "gothbella"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "gothalexander"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -86,16 +180,39 @@ export default {
       "familyId": "goth",
       "name": "Goth Alexander",
       "chineseName": "高斯·亚历山大",
+      "gender": "Male",
+      "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/GothAlexander.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "Elementary School",
+      "aspiration": {
+        "name": "Whiz Kid"
+      },
+      "traits": [
+        {
+          "name": "Bookworm"
+        }
+      ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "gothmortimer"
+          },
+          {
+            "id": "gothbella"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "gothcassandra"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -106,19 +223,55 @@ export default {
       "familyId": "spencerkimlewis",
       "name": "Kim Dennis",
       "chineseName": "金·丹尼斯",
+      "gender": "Male",
+      "age": "Elder",
+      "maritalStatus": "Divorced",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/KimDennis.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "Unemployed",
+      "aspiration": {
+        "name": "Successful Lineage"
+      },
+      "traits": [
+        {
+          "name": "Loves Outdoors"
+        },
+        {
+          "name": "Neat"
+        },
+        {
+          "name": "Perfectionist"
+        },
+        {
+          "name": "Domestic"
+        }
+      ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "kimspenceralice"
+          }
+        ],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "lewiskimolivia"
+          }
+        ],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "lewisvivian"
+          },
+          {
+            "id": "lewiseric"
+          }
+        ]
       }
     },
     {
@@ -126,19 +279,55 @@ export default {
       "familyId": "spencerkimlewis",
       "name": "Lewis Vivian",
       "chineseName": "路易斯·薇薇安",
+      "gender": "Female",
+      "age": "Elder",
+      "maritalStatus": "Single",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/LewisVivian.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "Unemployed",
+      "aspiration": {
+        "name": "Big Happy Family"
+      },
+      "traits": [
+        {
+          "name": "Foodie"
+        },
+        {
+          "name": "Family-Oriented"
+        },
+        {
+          "name": "Cheerful"
+        },
+        {
+          "name": "Domestic"
+        }
+      ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "lewiseric"
+          }
+        ],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "lewiskimolivia"
+          }
+        ],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "kimdennis"
+          },
+          {
+            "id": "kimspenceralice"
+          }
+        ]
       }
     },
     {
@@ -146,19 +335,56 @@ export default {
       "familyId": "spencerkimlewis",
       "name": "KimSpencer Alice",
       "chineseName": "斯宾塞·金·艾莉丝",
+      "gender": "Female",
+      "age": "Young Audlt",
+      "maritalStatus": "Married",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/KimSpencerAlice.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "Unemployed",
+      "aspiration": {
+        "name": "Painter Extraordinaire"
+      },
+      "traits": [
+        {
+          "name": "Loves Outdoors"
+        },
+        {
+          "name": "Creative"
+        },
+        {
+          "name": "Childish"
+        },
+        {
+          "name": "Muser"
+        }
+      ],
       "skills": [],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "lewiseric"
+          }
+        ],
         "lover": [],
-        "parents": [],
-        "children": [],
+        "parents": [
+          {
+            "id": "kimdennis"
+          }
+        ],
+        "children": [
+          {
+            "id": "lewiskimolivia"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "lewisvivian"
+          }
+        ]
       }
     },
     {
@@ -166,6 +392,8 @@ export default {
       "familyId": "spencerkimlewis",
       "name": "Lewis Eric",
       "chineseName": "路易斯·埃瑞克",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/LewisEric.jpg",
       "aspiration": {},
       "traits": [],
@@ -186,6 +414,8 @@ export default {
       "familyId": "spencerkimlewis",
       "name": "LewisKim Olivia",
       "chineseName": "路易斯·金·奥莉维亚",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/LewisKimOlivia.jpg",
       "aspiration": {},
       "traits": [],
@@ -206,6 +436,8 @@ export default {
       "familyId": "pancakes",
       "name": "Pancakes Bob",
       "chineseName": "潘克斯·鲍伯",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/PancakesBob.jpg",
       "aspiration": {},
       "traits": [],
@@ -226,6 +458,8 @@ export default {
       "familyId": "pancakes",
       "name": "Pancakes Eliza",
       "chineseName": "潘克斯·伊莱莎",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/PancakesEliza.jpg",
       "aspiration": {},
       "traits": [],
@@ -246,6 +480,8 @@ export default {
       "familyId": "bff",
       "name": "Lee Liberty",
       "chineseName": "李·莉柏缇",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/LeeLiberty.jpg",
       "aspiration": {},
       "traits": [],
@@ -266,6 +502,8 @@ export default {
       "familyId": "bff",
       "name": "Holiday Summer",
       "chineseName": "霍利迪·桑默",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/HolidaySummer.jpg",
       "aspiration": {},
       "traits": [],
@@ -286,6 +524,8 @@ export default {
       "familyId": "bff",
       "name": "Scott Travis",
       "chineseName": "斯科特·崔维斯",
+      "world": "Willow Creek",
+      "worldId": "willowcreek",
       "image": "/images/sims/ScottTravis.jpg",
       "aspiration": {},
       "traits": [],
@@ -6413,20 +6653,7 @@ export default {
           "name": "Savant"
         }
       ],
-      "skills": [
-        {
-          "name": "Charisma",
-          "level": 10
-        },
-        {
-          "name": "Piano",
-          "level": 4
-        },
-        {
-          "name": "Swordsmanship",
-          "level": 6
-        }
-      ],
+      "skills": [],
       "relationships": {
         "spouse": [
           {
@@ -6490,20 +6717,7 @@ export default {
           "name": "Foodie"
         }
       ],
-      "skills": [
-        {
-          "name": "Gourmet Cooking",
-          "level": 8
-        },
-        {
-          "name": "Mixology",
-          "level": 7
-        },
-        {
-          "name": "Video gaming",
-          "level": 2
-        }
-      ],
+      "skills": [],
       "relationships": {
         "spouse": [
           {
@@ -6549,16 +6763,7 @@ export default {
           "name": "Gregarious"
         }
       ],
-      "skills": [
-        {
-          "name": "Cooking",
-          "level": 5
-        },
-        {
-          "name": "Video gaming",
-          "level": 8
-        }
-      ],
+      "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6644,24 +6849,7 @@ export default {
           "name": "Gregarious"
         }
       ],
-      "skills": [
-        {
-          "name": "Charisma",
-          "level": 9
-        },
-        {
-          "name": "Painting",
-          "level": 8
-        },
-        {
-          "name": "Piano",
-          "level": 6
-        },
-        {
-          "name": "Swordsmanship",
-          "level": 2
-        }
-      ],
+      "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
