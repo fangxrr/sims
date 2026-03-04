@@ -126,13 +126,19 @@ async function main() {
         const wikiData = await fetchWikiData(name);
 
         if (wikiData) {
-            if (wikiData.gender) row.gender = wikiData.gender;
-            if (wikiData.age) row.age = wikiData.age;
+            // Map Wiki keys to Excel keys (Matching user requested names exactly)
+            if (wikiData.gender) row.Gender = wikiData.gender;
+            if (wikiData.age) {
+                let age = wikiData.age;
+                if (age === 'Young Audlt') age = 'Young Adult'; // Fix wiki typo
+                row.Age = age;
+            }
             if (wikiData.marital) row.maritalStatus = wikiData.marital;
-            if (wikiData.career) row.career = wikiData.career;
-            if (wikiData.traits) row.traits = wikiData.traits;
-            if (wikiData.aspiration) row.aspiration = wikiData.aspiration;
-            if (wikiData.skills) row.Skill = wikiData.skills;
+            if (wikiData.career) row.Career = wikiData.career;
+            if (wikiData.traits) row.Traits = wikiData.traits;
+            if (wikiData.aspiration) row.Aspiration = wikiData.aspiration;
+            if (wikiData.skills) row.Skills = wikiData.skills;
+
             console.log(`OK`);
         } else {
             console.log(`FAILED`);

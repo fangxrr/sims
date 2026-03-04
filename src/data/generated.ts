@@ -11,7 +11,7 @@ export default {
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/GothMortimer.jpg",
-      "career": "Writer",
+      "career": "Freelance Article Writer",
       "aspiration": {
         "name": "Renaissance Sim"
       },
@@ -63,12 +63,12 @@ export default {
       "name": "Goth Bella",
       "chineseName": "高斯·贝拉",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/GothBella.jpg",
-      "career": "Secret Agent",
+      "career": "Intelligence Researcher",
       "aspiration": {
         "name": "Party Animal"
       },
@@ -450,7 +450,7 @@ export default {
       "name": "Lewis Eric",
       "chineseName": "路易斯·埃瑞克",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
@@ -575,12 +575,12 @@ export default {
       "name": "Pancakes Bob",
       "chineseName": "潘克斯·鲍伯",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/PancakesBob.jpg",
-      "career": "Culinary",
+      "career": "Caterer",
       "aspiration": {
         "name": "Master Chef"
       },
@@ -629,7 +629,7 @@ export default {
       "name": "Pancakes Eliza",
       "chineseName": "潘克斯·伊莱莎",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
@@ -679,12 +679,12 @@ export default {
       "name": "Lee Liberty",
       "chineseName": "李·莉柏缇",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/LeeLiberty.jpg",
-      "career": "Astronaut",
+      "career": "Module Cleaner",
       "aspiration": {
         "name": "Nerd Brain"
       },
@@ -725,12 +725,12 @@ export default {
       "name": "Holiday Summer",
       "chineseName": "霍利迪·桑默",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/HolidaySummer.jpg",
-      "career": "Culinary",
+      "career": "Head Dishwasher",
       "aspiration": {
         "name": "Friend of the World"
       },
@@ -775,12 +775,12 @@ export default {
       "name": "Scott Travis",
       "chineseName": "斯科特·崔维斯",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/ScottTravis.jpg",
-      "career": "Tech Guru",
+      "career": "Quality Assurance",
       "aspiration": {
         "name": "Computer Whiz"
       },
@@ -821,12 +821,12 @@ export default {
       "name": "Zest Johnny",
       "chineseName": "杰斯·强尼",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/ZestJohnny.jpg",
-      "career": "Entertainer",
+      "career": "Open Mic Seeker",
       "aspiration": {
         "name": "Joke Star"
       },
@@ -878,7 +878,7 @@ export default {
       "name": "Patel Zoe",
       "chineseName": "帕托·柔依",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
@@ -928,12 +928,12 @@ export default {
       "name": "Kalani Mitchell",
       "chineseName": "卡拉尼·米切尔",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/KalaniMitchell.jpg",
-      "career": "Culinary",
+      "career": "Assistant Dishwasher",
       "aspiration": {
         "name": "Joke Star"
       },
@@ -1028,12 +1028,12 @@ export default {
       "name": "Richards Gavin",
       "chineseName": "理查·盖文",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/RichardsGavin.jpg",
-      "career": "Writer",
+      "career": "Blogger",
       "aspiration": {
         "name": "Bestselling Author"
       },
@@ -1079,7 +1079,7 @@ export default {
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/CalienteKatrina.jpg",
-      "career": "Entertainer",
+      "career": "Opening Act",
       "aspiration": {
         "name": "Soulmate"
       },
@@ -1135,14 +1135,14 @@ export default {
       "name": "Caliente Dina",
       "chineseName": "卡林恩特·迪娜",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Adult",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/CalienteDina.jpg",
-      "career": "Culinary",
+      "career": "Assistant Dishwasher",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "Fabulously Wealth"
       },
       "traits": [
         {
@@ -1193,7 +1193,7 @@ export default {
       "name": "Caliente Nina",
       "chineseName": "卡林恩特·妮娜",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Adult",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
@@ -1247,7 +1247,7 @@ export default {
       "name": "Lothario Don",
       "chineseName": "罗塔里欧·唐恩",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
@@ -1298,7 +1298,7 @@ export default {
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/LandgraabGeoffrey.jpg",
-      "career": "Secret Agent",
+      "career": "Lead Detective",
       "aspiration": {
         "name": "Successful Lineage"
       },
@@ -1363,7 +1363,7 @@ export default {
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/LandgraabNancy.jpg",
-      "career": "Criminal",
+      "career": "Minor Crimelord",
       "aspiration": {
         "name": "Fabulously Wealthy"
       },
@@ -1485,12 +1485,12 @@ export default {
       "name": "Haas Maaike",
       "chineseName": "哈斯·艾克",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/HaasMaaike.jpg",
-      "career": "Writer",
+      "career": "Blogger",
       "aspiration": {
         "name": "Bestselling Author"
       },
@@ -1531,12 +1531,12 @@ export default {
       "name": "Faust Ulrike",
       "chineseName": "浮士德·乌里克",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/FaustUlrike.jpg",
-      "career": "Painter",
+      "career": "Art Book Collator",
       "aspiration": {
         "name": "Painter Extraordinaire"
       },
@@ -1586,7 +1586,7 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/FyresDominic.jpg",
-      "career": "Entertainer",
+      "career": "Opening Act",
       "aspiration": {
         "name": "Musical Genius"
       },
@@ -1699,12 +1699,12 @@ export default {
       "name": "Fyres Siobhan",
       "chineseName": "菲尔斯·西沃恩",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Dating",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/FyresSiobhan.jpg",
-      "career": "Business",
+      "career": "Office Assistant",
       "aspiration": {
         "name": "Leader of the Pack"
       },
@@ -1819,7 +1819,7 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/MunchMila.jpg",
-      "career": "Culinary",
+      "career": "Caterer",
       "aspiration": {
         "name": "Big Happy Family"
       },
@@ -1878,12 +1878,12 @@ export default {
       "name": "Munch Gunther",
       "chineseName": "大嚼客·甘瑟",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/MunchGunther.jpg",
-      "career": "Writer",
+      "career": "Writer's Assistant",
       "aspiration": {
         "name": "Renaissance Sim"
       },
@@ -2050,7 +2050,7 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/VillarealJacques.jpg",
-      "career": "Criminal",
+      "career": "The Brains",
       "aspiration": {
         "name": "Public Enemy"
       },
@@ -2262,7 +2262,7 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/BjergsenBjorn.jpg",
-      "career": "Secret Agent",
+      "career": "Agent Handler",
       "aspiration": {
         "name": "Soulmate"
       },
@@ -2327,7 +2327,7 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/BjergsenClara.jpg",
-      "career": "Culinary",
+      "career": "Caterer",
       "aspiration": {
         "name": "Successful Lineage"
       },
@@ -2535,12 +2535,12 @@ export default {
       "name": "Romeo Sergio",
       "chineseName": "罗密欧·瑟吉欧",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Dating",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/RomeoSergio.jpg",
-      "career": "Tech Guru",
+      "career": "Quality Assurance",
       "aspiration": {
         "name": "Fabulously Wealthy"
       },
@@ -2632,12 +2632,12 @@ export default {
       "name": "Behr Candy",
       "chineseName": "贝洱·坎蒂",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/BehrCandy.jpg",
-      "career": "Entertainer",
+      "career": "Open Mic Seeker",
       "aspiration": {
         "name": "Party Animal"
       },
@@ -2686,7 +2686,7 @@ export default {
       "name": "Capricciosa Eva",
       "chineseName": "卡布里乔莎·伊娃",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
@@ -2732,12 +2732,12 @@ export default {
       "name": "Rosa Jade",
       "chineseName": "罗莎·碧玉",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/RosaJade.jpg",
-      "career": "Business",
+      "career": "Office Assistant",
       "aspiration": {
         "name": "Mansion Baron"
       },
@@ -2832,12 +2832,12 @@ export default {
       "name": "Rocca Paolo",
       "chineseName": "洛卡·保禄",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/RoccaPaolo.jpg",
-      "career": "Athlete",
+      "career": "Locker Room Attendant",
       "aspiration": {
         "name": "Bodybuilder"
       },
@@ -2886,12 +2886,12 @@ export default {
       "name": "Rasoya Raj",
       "chineseName": "瑞索亚·拉吉",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/RasoyaRaj.jpg",
-      "career": "Culinary",
+      "career": "Pastry Chef",
       "aspiration": {
         "name": "Big Happy Family"
       },
@@ -2998,7 +2998,7 @@ export default {
       "name": "Bheeda Arun",
       "chineseName": "比达·阿伦",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
@@ -3052,7 +3052,7 @@ export default {
       "name": "Bheeda Jesminder",
       "chineseName": "比达·洁敏德",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
@@ -3225,12 +3225,12 @@ export default {
       "name": "Lobo Diego",
       "chineseName": "罗保·迪亚戈",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/LoboDiego.jpg",
-      "career": "Critic",
+      "career": "Cultural Connoisseur",
       "aspiration": {
         "name": "Fabulously Wealthy"
       },
@@ -3279,12 +3279,12 @@ export default {
       "name": "Pizzazz Penny",
       "chineseName": "比萨兹·佩妮",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/PizzazzPenny.jpg",
-      "career": "Social Media",
+      "career": "Online A-Lister",
       "aspiration": {
         "name": "City Native"
       },
@@ -3337,12 +3337,12 @@ export default {
       "name": "Kibo Akira",
       "chineseName": "基博·亮",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/KiboAkira.jpg",
-      "career": "Tech Guru",
+      "career": "Live Chat Support Agent",
       "aspiration": {
         "name": "The Curator"
       },
@@ -3387,12 +3387,12 @@ export default {
       "name": "Ojo Miko",
       "chineseName": "奥祖·米可",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/OjoMiko.jpg",
-      "career": "Politician",
+      "career": "Social Justice Worker",
       "aspiration": {
         "name": "Serial Romantic"
       },
@@ -3651,12 +3651,12 @@ export default {
       "name": "Benali Salim",
       "chineseName": "贝纳里·萨利姆",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/BenaliSalim.jpg",
-      "career": "Writer",
+      "career": "Blogger",
       "aspiration": {
         "name": "Bestselling Author"
       },
@@ -3701,7 +3701,7 @@ export default {
       "name": "Straud Vladislaus",
       "chineseName": "斯特劳·弗拉德劳斯",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Forgotten Hollow",
       "worldId": "forgottenhollow",
@@ -3755,7 +3755,7 @@ export default {
       "name": "Vatore Lilith",
       "chineseName": "维托·莉莉丝",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Forgotten Hollow",
       "worldId": "forgottenhollow",
@@ -3804,7 +3804,7 @@ export default {
       "name": "Vatore Caleb",
       "chineseName": "维托·伽勒",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Forgotten Hollow",
       "worldId": "forgottenhollow",
@@ -3853,12 +3853,12 @@ export default {
       "name": "Lynx Catarina",
       "chineseName": "林克斯·卡特琳娜",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
       "image": "/images/sims/LynxCatarina.jpg",
-      "career": "Culinary",
+      "career": "Caterer",
       "aspiration": {
         "name": "Friend of the Animals"
       },
@@ -3907,7 +3907,7 @@ export default {
       "name": "Delgato Supriya",
       "chineseName": "戴尔加托·塞普莉亚",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
@@ -3972,12 +3972,12 @@ export default {
       "name": "Delgato Justin",
       "chineseName": "戴尔加托·贾斯汀",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
       "image": "/images/sims/DelgatoJustin.jpg",
-      "career": "Business",
+      "career": "Regional Manager",
       "aspiration": {
         "name": "Renaissance Sim"
       },
@@ -4142,12 +4142,12 @@ export default {
       "name": "Hecking Brant",
       "chineseName": "赫金·布兰特",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
       "image": "/images/sims/HeckingBrant.jpg",
-      "career": "Athlete",
+      "career": "Personal Trainer",
       "aspiration": {
         "name": "The Curator"
       },
@@ -4204,12 +4204,12 @@ export default {
       "name": "Hecking Brent",
       "chineseName": "赫金·布林特",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
       "image": "/images/sims/HeckingBrent.jpg",
-      "career": "Painter",
+      "career": "Watercolor Dabbler",
       "aspiration": {
         "name": "Painter Extraordinaire"
       },
@@ -4266,12 +4266,12 @@ export default {
       "name": "Jeong Venessa",
       "chineseName": "郑·凡妮莎",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/JeongVenessa.jpg",
-      "career": "Actress",
+      "career": "Commercial Spokesperson",
       "aspiration": {
         "name": "World-Famous Celebrity"
       },
@@ -4287,6 +4287,9 @@ export default {
         },
         {
           "name": "Muser"
+        },
+        {
+          "name": "Gregarious"
         }
       ],
       "skills": [
@@ -4321,7 +4324,7 @@ export default {
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/WardJudith.jpg",
-      "career": "Actress",
+      "career": "Seasoned Thespian",
       "aspiration": {
         "name": "Mansion Baron"
       },
@@ -4370,12 +4373,12 @@ export default {
       "name": "Bailey Thorne",
       "chineseName": "百利·索恩",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/BaileyThorne.jpg",
-      "career": "Entertainer",
+      "career": "Serious Musician",
       "aspiration": {
         "name": "Musical Genius"
       },
@@ -4436,12 +4439,12 @@ export default {
       "name": "Moon Octavia",
       "chineseName": "穆恩·欧克塔维雅",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/MoonOctavia.jpg",
-      "career": "Writer",
+      "career": "Short Story Writer",
       "aspiration": {
         "name": "Bestselling Author"
       },
@@ -4555,7 +4558,7 @@ export default {
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/ChoBrytani.jpg",
-      "career": "Entertainer",
+      "career": "Solid Storyteller",
       "aspiration": {
         "name": "Joke Star"
       },
@@ -4604,12 +4607,12 @@ export default {
       "name": "Dreamer Dirk",
       "chineseName": "德里莫·德克",
       "gender": "Male",
-      "age": "Young adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/DreamerDirk.jpg",
-      "career": "Tech Guru",
+      "career": "Development Captain",
       "aspiration": {
         "name": "Computer Whiz"
       },
@@ -4654,12 +4657,12 @@ export default {
       "name": "Broke Dustin",
       "chineseName": "布洛柯·德斯汀",
       "gender": "Male",
-      "age": "Young adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/BrokeDustin.jpg",
-      "career": "Business",
+      "career": "Senior Manager",
       "aspiration": {
         "name": "Fabulously Wealthy"
       },
@@ -4712,12 +4715,12 @@ export default {
       "name": "Alto Holly",
       "chineseName": "艾托·荷莉",
       "gender": "Female",
-      "age": "Young adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/AltoHolly.jpg",
-      "career": "Painter",
+      "career": "Imaginative Imagist",
       "aspiration": {
         "name": "Painter Extraordinaire"
       },
@@ -4766,12 +4769,12 @@ export default {
       "name": "Fabulous Izzy",
       "chineseName": "菲比乐斯 ·伊奇",
       "gender": "Male",
-      "age": "Young adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/FabulousIzzy.jpg",
-      "career": "Style Influencer",
+      "career": "Dedicated Dresser",
       "aspiration": {
         "name": "Party Animal"
       },
@@ -4816,12 +4819,12 @@ export default {
       "name": "Flemming Kayla",
       "chineseName": "弗莱明·凯拉",
       "gender": "Female",
-      "age": "Young adult",
+      "age": "Young Audlt",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/FlemmingKayla.jpg",
-      "career": "Athlete",
+      "career": "Personal Trainer",
       "aspiration": {
         "name": "Bodybuilder"
       },
@@ -4917,12 +4920,12 @@ export default {
       "name": "Sigworth Jess",
       "chineseName": "希格沃斯·杰茜",
       "gender": "Female",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "world": "Stranger Ville",
       "worldId": "strangerville",
       "image": "/images/sims/SigworthJess.jpg",
-      "career": "Military",
+      "career": "Lacking Corporal",
       "aspiration": {
         "name": "Successful Lineage"
       },
@@ -4938,6 +4941,9 @@ export default {
         },
         {
           "name": "Domestic"
+        },
+        {
+          "name": "Infected"
         }
       ],
       "skills": [
@@ -4979,7 +4985,7 @@ export default {
       "name": "Sigworth Dylan",
       "chineseName": "希格沃斯·狄伦",
       "gender": "Male",
-      "age": "Young Adult",
+      "age": "Young Audlt",
       "maritalStatus": "Married",
       "image": "/images/sims/SigworthDylan.jpg",
       "career": "Unemployed",
@@ -5140,28 +5146,9 @@ export default {
       "familyId": "eclecticarts",
       "name": "Eggleston Mark",
       "chineseName": "艾格斯顿·马克",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/EgglestonMark.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
-        {
-          "name": "Art Lover"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5179,28 +5166,9 @@ export default {
       "familyId": "eclecticarts",
       "name": "Martin Alice",
       "chineseName": "马丁·艾莉丝",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/MartinAlice.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Painter Extraordinaire"
-      },
-      "traits": [
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5218,28 +5186,9 @@ export default {
       "familyId": "eclecticarts",
       "name": "Holland Leslie",
       "chineseName": "荷兰·莱斯利",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/HollandLeslie.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Bestselling Author"
-      },
-      "traits": [
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5257,28 +5206,9 @@ export default {
       "familyId": "roswell",
       "name": "Roswell Ted",
       "chineseName": "罗斯威尔·泰德",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/RoswellTed.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Fabulously Wealthy"
-      },
-      "traits": [
-        {
-          "name": "Evil"
-        },
-        {
-          "name": "Hot-Headed"
-        },
-        {
-          "name": "Paranoid"
-        },
-        {
-          "name": "Business Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5296,28 +5226,9 @@ export default {
       "familyId": "roswell",
       "name": "Roswell Meredith",
       "chineseName": "罗斯威尔·梅瑞迪斯",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/RoswellMeredith.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Fabulously Wealthy"
-      },
-      "traits": [
-        {
-          "name": "Good"
-        },
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Business Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5335,28 +5246,9 @@ export default {
       "familyId": "pries",
       "name": "Pries Erwin",
       "chineseName": "普里斯·厄文",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/PriesErwin.jpg",
-      "career": "Curio Shop Owner",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Erratic"
-        },
-        {
-          "name": "Paranoid"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5374,28 +5266,9 @@ export default {
       "familyId": "ngata",
       "name": "Ngata Oliana",
       "chineseName": "加塔·欧莉亚娜",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/NgataOliana.jpg",
-      "career": "Athlete",
-      "aspiration": {
-        "name": "Bodybuilder"
-      },
-      "traits": [
-        {
-          "name": "Jealous"
-        },
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Slob"
-        },
-        {
-          "name": "High Metabolism"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5413,28 +5286,9 @@ export default {
       "familyId": "ngata",
       "name": "Illes Leila",
       "chineseName": "伊利斯·莱拉",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/IllesLeila.jpg",
-      "career": "Painter",
-      "aspiration": {
-        "name": "Painter Extraordinaire"
-      },
-      "traits": [
-        {
-          "name": "Clumsy"
-        },
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5452,17 +5306,9 @@ export default {
       "familyId": "ngata",
       "name": "Ngata Tane",
       "chineseName": "加塔·塔内",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/NgataTane.jpg",
-      "aspiration": {
-        "name": "Whiz Kid"
-      },
-      "traits": [
-        {
-          "name": "Geek"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5480,28 +5326,9 @@ export default {
       "familyId": "kahananui",
       "name": "Kahananui Alika",
       "chineseName": "卡哈南内·亚力卡",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/KahananuiAlika.jpg",
-      "career": "Business",
-      "aspiration": {
-        "name": "Fabulously Wealthy"
-      },
-      "traits": [
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Business Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5519,28 +5346,9 @@ export default {
       "familyId": "kahananui",
       "name": "Kahananui Mele",
       "chineseName": "卡哈南内·梅丽",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/KahananuiMele.jpg",
-      "career": "Business",
-      "aspiration": {
-        "name": "Mansion Baron"
-      },
-      "traits": [
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Business Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5558,28 +5366,9 @@ export default {
       "familyId": "hoapili",
       "name": "Hoapili Keala",
       "chineseName": "浩皮里·琪拉",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/HoapiliKeala.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Freelance Botanist"
-      },
-      "traits": [
-        {
-          "name": "Child of the Islands"
-        },
-        {
-          "name": "Erratic"
-        },
-        {
-          "name": "Hot-Headed"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5597,28 +5386,9 @@ export default {
       "familyId": "hoapili",
       "name": "Hauata Lia",
       "chineseName": "哈乌阿塔·莉亚",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/HauataLia.jpg",
-      "career": "Writer",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5636,28 +5406,9 @@ export default {
       "familyId": "kealoha",
       "name": "Kealoha Makoa",
       "chineseName": "基阿罗哈·马可亚",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/KealohaMakoa.jpg",
-      "career": "Conservationist",
-      "aspiration": {
-        "name": "Successful Lineage"
-      },
-      "traits": [
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Child of the Ocean"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5675,27 +5426,9 @@ export default {
       "familyId": "kealoha",
       "name": "Kealoha Lilliana",
       "chineseName": "基阿罗哈·莉莉亚娜",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/KealohaLilliana.jpg",
-      "career": "Culinary",
-      "aspiration": {
-        "name": "Big Happy Family"
-      },
-      "traits": [
-        {
-          "name": "Good"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5713,24 +5446,9 @@ export default {
       "familyId": "kealoha",
       "name": "Talla Duane",
       "chineseName": "塔拉·杜恩",
-      "gender": "Male",
-      "age": "Teen",
       "image": "/images/sims/TallaDuane.jpg",
-      "career": "Lifeguard",
-      "aspiration": {
-        "name": "Angling Ace"
-      },
-      "traits": [
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Bro"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5748,15 +5466,9 @@ export default {
       "familyId": "kealoha",
       "name": "Kealoha Nani",
       "chineseName": "基阿罗哈·纳尼",
-      "gender": "Female",
-      "age": "Toddler",
       "image": "/images/sims/KealohaNani.jpg",
       "aspiration": {},
-      "traits": [
-        {
-          "name": "Charmer"
-        }
-      ],
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5814,27 +5526,9 @@ export default {
       "familyId": "hekekia",
       "name": "Hekekia Ukupanipo",
       "chineseName": "海克基亚·乌库帕尼波",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/HekekiaUkupanipo.jpg",
-      "aspiration": {
-        "name": "Beach Life"
-      },
-      "traits": [
-        {
-          "name": "Glutton"
-        },
-        {
-          "name": "Child of the Islands"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "High Metabolism"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5872,28 +5566,9 @@ export default {
       "familyId": "bestoffriends",
       "name": "Clarke Becca",
       "chineseName": "克拉克·贝卡",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/ClarkeBecca.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Academic"
-      },
-      "traits": [
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5911,28 +5586,9 @@ export default {
       "familyId": "bestoffriends",
       "name": "Wright Julia",
       "chineseName": "莱特·尤莉娅",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/WrightJulia.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5950,28 +5606,9 @@ export default {
       "familyId": "elderberry",
       "name": "Elderberry Ekram",
       "chineseName": "接骨木莓·埃克拉姆",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/ElderberryEkram.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Angling Ace"
-      },
-      "traits": [
-        {
-          "name": "Mean"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -5989,28 +5626,9 @@ export default {
       "familyId": "elderberry",
       "name": "Elderberry Eleanore",
       "chineseName": "接骨木莓·伊莲诺",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/ElderberryEleanore.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Successful Lineage"
-      },
-      "traits": [
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6028,24 +5646,9 @@ export default {
       "familyId": "elderberry",
       "name": "Elderberry Rohan",
       "chineseName": "接骨木莓·洛恩",
-      "gender": "Male",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/ElderberryRohan.jpg",
-      "aspiration": {
-        "name": "Academic"
-      },
-      "traits": [
-        {
-          "name": "Loner"
-        },
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6063,28 +5666,9 @@ export default {
       "familyId": "pleasant",
       "name": "Pleasant Angela",
       "chineseName": "普莱森特·安吉拉",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/PleasantAngela.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Painter Extraordinaire"
-      },
-      "traits": [
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Good"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6102,28 +5686,9 @@ export default {
       "familyId": "pleasant",
       "name": "Pleasant Lilith",
       "chineseName": "普莱森特·莉莉丝",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/PleasantLilith.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Public Enemy"
-      },
-      "traits": [
-        {
-          "name": "Loner"
-        },
-        {
-          "name": "Kleptomaniac"
-        },
-        {
-          "name": "Slob"
-        },
-        {
-          "name": "Dastardly"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6141,28 +5706,9 @@ export default {
       "familyId": "fletcher",
       "name": "Fletcher Cameron",
       "chineseName": "弗莱彻·卡梅伦",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/FletcherCameron.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Computer Whiz"
-      },
-      "traits": [
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6180,28 +5726,9 @@ export default {
       "familyId": "bhamra",
       "name": "Bhamra Serena",
       "chineseName": "巴姆拉·塞琳娜",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/BhamraSerena.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Public Enemy"
-      },
-      "traits": [
-        {
-          "name": "Hot-Headed"
-        },
-        {
-          "name": "Evil"
-        },
-        {
-          "name": "Mean"
-        },
-        {
-          "name": "Dastardly"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6219,28 +5746,9 @@ export default {
       "familyId": "fen",
       "name": "Fen Jing",
       "chineseName": "冯·晶",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/FenJing.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Chief of Mischief"
-      },
-      "traits": [
-        {
-          "name": "Hates Children"
-        },
-        {
-          "name": "Evil"
-        },
-        {
-          "name": "Mean"
-        },
-        {
-          "name": "Dastardly"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6258,28 +5766,9 @@ export default {
       "familyId": "jabari",
       "name": "Jabari Thomas",
       "chineseName": "贾巴里·托马斯",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/JabariThomas.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6297,28 +5786,9 @@ export default {
       "familyId": "mckinnon",
       "name": "McKinnon Lana",
       "chineseName": "麦金农·拉娜",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/McKinnonLana.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Computer Whiz"
-      },
-      "traits": [
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6336,28 +5806,9 @@ export default {
       "familyId": "psyded",
       "name": "Psyded Felix",
       "chineseName": "赛迪德·菲利克斯",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/PsydedFelix.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6375,28 +5826,9 @@ export default {
       "familyId": "charm",
       "name": "Charm Minerva",
       "chineseName": "恰姆·米涅瓦",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/CharmMinerva.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Nerd Brain"
-      },
-      "traits": [
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Strong Bloodline"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6414,26 +5846,9 @@ export default {
       "familyId": "charm",
       "name": "Charm Gemma",
       "chineseName": "恰姆·杰玛",
-      "gender": "Female",
-      "age": "Teen",
       "image": "/images/sims/CharmGemma.jpg",
-      "aspiration": {
-        "name": "Spellcraft & Sorcery"
-      },
-      "traits": [
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Art Lover"
-        },
-        {
-          "name": "Strong Bloodline"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6451,28 +5866,9 @@ export default {
       "familyId": "charm",
       "name": "Charm Darrel",
       "chineseName": "恰姆·达雷尔",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Engaged",
       "image": "/images/sims/CharmDarrel.jpg",
-      "career": "Business",
-      "aspiration": {
-        "name": "Soulmate"
-      },
-      "traits": [
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Hot-Headed"
-        },
-        {
-          "name": "Strong Bloodline"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6490,28 +5886,9 @@ export default {
       "familyId": "charm",
       "name": "Ernest Emilia",
       "chineseName": "埃内斯特·艾米莉亚",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Engaged",
       "image": "/images/sims/ErnestEmilia.jpg",
-      "career": "Culinary",
-      "aspiration": {
-        "name": "Purveyor of Potions"
-      },
-      "traits": [
-        {
-          "name": "Clumsy"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6529,28 +5906,9 @@ export default {
       "familyId": "amicableacolytes",
       "name": "Anansi Grace",
       "chineseName": "阿南西·葛蕾丝",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/AnansiGrace.jpg",
-      "career": "Tech Guru",
-      "aspiration": {
-        "name": "Purveyor of Potions"
-      },
-      "traits": [
-        {
-          "name": "Noncommittal"
-        },
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6568,28 +5926,9 @@ export default {
       "familyId": "amicableacolytes",
       "name": "Collette Tomax",
       "chineseName": "科莱特·托麦斯",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/ColletteTomax.jpg",
-      "career": "Writer",
-      "aspiration": {
-        "name": "Spellcraft & Sorcery"
-      },
-      "traits": [
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Loner"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6607,28 +5946,9 @@ export default {
       "familyId": "ember",
       "name": "Ember Morgyn",
       "chineseName": "炭炭·摩根",
-      "gender": "Non-binary",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/EmberMorgyn.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Spellcraft & Sorcery"
-      },
-      "traits": [
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6646,28 +5966,9 @@ export default {
       "familyId": "faba",
       "name": "Faba L",
       "chineseName": "法芭·艾萝",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/FabaL.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Chief of Mischief"
-      },
-      "traits": [
-        {
-          "name": "Mean"
-        },
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Dastardly"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6685,28 +5986,9 @@ export default {
       "familyId": "silversweater",
       "name": "Silversweater Simeon",
       "chineseName": "席维史威特·西蒙",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/SilversweaterSimeon.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6724,27 +6006,9 @@ export default {
       "familyId": "harris",
       "name": "Harris Cletus",
       "chineseName": "哈里斯·克莱特斯",
-      "gender": "Male",
-      "age": "Young Adult",
       "image": "/images/sims/HarrisCletus.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Big Happy Family"
-      },
-      "traits": [
-        {
-          "name": "Freegan"
-        },
-        {
-          "name": "Slob"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6762,28 +6026,9 @@ export default {
       "familyId": "harris",
       "name": "Harris Faye",
       "chineseName": "哈里斯·菲伊",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/HarrisFaye.jpg",
-      "career": "Culinary",
-      "aspiration": {
-        "name": "Master Chef"
-      },
-      "traits": [
-        {
-          "name": "Freegan"
-        },
-        {
-          "name": "Glutton"
-        },
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Essence of Flavor"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6801,23 +6046,9 @@ export default {
       "familyId": "harris",
       "name": "Harris Jeb",
       "chineseName": "哈里斯·杰布",
-      "gender": "Male",
-      "age": "Teen",
       "image": "/images/sims/HarrisJeb.jpg",
-      "aspiration": {
-        "name": "Soulmate"
-      },
-      "traits": [
-        {
-          "name": "Good"
-        },
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6835,17 +6066,9 @@ export default {
       "familyId": "harris",
       "name": "Harris Gideon",
       "chineseName": "哈里斯·吉恩迪",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/HarrisGideon.jpg",
-      "aspiration": {
-        "name": "Social Butterfly"
-      },
-      "traits": [
-        {
-          "name": "Cheerful"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6863,28 +6086,9 @@ export default {
       "familyId": "harris",
       "name": "Spencer Francine",
       "chineseName": "斯宾塞·芙兰辛",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/SpencerFrancine.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Serial Romantic"
-      },
-      "traits": [
-        {
-          "name": "Noncommittal"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6902,28 +6106,9 @@ export default {
       "familyId": "tinker",
       "name": "Tinker Tina",
       "chineseName": "廷克尔·蒂娜",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/TinkerTina.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Master Maker"
-      },
-      "traits": [
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Maker"
-        },
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6941,28 +6126,9 @@ export default {
       "familyId": "tinker",
       "name": "Tinker Yasemin",
       "chineseName": "廷克尔·雅思敏",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/TinkerYasemin.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Bestselling Author"
-      },
-      "traits": [
-        {
-          "name": "Clumsy"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -6980,17 +6146,9 @@ export default {
       "familyId": "tinker",
       "name": "Tinker Olive",
       "chineseName": "廷克尔·奥莉薇",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/TinkerOlive.jpg",
-      "aspiration": {
-        "name": "Artistic Prodigy"
-      },
-      "traits": [
-        {
-          "name": "Bookworm"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7008,28 +6166,9 @@ export default {
       "familyId": "sterlingrico",
       "name": "Sterling Bess",
       "chineseName": "斯特林·贝丝",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Dating",
       "image": "/images/sims/SterlingBess.jpg",
-      "career": "Civil Designer",
-      "aspiration": {
-        "name": "Fabulously Wealthy"
-      },
-      "traits": [
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Bro"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7047,28 +6186,9 @@ export default {
       "familyId": "sterlingrico",
       "name": "Rico Jules",
       "chineseName": "里科·朱尔斯",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Dating",
       "image": "/images/sims/RicoJules.jpg",
-      "career": "Style Influencer",
-      "aspiration": {
-        "name": "Mansion Baron"
-      },
-      "traits": [
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Bro"
-        },
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Business Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7086,27 +6206,9 @@ export default {
       "familyId": "greenburg",
       "name": "Greenburg Knox",
       "chineseName": "格林伯格·诺克斯",
-      "gender": "Male",
-      "age": "Young Adult",
       "image": "/images/sims/GreenburgKnox.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Eco Innovator"
-      },
-      "traits": [
-        {
-          "name": "Green Fiend"
-        },
-        {
-          "name": "Recycle Disciple"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7124,28 +6226,9 @@ export default {
       "familyId": "greenburg",
       "name": "Greenburg Mary",
       "chineseName": "格林伯格·玛莉",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/GreenburgMary.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Freelance Botanist"
-      },
-      "traits": [
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Green Fiend"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7163,28 +6246,9 @@ export default {
       "familyId": "greenburg",
       "name": "Greenburg Blossom",
       "chineseName": "格林伯格·布洛森",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/GreenburgBlossom.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Master Maker"
-      },
-      "traits": [
-        {
-          "name": "Recycle Disciple"
-        },
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Maker"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7202,28 +6266,9 @@ export default {
       "familyId": "ito",
       "name": "Ito Naoki",
       "chineseName": "伊藤·直树",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/ItoNaoki.jpg",
-      "career": "Business",
-      "aspiration": {
-        "name": "Successful Lineage"
-      },
-      "traits": [
-        {
-          "name": "Mean"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7241,28 +6286,9 @@ export default {
       "familyId": "ito",
       "name": "Ito Megumi",
       "chineseName": "伊藤·惠美",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/ItoMegumi.jpg",
-      "career": "Business",
-      "aspiration": {
-        "name": "Extreme Sports Enthusiast"
-      },
-      "traits": [
-        {
-          "name": "Proper"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Adventurous"
-        },
-        {
-          "name": "High Metabolism"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7280,27 +6306,9 @@ export default {
       "familyId": "ito",
       "name": "Ito Kiyoshi",
       "chineseName": "伊藤·清志",
-      "gender": "Male",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/ItoKiyoshi.jpg",
-      "aspiration": {
-        "name": "Extreme Sports Enthusiast"
-      },
-      "traits": [
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Adventurous"
-        },
-        {
-          "name": "High Metabolism"
-        },
-        {
-          "name": "Chopstick Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7318,20 +6326,9 @@ export default {
       "familyId": "ito",
       "name": "Ito Nanami",
       "chineseName": "伊藤·七海",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/ItoNanami.jpg",
-      "aspiration": {
-        "name": "Rambunctious Scamp"
-      },
-      "traits": [
-        {
-          "name": "Kleptomaniac"
-        },
-        {
-          "name": "Chopstick Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7349,28 +6346,9 @@ export default {
       "familyId": "nishidake",
       "name": "Nishidake Shigeru",
       "chineseName": "西岳·茂",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/NishidakeShigeru.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Big Happy Family"
-      },
-      "traits": [
-        {
-          "name": "Adventurous"
-        },
-        {
-          "name": "Hot-Headed"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7388,28 +6366,9 @@ export default {
       "familyId": "nishidake",
       "name": "Nishidake Sachiko",
       "chineseName": "西岳·幸子",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/NishidakeSachiko.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Big Happy Family"
-      },
-      "traits": [
-        {
-          "name": "Proper"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7427,27 +6386,9 @@ export default {
       "familyId": "nishidake",
       "name": "Nishidake Kaori",
       "chineseName": "西岳·香织",
-      "gender": "Female",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/NishidakeKaori.jpg",
-      "aspiration": {
-        "name": "Extreme Sports Enthusiast"
-      },
-      "traits": [
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Adventurous"
-        },
-        {
-          "name": "High Metabolism"
-        },
-        {
-          "name": "Chopstick Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7465,28 +6406,9 @@ export default {
       "familyId": "akiyama",
       "name": "Akiyama Kado",
       "chineseName": "秋山·廉",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/AkiyamaKado.jpg",
-      "career": "Salaryperson",
-      "aspiration": {
-        "name": "Mt. Komorebi Sightseer"
-      },
-      "traits": [
-        {
-          "name": "Adventurous"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Proper"
-        },
-        {
-          "name": "Home Turf"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7504,28 +6426,9 @@ export default {
       "familyId": "akiyama",
       "name": "Akiyama Jenna",
       "chineseName": "秋山·珍娜",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/AkiyamaJenna.jpg",
-      "career": "Salaryperson",
-      "aspiration": {
-        "name": "Mt. Komorebi Sightseer"
-      },
-      "traits": [
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Home Turf"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7543,20 +6446,9 @@ export default {
       "familyId": "akiyama",
       "name": "Akiyama Taku",
       "chineseName": "秋山·拓",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/AkiyamaTaku.jpg",
-      "aspiration": {
-        "name": "Artistic Prodigy"
-      },
-      "traits": [
-        {
-          "name": "Art Lover"
-        },
-        {
-          "name": "Chopstick Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7574,20 +6466,9 @@ export default {
       "familyId": "akiyama",
       "name": "Akiyama Miki",
       "chineseName": "秋山·美纪",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/AkiyamaMiki.jpg",
-      "aspiration": {
-        "name": "Social Butterfly"
-      },
-      "traits": [
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Chopstick Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7605,28 +6486,9 @@ export default {
       "familyId": "moodymcmillan",
       "name": "Moody Ian",
       "chineseName": "穆迪·伊安",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/MoodyIan.jpg",
-      "career": "Retired",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7644,28 +6506,9 @@ export default {
       "familyId": "moodymcmillan",
       "name": "McMillan Derek",
       "chineseName": "麦克米伦·德雷克",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/McMillanDerek.jpg",
-      "career": "Retired",
-      "aspiration": {
-        "name": "Bestselling Author"
-      },
-      "traits": [
-        {
-          "name": "Animal Enthusiast"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7683,17 +6526,9 @@ export default {
       "familyId": "watson",
       "name": "Watson Imran",
       "chineseName": "沃森·伊姆兰",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/WatsonImran.jpg",
-      "aspiration": {
-        "name": "Rambunctious Scamp"
-      },
-      "traits": [
-        {
-          "name": "Animal Enthusiast"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7711,17 +6546,9 @@ export default {
       "familyId": "watson",
       "name": "Watson Maira",
       "chineseName": "沃森·玛利亚",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/WatsonMaira.jpg",
-      "aspiration": {
-        "name": "Artistic Prodigy"
-      },
-      "traits": [
-        {
-          "name": "Active"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7739,28 +6566,9 @@ export default {
       "familyId": "watson",
       "name": "Watson Rahmi",
       "chineseName": "沃森·拉赫米",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/WatsonRahmi.jpg",
-      "career": "Style Influencer",
-      "aspiration": {
-        "name": "The Curator"
-      },
-      "traits": [
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7778,23 +6586,9 @@ export default {
       "familyId": "watson",
       "name": "Watson Rashidah",
       "chineseName": "沃森·拉希达",
-      "gender": "Female",
-      "age": "Teen",
       "image": "/images/sims/WatsonRashidah.jpg",
-      "aspiration": {
-        "name": "Soulmate"
-      },
-      "traits": [
-        {
-          "name": "Lactose Intolerant"
-        },
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Alluring"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7812,28 +6606,9 @@ export default {
       "familyId": "watson",
       "name": "Watson Thomas",
       "chineseName": "沃森·托马斯",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/WatsonThomas.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Country Caretaker"
-      },
-      "traits": [
-        {
-          "name": "Hot-Headed"
-        },
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7851,28 +6626,9 @@ export default {
       "familyId": "anewstart",
       "name": "Kang Cecilia",
       "chineseName": "康·塞西莉亚",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/KangCecilia.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Country Caretaker"
-      },
-      "traits": [
-        {
-          "name": "Animal Enthusiast"
-        },
-        {
-          "name": "Noncommittal"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7890,28 +6646,9 @@ export default {
       "familyId": "scott",
       "name": "Scott Simon",
       "chineseName": "斯科特·莎拉",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/ScottSimon.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Big Happy Family"
-      },
-      "traits": [
-        {
-          "name": "Clumsy"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7929,28 +6666,9 @@ export default {
       "familyId": "scott",
       "name": "Scott Sara",
       "chineseName": "斯科特·西蒙",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/ScottSara.jpg",
-      "career": "Pub Owner",
-      "aspiration": {
-        "name": "Party Animal"
-      },
-      "traits": [
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -7968,27 +6686,9 @@ export default {
       "familyId": "crumplebottom",
       "name": "Crumplebottom Agnes",
       "chineseName": "克兰普巴顿·安妮丝",
-      "gender": "Female",
-      "age": "Elder",
       "image": "/images/sims/CrumplebottomAgnes.jpg",
-      "career": "Garden Shop Owner",
-      "aspiration": {
-        "name": "Freelance Botanist"
-      },
-      "traits": [
-        {
-          "name": "Hot-headed"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Loner"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8006,28 +6706,9 @@ export default {
       "familyId": "crumplebottom",
       "name": "Crumplebottom Agatha",
       "chineseName": "克兰普巴顿·阿嘉莎",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/CrumplebottomAgatha.jpg",
-      "career": "Garden Shop Owner",
-      "aspiration": {
-        "name": "Serial Romantic"
-      },
-      "traits": [
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Alluring"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8045,27 +6726,9 @@ export default {
       "familyId": "bell",
       "name": "Bell Michael",
       "chineseName": "贝尔·麦可",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/BellMichael.jpg",
-      "career": "Creature Keeper",
-      "aspiration": {
-        "name": "Country Caretaker"
-      },
-      "traits": [
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Loner"
-        },
-        {
-          "name": "Animal Enthusiast"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8083,25 +6746,9 @@ export default {
       "familyId": "chopra",
       "name": "Chopra Rahul",
       "chineseName": "乔普拉·拉维娜",
-      "gender": "Male",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/ChopraRahul.jpg",
-      "career": "Grocery Deliverer",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8119,28 +6766,9 @@ export default {
       "familyId": "chopra",
       "name": "Chopra Lavina",
       "chineseName": "乔普拉·拉胡尔",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/ChopraLavina.jpg",
-      "career": "Village Mayor",
-      "aspiration": {
-        "name": "Successful Lineage"
-      },
-      "traits": [
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8158,28 +6786,9 @@ export default {
       "familyId": "goldbloom",
       "name": "Goldbloom Kim",
       "chineseName": "戈德布鲁姆·金",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/GoldbloomKim.jpg",
-      "career": "Grocery Shop Owner",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Alluring"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8197,24 +6806,9 @@ export default {
       "familyId": "laurent",
       "name": "Laurent Greta",
       "chineseName": "劳伦特·格丽塔",
-      "gender": "Female",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/LaurentGreta.jpg",
-      "aspiration": {
-        "name": "Freelance Botanist"
-      },
-      "traits": [
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8232,27 +6826,9 @@ export default {
       "familyId": "laurent",
       "name": "Laurent Hector",
       "chineseName": "劳伦特·赫克托",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/LaurentHector.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Master Mixologist"
-      },
-      "traits": [
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Essence of Flavor"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8270,28 +6846,9 @@ export default {
       "familyId": "laurent",
       "name": "Laurent Hilary",
       "chineseName": "劳伦特·希蕾莉",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/LaurentHilary.jpg",
-      "career": "Culinary",
-      "aspiration": {
-        "name": "Master Chef"
-      },
-      "traits": [
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Essence of Flavor"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8309,17 +6866,9 @@ export default {
       "familyId": "laurent",
       "name": "Laurent Jace",
       "chineseName": "劳伦特·杰斯",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/LaurentJace.jpg",
-      "aspiration": {
-        "name": "Social Butterfly"
-      },
-      "traits": [
-        {
-          "name": "Cheerful"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8337,28 +6886,9 @@ export default {
       "familyId": "laurent",
       "name": "Thebe Arnessa",
       "chineseName": "提比·阿妮莎",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Widowed",
       "image": "/images/sims/ThebeArnessa.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Successful Lineage"
-      },
-      "traits": [
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Loner"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8376,28 +6906,9 @@ export default {
       "familyId": "markovic",
       "name": "Markovic Mateo",
       "chineseName": "马尔科维奇·马蒂奥",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Engaged",
       "image": "/images/sims/MarkovicMateo.jpg",
-      "career": "Entertainer",
-      "aspiration": {
-        "name": "Big Happy Family"
-      },
-      "traits": [
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8415,28 +6926,9 @@ export default {
       "familyId": "markovic",
       "name": "Markovic Lucia",
       "chineseName": "马尔科维奇·露西亚",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Engaged",
       "image": "/images/sims/MarkovicLucia.jpg",
-      "career": "Entertainer",
-      "aspiration": {
-        "name": "Musical Genius"
-      },
-      "traits": [
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8454,17 +6946,9 @@ export default {
       "familyId": "markovic",
       "name": "Markovic Tomi",
       "chineseName": "马尔科维奇·托米",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/MarkovicTomi.jpg",
-      "aspiration": {
-        "name": "Artistic Prodigy"
-      },
-      "traits": [
-        {
-          "name": "Creative"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8482,28 +6966,9 @@ export default {
       "familyId": "jaleel",
       "name": "Jaleel Faiz",
       "chineseName": "杰里尔·费兹",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/JaleelFaiz.jpg",
-      "career": "Vendor",
-      "aspiration": {
-        "name": "Soulmate"
-      },
-      "traits": [
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Alluring"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8521,28 +6986,9 @@ export default {
       "familyId": "soto",
       "name": "Soto Camille",
       "chineseName": "索托·卡米尔",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/SotoCamille.jpg",
-      "career": "Retired",
-      "aspiration": {
-        "name": "Bestselling Author"
-      },
-      "traits": [
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8560,28 +7006,9 @@ export default {
       "familyId": "soto",
       "name": "Soto Dominique",
       "chineseName": "索托·多米尼克",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/SotoDominique.jpg",
-      "career": "Retired",
-      "aspiration": {
-        "name": "Painter Extraordinaire"
-      },
-      "traits": [
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8599,28 +7026,9 @@ export default {
       "familyId": "price",
       "name": "Price Janae",
       "chineseName": "普莱斯·贾娜",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/PriceJanae.jpg",
-      "career": "Business",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Clumsy"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8638,28 +7046,9 @@ export default {
       "familyId": "price",
       "name": "Price Marcel",
       "chineseName": "普莱斯·马塞尔",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/PriceMarcel.jpg",
-      "career": "Writer",
-      "aspiration": {
-        "name": "Nerd Brain"
-      },
-      "traits": [
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8677,17 +7066,9 @@ export default {
       "familyId": "price",
       "name": "Price Jayden",
       "chineseName": "普莱斯·杰登",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/PriceJayden.jpg",
-      "aspiration": {
-        "name": "Social Butterfly"
-      },
-      "traits": [
-        {
-          "name": "Outgoing"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8705,25 +7086,9 @@ export default {
       "familyId": "price",
       "name": "Price Savannah",
       "chineseName": "普莱斯·萨凡纳",
-      "gender": "Female",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/PriceSavannah.jpg",
-      "career": "Computer team member",
-      "aspiration": {
-        "name": "Computer Whiz"
-      },
-      "traits": [
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8741,24 +7106,9 @@ export default {
       "familyId": "price",
       "name": "Price Sidney",
       "chineseName": "普莱斯·西德尼",
-      "gender": "Male",
-      "age": "Teen",
       "image": "/images/sims/PriceSidney.jpg",
-      "career": "Cheer team member",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Overachiever"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8776,24 +7126,9 @@ export default {
       "familyId": "price",
       "name": "Puri Kevin",
       "chineseName": "普里·凯文",
-      "gender": "Male",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/PuriKevin.jpg",
-      "aspiration": {
-        "name": "Goal Oriented"
-      },
-      "traits": [
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Socially Awkward"
-        },
-        {
-          "name": "Relatable"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8811,17 +7146,9 @@ export default {
       "familyId": "prescott",
       "name": "Prescott Amy",
       "chineseName": "普列斯考特·艾米",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/PrescottAmy.jpg",
-      "aspiration": {
-        "name": "Rambunctious Scamp"
-      },
-      "traits": [
-        {
-          "name": "Kleptomaniac"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8839,28 +7166,9 @@ export default {
       "familyId": "prescott",
       "name": "Prescott Mei",
       "chineseName": "普列斯科特·梅",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Widowed",
       "image": "/images/sims/PrescottMei.jpg",
-      "career": "Copperdale High Principal",
-      "aspiration": {
-        "name": "Successful Lineage"
-      },
-      "traits": [
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8878,25 +7186,9 @@ export default {
       "familyId": "prescott",
       "name": "Prescott Molly",
       "chineseName": "普列斯科特·莫莉",
-      "gender": "Female",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/PrescottMolly.jpg",
-      "career": "Chess Team Member",
-      "aspiration": {
-        "name": "Musical Genius"
-      },
-      "traits": [
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8914,28 +7206,9 @@ export default {
       "familyId": "prescott",
       "name": "Lum Tai",
       "chineseName": "卢·泰",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/LumTai.jpg",
-      "career": "Copperdale High Janitor",
-      "aspiration": {
-        "name": "Angling Ace"
-      },
-      "traits": [
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8953,25 +7226,9 @@ export default {
       "familyId": "harjo",
       "name": "Harjo Ash",
       "chineseName": "哈卓·灰灰",
-      "gender": "Non-binary",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/HarjoAsh.jpg",
-      "career": "Simfluencer",
-      "aspiration": {
-        "name": "Admired Icon"
-      },
-      "traits": [
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Relatable"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -8989,28 +7246,9 @@ export default {
       "familyId": "harjo",
       "name": "Harjo Ava",
       "chineseName": "哈卓·艾娃",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/HarjoAva.jpg",
-      "career": "Cafeteria Worker",
-      "aspiration": {
-        "name": "Master Chef"
-      },
-      "traits": [
-        {
-          "name": "Good"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Essence of Flavor"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9028,28 +7266,9 @@ export default {
       "familyId": "harjo",
       "name": "Harjo Lucha",
       "chineseName": "哈卓·鲁卡",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/HarjoLucha.jpg",
-      "career": "Culinary",
-      "aspiration": {
-        "name": "Master Chef"
-      },
-      "traits": [
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Clumsy"
-        },
-        {
-          "name": "Essence Of Flavor"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9067,24 +7286,9 @@ export default {
       "familyId": "harjo",
       "name": "Kane Noah",
       "chineseName": "凯恩·诺亚",
-      "gender": "Male",
-      "age": "Teen",
       "image": "/images/sims/KaneNoah.jpg",
-      "career": "Football team member",
-      "aspiration": {
-        "name": "Chief of Mischief"
-      },
-      "traits": [
-        {
-          "name": "Party Animal"
-        },
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Dastardly"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9122,28 +7326,9 @@ export default {
       "familyId": "hiddlestix",
       "name": "Hiddlestix Eloise",
       "chineseName": "希多史提·伊洛丝",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/HiddlestixEloise.jpg",
-      "career": "ThrifTEA Shop Owner",
-      "aspiration": {
-        "name": "Fabulously Wealthy"
-      },
-      "traits": [
-        {
-          "name": "Clumsy"
-        },
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Art Lover"
-        },
-        {
-          "name": "Business Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9161,28 +7346,9 @@ export default {
       "familyId": "coombes",
       "name": "Coombes Rita",
       "chineseName": "库尔斯·丽塔",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/CoombesRita.jpg",
-      "career": "High School Teacher",
-      "aspiration": {
-        "name": "The Curator"
-      },
-      "traits": [
-        {
-          "name": "Socially Awkward"
-        },
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9200,27 +7366,9 @@ export default {
       "familyId": "volkov",
       "name": "Volkov Kristopher",
       "chineseName": "沃尔科夫·克里斯托弗",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/VolkovKristopher.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Successful Lineage"
-      },
-      "traits": [
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9238,24 +7386,9 @@ export default {
       "familyId": "volkov",
       "name": "Volkov Jacob",
       "chineseName": "沃尔科夫·雅各布",
-      "gender": "Male",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/VolkovJacob.jpg",
-      "aspiration": {
-        "name": "Emissary of the Collective"
-      },
-      "traits": [
-        {
-          "name": "Vegetarian"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Lunar Confidant"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9273,27 +7406,9 @@ export default {
       "familyId": "volkov",
       "name": "Zhu Lily",
       "chineseName": "朱·莉莉",
-      "gender": "Female",
-      "age": "Elder",
       "image": "/images/sims/ZhuLily.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9318,28 +7433,9 @@ export default {
       "familyId": "howell",
       "name": "Howell Lou",
       "chineseName": "豪威尔·卢",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/HowellLou.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Werewolf Initiate"
-      },
-      "traits": [
-        {
-          "name": "Kleptomaniac"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Art Lover"
-        },
-        {
-          "name": "Lunar Confidant"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9377,28 +7473,9 @@ export default {
       "familyId": "oaklow",
       "name": "Oaklow Rory",
       "chineseName": "奥克洛·洛里",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/OaklowRory.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Hot-Headed"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9416,28 +7493,9 @@ export default {
       "familyId": "wilder",
       "name": "Wilder Wolfgang",
       "chineseName": "威尔德·沃夫冈",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/WilderWolfgang.jpg",
-      "career": "Librarian",
-      "aspiration": {
-        "name": "Bestselling Author"
-      },
-      "traits": [
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9455,27 +7513,9 @@ export default {
       "familyId": "greg",
       "name": "Greg",
       "chineseName": "格雷格",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/Greg.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Mean"
-        },
-        {
-          "name": "Loner"
-        },
-        {
-          "name": "Glutton"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9493,27 +7533,9 @@ export default {
       "familyId": "roblesruano",
       "name": "Robles Jay",
       "chineseName": "罗布雷斯·杰",
-      "gender": "Non-binary",
-      "age": "Young Adult",
       "image": "/images/sims/RoblesJay.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Master Chef"
-      },
-      "traits": [
-        {
-          "name": "Hot-Headed"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Essence of Flavor"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9531,27 +7553,9 @@ export default {
       "familyId": "roblesruano",
       "name": "Ruano Doli",
       "chineseName": "鲁阿诺·多莉",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/RuanoDoli.jpg",
-      "career": "Style Influencer",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Art Lover"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9569,15 +7573,9 @@ export default {
       "familyId": "roblesruano",
       "name": "Ruano Tala",
       "chineseName": "鲁阿诺·塔拉",
-      "gender": "Female",
-      "age": "Toddler",
       "image": "/images/sims/RuanoTala.jpg",
       "aspiration": {},
-      "traits": [
-        {
-          "name": "Clingy"
-        }
-      ],
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9595,27 +7593,9 @@ export default {
       "familyId": "robles",
       "name": "Robles Ignacio",
       "chineseName": "罗布雷斯·伊格纳西奥",
-      "gender": "Male",
-      "age": "Elder",
       "image": "/images/sims/RoblesIgnacio.jpg",
-      "career": "Retired",
-      "aspiration": {
-        "name": "Serial Romantic"
-      },
-      "traits": [
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Alluring"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9633,27 +7613,9 @@ export default {
       "familyId": "robles",
       "name": "Robles Bernice",
       "chineseName": "罗布雷斯·波妮丝",
-      "gender": "Female",
-      "age": "Adult",
       "image": "/images/sims/RoblesBernice.jpg",
-      "career": "Business",
-      "aspiration": {
-        "name": "Angling Ace"
-      },
-      "traits": [
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9671,26 +7633,9 @@ export default {
       "familyId": "robles",
       "name": "Robles Ian",
       "chineseName": "罗布雷斯·伊恩",
-      "age": "Adult",
       "image": "/images/sims/RoblesIan.jpg",
-      "career": "Writer",
-      "aspiration": {
-        "name": "Successful Lineage"
-      },
-      "traits": [
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9708,24 +7653,9 @@ export default {
       "familyId": "robles",
       "name": "Robles Aurelio",
       "chineseName": "罗布雷斯·奥雷利奥",
-      "gender": "Male",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/RoblesAurelio.jpg",
-      "aspiration": {
-        "name": "Musical Genius"
-      },
-      "traits": [
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9743,27 +7673,9 @@ export default {
       "familyId": "michaelson",
       "name": "Michaelson Celeste",
       "chineseName": "迈可尔森·塞莱斯特",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/MichaelsonCeleste.jpg",
-      "career": "Tech Guru",
-      "aspiration": {
-        "name": "Big Happy Family"
-      },
-      "traits": [
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9781,27 +7693,9 @@ export default {
       "familyId": "michaelson",
       "name": "Michaelson Christopher",
       "chineseName": "迈可尔森·克里斯多夫",
-      "gender": "Male",
-      "age": "Young Adult",
       "image": "/images/sims/MichaelsonChristopher.jpg",
-      "career": "Tech Guru",
-      "aspiration": {
-        "name": "Nerd Brain"
-      },
-      "traits": [
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Art Lover"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9819,15 +7713,9 @@ export default {
       "familyId": "michaelson",
       "name": "Michaelson Atlas",
       "chineseName": "迈可尔森·阿特拉斯",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/MichaelsonAtlas.jpg",
       "aspiration": {},
-      "traits": [
-        {
-          "name": "Hot-Headed"
-        }
-      ],
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9845,15 +7733,9 @@ export default {
       "familyId": "michaelson",
       "name": "Michaelson Orion",
       "chineseName": "迈可尔森·欧莱恩",
-      "gender": "Female",
-      "age": "Infant",
       "image": "/images/sims/MichaelsonOrion.jpg",
       "aspiration": {},
-      "traits": [
-        {
-          "name": "Wiggly"
-        }
-      ],
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9871,27 +7753,9 @@ export default {
       "familyId": "lunasullivan",
       "name": "Luna Xochitl",
       "chineseName": "卢那·霍奇蒂尔",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/LunaXochitl.jpg",
-      "career": "Athlete",
-      "aspiration": {
-        "name": "Soulmate"
-      },
-      "traits": [
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Loyal"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Alluring"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9909,27 +7773,9 @@ export default {
       "familyId": "lunasullivan",
       "name": "Sullivan Eleanor",
       "chineseName": "沙利文·埃莉诺",
-      "gender": "Female",
-      "age": "Elder",
       "image": "/images/sims/SullivanEleanor.jpg",
-      "career": "Babysitter",
-      "aspiration": {
-        "name": "Chief of Mischief"
-      },
-      "traits": [
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Childish"
-        },
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Dastardly"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9947,17 +7793,9 @@ export default {
       "familyId": "lunasullivan",
       "name": "Luna Karmine",
       "chineseName": "卢那·卡尔敏",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/LunaKarmine.jpg",
-      "aspiration": {
-        "name": "Creative Genius"
-      },
-      "traits": [
-        {
-          "name": "Creative"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -9975,28 +7813,9 @@ export default {
       "familyId": "kyleson",
       "name": "Kyleson Kyle",
       "chineseName": "凯尔森·凯尔",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/KylesonKyle.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Party Animal"
-      },
-      "traits": [
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Lazy"
-        },
-        {
-          "name": "Clumsy"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10014,27 +7833,9 @@ export default {
       "familyId": "gooseman",
       "name": "Gooseman Don",
       "chineseName": "古斯曼·唐恩",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/GoosemanDon.jpg",
-      "aspiration": {
-        "name": "Angling Ace"
-      },
-      "traits": [
-        {
-          "name": "Loner"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Horse Lover"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10052,26 +7853,9 @@ export default {
       "familyId": "nectarmakingduo",
       "name": "Tracey Marissa",
       "chineseName": "特雷西·玛丽萨",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/TraceyMarissa.jpg",
-      "aspiration": {
-        "name": "Fabulously Wealthy"
-      },
-      "traits": [
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Business Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10089,26 +7873,9 @@ export default {
       "familyId": "nectarmakingduo",
       "name": "Davila Dani",
       "chineseName": "达维拉·丹妮",
-      "gender": "Non-binary",
-      "age": "Young Adult",
       "image": "/images/sims/DavilaDani.jpg",
-      "aspiration": {
-        "name": "Expert Nectar Maker"
-      },
-      "traits": [
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Essence of Flavor"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10126,27 +7893,9 @@ export default {
       "familyId": "grovefamily",
       "name": "Grove Umber",
       "chineseName": "格洛夫·安柏尔",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/GroveUmber.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Big Happy Family"
-      },
-      "traits": [
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Domestic"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10164,27 +7913,9 @@ export default {
       "familyId": "grovefamily",
       "name": "Grove Juniper",
       "chineseName": "格洛夫·朱妮珀",
-      "gender": "Female",
-      "age": "Adult",
       "image": "/images/sims/GroveJuniper.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Freelance Botanist"
-      },
-      "traits": [
-        {
-          "name": "Horse Lover"
-        },
-        {
-          "name": "Rancher"
-        },
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10202,17 +7933,9 @@ export default {
       "familyId": "grovefamily",
       "name": "Grove Wren",
       "chineseName": "格洛夫·雷恩",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/GroveWren.jpg",
-      "aspiration": {
-        "name": "Rambunctious Scamp"
-      },
-      "traits": [
-        {
-          "name": "Loves Outdoors"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10230,26 +7953,9 @@ export default {
       "familyId": "siennaflapjack",
       "name": "Grove Sienna",
       "chineseName": "格洛夫·西椰娜",
-      "gender": "Female",
-      "age": "Adult",
       "image": "/images/sims/GroveSienna.jpg",
-      "aspiration": {
-        "name": "Championship Rider"
-      },
-      "traits": [
-        {
-          "name": "Horse Lover"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "High Metabolism"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10267,27 +7973,9 @@ export default {
       "familyId": "crinkletop",
       "name": "Crinkletop Roberto",
       "chineseName": "克林克托普·罗伯托",
-      "gender": "Male",
-      "age": "Elder",
       "image": "/images/sims/CrinkletopRoberto.jpg",
-      "career": "Mysterious Rancher",
-      "aspiration": {
-        "name": "Angling Ace"
-      },
-      "traits": [
-        {
-          "name": "Rancher"
-        },
-        {
-          "name": "Good"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10305,13 +7993,8 @@ export default {
       "familyId": "cahyaputri",
       "name": "Cahyaputri Vanesha",
       "chineseName": "卡雅普特里·瓦妮莎",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/CahyaputriVanesha.jpg",
-      "career": "Barista",
-      "aspiration": {
-        "name": "Five-Star Property Owner"
-      },
+      "aspiration": {},
       "traits": [],
       "skills": [],
       "relationships": {
@@ -10330,12 +8013,8 @@ export default {
       "familyId": "cahyaputri",
       "name": "Cahyaputri Zhafira",
       "chineseName": "卡雅普特里·扎菲拉",
-      "gender": "Female",
-      "age": "Teen",
       "image": "/images/sims/CahyaputriZhafira.jpg",
-      "aspiration": {
-        "name": "Seeker of Secrets"
-      },
+      "aspiration": {},
       "traits": [],
       "skills": [],
       "relationships": {
@@ -10374,28 +8053,9 @@ export default {
       "familyId": "linhsadya",
       "name": "Linh Arturo",
       "chineseName": "琳·阿图罗",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/LinhArturo.jpg",
-      "career": "Astronaut",
-      "aspiration": {
-        "name": "Nerd Brain"
-      },
-      "traits": [
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Wise"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10453,17 +8113,9 @@ export default {
       "familyId": "linhsadya",
       "name": "Sadya Cam",
       "chineseName": "萨迪亚·坎姆",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/SadyaCam.jpg",
-      "aspiration": {
-        "name": "Artistic Prodigy"
-      },
-      "traits": [
-        {
-          "name": "Loves Outdoors"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10481,27 +8133,9 @@ export default {
       "familyId": "linh",
       "name": "Linh Thi",
       "chineseName": "琳·缇",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/LinhThi.jpg",
-      "career": "Secret Agent",
-      "aspiration": {
-        "name": "Discerning Dweller"
-      },
-      "traits": [
-        {
-          "name": "Cringe"
-        },
-        {
-          "name": "Slob"
-        },
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10599,12 +8233,8 @@ export default {
       "familyId": "li",
       "name": "Li Panya",
       "chineseName": "李·潘雅",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/LiPanya.jpg",
-      "aspiration": {
-        "name": "Five-Star Property Owner"
-      },
+      "aspiration": {},
       "traits": [],
       "skills": [],
       "relationships": {
@@ -10683,28 +8313,9 @@ export default {
       "familyId": "dynamicdaters",
       "name": "Ortega Carmen",
       "chineseName": "奥尔特加·卡门",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Widowed",
       "image": "/images/sims/OrtegaCarmen.jpg",
-      "career": "Retired",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
-        {
-          "name": "Art Lover"
-        },
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Noncommittal"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10722,28 +8333,9 @@ export default {
       "familyId": "dynamicdaters",
       "name": "Cruz Elia",
       "chineseName": "克鲁兹·埃利亚",
-      "gender": "Non-binary",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/CruzElia.jpg",
-      "career": "Culinary",
-      "aspiration": {
-        "name": "Master Chef"
-      },
-      "traits": [
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Vegetarian"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Essence of Flavor"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10761,27 +8353,9 @@ export default {
       "familyId": "dynamicdaters",
       "name": "Aguilar Manuel",
       "chineseName": "阿吉拉尔·曼努尔",
-      "gender": "Male",
-      "age": "Young Adult",
       "image": "/images/sims/AguilarManuel.jpg",
-      "career": "Entertainer",
-      "aspiration": {
-        "name": "Paragon Partner"
-      },
-      "traits": [
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Lovebug"
-        },
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Alluring"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10819,27 +8393,9 @@ export default {
       "familyId": "nadir",
       "name": "Nadir Aziz",
       "chineseName": "纳迪尔·阿奇兹",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/NadirAziz.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Bestselling Author"
-      },
-      "traits": [
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Lazy"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10857,27 +8413,9 @@ export default {
       "familyId": "nadir",
       "name": "Nadir Valentina",
       "chineseName": "纳迪尔·瓦伦缇娜",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/NadirValentina.jpg",
-      "career": "Romance Consultant",
-      "aspiration": {
-        "name": "Fabulously Wealthy"
-      },
-      "traits": [
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Business Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10895,8 +8433,6 @@ export default {
       "familyId": "izadigomes",
       "name": "Gomes Esther",
       "chineseName": "戈麦斯·埃斯特",
-      "gender": "Non-binary",
-      "age": "Young Adult",
       "image": "/images/sims/GomesEsther.jpg",
       "aspiration": {},
       "traits": [],
@@ -10917,28 +8453,9 @@ export default {
       "familyId": "izadigomes",
       "name": "Izadi Zuleika",
       "chineseName": "伊扎迪·祖拉卡",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/IzadiZuleika.jpg",
-      "career": "Reaper",
-      "aspiration": {
-        "name": "Freelance Botanist"
-      },
-      "traits": [
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Macabre"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -10956,11 +8473,7 @@ export default {
       "familyId": "gomes",
       "name": "Gomes Radwan",
       "chineseName": "戈麦斯·拉德万",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/GomesRadwan.jpg",
-      "career": "Astronaut",
       "aspiration": {},
       "traits": [],
       "skills": [],
@@ -10980,11 +8493,7 @@ export default {
       "familyId": "gomes",
       "name": "Gomes Tziporah",
       "chineseName": "戈麦斯·茨波拉",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/GomesTziporah.jpg",
-      "career": "Writer",
       "aspiration": {},
       "traits": [],
       "skills": [],
@@ -11004,24 +8513,9 @@ export default {
       "familyId": "gomes",
       "name": "Gomes Zelmira",
       "chineseName": "戈麦斯·泽尔米拉",
-      "gender": "Non-binary",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/GomesZelmira.jpg",
-      "aspiration": {
-        "name": "The Curator"
-      },
-      "traits": [
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Macabre"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11039,8 +8533,6 @@ export default {
       "familyId": "aether",
       "name": "Aether Kai",
       "chineseName": "伊瑟·凯",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/AetherKai.jpg",
       "aspiration": {},
       "traits": [],
@@ -11061,8 +8553,6 @@ export default {
       "familyId": "aether",
       "name": "Aether Ekade",
       "chineseName": "伊瑟·埃卡德",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/AetherEkade.jpg",
       "aspiration": {},
       "traits": [],
@@ -11083,8 +8573,6 @@ export default {
       "familyId": "aether",
       "name": "Aether Takama",
       "chineseName": "伊瑟·高间",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/AetherTakama.jpg",
       "aspiration": {},
       "traits": [],
@@ -11105,11 +8593,7 @@ export default {
       "familyId": "specter",
       "name": "Coffin Layne",
       "chineseName": "科芬·莱恩",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Engaged",
       "image": "/images/sims/CoffinLayne.jpg",
-      "career": "Entertainer",
       "aspiration": {},
       "traits": [],
       "skills": [],
@@ -11149,9 +8633,6 @@ export default {
       "familyId": "specter",
       "name": "Specter Olive",
       "chineseName": "幽浑·奥莉薇",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Engaged",
       "image": "/images/sims/SpecterOlive.jpg",
       "aspiration": {},
       "traits": [],
@@ -11172,12 +8653,8 @@ export default {
       "familyId": "alice",
       "name": "Alice",
       "chineseName": "艾莉丝",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/Alice.jpg",
-      "aspiration": {
-        "name": "Big Happy Family"
-      },
+      "aspiration": {},
       "traits": [],
       "skills": [],
       "relationships": {
@@ -11196,17 +8673,9 @@ export default {
       "familyId": "edith",
       "name": "Edith",
       "chineseName": "伊迪丝",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/Edith.jpg",
-      "aspiration": {
-        "name": "Rambunctious Scamp"
-      },
-      "traits": [
-        {
-          "name": "Mean"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11244,26 +8713,9 @@ export default {
       "familyId": "warez",
       "name": "Warez Waylon",
       "chineseName": "瓦雷兹·威伦",
-      "gender": "Male",
-      "age": "Elder",
       "image": "/images/sims/WarezWaylon.jpg",
-      "aspiration": {
-        "name": "Ghost Historian"
-      },
-      "traits": [
-        {
-          "name": "Hates Children"
-        },
-        {
-          "name": "Macabre"
-        },
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11281,8 +8733,6 @@ export default {
       "familyId": "loden",
       "name": "Loden Erik",
       "chineseName": "洛登·艾瑞克",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/LodenErik.jpg",
       "aspiration": {},
       "traits": [],
@@ -11303,23 +8753,9 @@ export default {
       "familyId": "loden",
       "name": "Loden Freya",
       "chineseName": "洛登·芙蕾雅",
-      "gender": "Female",
-      "age": "Teen",
       "image": "/images/sims/LodenFreya.jpg",
-      "aspiration": {
-        "name": "Bodybuilder"
-      },
-      "traits": [
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "High Metabolism"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11357,12 +8793,8 @@ export default {
       "familyId": "loden",
       "name": "Loden Nora",
       "chineseName": "洛登·诺拉",
-      "gender": "Female",
-      "age": "Adult",
       "image": "/images/sims/LodenNora.jpg",
-      "aspiration": {
-        "name": "Esteemed Entrepreneur"
-      },
+      "aspiration": {},
       "traits": [],
       "skills": [],
       "relationships": {
@@ -11381,10 +8813,7 @@ export default {
       "familyId": "loden",
       "name": "Loden Dahlia",
       "chineseName": "洛登·达莉娅",
-      "gender": "Female",
-      "age": "Adult",
       "image": "/images/sims/LodenDahlia.jpg",
-      "career": "Freelance Writer",
       "aspiration": {},
       "traits": [],
       "skills": [],
@@ -11404,12 +8833,8 @@ export default {
       "familyId": "sarpong",
       "name": "Sarpong Lerato",
       "chineseName": "萨普昂·莱拉托",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/SarpongLerato.jpg",
-      "aspiration": {
-        "name": "Whiz Kid"
-      },
+      "aspiration": {},
       "traits": [],
       "skills": [],
       "relationships": {
@@ -11428,13 +8853,8 @@ export default {
       "familyId": "sarpong",
       "name": "Sarpong Nia",
       "chineseName": "萨普昂·尼娅",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/SarpongNia.jpg",
-      "aspiration": {
-        "name": "Neighborhood Confidante"
-      },
+      "aspiration": {},
       "traits": [],
       "skills": [],
       "relationships": {
@@ -11453,28 +8873,9 @@ export default {
       "familyId": "urbanehousesharers",
       "name": "Coleman Cannonball",
       "chineseName": "科尔曼·肯诺伯",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/ColemanCannonball.jpg",
-      "career": "Entertainer",
-      "aspiration": {
-        "name": "Musical Genius"
-      },
-      "traits": [
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Good"
-        },
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Essence of Flavor"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11492,28 +8893,9 @@ export default {
       "familyId": "urbanehousesharers",
       "name": "Black Crispin",
       "chineseName": "布莱克·克里斯平",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/BlackCrispin.jpg",
-      "career": "Painter",
-      "aspiration": {
-        "name": "Esteemed Entrepreneur"
-      },
-      "traits": [
-        {
-          "name": "Hot-headed"
-        },
-        {
-          "name": "Shady"
-        },
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11531,24 +8913,9 @@ export default {
       "familyId": "urbanehousesharers",
       "name": "Mark Ollie",
       "chineseName": "马克·奥利",
-      "gender": "Non-binary",
-      "age": "Teen",
-      "maritalStatus": "Single",
       "image": "/images/sims/MarkOllie.jpg",
-      "aspiration": {
-        "name": "Nerd Brain"
-      },
-      "traits": [
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11566,11 +8933,7 @@ export default {
       "familyId": "koopman",
       "name": "Koopman Gert",
       "chineseName": "库普曼·格特",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/KoopmanGert.jpg",
-      "career": "Unemployed",
       "aspiration": {},
       "traits": [],
       "skills": [],
@@ -11590,9 +8953,6 @@ export default {
       "familyId": "koopman",
       "name": "Koopman Jolanda",
       "chineseName": "库普曼·乔兰达",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Married",
       "image": "/images/sims/KoopmanJolanda.jpg",
       "aspiration": {},
       "traits": [],
@@ -11613,14 +8973,8 @@ export default {
       "familyId": "hoffman",
       "name": "Hoffman Bruno",
       "chineseName": "霍夫曼·布鲁诺",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Widowed",
       "image": "/images/sims/HoffmanBruno.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Esteemed Entrepreneur"
-      },
+      "aspiration": {},
       "traits": [],
       "skills": [],
       "relationships": {
@@ -11639,28 +8993,9 @@ export default {
       "familyId": "hoffman",
       "name": "Hoffman Felix",
       "chineseName": "霍夫曼·菲利克斯",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/HoffmanFelix.jpg",
-      "career": "Candy Vendor at Hoffman's Candy Stall",
-      "aspiration": {
-        "name": "Master Chef"
-      },
-      "traits": [
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Hates Children"
-        },
-        {
-          "name": "High Metabolism"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11678,28 +9013,9 @@ export default {
       "familyId": "nyhus",
       "name": "Nyhus Corey",
       "chineseName": "尼赫斯·科里",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/NyhusCorey.jpg",
-      "career": "Culinary",
-      "aspiration": {
-        "name": "Soulmate"
-      },
-      "traits": [
-        {
-          "name": "Loner"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Dastardly"
-        },
-        {
-          "name": "Graduated with Honors"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11717,25 +9033,9 @@ export default {
       "familyId": "amri",
       "name": "Amri Zain",
       "chineseName": "艾姆利·札因",
-      "gender": "Non-binary",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/AmriZain.jpg",
-      "career": "Entertainer",
-      "aspiration": {
-        "name": "Musical Genius"
-      },
-      "traits": [
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11753,27 +9053,9 @@ export default {
       "familyId": "nhoam",
       "name": "Nhoam Glen",
       "chineseName": "诺姆·格努",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/NhoamGlen.jpg",
-      "aspiration": {
-        "name": "The Curator"
-      },
-      "traits": [
-        {
-          "name": "Loner"
-        },
-        {
-          "name": "Clumsy"
-        },
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11791,27 +9073,9 @@ export default {
       "familyId": "ladipo",
       "name": "Ladipo Ayo",
       "chineseName": "拉迪波·阿约",
-      "gender": "Non-binary",
-      "age": "Adult",
       "image": "/images/sims/LadipoAyo.jpg",
-      "career": "Tech Guru",
-      "aspiration": {
-        "name": "Computer Whiz"
-      },
-      "traits": [
-        {
-          "name": "Neat"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11829,27 +9093,9 @@ export default {
       "familyId": "ladipo",
       "name": "Ladipo Flora",
       "chineseName": "拉迪波·芙洛拉",
-      "gender": "Female",
-      "age": "Adult",
       "image": "/images/sims/LadipoFlora.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Nerd Brain"
-      },
-      "traits": [
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11867,27 +9113,9 @@ export default {
       "familyId": "enchantedlovers",
       "name": "DeMuray Elric",
       "chineseName": "德穆雷·艾尔里克",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/DeMurayElric.jpg",
-      "career": "Culinary",
-      "aspiration": {
-        "name": "Nature Nomad"
-      },
-      "traits": [
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11905,25 +9133,9 @@ export default {
       "familyId": "enchantedlovers",
       "name": "Attenberry Todd",
       "chineseName": "阿滕伯里·托德",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Dating",
       "image": "/images/sims/AttenberryTodd.jpg",
       "aspiration": {},
-      "traits": [
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -11941,10 +9153,7 @@ export default {
       "familyId": "summerdream",
       "name": "Summerdream Titania",
       "chineseName": "夏梦·缇塔尼亚",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/SummerdreamTitania.jpg",
-      "career": "Naturopath",
       "aspiration": {},
       "traits": [],
       "skills": [],
@@ -11964,10 +9173,7 @@ export default {
       "familyId": "summerdream",
       "name": "Summerdream Oberon",
       "chineseName": "夏梦·奥伯伦",
-      "gender": "Male",
-      "age": "Young Adult",
       "image": "/images/sims/SummerdreamOberon.jpg",
-      "career": "Unemployed",
       "aspiration": {},
       "traits": [],
       "skills": [],
@@ -11987,20 +9193,9 @@ export default {
       "familyId": "summerdream",
       "name": "Summerdream Mara",
       "chineseName": "夏梦·玛拉",
-      "gender": "Female",
-      "age": "Child",
       "image": "/images/sims/SummerdreamMara.jpg",
-      "aspiration": {
-        "name": "Social Butterfly"
-      },
-      "traits": [
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "High Fae Lineage"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12018,28 +9213,9 @@ export default {
       "familyId": "mysticalbesties",
       "name": "Ladipo Iris",
       "chineseName": "拉迪波·伊丽丝",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/LadipoIris.jpg",
-      "career": "Babysitter",
-      "aspiration": {
-        "name": "Fairy Stories"
-      },
-      "traits": [
-        {
-          "name": "Mystical"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Loyal"
-        },
-        {
-          "name": "Fairy Influence"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12057,28 +9233,9 @@ export default {
       "familyId": "mysticalbesties",
       "name": "Kishka Nadya",
       "chineseName": "基什卡·娜迪亚",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/KishkaNadya.jpg",
-      "career": "Entertainer",
-      "aspiration": {
-        "name": "Musical Genius"
-      },
-      "traits": [
-        {
-          "name": "Music Lover"
-        },
-        {
-          "name": "Disruptive"
-        },
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12096,27 +9253,9 @@ export default {
       "familyId": "amani",
       "name": "Amani Zhaleh",
       "chineseName": "阿曼尼·札勒",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/AmaniZhaleh.jpg",
-      "aspiration": {
-        "name": "Harmonious Fairy"
-      },
-      "traits": [
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Vegetarian"
-        },
-        {
-          "name": "Mystical"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12134,26 +9273,9 @@ export default {
       "familyId": "ren",
       "name": "Ren Care",
       "chineseName": "任·凯尔",
-      "gender": "Female",
-      "age": "Adult",
       "image": "/images/sims/RenCare.jpg",
-      "aspiration": {
-        "name": "Grilled Cheese"
-      },
-      "traits": [
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Foodie"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12171,26 +9293,9 @@ export default {
       "familyId": "almighty",
       "name": "Almighty Spruce",
       "chineseName": "天树·王牌",
-      "gender": "Non-binary",
-      "age": "Adult",
       "image": "/images/sims/AlmightySpruce.jpg",
-      "aspiration": {
-        "name": "Nature Nomad"
-      },
-      "traits": [
-        {
-          "name": "Romantic"
-        },
-        {
-          "name": "Hot-Headed"
-        },
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12208,26 +9313,9 @@ export default {
       "familyId": "nature",
       "name": "Nature Mother",
       "chineseName": "自然·之母",
-      "gender": "Female",
-      "age": "Young Adult",
       "image": "/images/sims/NatureMother.jpg",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
-        {
-          "name": "Loves Outdoors"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12245,27 +9333,9 @@ export default {
       "familyId": "trader",
       "name": "Trader Joe",
       "chineseName": "商·乔",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/TraderJoe.jpg",
-      "aspiration": {
-        "name": "Chief of Mischief"
-      },
-      "traits": [
-        {
-          "name": "Disruptive"
-        },
-        {
-          "name": "Kleptomaniac"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Dastardly"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12363,27 +9433,9 @@ export default {
       "familyId": "addamcommune",
       "name": "Addam Jane",
       "chineseName": "亚当·珍",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/AddamJane.jpg",
-      "aspiration": {
-        "name": "Master Mixologist"
-      },
-      "traits": [
-        {
-          "name": "Jealous"
-        },
-        {
-          "name": "Loyal"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Essence of Flavor"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12401,27 +9453,9 @@ export default {
       "familyId": "addamcommune",
       "name": "Addam Star",
       "chineseName": "亚当·斯塔",
-      "gender": "Female",
-      "age": "Adult",
-      "maritalStatus": "Married",
       "image": "/images/sims/AddamStar.jpg",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
-        {
-          "name": "Erratic"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12439,27 +9473,9 @@ export default {
       "familyId": "addamcommune",
       "name": "Tchotchke Agora",
       "chineseName": "托榭克·阿戈拉",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/TchotchkeAgora.jpg",
-      "aspiration": {
-        "name": "Chief of Mischief"
-      },
-      "traits": [
-        {
-          "name": "Gloomy"
-        },
-        {
-          "name": "Lazy"
-        },
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Dastardly"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12477,27 +9493,9 @@ export default {
       "familyId": "addamcommune",
       "name": "Broke Skip",
       "chineseName": "布罗克·斯基普",
-      "gender": "Male",
-      "age": "Adult",
       "image": "/images/sims/BrokeSkip.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Fabulously Wealthy"
-      },
-      "traits": [
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Slob"
-        },
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Business Savvy"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12515,27 +9513,9 @@ export default {
       "familyId": "perry",
       "name": "Perry Freeda",
       "chineseName": "佩里·芙丽达",
-      "gender": "Female",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "image": "/images/sims/PerryFreeda.jpg",
-      "aspiration": {
-        "name": "Bodybuilder"
-      },
-      "traits": [
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "High Metabolism"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12553,17 +9533,9 @@ export default {
       "familyId": "perry",
       "name": "Perry Dougie",
       "chineseName": "佩里·道奇",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/PerryDougie.jpg",
-      "aspiration": {
-        "name": "Whiz Kid"
-      },
-      "traits": [
-        {
-          "name": "Loner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12581,23 +9553,9 @@ export default {
       "familyId": "scoop",
       "name": "Scoop Buddy",
       "chineseName": "史酷普·巴迪",
-      "gender": "Male",
-      "age": "Child",
       "image": "/images/sims/ScoopBuddy.jpg",
-      "aspiration": {
-        "name": "Rambunctious Scamp"
-      },
-      "traits": [
-        {
-          "name": "Competitive"
-        },
-        {
-          "name": "Competitive Spirit: Bad"
-        },
-        {
-          "name": "Seasoned Camper"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12615,27 +9573,9 @@ export default {
       "familyId": "preener",
       "name": "Preener Pruella",
       "chineseName": "普利挪·普鲁艾拉",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/PreenerPruella.jpg",
-      "aspiration": {
-        "name": "Critter Hunter"
-      },
-      "traits": [
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Loyal"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Collector"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12653,28 +9593,9 @@ export default {
       "familyId": "akamine",
       "name": "Akamine Toshie",
       "chineseName": "赤岭·托诗",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/AkamineToshie.jpg",
-      "career": "Freelancer",
-      "aspiration": {
-        "name": "Bestselling Author"
-      },
-      "traits": [
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Muser"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -12692,13 +9613,8 @@ export default {
       "familyId": "kunal",
       "name": "Kunal Raheel",
       "chineseName": "库南·拉希尔",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/KunalRaheel.jpg",
-      "aspiration": {
-        "name": "Angling Ace"
-      },
+      "aspiration": {},
       "traits": [],
       "skills": [],
       "relationships": {
@@ -12717,13 +9633,8 @@ export default {
       "familyId": "kunal",
       "name": "Kunal Laxmi",
       "chineseName": "库南·拉克希米",
-      "gender": "Non-binary",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "image": "/images/sims/KunalLaxmi.jpg",
-      "aspiration": {
-        "name": "Critter Hunter"
-      },
+      "aspiration": {},
       "traits": [],
       "skills": [],
       "relationships": {
@@ -12818,7 +9729,7 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/MontyRomeo.jpg",
-      "career": "Culinary",
+      "career": "烹饪",
       "aspiration": {
         "name": "Soulmate"
       },
@@ -12948,7 +9859,7 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/CappTybalt.jpg",
-      "career": "Noble",
+      "career": "Respected Regent",
       "aspiration": {
         "name": "Mansion Baron"
       },
@@ -12964,6 +9875,9 @@ export default {
         },
         {
           "name": "Regal Romancer"
+        },
+        {
+          "name": "Gregarious"
         }
       ],
       "skills": [],
@@ -13005,29 +9919,11 @@ export default {
       "familyId": "capp",
       "name": "Capp Beatrice",
       "chineseName": "盖普·比阿特丽丝",
-      "gender": "Female",
-      "age": "Young Adult",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/CappBeatrice.jpg",
-      "career": "Writer",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
-        {
-          "name": "Loyal"
-        },
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13045,29 +9941,11 @@ export default {
       "familyId": "capp",
       "name": "Capp Celeste",
       "chineseName": "盖普·塞莱斯特",
-      "gender": "Non-binary",
-      "age": "Young Adult",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/CappCeleste.jpg",
-      "career": "Entertainer",
-      "aspiration": {
-        "name": "Soulmate"
-      },
-      "traits": [
-        {
-          "name": "Art Lover"
-        },
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Alluring"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13085,29 +9963,11 @@ export default {
       "familyId": "capp",
       "name": "Capp Virgilio",
       "chineseName": "盖普·维吉里欧",
-      "gender": "Male",
-      "age": "Young Adult",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/CappVirgilio.jpg",
-      "career": "Business",
-      "aspiration": {
-        "name": "Chief of Mischief"
-      },
-      "traits": [
-        {
-          "name": "Geek"
-        },
-        {
-          "name": "Goofball"
-        },
-        {
-          "name": "Mean"
-        },
-        {
-          "name": "Dastardly"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13125,28 +9985,11 @@ export default {
       "familyId": "darong",
       "name": "Darong Adekoya",
       "chineseName": "达隆·阿德科亚",
-      "gender": "Male",
-      "age": "Elder",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/DarongAdekoya.jpg",
-      "aspiration": {
-        "name": "Bestselling Author"
-      },
-      "traits": [
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Bookworm"
-        },
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Speed Reader"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13164,29 +10007,11 @@ export default {
       "familyId": "darong",
       "name": "Darong Jawara",
       "chineseName": "达隆·贾瓦拉",
-      "gender": "Female",
-      "age": "Young Adult",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/DarongJawara.jpg",
-      "career": "Noble",
-      "aspiration": {
-        "name": "Big Happy Family"
-      },
-      "traits": [
-        {
-          "name": "Good"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Family-Oriented"
-        },
-        {
-          "name": "Night Owl"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13204,28 +10029,11 @@ export default {
       "familyId": "darong",
       "name": "Darong Amarachi",
       "chineseName": "达隆·阿玛拉奇",
-      "gender": "Female",
-      "age": "Teen",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/DarongAmarachi.jpg",
-      "aspiration": {
-        "name": "Painter Extraordinaire"
-      },
-      "traits": [
-        {
-          "name": "Art Lover"
-        },
-        {
-          "name": "Creative"
-        },
-        {
-          "name": "Night Owl"
-        },
-        {
-          "name": "Creative Visionary"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13243,22 +10051,11 @@ export default {
       "familyId": "darong",
       "name": "Darong Obi",
       "chineseName": "达隆·奥比",
-      "gender": "Male",
-      "age": "Child",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/DarongObi.jpg",
-      "aspiration": {
-        "name": "Whiz Kid"
-      },
-      "traits": [
-        {
-          "name": "Genius"
-        },
-        {
-          "name": "Morning Sim"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13276,29 +10073,11 @@ export default {
       "familyId": "ananou",
       "name": "Ananou Ekene",
       "chineseName": "阿南努·埃克内",
-      "gender": "Male",
-      "age": "Elder",
-      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AnanouEkene.jpg",
-      "aspiration": {
-        "name": "Nerd Brain"
-      },
-      "traits": [
-        {
-          "name": "Practice Makes Perfect"
-        },
-        {
-          "name": "Childish"
-        },
-        {
-          "name": "Good"
-        },
-        {
-          "name": "Marketable"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13316,20 +10095,11 @@ export default {
       "familyId": "ananou",
       "name": "Ananou Afua",
       "chineseName": "阿南努·阿芙娅",
-      "gender": "Female",
-      "age": "Child",
-      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AnanouAfua.jpg",
-      "aspiration": {
-        "name": "Social Butterfly"
-      },
-      "traits": [
-        {
-          "name": "Self-Assured"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13369,29 +10139,11 @@ export default {
       "familyId": "thebe",
       "name": "Abrantes Thiago",
       "chineseName": "阿布兰特斯·蒂亚戈",
-      "gender": "Male",
-      "age": "Young Adult",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AbrantesThiago.jpg",
-      "career": "Noble",
-      "aspiration": {
-        "name": "Renaissance Sim"
-      },
-      "traits": [
-        {
-          "name": "Loyal"
-        },
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13409,29 +10161,11 @@ export default {
       "familyId": "abrantes",
       "name": "Abrantes Ermelinda",
       "chineseName": "阿布兰特斯·埃尔梅琳达",
-      "gender": "Female",
-      "age": "Elder",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AbrantesErmelinda.jpg",
-      "career": "Noble",
-      "aspiration": {
-        "name": "Successful Lineage"
-      },
-      "traits": [
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Hot-Headed"
-        },
-        {
-          "name": "Materialistic"
-        },
-        {
-          "name": "Regal Romancer"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13449,25 +10183,11 @@ export default {
       "familyId": "abrantes",
       "name": "Abrantes Sofia",
       "chineseName": "阿布兰特斯·索菲亚",
-      "gender": "Female",
-      "age": "Teen",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AbrantesSofia.jpg",
-      "aspiration": {
-        "name": "Neighborhood Confidante"
-      },
-      "traits": [
-        {
-          "name": "Cheerful"
-        },
-        {
-          "name": "Loyal"
-        },
-        {
-          "name": "Gregarious"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13485,30 +10205,11 @@ export default {
       "familyId": "romualdo",
       "name": "Romualdo Aloisio",
       "chineseName": "罗穆阿尔多·阿洛伊西奥",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/RomualdoAloisio.jpg",
-      "career": "Criminal",
-      "aspiration": {
-        "name": "Public Enemy"
-      },
-      "traits": [
-        {
-          "name": "Loyal"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Kleptomaniac"
-        },
-        {
-          "name": "Beguiling"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13526,30 +10227,11 @@ export default {
       "familyId": "akachi",
       "name": "Onoja Akachi",
       "chineseName": "奥诺贾·阿卡其 ",
-      "gender": "Male",
-      "age": "Young Adult",
-      "maritalStatus": "Dating",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/OnojaAkachi.jpg",
-      "career": "Noble",
-      "aspiration": {
-        "name": "Bodybuilder"
-      },
-      "traits": [
-        {
-          "name": "Perfectionist"
-        },
-        {
-          "name": "Active"
-        },
-        {
-          "name": "Self-Assured"
-        },
-        {
-          "name": "Regal Romancer"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13567,29 +10249,11 @@ export default {
       "familyId": "fidential",
       "name": "Fidential Connie",
       "chineseName": "菲德纳尔·康妮",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/FidentialConnie.jpg",
-      "aspiration": {
-        "name": "Bestselling Author"
-      },
-      "traits": [
-        {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Self-assured"
-        },
-        {
-          "name": "Snob"
-        },
-        {
-          "name": "Quick Learner"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13607,28 +10271,11 @@ export default {
       "familyId": "cappconsort",
       "name": "Capp Consort",
       "chineseName": "盖普·康索特",
-      "gender": "Male",
-      "age": "Elder",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/CappConsort.jpg",
-      "aspiration": {
-        "name": "Successful Lineage"
-      },
-      "traits": [
-        {
-          "name": "Erratic"
-        },
-        {
-          "name": "Hot-headed"
-        },
-        {
-          "name": "Ambitious"
-        },
-        {
-          "name": "Former Noble Hustler"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
@@ -13646,29 +10293,11 @@ export default {
       "familyId": "acosta",
       "name": "Acosta Fia",
       "chineseName": "阿科斯塔·菲娅",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Dating",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AcostaFia.jpg",
-      "aspiration": {
-        "name": "Public Enemy"
-      },
-      "traits": [
-        {
-          "name": "Noncommittal"
-        },
-        {
-          "name": "Hot-headed"
-        },
-        {
-          "name": "Good"
-        },
-        {
-          "name": "Shameless"
-        }
-      ],
+      "aspiration": {},
+      "traits": [],
       "skills": [],
       "relationships": {
         "spouse": [],
