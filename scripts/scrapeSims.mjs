@@ -62,48 +62,79 @@ async function fetchWikiData(name) {
 
 function parseInfobox(content) {
     const data = {};
-    const infoboxMatch = content.match(/\{\{Infobox Sim[^\n]*([\s\S]*?)\}\}/i);
+    const infoboxMatch = content.match(/\{\{Infobox Sim[^\}]*([\s\S]*?)\}\}/i);
     if (!infoboxMatch) return data;
 
     const infobox = infoboxMatch[0];
+
+    // Look for fields using a more robust regex
     const fields = [
         ['gender', ['gender', 'sex']],
         ['age', ['age']],
-        ['marital', ['marital', 'maritalStatus', 'relation']],
-        ['career', ['career', 'job']],
-        ['traits', ['traits', 'trait1', 'trait2', 'trait3', 'trait4']],
-        ['aspiration', ['asp', 'aspiration']],
+        ['marital', ['marital', 'maritalStatus', 'maritalstatus', 'relation', 'spouse']],
+        ['career', ['career', 'job', 'occupation']],
+        ['traits', ['traits', 'trait1', 'trait2', 'trait3', 'trait4', 'personality']],
+        ['aspiration', ['asp', 'aspiration', 'aspiration_sims4']],
         ['skills', ['skills', 'skill']]
     ];
 
     for (const [key, aliases] of fields) {
         let value = '';
         for (const alias of aliases) {
-            const regex = new RegExp(`\\|\\s*${alias}\\s*=\\s*([^\\|\\}\\n]*)`, 'i');
+            // Regex that captures until the NEXT field (|name=) or the end of the template (}})
+            // Using a non-greedy match followed by a lookahead
+            const regex = new RegExp(`\\|\\s*${alias}\\s*=\\s*([\\s\\S]*?)(?=\\n\\s*(?:\\||\\}\\}))`, 'i');
             const match = infobox.match(regex);
+
             if (match && match[1].trim()) {
                 let val = match[1].trim()
-                    .replace(/\[\[([^|\]]+\|)?([^\]]+)\]\]/g, '$2')
-                    .replace(/\{\{[^}]+\}\}/g, '')
-                    .replace(/<[^>]+>/g, '')
+                    .replace(/\[\[([^|\]]+\|)?([^\]]+)\]\]/g, '$2') // Strip wikilinks
+                    .replace(/\{\{[^|]+\|?([^|}]*)\|?[^}]*\}\}/g, '$1') // Extract value from {{Template|Value|...}}
+                    .replace(/\{\{[^}]+\}\}/g, '') // Remove remaining templates
+                    .replace(/<[^>]+>/g, '') // Remove HTML tags
+                    .split('\n')[0] // Take only the first line if it's multi-line
                     .trim();
 
                 if (key === 'traits' && alias.startsWith('trait')) {
                     value = value ? `${value}, ${val}` : val;
-                } else if (!value) {
+                } else if (!value && val && !val.includes('{{')) {
                     value = val;
-                    break;
+                    if (alias === 'maritalstatus' || alias === 'maritalStatus') break;
                 }
             }
         }
         if (value) data[key] = value;
     }
+
+    // SPECIAL HANDLING FOR SKILLS (Handle |- |Skills= blocks)
+    if (!data.skills) {
+        const skillBlockMatch = content.match(/\|-\|Skills=\s*\n?\{\{(SkillTable\d?)([\s\S]*?)\}\}/i);
+        if (skillBlockMatch) {
+            const skillLines = skillBlockMatch[2].split('\n');
+            const skills = [];
+            for (const line of skillLines) {
+                const m = line.match(/^\s*\|\s*(\w+)\s*=\s*(\d+)\s*$/);
+                if (m) {
+                    const skillName = m[1].trim();
+                    const skillLevel = m[2].trim();
+                    // Capitalize first letter
+                    const formattedName = skillName.charAt(0).toUpperCase() + skillName.slice(1);
+                    skills.push(`${formattedName}${skillLevel}`);
+                }
+            }
+            if (skills.length > 0) {
+                data.skills = skills.join(',');
+            }
+        }
+    }
+
     return data;
 }
 
 async function main() {
     const limit = process.argv.includes('--limit') ? parseInt(process.argv[process.argv.indexOf('--limit') + 1]) : Infinity;
     const dryRun = process.argv.includes('--dry-run');
+    const outPath = process.argv.includes('--out') ? process.argv[process.argv.indexOf('--out') + 1] : excelPath;
 
     if (!fs.existsSync(excelPath)) {
         console.error('File not found:', excelPath);
@@ -149,8 +180,8 @@ async function main() {
 
     if (!dryRun) {
         workbook.Sheets[sheetName] = xlsx.utils.json_to_sheet(rows);
-        xlsx.writeFile(workbook, excelPath);
-        console.log('Database updated.');
+        xlsx.writeFile(workbook, outPath);
+        console.log(`Database updated: ${outPath}`);
     } else {
         console.log('Dry run finished.');
     }
