@@ -11,27 +11,27 @@ export default {
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/GothMortimer.jpg",
-      "career": "Freelance Article Writer",
+      "career": "写作-三级",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 4
         }
       ],
@@ -63,40 +63,40 @@ export default {
       "name": "Goth Bella",
       "chineseName": "高斯·贝拉",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/GothBella.jpg",
-      "career": "Intelligence Researcher",
+      "career": "特务-二级",
       "aspiration": {
-        "name": "Party Animal"
+        "name": "派对动物"
       },
       "traits": [
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 2
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 2
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 2
         }
       ],
@@ -133,24 +133,24 @@ export default {
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/GothCassandra.jpg",
-      "career": "High School",
+      "career": "高中C",
       "aspiration": {
-        "name": "Musical Genius"
+        "name": "音乐天才"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Violin",
+          "name": "小提琴",
           "level": 2
         }
       ],
@@ -187,30 +187,30 @@ export default {
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/GothAlexander.jpg",
-      "career": "Elementary School",
+      "career": "小学C",
       "aspiration": {
-        "name": "Whiz Kid"
+        "name": "神童"
       },
       "traits": [
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         }
       ],
       "skills": [
         {
-          "name": "Creativity",
+          "name": "创意",
           "level": 1
         },
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 1
         },
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 1
         },
         {
-          "name": "Social",
+          "name": "社交",
           "level": 1
         }
       ],
@@ -247,31 +247,31 @@ export default {
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/KimDennis.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 1
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 4
         }
       ],
@@ -312,31 +312,31 @@ export default {
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/LewisVivian.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 1
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 5
         }
       ],
@@ -372,48 +372,48 @@ export default {
       "name": "KimSpencer Alice",
       "chineseName": "斯宾塞·金·艾莉丝",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/KimSpencerAlice.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Painter Extraordinaire"
+        "name": "非凡画家"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Childish"
+          "name": "幼稚"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 1
         },
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 1
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 1
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 1
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 4
         }
       ],
@@ -450,36 +450,36 @@ export default {
       "name": "Lewis Eric",
       "chineseName": "路易斯·埃瑞克",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/LewisEric.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Mansion Baron"
+        "name": "豪宅大王"
       },
       "traits": [
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Glutton"
+          "name": "贪吃鬼"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 1
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 3
         }
       ],
@@ -521,26 +521,26 @@ export default {
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/LewisKimOlivia.jpg",
-      "career": "Grade School",
+      "career": "小学C",
       "aspiration": {
-        "name": "Artistic Prodigy"
+        "name": "艺术天才"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         }
       ],
       "skills": [
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 1
         },
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 1
         },
         {
-          "name": "Social",
+          "name": "社交",
           "level": 1
         }
       ],
@@ -552,7 +552,7 @@ export default {
             "id": "kimspenceralice"
           },
           {
-            "id": "lewiseric"
+            "id": "leric"
           }
         ],
         "children": [],
@@ -575,36 +575,36 @@ export default {
       "name": "Pancakes Bob",
       "chineseName": "潘克斯·鲍伯",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/PancakesBob.jpg",
-      "career": "Caterer",
+      "career": "烹饪-三级",
       "aspiration": {
-        "name": "Master Chef"
+        "name": "妙手主厨"
       },
       "traits": [
         {
-          "name": "Slob"
+          "name": "邋遢鬼"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 3
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 3
         }
       ],
@@ -629,32 +629,32 @@ export default {
       "name": "Pancakes Eliza",
       "chineseName": "潘克斯·伊莱莎",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/PancakesEliza.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Mansion Baron"
+        "name": "豪宅大王"
       },
       "traits": [
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 3
         }
       ],
@@ -679,32 +679,32 @@ export default {
       "name": "Lee Liberty",
       "chineseName": "李·莉柏缇",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/LeeLiberty.jpg",
-      "career": "Module Cleaner",
+      "career": "太空人-二级",
       "aspiration": {
-        "name": "Nerd Brain"
+        "name": "书呆子的脑袋"
       },
       "traits": [
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 2
         }
       ],
@@ -725,36 +725,36 @@ export default {
       "name": "Holiday Summer",
       "chineseName": "霍利迪·桑默",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/HolidaySummer.jpg",
-      "career": "Head Dishwasher",
+      "career": "烹饪-二级",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 2
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 2
         }
       ],
@@ -775,32 +775,32 @@ export default {
       "name": "Scott Travis",
       "chineseName": "斯科特·崔维斯",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "image": "/images/sims/ScottTravis.jpg",
-      "career": "Quality Assurance",
+      "career": "科技达人-二级",
       "aspiration": {
-        "name": "Computer Whiz"
+        "name": "电脑神童"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 2
         }
       ],
@@ -821,32 +821,32 @@ export default {
       "name": "Zest Johnny",
       "chineseName": "杰斯·强尼",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/ZestJohnny.jpg",
-      "career": "Open Mic Seeker",
+      "career": "演艺人员-二级",
       "aspiration": {
-        "name": "Joke Star"
+        "name": "喜剧之王"
       },
       "traits": [
         {
-          "name": "Gregarious"
+          "name": "合群"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 2
         }
       ],
@@ -878,36 +878,36 @@ export default {
       "name": "Patel Zoe",
       "chineseName": "帕托·柔依",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/PatelZoe.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 2
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 1
         }
       ],
@@ -928,36 +928,36 @@ export default {
       "name": "Kalani Mitchell",
       "chineseName": "卡拉尼·米切尔",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/KalaniMitchell.jpg",
-      "career": "Assistant Dishwasher",
+      "career": "烹饪-一级",
       "aspiration": {
-        "name": "Joke Star"
+        "name": "喜剧之王"
       },
       "traits": [
         {
-          "name": "Bro"
+          "name": "好哥们"
         },
         {
-          "name": "Lazy"
+          "name": "懒惰"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 2
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 2
         }
       ],
@@ -978,36 +978,36 @@ export default {
       "name": "HuntingtonIII J",
       "chineseName": "亨廷顿三世·杰",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/HuntingtonIIIJ.jpg",
-      "career": "Quality Assurance",
+      "career": "科技达人-二级",
       "aspiration": {
-        "name": "Bodybuilder"
+        "name": "健美运动员"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Bro"
+          "name": "好哥们"
         },
         {
-          "name": "Noncommittal"
+          "name": "不愿承诺"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 2
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 2
         }
       ],
@@ -1028,32 +1028,32 @@ export default {
       "name": "Richards Gavin",
       "chineseName": "理查·盖文",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/RichardsGavin.jpg",
-      "career": "Blogger",
+      "career": "写作-二级",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Bro"
+          "name": "好哥们"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 3
         }
       ],
@@ -1079,35 +1079,35 @@ export default {
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/CalienteKatrina.jpg",
-      "career": "Opening Act",
+      "career": "演艺人员-四级",
       "aspiration": {
-        "name": "Soulmate"
+        "name": "心灵伴侣"
       },
       "traits": [
         {
-          "name": "Jealous"
+          "name": "善妒"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 2
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 2
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 2
         }
       ],
@@ -1140,31 +1140,31 @@ export default {
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/CalienteDina.jpg",
-      "career": "Assistant Dishwasher",
+      "career": "烹饪-一级",
       "aspiration": {
-        "name": "Fabulously Wealth"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 2
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 2
         }
       ],
@@ -1198,27 +1198,27 @@ export default {
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/CalienteNina.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Villainous Valentine"
+        "name": "反派情人"
       },
       "traits": [
         {
-          "name": "Noncommittal"
+          "name": "不愿承诺"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
       "skills": [
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 2
         }
       ],
@@ -1247,37 +1247,33 @@ export default {
       "name": "Lothario Don",
       "chineseName": "罗塔里欧·唐恩",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/LotharioDon.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Serial Romantic"
+        "name": "连环浪漫"
       },
       "traits": [
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Noncommittal"
+          "name": "不愿承诺"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
-          "level": 2
-        },
-        {
-          "name": "Logic",
-          "level": 4
+          "name": "健身",
+          "level": 3
         }
       ],
       "relationships": {
@@ -1302,40 +1298,36 @@ export default {
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/LandgraabGeoffrey.jpg",
-      "career": "Lead Detective",
+      "career": "特务-五级",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 1
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 4
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 6
-        },
-        {
-          "name": "Videogaming",
-          "level": 1
         }
       ],
       "relationships": {
@@ -1371,39 +1363,39 @@ export default {
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/LandgraabNancy.jpg",
-      "career": "Minor Crimelord",
+      "career": "罪犯-五级",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 1
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 3
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 2
         }
       ],
@@ -1440,28 +1432,28 @@ export default {
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "image": "/images/sims/LandgraabMalcolm.jpg",
-      "career": "High School",
+      "career": "高中C",
       "aspiration": {
-        "name": "Public Enemy"
+        "name": "全民公敌"
       },
       "traits": [
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Evil"
+          "name": "邪恶"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 3
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 3
         }
       ],
@@ -1493,32 +1485,32 @@ export default {
       "name": "Haas Maaike",
       "chineseName": "哈斯·艾克",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/HaasMaaike.jpg",
-      "career": "Blogger",
+      "career": "写作-二级",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 5
         }
       ],
@@ -1539,36 +1531,36 @@ export default {
       "name": "Faust Ulrike",
       "chineseName": "浮士德·乌里克",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/FaustUlrike.jpg",
-      "career": "Art Book Collator",
+      "career": "画家-二级",
       "aspiration": {
-        "name": "Painter Extraordinaire"
+        "name": "非凡画家"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 5
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 5
         }
       ],
@@ -1594,31 +1586,31 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/FyresDominic.jpg",
-      "career": "Opening Act",
+      "career": "演艺人员-四级",
       "aspiration": {
-        "name": "Musical Genius"
+        "name": "音乐天才"
       },
       "traits": [
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "DJ mixing",
+          "name": "DJ混音",
           "level": 8
         },
         {
-          "name": "Dancing",
+          "name": "跳舞",
           "level": 4
         }
       ],
@@ -1655,27 +1647,27 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/FyresMoira.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Freelance Botanist"
+        "name": "自由植物学家"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 9
         }
       ],
@@ -1707,32 +1699,32 @@ export default {
       "name": "Fyres Siobhan",
       "chineseName": "菲尔斯·西沃恩",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Dating",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/FyresSiobhan.jpg",
-      "career": "Office Assistant",
+      "career": "商业-二级",
       "aspiration": {
-        "name": "Leader of the Pack"
+        "name": "群雄之首"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Insider"
+          "name": "圈内人"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 6
         }
       ],
@@ -1773,24 +1765,24 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/FyresMorgan.jpg",
-      "career": "High School",
+      "career": "高中C",
       "aspiration": {
-        "name": "Party Animal"
+        "name": "派对动物"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 4
         }
       ],
@@ -1827,35 +1819,35 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/MunchMila.jpg",
-      "career": "Caterer",
+      "career": "烹饪-三级",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 6
         },
         {
-          "name": "Gourmet Cooking",
+          "name": "美食烹饪",
           "level": 8
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 8
         }
       ],
@@ -1886,32 +1878,32 @@ export default {
       "name": "Munch Gunther",
       "chineseName": "大嚼客·甘瑟",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/MunchGunther.jpg",
-      "career": "Writer's Assistant",
+      "career": "写作-一级",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 7
         }
       ],
@@ -1948,28 +1940,28 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/MunchWolfgang.jpg",
-      "career": "High School",
+      "career": "高中C",
       "aspiration": {
-        "name": "Public Enemy"
+        "name": "全民公敌"
       },
       "traits": [
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Mean"
+          "name": "刻薄"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
       "skills": [
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 3
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 4
         }
       ],
@@ -2006,22 +1998,22 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/MunchLucas.jpg",
-      "career": "Grade School",
+      "career": "小学C",
       "aspiration": {
-        "name": "Artistic Prodigy"
+        "name": "艺术天才"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         }
       ],
       "skills": [
         {
-          "name": "Creativity",
+          "name": "创意",
           "level": 7
         },
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 4
         }
       ],
@@ -2058,27 +2050,27 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/VillarealJacques.jpg",
-      "career": "The Brains",
+      "career": "罪犯-老大-九级",
       "aspiration": {
-        "name": "Public Enemy"
+        "name": "全民公敌"
       },
       "traits": [
         {
-          "name": "Erratic"
+          "name": "古怪"
         },
         {
-          "name": "Childish"
+          "name": "幼稚"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
       "skills": [
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 9
         }
       ],
@@ -2114,24 +2106,24 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/VillarealLuna.jpg",
-      "career": "High School",
+      "career": "高中C",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Childish"
+          "name": "幼稚"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
         }
       ],
@@ -2168,24 +2160,24 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/VillarealHugo.jpg",
-      "career": "High School",
+      "career": "高中C",
       "aspiration": {
-        "name": "Master Chef"
+        "name": "妙手主厨"
       },
       "traits": [
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 7
         }
       ],
@@ -2222,18 +2214,18 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/VillarealMax.jpg",
-      "career": "Grade School",
+      "career": "小学D",
       "aspiration": {
-        "name": "Rambunctious Scamp"
+        "name": "天生好动"
       },
       "traits": [
         {
-          "name": "Evil"
+          "name": "邪恶"
         }
       ],
       "skills": [
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 6
         }
       ],
@@ -2270,35 +2262,35 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/BjergsenBjorn.jpg",
-      "career": "Agent Handler",
+      "career": "特务-三级",
       "aspiration": {
-        "name": "Soulmate"
+        "name": "心灵伴侣"
       },
       "traits": [
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Slob"
+          "name": "邋遢鬼"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 8
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 5
         }
       ],
@@ -2335,27 +2327,27 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/BjergsenClara.jpg",
-      "career": "Caterer",
+      "career": "烹饪-三级",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 6
         }
       ],
@@ -2392,28 +2384,28 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/BjergsenSofia.jpg",
-      "career": "High School",
+      "career": "高中C",
       "aspiration": {
-        "name": "Musical Genius"
+        "name": "音乐天才"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 6
         },
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 8
         }
       ],
@@ -2450,18 +2442,18 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/BjergsenElsa.jpg",
-      "career": "Grade School",
+      "career": "小学B",
       "aspiration": {
-        "name": "Whiz Kid"
+        "name": "神童"
       },
       "traits": [
         {
-          "name": "Genius"
+          "name": "天才"
         }
       ],
       "skills": [
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 10
         }
       ],
@@ -2493,36 +2485,36 @@ export default {
       "name": "LeChien Joaquin",
       "chineseName": "勒千·瓦昆",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/LeChienJoaquin.jpg",
-      "career": "Open Mic Seeker",
+      "career": "演艺人员-二级",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "DJ mixing",
+          "name": "DJ混音",
           "level": 6
         },
         {
-          "name": "Dancing",
+          "name": "跳舞",
           "level": 5
         }
       ],
@@ -2543,32 +2535,32 @@ export default {
       "name": "Romeo Sergio",
       "chineseName": "罗密欧·瑟吉欧",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Dating",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/RomeoSergio.jpg",
-      "career": "Quality Assurance",
+      "career": "科技达人-二级",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Hates Children"
+          "name": "痛恨小孩"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
         }
       ],
@@ -2598,24 +2590,24 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/BehrYuki.jpg",
-      "career": "High School",
+      "career": "高中C",
       "aspiration": {
-        "name": "Computer Whiz"
+        "name": "电脑神童"
       },
       "traits": [
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Video gaming",
+          "name": "电玩游戏",
           "level": 6
         }
       ],
@@ -2640,32 +2632,36 @@ export default {
       "name": "Behr Candy",
       "chineseName": "贝洱·坎蒂",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/BehrCandy.jpg",
-      "career": "Open Mic Seeker",
+      "career": "演艺人员-二级",
       "aspiration": {
-        "name": "Party Animal"
+        "name": "派对动物"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Dancing",
+          "name": "DJ混音",
+          "level": 6
+        },
+        {
+          "name": "跳舞",
           "level": 5
         }
       ],
@@ -2690,32 +2686,32 @@ export default {
       "name": "Capricciosa Eva",
       "chineseName": "卡布里乔莎·伊娃",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/CapricciosaEva.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Serial Romantic"
+        "name": "连环浪漫"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
         }
       ],
@@ -2736,36 +2732,36 @@ export default {
       "name": "Rosa Jade",
       "chineseName": "罗莎·碧玉",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/RosaJade.jpg",
-      "career": "Office Assistant",
+      "career": "商业-二级",
       "aspiration": {
-        "name": "Mansion Baron"
+        "name": "豪宅大王"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 6
         },
         {
-          "name": "Dancing",
+          "name": "跳舞",
           "level": 3
         }
       ],
@@ -2791,31 +2787,31 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/FlexMarcus.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Bro"
+          "name": "好哥们"
         },
         {
-          "name": "Noncommittal"
+          "name": "不愿承诺"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 7
         }
       ],
@@ -2836,40 +2832,40 @@ export default {
       "name": "Rocca Paolo",
       "chineseName": "洛卡·保禄",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
       "image": "/images/sims/RoccaPaolo.jpg",
-      "career": "Locker Room Attendant",
+      "career": "运动员-二级",
       "aspiration": {
-        "name": "Bodybuilder"
+        "name": "健美运动员"
       },
       "traits": [
         {
-          "name": "Bro"
+          "name": "好哥们"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 2
         },
         {
-          "name": "DJ mixing",
+          "name": "DJ混音",
           "level": 6
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 3
         }
       ],
@@ -2890,36 +2886,36 @@ export default {
       "name": "Rasoya Raj",
       "chineseName": "瑞索亚·拉吉",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/RasoyaRaj.jpg",
-      "career": "Pastry Chef",
+      "career": "烹饪-主厨-七级",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Slob"
+          "name": "邋遢鬼"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Unflirty"
+          "name": "不善调情"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 10
         },
         {
-          "name": "Gourmet Cooking",
+          "name": "美食烹饪",
           "level": 7
         }
       ],
@@ -2949,35 +2945,35 @@ export default {
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/RasoyaGeeta.jpg",
-      "career": "Food Stall Frequenter",
+      "career": "评论家-美食评论家-五级",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 8
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 2
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 6
         }
       ],
@@ -3002,36 +2998,36 @@ export default {
       "name": "Bheeda Arun",
       "chineseName": "比达·阿伦",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/BheedaArun.jpg",
-      "career": "Quality Assurance",
+      "career": "科技达人-二级",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Vegetarian"
+          "name": "素食主义者"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 5
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 4
         }
       ],
@@ -3056,40 +3052,40 @@ export default {
       "name": "Bheeda Jesminder",
       "chineseName": "比达·洁敏德",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/BheedaJesminder.jpg",
-      "career": "Head Mixologist",
+      "career": "烹饪-调酒师-六级",
       "aspiration": {
-        "name": "Master Mixologist"
+        "name": "调酒大师"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Vegetarian"
+          "name": "素食主义者"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 6
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 7
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 5
         }
       ],
@@ -3119,38 +3115,38 @@ export default {
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/FengLily.jpg",
-      "career": "CEO",
+      "career": "商业-管理-九级",
       "aspiration": {
-        "name": "Mansion Baron"
+        "name": "豪宅大王"
       },
       "traits": [
         {
-          "name": "Hates Children"
+          "name": "痛恨小孩"
         },
         {
-          "name": "Unflirty"
+          "name": "不善调情"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 9
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 2
         },
         {
-          "name": "Violin",
+          "name": "小提琴",
           "level": 3
         }
       ],
@@ -3180,31 +3176,31 @@ export default {
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/FengVictor.jpg",
-      "career": "Representative",
+      "career": "政治家-八级",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 7
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 6
         }
       ],
@@ -3229,40 +3225,40 @@ export default {
       "name": "Lobo Diego",
       "chineseName": "罗保·迪亚戈",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/LoboDiego.jpg",
-      "career": "Cultural Connoisseur",
+      "career": "评论家-艺术评论家-七级",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 8
         },
         {
-          "name": "Gourmet Cooking",
+          "name": "美食烹饪",
           "level": 5
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 5
         }
       ],
@@ -3283,49 +3279,45 @@ export default {
       "name": "Pizzazz Penny",
       "chineseName": "比萨兹·佩妮",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/PizzazzPenny.jpg",
-      "career": "Online A-Lister",
+      "career": "社群媒体-网络人格-八级",
       "aspiration": {
-        "name": "City Native"
+        "name": "城市本地人"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Home Turf"
+          "name": "恋家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 8
         },
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 6
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 7
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 5
-        },
-        {
-          "name": "Videogaming",
-          "level": 7
         }
       ],
       "relationships": {
@@ -3345,36 +3337,36 @@ export default {
       "name": "Kibo Akira",
       "chineseName": "基博·亮",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/KiboAkira.jpg",
-      "career": "Live Chat Support Agent",
+      "career": "科技达人-一级",
       "aspiration": {
-        "name": "The Curator"
+        "name": "馆长"
       },
       "traits": [
         {
-          "name": "Jealous"
+          "name": "善妒"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 2
         },
         {
-          "name": "Singing",
+          "name": "唱歌",
           "level": 7
         }
       ],
@@ -3395,40 +3387,40 @@ export default {
       "name": "Ojo Miko",
       "chineseName": "奥祖·米可",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/OjoMiko.jpg",
-      "career": "Social Justice Worker",
+      "career": "政治家-三级",
       "aspiration": {
-        "name": "Serial Romantic"
+        "name": "连环浪漫"
       },
       "traits": [
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 3
         },
         {
-          "name": "Singing",
+          "name": "唱歌",
           "level": 8
         }
       ],
@@ -3454,28 +3446,28 @@ export default {
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/WalshDarling.jpg",
-      "career": "High School",
+      "career": "高中B",
       "aspiration": {
-        "name": "Chief of Mischief"
+        "name": "狡黠之王"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Unflirty"
+          "name": "不善调情"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 8
         },
         {
-          "name": "Singing",
+          "name": "唱歌",
           "level": 9
         }
       ],
@@ -3496,40 +3488,40 @@ export default {
       "name": "Jang Anaya",
       "chineseName": "詹·安娜亚",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/JangAnaya.jpg",
-      "career": "Illustrious Illustrator",
+      "career": "画家-真实主宰-九级",
       "aspiration": {
-        "name": "Painter Extraordinaire"
+        "name": "非凡画家"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 4
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 5
         },
         {
-          "name": "Singing",
+          "name": "唱歌",
           "level": 5
         }
       ],
@@ -3563,35 +3555,35 @@ export default {
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/JangBaako.jpg",
-      "career": "Stand Up Star",
+      "career": "演艺人员-谐星-九级",
       "aspiration": {
-        "name": "Joke Star"
+        "name": "喜剧之王"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
         },
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 4
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 4
         }
       ],
@@ -3625,13 +3617,13 @@ export default {
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/JangBillie.jpg",
-      "career": "Grade School",
+      "career": "小学A",
       "aspiration": {
-        "name": "Social Butterfly"
+        "name": "交际花"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         }
       ],
       "skills": [],
@@ -3659,40 +3651,36 @@ export default {
       "name": "Benali Salim",
       "chineseName": "贝纳里·萨利姆",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "image": "/images/sims/BenaliSalim.jpg",
-      "career": "Blogger",
+      "career": "写作-二级",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Lazy"
+          "name": "懒惰"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 3
         },
         {
-          "name": "Videogaming",
-          "level": 4
-        },
-        {
-          "name": "Writing",
+          "name": "写作",
           "level": 8
         }
       ],
@@ -3713,40 +3701,40 @@ export default {
       "name": "Straud Vladislaus",
       "chineseName": "斯特劳·弗拉德劳斯",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Forgotten Hollow",
       "worldId": "forgottenhollow",
       "image": "/images/sims/StraudVladislaus.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Master Vampire"
+        "name": "大师吸血鬼"
       },
       "traits": [
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Evil"
+          "name": "邪恶"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 8
         },
         {
-          "name": "Pipe Organ",
+          "name": "管风琴",
           "level": 10
         },
         {
-          "name": "Vampire lore",
+          "name": "吸血鬼知识",
           "level": 10
         }
       ],
@@ -3767,27 +3755,27 @@ export default {
       "name": "Vatore Lilith",
       "chineseName": "维托·莉莉丝",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Forgotten Hollow",
       "worldId": "forgottenhollow",
       "image": "/images/sims/VatoreLilith.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Vampire Family"
+        "name": "吸血鬼家族"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [],
@@ -3816,27 +3804,27 @@ export default {
       "name": "Vatore Caleb",
       "chineseName": "维托·伽勒",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Forgotten Hollow",
       "worldId": "forgottenhollow",
       "image": "/images/sims/VatoreCaleb.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Good Vampire"
+        "name": "善良吸血鬼"
       },
       "traits": [
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [],
@@ -3865,40 +3853,40 @@ export default {
       "name": "Lynx Catarina",
       "chineseName": "林克斯·卡特琳娜",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
       "image": "/images/sims/LynxCatarina.jpg",
-      "career": "Caterer",
+      "career": "烹饪-三级",
       "aspiration": {
-        "name": "Friend of the Animals"
+        "name": "动物之友"
       },
       "traits": [
         {
-          "name": "Cat Lover"
+          "name": "爱猫人"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Animal Affection"
+          "name": "爱动物"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 3
         },
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 3
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 4
         }
       ],
@@ -3919,40 +3907,40 @@ export default {
       "name": "Delgato Supriya",
       "chineseName": "戴尔加托·塞普莉亚",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
       "image": "/images/sims/DelgatoSupriya.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Friend of the Animals"
+        "name": "动物之友"
       },
       "traits": [
         {
-          "name": "Dog Lover"
+          "name": "爱狗人"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Animal Affection"
+          "name": "爱动物"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 3
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 2
         },
         {
-          "name": "Veterinarian",
+          "name": "兽医",
           "level": 4
         }
       ],
@@ -3984,40 +3972,40 @@ export default {
       "name": "Delgato Justin",
       "chineseName": "戴尔加托·贾斯汀",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
       "image": "/images/sims/DelgatoJustin.jpg",
-      "career": "Regional Manager",
+      "career": "商业-五级",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Cat Lover"
+          "name": "爱猫人"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 3
         },
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 3
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 2
         }
       ],
@@ -4057,20 +4045,20 @@ export default {
       "aspiration": {},
       "traits": [
         {
-          "name": "Angelic"
+          "name": "小天使"
         }
       ],
       "skills": [
         {
-          "name": "Communication",
+          "name": "沟通",
           "level": 2
         },
         {
-          "name": "Movement",
+          "name": "动作",
           "level": 3
         },
         {
-          "name": "Potty",
+          "name": "如厕",
           "level": 3
         }
       ],
@@ -4107,22 +4095,22 @@ export default {
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
       "image": "/images/sims/DelgatoPierce.jpg",
-      "career": "Grade School",
+      "career": "小学B",
       "aspiration": {
-        "name": "Social Butterfly"
+        "name": "交际花"
       },
       "traits": [
         {
-          "name": "Self-Assured"
+          "name": "自信"
         }
       ],
       "skills": [
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 2
         },
         {
-          "name": "Social",
+          "name": "社交",
           "level": 3
         }
       ],
@@ -4154,44 +4142,44 @@ export default {
       "name": "Hecking Brant",
       "chineseName": "赫金·布兰特",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
       "image": "/images/sims/HeckingBrant.jpg",
-      "career": "Personal Trainer",
+      "career": "运动员-健美选手-五级",
       "aspiration": {
-        "name": "The Curator"
+        "name": "馆长"
       },
       "traits": [
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 4
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 3
         },
         {
-          "name": "Photography",
+          "name": "摄影",
           "level": 2
         }
       ],
@@ -4216,41 +4204,45 @@ export default {
       "name": "Hecking Brent",
       "chineseName": "赫金·布林特",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
       "image": "/images/sims/HeckingBrent.jpg",
-      "career": "Watercolor Dabbler",
+      "career": "画家-四级",
       "aspiration": {
-        "name": "Painter Extraordinaire"
+        "name": "非凡画家"
       },
       "traits": [
         {
-          "name": "Dog Lover"
+          "name": "爱狗人"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 3
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 3
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 4
+        },
+        {
+          "name": "宠物训练",
+          "level": 2
         }
       ],
       "relationships": {
@@ -4274,39 +4266,39 @@ export default {
       "name": "Jeong Venessa",
       "chineseName": "郑·凡妮莎",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/JeongVenessa.jpg",
-      "career": "Commercial Spokesperson",
+      "career": "演员-三级",
       "aspiration": {
-        "name": "World-Famous Celebrity"
+        "name": "世界知名名人"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Acting",
+          "name": "演艺",
           "level": 3
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 4
         }
       ],
@@ -4332,32 +4324,36 @@ export default {
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/WardJudith.jpg",
-      "career": "Seasoned Thespian",
+      "career": "演员-八级",
       "aspiration": {
-        "name": "Mansion Baron"
+        "name": "豪宅大王"
       },
       "traits": [
         {
-          "name": "Mean"
+          "name": "刻薄"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Acting",
+          "name": "演艺",
           "level": 7
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 3
+        },
+        {
+          "name": "美食烹饪",
+          "level": 5
         }
       ],
       "relationships": {
@@ -4377,44 +4373,44 @@ export default {
       "name": "Bailey Thorne",
       "chineseName": "百利·索恩",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/BaileyThorne.jpg",
-      "career": "Serious Musician",
+      "career": "演艺人员-音乐家-六级",
       "aspiration": {
-        "name": "Musical Genius"
+        "name": "音乐天才"
       },
       "traits": [
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 3
         },
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 5
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 3
         },
         {
-          "name": "Violin",
+          "name": "小提琴",
           "level": 3
         }
       ],
@@ -4443,36 +4439,36 @@ export default {
       "name": "Moon Octavia",
       "chineseName": "穆恩·欧克塔维雅",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/MoonOctavia.jpg",
-      "career": "Short Story Writer",
+      "career": "写作-作者-六级",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 4
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 6
         }
       ],
@@ -4506,30 +4502,30 @@ export default {
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/BaileyMoonOrange.jpg",
-      "career": "Grade School",
+      "career": "小学C",
       "aspiration": {
-        "name": "Social Butterfly"
+        "name": "交际花"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         }
       ],
       "skills": [
         {
-          "name": "Creativity",
+          "name": "创意",
           "level": 4
         },
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 2
         },
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 3
         },
         {
-          "name": "Social",
+          "name": "社交",
           "level": 6
         }
       ],
@@ -4562,35 +4558,35 @@ export default {
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/ChoBrytani.jpg",
-      "career": "Solid Storyteller",
+      "career": "演艺人员-谐星-六级",
       "aspiration": {
-        "name": "Joke Star"
+        "name": "喜剧之王"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Noncommittal"
+          "name": "不愿承诺"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 2
         },
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 6
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 4
         }
       ],
@@ -4611,36 +4607,36 @@ export default {
       "name": "Dreamer Dirk",
       "chineseName": "德里莫·德克",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/DreamerDirk.jpg",
-      "career": "Development Captain",
+      "career": "科技达人-六级",
       "aspiration": {
-        "name": "Computer Whiz"
+        "name": "电脑神童"
       },
       "traits": [
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 4
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 5
         }
       ],
@@ -4661,33 +4657,45 @@ export default {
       "name": "Broke Dustin",
       "chineseName": "布洛柯·德斯汀",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/BrokeDustin.jpg",
-      "career": "Senior Manager",
+      "career": "商业-六级",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Lazy"
+          "name": "懒惰"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Creativity",
-          "level": 1
+          "name": "魅力",
+          "level": 2
+        },
+        {
+          "name": "逻辑",
+          "level": 4
+        },
+        {
+          "name": "媒体制作",
+          "level": 2
+        },
+        {
+          "name": "恶作剧",
+          "level": 3
         }
       ],
       "relationships": {
@@ -4707,37 +4715,37 @@ export default {
       "name": "Alto Holly",
       "chineseName": "艾托·荷莉",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/AltoHolly.jpg",
-      "career": "Imaginative Imagist",
+      "career": "画家-六级",
       "aspiration": {
-        "name": "Painter Extraordinaire"
+        "name": "非凡画家"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Logic",
-          "level": 1
+          "name": "灵巧",
+          "level": 2
         },
         {
-          "name": "Painting",
-          "level": 2
+          "name": "绘画",
+          "level": 6
         }
       ],
       "relationships": {
@@ -4761,36 +4769,36 @@ export default {
       "name": "Fabulous Izzy",
       "chineseName": "菲比乐斯 ·伊奇",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/FabulousIzzy.jpg",
-      "career": "Dedicated Dresser",
+      "career": "风格潮流人士-造型师-六级",
       "aspiration": {
-        "name": "Party Animal"
+        "name": "派对动物"
       },
       "traits": [
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Photography",
+          "name": "摄影",
           "level": 2
         }
       ],
@@ -4811,40 +4819,40 @@ export default {
       "name": "Flemming Kayla",
       "chineseName": "弗莱明·凯拉",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/FlemmingKayla.jpg",
-      "career": "Personal Trainer",
+      "career": "运动员-健美选手-五级",
       "aspiration": {
-        "name": "Bodybuilder"
+        "name": "健美运动员"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 3
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 7
         }
       ],
@@ -4870,28 +4878,28 @@ export default {
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "image": "/images/sims/ArielBaby.jpg",
-      "career": "High School",
+      "career": "高中C",
       "aspiration": {
-        "name": "World-Famous Celebrity"
+        "name": "世界知名名人"
       },
       "traits": [
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 6
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 5
         }
       ],
@@ -4912,43 +4920,40 @@ export default {
       "name": "Sigworth Jess",
       "chineseName": "希格沃斯·杰茜",
       "gender": "Female",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
       "world": "Stranger Ville",
       "worldId": "strangerville",
       "image": "/images/sims/SigworthJess.jpg",
-      "career": "Lacking Corporal",
+      "career": "军事-三级",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Domestic"
-        },
-        {
-          "name": "Infected"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 3
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 3
         }
       ],
@@ -4977,35 +4982,41 @@ export default {
       "name": "Sigworth Dylan",
       "chineseName": "希格沃斯·狄伦",
       "gender": "Male",
-      "age": "Young Audlt",
+      "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
       "image": "/images/sims/SigworthDylan.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Nerd Brain"
+        "name": "书呆子的脑袋"
       },
       "traits": [
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 6
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 2
+        },
+        {
+          "name": "美食烹饪",
+          "level": 4
         }
       ],
       "relationships": {
@@ -5035,27 +5046,29 @@ export default {
       "gender": "Female",
       "age": "Child",
       "maritalStatus": "Single",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
       "image": "/images/sims/SigworthChristie.jpg",
-      "career": "Grade School",
+      "career": "小学C",
       "aspiration": {
-        "name": "Artistic Prodigy"
+        "name": "艺术天才"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         }
       ],
       "skills": [
         {
-          "name": "Creativity",
+          "name": "创意",
           "level": 9
         },
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 2
         },
         {
-          "name": "Social",
+          "name": "社交",
           "level": 3
         }
       ],
@@ -5085,36 +5098,38 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
       "image": "/images/sims/CahillGeorge.jpg",
-      "career": "Retired",
+      "career": "退休",
       "aspiration": {
-        "name": "Public Enemy"
+        "name": "全民公敌"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Paranoid"
+          "name": "偏执狂"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 2
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 3
         }
       ],
@@ -5137,36 +5152,38 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
       "image": "/images/sims/EgglestonMark.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 2
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 4
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 2
         }
       ],
@@ -5189,36 +5206,38 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
       "image": "/images/sims/MartinAlice.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Painter Extraordinaire"
+        "name": "非凡画家"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 3
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 6
         },
         {
-          "name": "Violin",
+          "name": "小提琴",
           "level": 6
         }
       ],
@@ -5241,36 +5260,38 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
       "image": "/images/sims/HollandLeslie.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 4
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 5
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 5
         }
       ],
@@ -5293,28 +5314,47 @@ export default {
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
       "image": "/images/sims/RoswellTed.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Evil"
+          "name": "邪恶"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Paranoid"
+          "name": "偏执狂"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 4
+        },
+        {
+          "name": "园艺",
+          "level": 7
+        },
+        {
+          "name": "逻辑",
+          "level": 4
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "roswellmeredith"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -5332,28 +5372,51 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
       "image": "/images/sims/RoswellMeredith.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 7
+        },
+        {
+          "name": "园艺",
+          "level": 2
+        },
+        {
+          "name": "美食烹饪",
+          "level": 3
+        },
+        {
+          "name": "灵巧",
+          "level": 6
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "roswellted"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -5371,26 +5434,40 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Stranger Ville",
+      "worldId": "strangerville",
       "image": "/images/sims/PriesErwin.jpg",
-      "career": "Curio Shop Owner",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Erratic"
+          "name": "古怪"
         },
         {
-          "name": "Paranoid"
+          "name": "偏执狂"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "喜剧",
+          "level": 6
+        },
+        {
+          "name": "逻辑",
+          "level": 7
+        },
+        {
+          "name": "恶作剧",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -5410,40 +5487,50 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/NgataOliana.jpg",
-      "career": "Athlete",
+      "career": "运动员-健美选手-五级",
       "aspiration": {
-        "name": "Bodybuilder"
+        "name": "健美运动员"
       },
       "traits": [
         {
-          "name": "Jealous"
+          "name": "善妒"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Slob"
+          "name": "邋遢鬼"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 6
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 2
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "illesleila"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "ngatatane"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -5458,40 +5545,50 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/IllesLeila.jpg",
-      "career": "Painter",
+      "career": "画家-四级",
       "aspiration": {
-        "name": "Painter Extraordinaire"
+        "name": "非凡画家"
       },
       "traits": [
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 4
         },
         {
-          "name": "Photography",
+          "name": "摄影",
           "level": 2
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "ngataoliana"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "ngatatane"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -5505,33 +5602,44 @@ export default {
       "chineseName": "加塔·塔内",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/NgataTane.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Whiz Kid"
+        "name": "神童"
       },
       "traits": [
         {
-          "name": "Geek"
+          "name": "宅宅"
         }
       ],
       "skills": [
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 4
         },
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 3
         },
         {
-          "name": "Creativity",
+          "name": "创意",
           "level": 2
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "ngataoliana"
+          },
+          {
+            "id": "illesleila"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -5547,41 +5655,47 @@ export default {
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/KahananuiAlika.jpg",
-      "career": "Business",
+      "career": "商业-四级",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 4
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 3
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "kahananuimele"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -5599,37 +5713,47 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/KahananuiMele.jpg",
-      "career": "Business",
+      "career": "商业-四级",
       "aspiration": {
-        "name": "Mansion Baron"
+        "name": "豪宅大王"
       },
       "traits": [
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 4
         },
         {
-          "name": "Charisma",
+          "name": "魅力",
+          "level": 2
+        },
+        {
+          "name": "美食烹饪",
           "level": 2
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "kahananuialika"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -5647,32 +5771,34 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/HoapiliKeala.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Freelance Botanist"
+        "name": "自由植物学家"
       },
       "traits": [
         {
-          "name": "Child of the Islands"
+          "name": "岛屿之子"
         },
         {
-          "name": "Erratic"
+          "name": "古怪"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 6
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 5
         }
       ],
@@ -5683,7 +5809,11 @@ export default {
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
+        "grandchildren": [
+          {
+            "id": "hauatalia"
+          }
+        ],
         "relatives": []
       }
     },
@@ -5695,32 +5825,34 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/HauataLia.jpg",
-      "career": "Writer",
+      "career": "写作-四级",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 3
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 3
         }
       ],
@@ -5730,7 +5862,11 @@ export default {
         "parents": [],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "hoapilikeala"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -5743,35 +5879,65 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/KealohaMakoa.jpg",
-      "career": "Conservationist",
+      "career": "自然资源保护人士-三级",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Child of the Ocean"
+          "name": "海洋之子"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
+        },
+        {
+          "name": "合群"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "钓鱼",
+          "level": 6
+        },
+        {
+          "name": "健身",
+          "level": 4
+        },
+        {
+          "name": "逻辑",
+          "level": 3
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "kealohalilliana"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "kealohanani"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "talladuane"
+          }
+        ]
       }
     },
     {
@@ -5781,32 +5947,60 @@ export default {
       "chineseName": "基阿罗哈·莉莉亚娜",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/KealohaLilliana.jpg",
-      "career": "Culinary",
+      "career": "烹饪-调酒师-六级",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "烹饪",
+          "level": 3
+        },
+        {
+          "name": "调酒",
+          "level": 5
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "kealohamakoa"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
-        "siblings": [],
+        "children": [
+          {
+            "id": "kealohanani"
+          }
+        ],
+        "siblings": [
+          {
+            "id": "talladuane"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -5819,29 +6013,49 @@ export default {
       "chineseName": "塔拉·杜恩",
       "gender": "Male",
       "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/TallaDuane.jpg",
-      "career": "Lifeguard",
+      "career": "高中C",
       "aspiration": {
-        "name": "Angling Ace"
+        "name": "王牌钓手"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Bro"
+          "name": "好哥们"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "钓鱼",
+          "level": 3
+        },
+        {
+          "name": "健身",
+          "level": 4
+        },
+        {
+          "name": "恶作剧",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "kealohalilliana"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -5854,23 +6068,50 @@ export default {
       "chineseName": "基阿罗哈·纳尼",
       "gender": "Female",
       "age": "Toddler",
+      "maritalStatus": "Single",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/KealohaNani.jpg",
       "aspiration": {},
       "traits": [
         {
-          "name": "Charmer"
+          "name": "万人迷"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "沟通",
+          "level": 3
+        },
+        {
+          "name": "动作",
+          "level": 2
+        },
+        {
+          "name": "思考",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "kealohamakoa"
+          },
+          {
+            "id": "kealohalilliana"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "talladuane"
+          }
+        ]
       }
     },
     {
@@ -5878,10 +6119,39 @@ export default {
       "familyId": "mahiai",
       "name": "Mahiai Nalani",
       "chineseName": "玛西艾·那拉尼",
+      "gender": "Female",
+      "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/MahiaiNalani.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "aspiration": {
+        "name": "海滩生活"
+      },
+      "traits": [
+        {
+          "name": "岛屿之子"
+        },
+        {
+          "name": "欢乐"
+        },
+        {
+          "name": "海洋之子"
+        },
+        {
+          "name": "恋家"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "健身",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -5898,10 +6168,39 @@ export default {
       "familyId": "iona",
       "name": "Iona Kalamainuu",
       "chineseName": "伊欧那·卡拉马伊努",
+      "gender": "Female",
+      "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/IonaKalamainuu.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "aspiration": {
+        "name": "狡黠之王"
+      },
+      "traits": [
+        {
+          "name": "刻薄"
+        },
+        {
+          "name": "不愿承诺"
+        },
+        {
+          "name": "独行侠"
+        },
+        {
+          "name": "卑鄙"
+        }
+      ],
+      "skills": [
+        {
+          "name": "健身",
+          "level": 5
+        },
+        {
+          "name": "恶作剧",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -5921,26 +6220,40 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/HekekiaUkupanipo.jpg",
-      "career": "|careerlevel     =",
       "aspiration": {
-        "name": "Beach Life"
+        "name": "海滩生活"
       },
       "traits": [
         {
-          "name": "Glutton"
+          "name": "贪吃鬼"
         },
         {
-          "name": "Child of the Islands"
+          "name": "岛屿之子"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 1
+        },
+        {
+          "name": "钓鱼",
+          "level": 4
+        },
+        {
+          "name": "健身",
+          "level": 7
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -5957,10 +6270,39 @@ export default {
       "familyId": "uha",
       "name": "Uha Pakaa",
       "chineseName": "乌哈·帕卡亚",
+      "gender": "Male",
+      "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Sulani",
+      "worldId": "sulani",
       "image": "/images/sims/UhaPakaa.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "aspiration": {
+        "name": "世界之友"
+      },
+      "traits": [
+        {
+          "name": "音乐爱好者"
+        },
+        {
+          "name": "海洋之子"
+        },
+        {
+          "name": "傻瓜"
+        },
+        {
+          "name": "合群"
+        }
+      ],
+      "skills": [
+        {
+          "name": "健身",
+          "level": 4
+        },
+        {
+          "name": "小提琴",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -5980,26 +6322,37 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/ClarkeBecca.jpg",
-      "career": "Unemployed",
+      "career": "大学",
       "aspiration": {
-        "name": "Academic"
+        "name": "学术"
       },
       "traits": [
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "程式设计",
+          "level": 3
+        },
+        {
+          "name": "写作",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6019,26 +6372,37 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/WrightJulia.jpg",
-      "career": "Unemployed",
+      "career": "大学",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 4
+        },
+        {
+          "name": "逻辑",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6058,34 +6422,53 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/ElderberryEkram.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Angling Ace"
+        "name": "王牌钓手"
       },
       "traits": [
         {
-          "name": "Mean"
+          "name": "刻薄"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "钓鱼",
+          "level": 8
+        },
+        {
+          "name": "灵巧",
+          "level": 3
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "elderberryeleanore"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
+        "grandchildren": [
+          {
+            "id": "elderberryrohan"
+          }
+        ],
         "relatives": []
       }
     },
@@ -6097,34 +6480,53 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/ElderberryEleanore.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 5
+        },
+        {
+          "name": "钢琴",
+          "level": 4
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "elderberryekram"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
+        "grandchildren": [
+          {
+            "id": "elderberryrohan"
+          }
+        ],
         "relatives": []
       }
     },
@@ -6136,32 +6538,48 @@ export default {
       "gender": "Male",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/ElderberryRohan.jpg",
+      "career": "高中A",
       "aspiration": {
-        "name": "Academic"
+        "name": "学术"
       },
       "traits": [
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "|trait4    = Quick Learner"
-        },
-        {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 2
+        },
+        {
+          "name": "写作",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "elderberryekram"
+          },
+          {
+            "id": "elderberryeleanore"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -6174,29 +6592,39 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/PleasantAngela.jpg",
-      "career": "Unemployed",
+      "career": "大学",
       "aspiration": {
-        "name": "Painter Extraordinaire"
+        "name": "非凡画家"
       },
       "traits": [
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
-          "level": 3
+          "name": "烹饪",
+          "level": 4
+        },
+        {
+          "name": "绘画",
+          "level": 5
+        },
+        {
+          "name": "写作",
+          "level": 2
         }
       ],
       "relationships": {
@@ -6204,7 +6632,11 @@ export default {
         "lover": [],
         "parents": [],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "pleasantlilith"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -6218,36 +6650,38 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/PleasantLilith.jpg",
-      "career": "Unemployed",
+      "career": "大学",
       "aspiration": {
-        "name": "Public Enemy"
+        "name": "全民公敌"
       },
       "traits": [
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Kleptomaniac"
+          "name": "偷窃狂"
         },
         {
-          "name": "Slob"
+          "name": "邋遢鬼"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 3
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 4
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 5
         }
       ],
@@ -6256,7 +6690,11 @@ export default {
         "lover": [],
         "parents": [],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "pleasantangela"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -6270,33 +6708,31 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/FletcherCameron.jpg",
-      "career": "Unemployed",
+      "career": "大学",
       "aspiration": {
-        "name": "Computer Whiz"
+        "name": "电脑神童"
       },
       "traits": [
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 4
-        },
-        {
-          "name": "Videogaming",
-          "level": 3
         }
       ],
       "relationships": {
@@ -6318,26 +6754,40 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Single",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/BhamraSerena.jpg",
-      "career": "Unemployed",
       "aspiration": {
-        "name": "Public Enemy"
+        "name": "全民公敌"
       },
       "traits": [
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Evil"
+          "name": "邪恶"
         },
         {
-          "name": "Mean"
+          "name": "刻薄"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "逻辑",
+          "level": 8
+        },
+        {
+          "name": "程式设计",
+          "level": 6
+        },
+        {
+          "name": "机器人学",
+          "level": 7
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6357,26 +6807,40 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/FenJing.jpg",
-      "career": "Unemployed",
       "aspiration": {
-        "name": "Chief of Mischief"
+        "name": "狡黠之王"
       },
       "traits": [
         {
-          "name": "Hates Children"
+          "name": "痛恨小孩"
         },
         {
-          "name": "Evil"
+          "name": "邪恶"
         },
         {
-          "name": "Mean"
+          "name": "刻薄"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "研究与辩论",
+          "level": 7
+        },
+        {
+          "name": "小提琴",
+          "level": 8
+        },
+        {
+          "name": "写作",
+          "level": 8
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6396,26 +6860,40 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/JabariThomas.jpg",
-      "career": "Unemployed",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "绘画",
+          "level": 7
+        },
+        {
+          "name": "钢琴",
+          "level": 7
+        },
+        {
+          "name": "研究与辩论",
+          "level": 8
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6435,65 +6913,40 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Single",
+      "world": "Britechester",
+      "worldId": "britechester",
       "image": "/images/sims/McKinnonLana.jpg",
-      "career": "Unemployed",
       "aspiration": {
-        "name": "Computer Whiz"
+        "name": "电脑神童"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
-      "relationships": {
-        "spouse": [],
-        "lover": [],
-        "parents": [],
-        "children": [],
-        "siblings": [],
-        "grandparents": [],
-        "grandchildren": [],
-        "relatives": []
-      }
-    },
-    {
-      "id": "psydedfelix",
-      "familyId": "psyded",
-      "name": "Psyded Felix",
-      "chineseName": "赛迪德·菲利克斯",
-      "gender": "Male",
-      "age": "Adult",
-      "maritalStatus": "Single",
-      "image": "/images/sims/PsydedFelix.jpg",
-      "career": "Unemployed",
-      "aspiration": {
-        "name": "Friend of the World"
-      },
-      "traits": [
+      "skills": [
         {
-          "name": "Goofball"
+          "name": "程式设计",
+          "level": 8
         },
         {
-          "name": "Cheerful"
+          "name": "机器人学",
+          "level": 8
         },
         {
-          "name": "Outgoing"
-        },
-        {
-          "name": "Gregarious"
+          "name": "火箭科学",
+          "level": 7
         }
       ],
-      "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6513,31 +6966,60 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
+      "worldId": "glimmerok",
       "image": "/images/sims/CharmMinerva.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Nerd Brain"
+        "name": "书呆子的脑袋"
       },
       "traits": [
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Strong Bloodline"
+          "name": "强壮血脉"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 4
+        },
+        {
+          "name": "烹饪",
+          "level": 2
+        },
+        {
+          "name": "灵巧",
+          "level": 2
+        },
+        {
+          "name": "逻辑",
+          "level": 6
+        },
+        {
+          "name": "写作",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "charmgemma"
+          },
+          {
+            "id": "charmdarrel"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -6551,31 +7033,63 @@ export default {
       "chineseName": "恰姆·杰玛",
       "gender": "Female",
       "age": "Teen",
+      "maritalStatus": "Single",
+      "worldId": "glimmerok",
       "image": "/images/sims/CharmGemma.jpg",
+      "career": "高中B",
       "aspiration": {
-        "name": "Spellcraft & Sorcery"
+        "name": "魔法与巫术"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Strong Bloodline"
+          "name": "强壮血脉"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "喜剧",
+          "level": 2
+        },
+        {
+          "name": "逻辑",
+          "level": 2
+        },
+        {
+          "name": "恶作剧",
+          "level": 5
+        },
+        {
+          "name": "绘画",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "charmminerva"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "charmdarrel"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -6589,32 +7103,65 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Engaged",
+      "worldId": "glimmerok",
       "image": "/images/sims/CharmDarrel.jpg",
-      "career": "Business",
+      "career": "商业-二级",
       "aspiration": {
-        "name": "Soulmate"
+        "name": "心灵伴侣"
       },
       "traits": [
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Strong Bloodline"
+          "name": "强壮血脉"
+        },
+        {
+          "name": "诱人"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 5
+        },
+        {
+          "name": "烹饪",
+          "level": 4
+        },
+        {
+          "name": "钓鱼",
+          "level": 2
+        },
+        {
+          "name": "健身",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
-        "parents": [],
+        "lover": [
+          {
+            "id": "ernestemilia"
+          }
+        ],
+        "parents": [
+          {
+            "id": "charmminerva"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "charmgemma"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -6628,26 +7175,44 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Engaged",
+      "worldId": "glimmerok",
       "image": "/images/sims/ErnestEmilia.jpg",
-      "career": "Culinary",
+      "career": "烹饪-调酒师-六级",
       "aspiration": {
-        "name": "Purveyor of Potions"
+        "name": "药水供应商"
       },
       "traits": [
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 4
+        },
+        {
+          "name": "逻辑",
+          "level": 2
+        },
+        {
+          "name": "调酒",
+          "level": 4
+        },
+        {
+          "name": "小提琴",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6667,26 +7232,44 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "worldId": "glimmerok",
       "image": "/images/sims/AnansiGrace.jpg",
-      "career": "Tech Guru",
+      "career": "科技达人-一级",
       "aspiration": {
-        "name": "Purveyor of Potions"
+        "name": "药水供应商"
       },
       "traits": [
         {
-          "name": "Noncommittal"
+          "name": "不愿承诺"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 3
+        },
+        {
+          "name": "逻辑",
+          "level": 2
+        },
+        {
+          "name": "恶作剧",
+          "level": 2
+        },
+        {
+          "name": "调酒",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6706,26 +7289,44 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "worldId": "glimmerok",
       "image": "/images/sims/ColletteTomax.jpg",
-      "career": "Writer",
+      "career": "写作-一级",
       "aspiration": {
-        "name": "Spellcraft & Sorcery"
+        "name": "魔法与巫术"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 2
+        },
+        {
+          "name": "钓鱼",
+          "level": 3
+        },
+        {
+          "name": "园艺",
+          "level": 2
+        },
+        {
+          "name": "写作",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6745,23 +7346,23 @@ export default {
       "gender": "Non-binary",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "worldId": "glimmerok",
       "image": "/images/sims/EmberMorgyn.jpg",
-      "career": "Unemployed",
       "aspiration": {
-        "name": "Spellcraft & Sorcery"
+        "name": "魔法与巫术"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [],
@@ -6784,26 +7385,43 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Single",
+      "worldId": "glimmerok",
       "image": "/images/sims/FabaL.jpg",
-      "career": "Unemployed",
       "aspiration": {
-        "name": "Chief of Mischief"
+        "name": "狡黠之王"
       },
       "traits": [
         {
-          "name": "Mean"
+          "name": "刻薄"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "喜剧",
+          "level": 3
+        },
+        {
+          "name": "烹饪",
+          "level": 5
+        },
+        {
+          "name": "美食烹饪",
+          "level": 3
+        },
+        {
+          "name": "恶作剧",
+          "level": 9
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6823,26 +7441,39 @@ export default {
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Single",
+      "worldId": "glimmerok",
       "image": "/images/sims/SilversweaterSimeon.jpg",
-      "career": "Unemployed",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "逻辑",
+          "level": 8
+        },
+        {
+          "name": "程式设计",
+          "level": 8
+        },
+        {
+          "name": "电玩游戏",
+          "level": 8
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -6861,40 +7492,58 @@ export default {
       "chineseName": "哈里斯·克莱特斯",
       "gender": "Male",
       "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/HarrisCletus.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Freegan"
+          "name": "不消费主义者"
         },
         {
-          "name": "Slob"
+          "name": "邋遢鬼"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 5
         },
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 2
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "harrisfaye"
+          }
+        ],
         "lover": [],
-        "parents": [],
-        "children": [],
+        "parents": [
+          {
+            "id": "spencerfrancine"
+          }
+        ],
+        "children": [
+          {
+            "id": "harrisjeb"
+          },
+          {
+            "id": "harrisgideon"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -6909,35 +7558,65 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/HarrisFaye.jpg",
-      "career": "Culinary",
+      "career": "烹饪-主厨-六级",
       "aspiration": {
-        "name": "Master Chef"
+        "name": "妙手主厨"
       },
       "traits": [
         {
-          "name": "Freegan"
+          "name": "不消费主义者"
         },
         {
-          "name": "Glutton"
+          "name": "贪吃鬼"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 7
+        },
+        {
+          "name": "美食烹饪",
+          "level": 4
+        },
+        {
+          "name": "调酒",
+          "level": 4
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "harriscletus"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "harrisjeb"
+          },
+          {
+            "id": "harrisgideon"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "spencerfrancine"
+          }
+        ]
       }
     },
     {
@@ -6947,38 +7626,57 @@ export default {
       "chineseName": "哈里斯·杰布",
       "gender": "Male",
       "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/HarrisJeb.jpg",
+      "career": "高中C",
       "aspiration": {
-        "name": "Soulmate"
+        "name": "心灵伴侣"
       },
       "traits": [
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 3
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 4
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "harriscletus"
+          },
+          {
+            "id": "harrisfaye"
+          }
+        ],
         "children": [],
-        "siblings": [],
-        "grandparents": [],
+        "siblings": [
+          {
+            "id": "harrisgideon"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "spencerfrancine"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -6990,23 +7688,43 @@ export default {
       "chineseName": "哈里斯·吉恩迪",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/HarrisGideon.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Social Butterfly"
+        "name": "交际花"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "社交",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "harriscletus"
+          },
+          {
+            "id": "harrisfaye"
+          }
+        ],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "spencerfrancine"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -7019,35 +7737,61 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/SpencerFrancine.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Serial Romantic"
+        "name": "连环浪漫"
       },
       "traits": [
         {
-          "name": "Noncommittal"
+          "name": "不愿承诺"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 7
+        },
+        {
+          "name": "恶作剧",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "harriscletus"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
-        "relatives": []
+        "grandchildren": [
+          {
+            "id": "harrisgideon"
+          },
+          {
+            "id": "harrisjeb"
+          }
+        ],
+        "relatives": [
+          {
+            "id": "harrisfaye"
+          }
+        ]
       }
     },
     {
@@ -7058,40 +7802,50 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/TinkerTina.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者-工匠",
       "aspiration": {
-        "name": "Master Maker"
+        "name": "自造大师"
       },
       "traits": [
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Maker"
+          "name": "自造者"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Fabrication",
+          "name": "制造",
           "level": 7
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 5
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "tinkeryasemin"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "tinkerolive"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -7106,31 +7860,50 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/TinkerYasemin.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者-作家",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "写作",
+          "level": 8
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "tinkertina"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "tinkerolive"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -7144,29 +7917,40 @@ export default {
       "chineseName": "廷克尔·奥莉薇",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/TinkerOlive.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Artistic Prodigy"
+        "name": "艺术天才"
       },
       "traits": [
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         }
       ],
       "skills": [
         {
-          "name": "Creativity",
+          "name": "创意",
           "level": 4
         },
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 2
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "tinkeryasemin"
+          },
+          {
+            "id": "tinkertina"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -7182,29 +7966,55 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Dating",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/SterlingBess.jpg",
-      "career": "Civil Designer",
+      "career": "土木设计师-三级",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Bro"
+          "name": "好哥们"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
+        },
+        {
+          "name": "企业家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 6
+        },
+        {
+          "name": "灵巧",
+          "level": 3
+        },
+        {
+          "name": "调制果汁汽水",
+          "level": 4
+        },
+        {
+          "name": "逻辑",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "ricojules"
+          }
+        ],
         "parents": [],
         "children": [],
         "siblings": [],
@@ -7221,29 +8031,48 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Dating",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/RicoJules.jpg",
-      "career": "Style Influencer",
+      "career": "风格潮流人士-四级",
       "aspiration": {
-        "name": "Mansion Baron"
+        "name": "豪宅大王"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Bro"
+          "name": "好哥们"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "摄影",
+          "level": 2
+        },
+        {
+          "name": "写作",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "sterlingbess"
+          }
+        ],
         "parents": [],
         "children": [],
         "siblings": [],
@@ -7259,30 +8088,51 @@ export default {
       "chineseName": "格林伯格·诺克斯",
       "gender": "Male",
       "age": "Young Adult",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/GreenburgKnox.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Eco Innovator"
+        "name": "环保改革者"
       },
       "traits": [
         {
-          "name": "Green Fiend"
+          "name": "谄媚势力"
         },
         {
-          "name": "Recycle Disciple"
+          "name": "书呆子"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "鲁莽"
         },
         {
-          "name": "Collector"
+          "name": "强壮血脉"
+        },
+        {
+          "name": "诱人"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "健身",
+          "level": 5
+        },
+        {
+          "name": "园艺",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "greenburgmary"
+          },
+          {
+            "id": "greenburgblossom"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -7298,31 +8148,49 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/GreenburgMary.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Freelance Botanist"
+        "name": "自由植物学家"
       },
       "traits": [
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Green Fiend"
+          "name": "绿色狂人"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
+        },
+        {
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "园艺",
+          "level": 4
+        },
+        {
+          "name": "调制果汁汽水",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "greenburgknox"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -7337,32 +8205,34 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Evergreen Harbor",
+      "worldId": "evergreenharbor",
       "image": "/images/sims/GreenburgBlossom.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Master Maker"
+        "name": "自造大师"
       },
       "traits": [
         {
-          "name": "Recycle Disciple"
+          "name": "回收小尖兵"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Maker"
+          "name": "自造者"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 4
         },
         {
-          "name": "Fabrication",
+          "name": "制造",
           "level": 2
         }
       ],
@@ -7370,7 +8240,11 @@ export default {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "greenburgknox"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -7385,31 +8259,60 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/ItoNaoki.jpg",
-      "career": "Business",
+      "career": "商业-六级",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Mean"
+          "name": "刻薄"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
+        },
+        {
+          "name": "精通筷子使用"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "健身",
+          "level": 7
+        },
+        {
+          "name": "恶作剧",
+          "level": 3
+        },
+        {
+          "name": "滑雪",
+          "level": 9
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "itomegumi"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "itokiyoshi"
+          },
+          {
+            "id": "itonanami"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -7424,44 +8327,60 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/ItoMegumi.jpg",
-      "career": "Business",
+      "career": "商业-六级",
       "aspiration": {
-        "name": "Extreme Sports Enthusiast"
+        "name": "极限运动爱好者"
       },
       "traits": [
         {
-          "name": "Proper"
+          "name": "体面"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Adventurous"
+          "name": "爱冒险"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
+        },
+        {
+          "name": "精通筷子使用"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 7
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 4
         },
         {
-          "name": "Skiing",
+          "name": "滑雪",
           "level": 10
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "itonaoki"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "itokiyoshi"
+          },
+          {
+            "id": "itonanami"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -7476,42 +8395,56 @@ export default {
       "gender": "Male",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/ItoKiyoshi.jpg",
+      "career": "高中C",
       "aspiration": {
-        "name": "Extreme Sports Enthusiast"
+        "name": "极限运动爱好者"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Adventurous"
+          "name": "爱冒险"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         },
         {
-          "name": "Chopstick Savvy"
+          "name": "精通筷子使用"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 5
         },
         {
-          "name": "Snowboarding",
+          "name": "单板滑雪",
           "level": 6
         }
       ],
       "relationships": {
         "spouse": [],
-        "lover": [],
-        "parents": [],
+        "lover": [
+          {
+            "id": "nishidakekaori"
+          }
+        ],
+        "parents": [
+          {
+            "id": "itonaoki"
+          },
+          {
+            "id": "itomegumi"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -7526,32 +8459,43 @@ export default {
       "chineseName": "伊藤·七海",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/ItoNanami.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Rambunctious Scamp"
+        "name": "天生好动"
       },
       "traits": [
         {
-          "name": "Kleptomaniac"
+          "name": "偷窃狂"
         },
         {
-          "name": "Chopstick Savvy"
+          "name": "精通筷子使用"
         }
       ],
       "skills": [
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 5
         },
         {
-          "name": "Social",
+          "name": "社交",
           "level": 5
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "itonaoki"
+          },
+          {
+            "id": "itomegumi"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -7567,34 +8511,68 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/NishidakeShigeru.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Adventurous"
+          "name": "爱冒险"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
+        },
+        {
+          "name": "精通筷子使用"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 5
+        },
+        {
+          "name": "钓鱼",
+          "level": 7
+        },
+        {
+          "name": "园艺",
+          "level": 5
+        },
+        {
+          "name": "恶作剧",
+          "level": 5
+        },
+        {
+          "name": "调酒",
+          "level": 6
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "nishidakesachiko"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
+        "grandchildren": [
+          {
+            "id": "nishidakekaori"
+          }
+        ],
         "relatives": []
       }
     },
@@ -7606,34 +8584,64 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/NishidakeSachiko.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Proper"
+          "name": "体面"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
+        },
+        {
+          "name": "精通筷子使用"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "喜剧",
+          "level": 5
+        },
+        {
+          "name": "烹饪",
+          "level": 5
+        },
+        {
+          "name": "美食烹饪",
+          "level": 4
+        },
+        {
+          "name": "逻辑",
+          "level": 5
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "nishidakeshigeru"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
+        "grandchildren": [
+          {
+            "id": "nishidakekaori"
+          }
+        ],
         "relatives": []
       }
     },
@@ -7644,50 +8652,64 @@ export default {
       "chineseName": "西岳·香织",
       "gender": "Female",
       "age": "Teen",
-      "maritalStatus": "Single",
+      "maritalStatus": "Dating",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/NishidakeKaori.jpg",
+      "career": "高中C",
       "aspiration": {
-        "name": "Extreme Sports Enthusiast"
+        "name": "极限运动爱好者"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Adventurous"
+          "name": "爱冒险"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         },
         {
-          "name": "Chopstick Savvy"
+          "name": "精通筷子使用"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 5
         },
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 4
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Snowboarding",
+          "name": "单板滑雪",
           "level": 7
         }
       ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "itokiyoshi"
+          }
+        ],
         "parents": [],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "nishidakeshigeru"
+          },
+          {
+            "id": "nishidakesachiko"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -7700,31 +8722,64 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/AkiyamaKado.jpg",
-      "career": "Salaryperson",
+      "career": "上班族-专家-五级",
       "aspiration": {
-        "name": "Mt. Komorebi Sightseer"
+        "name": "木漏隙光山观景者"
       },
       "traits": [
         {
-          "name": "Adventurous"
+          "name": "爱冒险"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Proper"
+          "name": "体面"
         },
         {
-          "name": "Home Turf"
+          "name": "恋家"
+        },
+        {
+          "name": "精通筷子使用"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 4
+        },
+        {
+          "name": "钓鱼",
+          "level": 4
+        },
+        {
+          "name": "灵巧",
+          "level": 5
+        },
+        {
+          "name": "攀岩",
+          "level": 5
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "akiyamajenna"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "akiyamataku"
+          },
+          {
+            "id": "akiyamamiki"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -7739,44 +8794,60 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/AkiyamaJenna.jpg",
-      "career": "Salaryperson",
+      "career": "上班族-主管-六级",
       "aspiration": {
-        "name": "Mt. Komorebi Sightseer"
+        "name": "木漏隙光山观景者"
       },
       "traits": [
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Home Turf"
+          "name": "恋家"
+        },
+        {
+          "name": "精通筷子使用"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 6
         },
         {
-          "name": "Snowboarding",
+          "name": "单板滑雪",
           "level": 4
         },
         {
-          "name": "Videogaming",
+          "name": "攀岩",
           "level": 4
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "akiyamakado"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "akiyamataku"
+          },
+          {
+            "id": "akiyamamiki"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -7790,25 +8861,49 @@ export default {
       "chineseName": "秋山·拓",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/AkiyamaTaku.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Artistic Prodigy"
+        "name": "艺术天才"
       },
       "traits": [
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Chopstick Savvy"
+          "name": "精通筷子使用"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "创意",
+          "level": 5
+        },
+        {
+          "name": "心智",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "akiyamakado"
+          },
+          {
+            "id": "akiyamajenna"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "akiyamamiki"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -7821,25 +8916,49 @@ export default {
       "chineseName": "秋山·美纪",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Mt. Komorebi",
+      "worldId": "mtkomorebi",
       "image": "/images/sims/AkiyamaMiki.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Social Butterfly"
+        "name": "交际花"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Chopstick Savvy"
+          "name": "精通筷子使用"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "运动",
+          "level": 5
+        },
+        {
+          "name": "社交",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "akiyamakado"
+          },
+          {
+            "id": "akiyamajenna"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "akiyamataku"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -7853,61 +8972,67 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/MoodyIan.jpg",
-      "career": "Retired",
+      "career": "退休",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Acting",
+          "name": "演艺",
           "level": 4
         },
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 8
         },
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 5
         },
         {
-          "name": "Dancing",
+          "name": "跳舞",
           "level": 4
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 2
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 2
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 5
         },
         {
-          "name": "Singing",
+          "name": "唱歌",
           "level": 6
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "mcmillanderek"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -7925,45 +9050,63 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/McMillanDerek.jpg",
-      "career": "Retired",
+      "career": "退休",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Animal Enthusiast"
+          "name": "动物爱好者"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 9
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 6
         },
         {
-          "name": "Herbalism",
+          "name": "药草学",
           "level": 5
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 5
+        },
+        {
+          "name": "十字绣",
+          "level": 4
+        },
+        {
+          "name": "宠物训练",
+          "level": 5
+        },
+        {
+          "name": "吸血鬼知识",
+          "level": 2
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "moodyian"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -7980,44 +9123,53 @@ export default {
       "chineseName": "沃森·伊姆兰",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/WatsonImran.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Rambunctious Scamp"
+        "name": "天生好动"
       },
       "traits": [
         {
-          "name": "Animal Enthusiast"
-        },
-        {
-          "name": "|trait3    ="
-        },
-        {
-          "name": "|trait4    ="
-        },
-        {
-          "name": "|asp       = Rambunctious Scamp"
+          "name": "动物爱好者"
         }
       ],
       "skills": [
         {
-          "name": "Creativity",
+          "name": "创意",
           "level": 5
         },
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 2
         },
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 2
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "watsonrahmi"
+          },
+          {
+            "id": "watsonthomas"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "watsonmaira"
+          },
+          {
+            "id": "watsonrashidah"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -8030,44 +9182,53 @@ export default {
       "chineseName": "沃森·玛利亚",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/WatsonMaira.jpg",
+      "career": "小学B",
       "aspiration": {
-        "name": "Artistic Prodigy"
+        "name": "艺术天才"
       },
       "traits": [
         {
-          "name": "Active"
-        },
-        {
-          "name": "|trait3    ="
-        },
-        {
-          "name": "|trait4    ="
-        },
-        {
-          "name": "|asp       = Artistic Prodigy"
+          "name": "好动"
         }
       ],
       "skills": [
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 2
         },
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 7
         },
         {
-          "name": "Social",
+          "name": "社交",
           "level": 5
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "watsonrahmi"
+          },
+          {
+            "id": "watsonthomas"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "watsonimran"
+          },
+          {
+            "id": "watsonrashidah"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -8081,48 +9242,68 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/WatsonRahmi.jpg",
-      "career": "Style Influencer",
+      "career": "风格潮流人士-二级",
       "aspiration": {
-        "name": "The Curator"
+        "name": "馆长"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 2
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 8
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 6
         },
         {
-          "name": "Parenting",
+          "name": "育儿",
           "level": 6
+        },
+        {
+          "name": "美食烹饪",
+          "level": 3
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "watsonthomas"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "watsonimran"
+          },
+          {
+            "id": "watsonmaira"
+          },
+          {
+            "id": "watsonrashidah"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -8136,45 +9317,59 @@ export default {
       "chineseName": "沃森·拉希达",
       "gender": "Female",
       "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/WatsonRashidah.jpg",
+      "career": "高中C",
       "aspiration": {
-        "name": "Soulmate"
+        "name": "心灵伴侣"
       },
       "traits": [
         {
-          "name": "Lactose Intolerant"
+          "name": "乳糖不耐症"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 2
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 3
         },
         {
-          "name": "Videogaming",
-          "level": 3
-        },
-        {
-          "name": "Writing",
+          "name": "写作",
           "level": 2
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "watsonrahmi"
+          },
+          {
+            "id": "watsonthomas"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "watsonimran"
+          },
+          {
+            "id": "watsonmaira"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -8188,52 +9383,68 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/WatsonThomas.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Country Caretaker"
+        "name": "乡村管理人"
       },
       "traits": [
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 6
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 6
         },
         {
-          "name": "Parenting",
+          "name": "育儿",
           "level": 2
         },
         {
-          "name": "Singing",
+          "name": "唱歌",
           "level": 3
         },
         {
-          "name": "Violin",
+          "name": "小提琴",
           "level": 2
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "watsonrahmi"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "watsonimran"
+          },
+          {
+            "id": "watsonmaira"
+          },
+          {
+            "id": "watsonrashidah"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -8248,45 +9459,55 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/KangCecilia.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者-程式设计师",
       "aspiration": {
-        "name": "Country Caretaker"
+        "name": "乡村管理人"
       },
       "traits": [
         {
-          "name": "Animal Enthusiast"
+          "name": "动物爱好者"
         },
         {
-          "name": "Noncommittal"
+          "name": "不愿承诺"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Baking",
+          "name": "烘焙",
           "level": 3
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 2
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 5
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 6
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 6
+        },
+        {
+          "name": "十字绣",
+          "level": 2
+        },
+        {
+          "name": "攀岩",
+          "level": 2
         }
       ],
       "relationships": {
@@ -8304,53 +9525,59 @@ export default {
       "id": "scottsimon",
       "familyId": "scott",
       "name": "Scott Simon",
-      "chineseName": "斯科特·莎拉",
+      "chineseName": "斯科特·西蒙",
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/ScottSimon.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 6
         },
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 2
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 5
         },
         {
-          "name": "Dancing",
+          "name": "跳舞",
           "level": 3
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 3
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "scottsara"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -8364,53 +9591,51 @@ export default {
       "id": "scottsara",
       "familyId": "scott",
       "name": "Scott Sara",
-      "chineseName": "斯科特·西蒙",
+      "chineseName": "斯科特·莎拉",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/ScottSara.jpg",
-      "career": "Pub Owner",
+      "career": "NPC",
       "aspiration": {
-        "name": "Party Animal"
+        "name": "派对动物"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 6
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Flowerarranging",
-          "level": 3
-        },
-        {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 10
-        },
-        {
-          "name": "Videogaming",
-          "level": 2
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "scottsimon"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -8427,37 +9652,44 @@ export default {
       "chineseName": "克兰普巴顿·安妮丝",
       "gender": "Female",
       "age": "Elder",
+      "maritalStatus": "Widowed",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/CrumplebottomAgnes.jpg",
-      "career": "Garden Shop Owner",
+      "career": "NPC",
       "aspiration": {
-        "name": "Freelance Botanist"
+        "name": "自由植物学家"
       },
       "traits": [
         {
-          "name": "Hot-headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 4
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 6
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 3
+        },
+        {
+          "name": "十字绣",
+          "level": 5
         }
       ],
       "relationships": {
@@ -8468,7 +9700,11 @@ export default {
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "crumplebottomagatha"
+          }
+        ]
       }
     },
     {
@@ -8479,44 +9715,46 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/CrumplebottomAgatha.jpg",
-      "career": "Garden Shop Owner",
+      "career": "NPC",
       "aspiration": {
-        "name": "Serial Romantic"
+        "name": "连环浪漫"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 7
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 6
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 7
         },
         {
-          "name": "Parenting",
+          "name": "育儿",
           "level": 8
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 4
         }
       ],
@@ -8528,7 +9766,11 @@ export default {
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "crumplebottomagnes"
+          }
+        ]
       }
     },
     {
@@ -8538,52 +9780,55 @@ export default {
       "chineseName": "贝尔·麦可",
       "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Single",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/BellMichael.jpg",
-      "career": "Creature Keeper",
+      "career": "NPC",
       "aspiration": {
-        "name": "Country Caretaker"
+        "name": "乡村管理人"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Animal Enthusiast"
+          "name": "动物爱好者"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 3
         },
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 5
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 6
         },
         {
-          "name": "Herbalism",
+          "name": "药草学",
           "level": 8
         },
         {
-          "name": "Knitting",
+          "name": "针织",
           "level": 5
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 2
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 4
         }
       ],
@@ -8602,48 +9847,54 @@ export default {
       "id": "choprarahul",
       "familyId": "chopra",
       "name": "Chopra Rahul",
-      "chineseName": "乔普拉·拉维娜",
+      "chineseName": "乔普拉·拉胡尔",
       "gender": "Male",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/ChopraRahul.jpg",
-      "career": "Grocery Deliverer",
+      "career": "高中C",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Baking",
+          "name": "烘焙",
           "level": 3
         },
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 2
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 4
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 2
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "chopralavina"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -8655,56 +9906,66 @@ export default {
       "id": "chopralavina",
       "familyId": "chopra",
       "name": "Chopra Lavina",
-      "chineseName": "乔普拉·拉胡尔",
+      "chineseName": "乔普拉·拉维娜",
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Single",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/ChopraLavina.jpg",
-      "career": "Village Mayor",
+      "career": "NPC",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 6
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 5
         },
         {
-          "name": "Parenting",
+          "name": "育儿",
           "level": 6
         },
         {
-          "name": "Photography",
+          "name": "摄影",
           "level": 3
+        },
+        {
+          "name": "十字绣",
+          "level": 2
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "choprarahul"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -8719,40 +9980,42 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Henford-on-Bagley",
+      "worldId": "henfordonbagley",
       "image": "/images/sims/GoldbloomKim.jpg",
-      "career": "Grocery Shop Owner",
+      "career": "NPC",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 6
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 6
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 3
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 2
         }
       ],
@@ -8775,38 +10038,56 @@ export default {
       "gender": "Female",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/LaurentGreta.jpg",
+      "career": "高中A",
       "aspiration": {
-        "name": "Freelance Botanist"
+        "name": "自由植物学家"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 6
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 10
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "laurenthector"
+          },
+          {
+            "id": "laurenthilary"
+          }
+        ],
         "children": [],
-        "siblings": [],
-        "grandparents": [],
+        "siblings": [
+          {
+            "id": "laurentjace"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "thebearnessa"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -8818,44 +10099,66 @@ export default {
       "chineseName": "劳伦特·赫克托",
       "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/LaurentHector.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Master Mixologist"
+        "name": "调酒大师"
       },
       "traits": [
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
       "skills": [
         {
-          "name": "Dancing",
+          "name": "跳舞",
           "level": 3
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 3
         },
         {
-          "name": "Parenting",
+          "name": "育儿",
           "level": 6
+        },
+        {
+          "name": "DJ混音",
+          "level": 5
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "laurenthilary"
+          }
+        ],
         "lover": [],
-        "parents": [],
-        "children": [],
+        "parents": [
+          {
+            "id": "thebearnessa"
+          }
+        ],
+        "children": [
+          {
+            "id": "laurentjace"
+          },
+          {
+            "id": "laurentgreta"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -8870,52 +10173,73 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/LaurentHilary.jpg",
-      "career": "Culinary",
+      "career": "烹饪-三级",
       "aspiration": {
-        "name": "Master Chef"
+        "name": "妙手主厨"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
       "skills": [
         {
-          "name": "Baking",
+          "name": "烘焙",
           "level": 5
         },
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 2
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 5
         },
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 1
+        },
+        {
+          "name": "美食烹饪",
+          "level": 7
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "laurenthector"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "laurentjace"
+          },
+          {
+            "id": "laurentgreta"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "thebearnessa"
+          }
+        ]
       }
     },
     {
@@ -8925,42 +10249,55 @@ export default {
       "chineseName": "劳伦特·杰斯",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/LaurentJace.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Social Butterfly"
+        "name": "交际花"
       },
       "traits": [
         {
-          "name": "Cheerful"
-        },
-        {
-          "name": "|trait3    ="
-        },
-        {
-          "name": "|asp       = Social Butterfly"
+          "name": "欢乐"
         }
       ],
       "skills": [
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 5
         },
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 2
         },
         {
-          "name": "Social",
+          "name": "社交",
           "level": 3
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "laurenthector"
+          },
+          {
+            "id": "laurenthilary"
+          }
+        ],
         "children": [],
-        "siblings": [],
-        "grandparents": [],
+        "siblings": [
+          {
+            "id": "laurentgreta"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "thebearnessa"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -8973,35 +10310,61 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Widowed",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/ThebeArnessa.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "绘画",
+          "level": 5
+        },
+        {
+          "name": "钢琴",
+          "level": 8
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "laurenthector"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
-        "relatives": []
+        "grandchildren": [
+          {
+            "id": "laurentjace"
+          },
+          {
+            "id": "laurentgreta"
+          }
+        ],
+        "relatives": [
+          {
+            "id": "laurenthilary"
+          }
+        ]
       }
     },
     {
@@ -9012,31 +10375,54 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Engaged",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/MarkovicMateo.jpg",
-      "career": "Entertainer",
+      "career": "演艺人员-音乐家-七级",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "钓鱼",
+          "level": 6
+        },
+        {
+          "name": "钢琴",
+          "level": 7
+        },
+        {
+          "name": "唱歌",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "markoviclucia"
+          }
+        ],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "markovictomi"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -9051,31 +10437,54 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Engaged",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/MarkovicLucia.jpg",
-      "career": "Entertainer",
+      "career": "演艺人员-音乐家-七级",
       "aspiration": {
-        "name": "Musical Genius"
+        "name": "音乐天才"
       },
       "traits": [
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烘焙",
+          "level": 5
+        },
+        {
+          "name": "吉他",
+          "level": 5
+        },
+        {
+          "name": "唱歌",
+          "level": 6
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "markovicmateo"
+          }
+        ],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "markovictomi"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -9089,20 +10498,44 @@ export default {
       "chineseName": "马尔科维奇·托米",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/MarkovicTomi.jpg",
+      "career": "小学D",
       "aspiration": {
-        "name": "Artistic Prodigy"
+        "name": "艺术天才"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "创意",
+          "level": 5
+        },
+        {
+          "name": "心智",
+          "level": 3
+        },
+        {
+          "name": "运动",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "markovicmateo"
+          },
+          {
+            "id": "markoviclucia"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -9118,40 +10551,38 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/JaleelFaiz.jpg",
-      "career": "Vendor",
+      "career": "NPC",
       "aspiration": {
-        "name": "Soulmate"
+        "name": "心灵伴侣"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
         },
         {
-          "name": "Flowerarranging",
-          "level": 6
-        },
-        {
-          "name": "Photography",
+          "name": "摄影",
           "level": 5
         },
         {
-          "name": "Singing",
+          "name": "唱歌",
           "level": 5
         }
       ],
@@ -9174,28 +10605,58 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/SotoCamille.jpg",
-      "career": "Retired",
+      "career": "退休",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
+        },
+        {
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 5
+        },
+        {
+          "name": "十字绣",
+          "level": 2
+        },
+        {
+          "name": "园艺",
+          "level": 3
+        },
+        {
+          "name": "逻辑",
+          "level": 6
+        },
+        {
+          "name": "写作",
+          "level": 6
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "sotodominique"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -9213,28 +10674,51 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Tartosa",
+      "worldId": "tartosa",
       "image": "/images/sims/SotoDominique.jpg",
-      "career": "Retired",
+      "career": "退休",
       "aspiration": {
-        "name": "Painter Extraordinaire"
+        "name": "非凡画家"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 6
+        },
+        {
+          "name": "跳舞",
+          "level": 3
+        },
+        {
+          "name": "灵巧",
+          "level": 2
+        },
+        {
+          "name": "绘画",
+          "level": 8
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "sotocamille"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -9252,44 +10736,60 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/PriceJanae.jpg",
-      "career": "Business",
+      "career": "商业-五级",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 5
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "pricemarcel"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "pricejayden"
+          },
+          {
+            "id": "pricesavannah"
+          },
+          {
+            "id": "pricesidney"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -9304,44 +10804,60 @@ export default {
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/PriceMarcel.jpg",
-      "career": "Writer",
+      "career": "写作-作者-七级",
       "aspiration": {
-        "name": "Nerd Brain"
+        "name": "书呆子的脑袋"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 4
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 3
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 7
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "pricejanae"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "pricejayden"
+          },
+          {
+            "id": "pricesavannah"
+          },
+          {
+            "id": "pricesidney"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -9355,31 +10871,49 @@ export default {
       "chineseName": "普莱斯·杰登",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/PriceJayden.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Social Butterfly"
+        "name": "交际花"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         }
       ],
       "skills": [
         {
-          "name": "Creativity",
+          "name": "创意",
           "level": 2
         },
         {
-          "name": "Social",
+          "name": "社交",
           "level": 2
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "pricemarcel"
+          },
+          {
+            "id": "pricejanae"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "pricesavannah"
+          },
+          {
+            "id": "pricesidney"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -9393,38 +10927,50 @@ export default {
       "gender": "Female",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/PriceSavannah.jpg",
-      "career": "Computer team member",
+      "career": "高中C",
       "aspiration": {
-        "name": "Computer Whiz"
+        "name": "电脑神童"
       },
       "traits": [
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 3
-        },
-        {
-          "name": "Videogaming",
-          "level": 2
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "pricemarcel"
+          },
+          {
+            "id": "pricejanae"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "pricejayden"
+          },
+          {
+            "id": "pricesidney"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -9437,38 +10983,55 @@ export default {
       "chineseName": "普莱斯·西德尼",
       "gender": "Male",
       "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/PriceSidney.jpg",
-      "career": "Cheer team member",
+      "career": "高中C",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Overachiever"
+          "name": "野心家"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 3
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "pricemarcel"
+          },
+          {
+            "id": "pricejanae"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "pricejayden"
+          },
+          {
+            "id": "pricesavannah"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -9482,28 +11045,31 @@ export default {
       "gender": "Male",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/PuriKevin.jpg",
+      "career": "高中C",
       "aspiration": {
-        "name": "Goal Oriented"
+        "name": "目标导向"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Socially Awkward"
+          "name": "社交困难"
         },
         {
-          "name": "Relatable"
+          "name": "能感同身受"
         }
       ],
       "skills": [
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 4
         },
         {
-          "name": "Rocketscience",
+          "name": "火箭科学",
           "level": 3
         }
       ],
@@ -9525,32 +11091,48 @@ export default {
       "chineseName": "普列斯考特·艾米",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/PrescottAmy.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Rambunctious Scamp"
+        "name": "天生好动"
       },
       "traits": [
         {
-          "name": "Kleptomaniac"
+          "name": "偷窃狂"
         }
       ],
       "skills": [
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 4
         },
         {
-          "name": "Social",
+          "name": "社交",
           "level": 2
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "prescottmei"
+          }
+        ],
         "children": [],
-        "siblings": [],
-        "grandparents": [],
+        "siblings": [
+          {
+            "id": "prescottmolly"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "lumtai"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -9563,44 +11145,57 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Widowed",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/PrescottMei.jpg",
-      "career": "Copperdale High Principal",
+      "career": "NPC",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 5
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 5
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
-        "children": [],
+        "parents": [
+          {
+            "id": "lumtai"
+          }
+        ],
+        "children": [
+          {
+            "id": "prescottamy"
+          },
+          {
+            "id": "prescottmolly"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -9615,43 +11210,57 @@ export default {
       "gender": "Female",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/PrescottMolly.jpg",
-      "career": "Chess Team Member",
+      "career": "高中C",
       "aspiration": {
-        "name": "Musical Genius"
+        "name": "音乐天才"
       },
       "traits": [
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 4
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 5
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 3
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "prescottmei"
+          }
+        ],
         "children": [],
-        "siblings": [],
-        "grandparents": [],
+        "siblings": [
+          {
+            "id": "prescottamy"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "lumtai"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -9664,32 +11273,34 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/LumTai.jpg",
-      "career": "Copperdale High Janitor",
+      "career": "NPC",
       "aspiration": {
-        "name": "Angling Ace"
+        "name": "王牌钓手"
       },
       "traits": [
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 4
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 7
         }
       ],
@@ -9697,10 +11308,21 @@ export default {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "prescottmei"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
+        "grandchildren": [
+          {
+            "id": "prescottamy"
+          },
+          {
+            "id": "prescottmolly"
+          }
+        ],
         "relatives": []
       }
     },
@@ -9712,42 +11334,55 @@ export default {
       "gender": "Non-binary",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/HarjoAsh.jpg",
-      "career": "Simfluencer",
+      "career": "高中C",
       "aspiration": {
-        "name": "Admired Icon"
+        "name": "霸气偶像"
       },
       "traits": [
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Relatable"
+          "name": "能感同身受"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 2
         },
         {
-          "name": "Entrepreneur",
+          "name": "创业家",
           "level": 3
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 4
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "harjoava"
+          },
+          {
+            "id": "harjolucha"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "kanenoah"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -9761,40 +11396,57 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/HarjoAva.jpg",
-      "career": "Cafeteria Worker",
+      "career": "NPC",
       "aspiration": {
-        "name": "Master Chef"
+        "name": "妙手主厨"
       },
       "traits": [
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 2
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 6
+        },
+        {
+          "name": "美食烹饪",
+          "level": 4
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "harjolucha"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "harjoash"
+          },
+          {
+            "id": "kanenoah"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -9809,40 +11461,53 @@ export default {
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/HarjoLucha.jpg",
-      "career": "Culinary",
+      "career": "烹饪-二级",
       "aspiration": {
-        "name": "Master Chef"
+        "name": "妙手主厨"
       },
       "traits": [
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Essence Of Flavor"
+          "name": "味之精髓"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 5
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 2
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "harjoava"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "harjoash"
+          },
+          {
+            "id": "kanenoah"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -9856,38 +11521,52 @@ export default {
       "chineseName": "凯恩·诺亚",
       "gender": "Male",
       "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/KaneNoah.jpg",
-      "career": "Football team member",
+      "career": "高中C",
       "aspiration": {
-        "name": "Chief of Mischief"
+        "name": "狡黠之王"
       },
       "traits": [
         {
-          "name": "Party Animal"
+          "name": "派对动物"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 3
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 4
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "harjoava"
+          },
+          {
+            "id": "harjolucha"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "harjoash"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -9898,10 +11577,48 @@ export default {
       "familyId": "morlind",
       "name": "Morlind  Anjelo",
       "chineseName": "莫林德·安杰洛",
+      "gender": "Male",
+      "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/MorlindAnjelo.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "NPC",
+      "aspiration": {
+        "name": "文艺复兴模拟市民"
+      },
+      "traits": [
+        {
+          "name": "邋遢鬼"
+        },
+        {
+          "name": "创意"
+        },
+        {
+          "name": "欢乐"
+        },
+        {
+          "name": "学习能力快速"
+        }
+      ],
+      "skills": [
+        {
+          "name": "吉他",
+          "level": 2
+        },
+        {
+          "name": "逻辑",
+          "level": 4
+        },
+        {
+          "name": "绘画",
+          "level": 3
+        },
+        {
+          "name": "程式设计",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -9921,32 +11638,34 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/HiddlestixEloise.jpg",
-      "career": "ThrifTEA Shop Owner",
+      "career": "NPC",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Entrepreneur",
+          "name": "创业家",
           "level": 2
         }
       ],
@@ -9969,36 +11688,38 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Copperdale",
+      "worldId": "copperdale",
       "image": "/images/sims/CoombesRita.jpg",
-      "career": "High School Teacher",
+      "career": "NPC",
       "aspiration": {
-        "name": "The Curator"
+        "name": "馆长"
       },
       "traits": [
         {
-          "name": "Socially Awkward"
+          "name": "社交困难"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 2
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 6
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 5
         }
       ],
@@ -10020,48 +11741,51 @@ export default {
       "chineseName": "沃尔科夫·克里斯托弗",
       "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Single",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
       "image": "/images/sims/VolkovKristopher.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者-程式设计师",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 8
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 6
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 3
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 5
         },
         {
-          "name": "Parenting",
+          "name": "育儿",
           "level": 3
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 5
         }
       ],
@@ -10069,7 +11793,14 @@ export default {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "volkovjacob"
+          },
+          {
+            "id": "oaklowrory"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -10084,45 +11815,56 @@ export default {
       "gender": "Male",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
       "image": "/images/sims/VolkovJacob.jpg",
+      "career": "高中A",
       "aspiration": {
-        "name": "Emissary of the Collective"
+        "name": "联合会使节"
       },
       "traits": [
         {
-          "name": "Vegetarian"
+          "name": "素食主义者"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Lunar Confidant"
+          "name": "月下密友"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 3
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 4
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 2
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "volkovkristopher"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "oaklowrory"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -10135,40 +11877,47 @@ export default {
       "chineseName": "朱·莉莉",
       "gender": "Female",
       "age": "Elder",
+      "maritalStatus": "Single",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
       "image": "/images/sims/ZhuLily.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 4
         },
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 4
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
+          "level": 3
+        },
+        {
+          "name": "吸血鬼知识",
           "level": 3
         }
       ],
@@ -10198,48 +11947,50 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
       "image": "/images/sims/HowellLou.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Werewolf Initiate"
+        "name": "狼人始业式"
       },
       "traits": [
         {
-          "name": "Kleptomaniac"
+          "name": "偷窃狂"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Lunar Confidant"
+          "name": "月下密友"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 3
         },
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 3
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 2
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 3
         },
         {
-          "name": "Singing",
+          "name": "唱歌",
           "level": 2
         }
       ],
@@ -10259,10 +12010,51 @@ export default {
       "familyId": "lopezcelene",
       "name": "Lopez Celene",
       "chineseName": "洛佩兹·赛琳",
+      "gender": "Female",
+      "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
       "image": "/images/sims/LopezCelene.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "NPC",
+      "aspiration": {
+        "name": "社区知己"
+      },
+      "traits": [
+        {
+          "name": "整洁"
+        },
+        {
+          "name": "宅宅"
+        },
+        {
+          "name": "外向"
+        },
+        {
+          "name": "合群"
+        },
+        {
+          "name": "狼人盟友"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "烹饪",
+          "level": 4
+        },
+        {
+          "name": "药草学",
+          "level": 2
+        },
+        {
+          "name": "调酒",
+          "level": 7
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -10282,57 +12074,67 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
       "image": "/images/sims/OaklowRory.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 3
         },
         {
-          "name": "Dancing",
+          "name": "跳舞",
           "level": 3
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 9
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 3
         },
         {
-          "name": "Knitting",
+          "name": "针织",
           "level": 2
         },
         {
-          "name": "Violin",
+          "name": "小提琴",
           "level": 4
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "volkovkristopher"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "volkovjacob"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -10346,37 +12148,43 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
       "image": "/images/sims/WilderWolfgang.jpg",
-      "career": "Librarian",
+      "career": "NPC",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Photography",
+          "name": "摄影",
           "level": 4
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 7
+        },
+        {
+          "name": "吸血鬼知识",
+          "level": 2
         }
       ],
       "relationships": {
@@ -10397,23 +12205,26 @@ export default {
       "chineseName": "格雷格",
       "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Widowed",
+      "world": "Moonwood Mill",
+      "worldId": "moonwoodmill",
       "image": "/images/sims/Greg.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Mean"
+          "name": "刻薄"
         },
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Glutton"
+          "name": "贪吃鬼"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [],
@@ -10435,40 +12246,70 @@ export default {
       "chineseName": "罗布雷斯·杰",
       "gender": "Non-binary",
       "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/RoblesJay.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者",
       "aspiration": {
-        "name": "Master Chef"
+        "name": "妙手主厨"
       },
       "traits": [
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
       "skills": [
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 5
+        },
+        {
+          "name": "美食烹饪",
+          "level": 7
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "ruanodoli"
+          }
+        ],
         "lover": [],
-        "parents": [],
-        "children": [],
-        "siblings": [],
+        "parents": [
+          {
+            "id": "roblesignacio"
+          }
+        ],
+        "children": [
+          {
+            "id": "ruanotala"
+          }
+        ],
+        "siblings": [
+          {
+            "id": "roblesbernice"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "roblesian"
+          },
+          {
+            "id": "roblesaurelio"
+          }
+        ]
       }
     },
     {
@@ -10478,36 +12319,47 @@ export default {
       "chineseName": "鲁阿诺·多莉",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/RuanoDoli.jpg",
-      "career": "Style Influencer",
+      "career": "风格潮流人士-风潮引领者-八级",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 9
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "roblesjay"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "ruanotala"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -10521,23 +12373,47 @@ export default {
       "chineseName": "鲁阿诺·塔拉",
       "gender": "Female",
       "age": "Toddler",
+      "maritalStatus": "Single",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/RuanoTala.jpg",
       "aspiration": {},
       "traits": [
         {
-          "name": "Clingy"
+          "name": "黏人精"
         }
       ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "roblesjay"
+          },
+          {
+            "id": "ruanodoli"
+          }
+        ],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "roblesignacio"
+          }
+        ],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "roblesbernice"
+          },
+          {
+            "id": "roblesbernice"
+          },
+          {
+            "id": "roblesaurelio"
+          }
+        ]
       }
     },
     {
@@ -10547,32 +12423,35 @@ export default {
       "chineseName": "罗布雷斯·伊格纳西奥",
       "gender": "Male",
       "age": "Elder",
+      "maritalStatus": "Widowed",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/RoblesIgnacio.jpg",
-      "career": "Retired",
+      "career": "退休",
       "aspiration": {
-        "name": "Serial Romantic"
+        "name": "连环浪漫"
       },
       "traits": [
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪8美食烹饪",
           "level": 8
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 7
         }
       ],
@@ -10580,11 +12459,32 @@ export default {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "roblesjay"
+          },
+          {
+            "id": "roblesbernice"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
-        "relatives": []
+        "grandchildren": [
+          {
+            "id": "ruanotala"
+          },
+          {
+            "id": "roblesaurelio"
+          }
+        ],
+        "relatives": [
+          {
+            "id": "ruanodoli"
+          },
+          {
+            "id": "roblesian"
+          }
+        ]
       }
     },
     {
@@ -10594,52 +12494,78 @@ export default {
       "chineseName": "罗布雷斯·波妮丝",
       "gender": "Female",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/RoblesBernice.jpg",
-      "career": "Business",
+      "career": "商业-投资人-九级",
       "aspiration": {
-        "name": "Angling Ace"
+        "name": "王牌钓手"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 6
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 5
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 5
         },
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 8
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "roblesian"
+          }
+        ],
         "lover": [],
-        "parents": [],
-        "children": [],
-        "siblings": [],
+        "parents": [
+          {
+            "id": "roblesignacio"
+          }
+        ],
+        "children": [
+          {
+            "id": "roblesaurelio"
+          }
+        ],
+        "siblings": [
+          {
+            "id": "roblesjay"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "ruanodoli"
+          },
+          {
+            "id": "ruanotala"
+          }
+        ]
       }
     },
     {
@@ -10647,49 +12573,74 @@ export default {
       "familyId": "robles",
       "name": "Robles Ian",
       "chineseName": "罗布雷斯·伊恩",
+      "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/RoblesIan.jpg",
-      "career": "Writer",
+      "career": "写作-作者-九级",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 6
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 9
         },
         {
-          "name": "Fishing",
+          "name": "钓鱼",
           "level": 7
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "roblesbernice"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "roblesaurelio"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "roblesjay"
+          },
+          {
+            "id": "ruanodoli"
+          },
+          {
+            "id": "ruanotala"
+          },
+          {
+            "id": "roblesignacio"
+          }
+        ]
       }
     },
     {
@@ -10700,36 +12651,60 @@ export default {
       "gender": "Male",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/RoblesAurelio.jpg",
+      "career": "高中B",
       "aspiration": {
-        "name": "Musical Genius"
+        "name": "音乐天才"
       },
       "traits": [
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Violin",
+          "name": "小提琴",
           "level": 6
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "roblesbernice"
+          },
+          {
+            "id": "roblesian"
+          }
+        ],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "roblesignacio"
+          }
+        ],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "roblesjay"
+          },
+          {
+            "id": "ruanodoli"
+          },
+          {
+            "id": "ruanotala"
+          }
+        ]
       }
     },
     {
@@ -10739,40 +12714,54 @@ export default {
       "chineseName": "迈可尔森·塞莱斯特",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/MichaelsonCeleste.jpg",
-      "career": "Tech Guru",
+      "career": "科技达人-创新企业家-十级",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 6
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 9
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "michaelsonchristopher"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "michaelsonatlas"
+          },
+          {
+            "id": "michaelsonorion"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -10786,44 +12775,58 @@ export default {
       "chineseName": "迈可尔森·克里斯多夫",
       "gender": "Male",
       "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/MichaelsonChristopher.jpg",
-      "career": "Tech Guru",
+      "career": "科技达人-创新企业家-九级",
       "aspiration": {
-        "name": "Nerd Brain"
+        "name": "书呆子的脑袋"
       },
       "traits": [
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 7
         },
         {
-          "name": "Programming",
+          "name": "程式设计",
           "level": 5
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 8
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "michaelsonceleste"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "michaelsonatlas"
+          },
+          {
+            "id": "michaelsonorion"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -10837,20 +12840,37 @@ export default {
       "chineseName": "迈可尔森·阿特拉斯",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/MichaelsonAtlas.jpg",
-      "aspiration": {},
+      "career": "小学C",
+      "aspiration": {
+        "name": "游玩时间队长"
+      },
       "traits": [
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         }
       ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "michaelsonceleste"
+          },
+          {
+            "id": "michaelsonchristopher"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "michaelsonorion"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -10863,20 +12883,34 @@ export default {
       "chineseName": "迈可尔森·欧莱恩",
       "gender": "Female",
       "age": "Infant",
+      "maritalStatus": "Single",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/MichaelsonOrion.jpg",
       "aspiration": {},
       "traits": [
         {
-          "name": "Wiggly"
+          "name": "爱扭来扭去"
         }
       ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "michaelsonceleste"
+          },
+          {
+            "id": "michaelsonchristopher"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "michaelsonatlas"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -10889,32 +12923,35 @@ export default {
       "chineseName": "卢那·霍奇蒂尔",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Widowed",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/LunaXochitl.jpg",
-      "career": "Athlete",
+      "career": "运动员-职业运动员-八级",
       "aspiration": {
-        "name": "Soulmate"
+        "name": "心灵伴侣"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Loyal"
+          "name": "忠诚"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 6
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 7
         }
       ],
@@ -10922,11 +12959,19 @@ export default {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "lunakarmine"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "sullivaneleanor"
+          }
+        ]
       }
     },
     {
@@ -10936,33 +12981,35 @@ export default {
       "chineseName": "沙利文·埃莉诺",
       "gender": "Female",
       "age": "Elder",
-      "maritalStatus": "Unnamed husband 16px|Deceased",
+      "maritalStatus": "Widowed",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/SullivanEleanor.jpg",
-      "career": "Babysitter",
+      "career": "保姆-三级",
       "aspiration": {
-        "name": "Chief of Mischief"
+        "name": "狡黠之王"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Childish"
+          "name": "幼稚"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 6
         },
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 7
         }
       ],
@@ -10973,8 +13020,16 @@ export default {
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
-        "relatives": []
+        "grandchildren": [
+          {
+            "id": "lunakarmine"
+          }
+        ],
+        "relatives": [
+          {
+            "id": "lunaxochitl"
+          }
+        ]
       }
     },
     {
@@ -10984,23 +13039,35 @@ export default {
       "chineseName": "卢那·卡尔敏",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/LunaKarmine.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Creative Genius"
+        "name": "创意 天才"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         }
       ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "lunaxochitl"
+          }
+        ],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "sullivaneleanor"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -11013,32 +13080,34 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "San Sequoia",
+      "worldId": "sansequoia",
       "image": "/images/sims/KylesonKyle.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Party Animal"
+        "name": "派对动物"
       },
       "traits": [
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Lazy"
+          "name": "懒惰"
         },
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 6
         },
         {
-          "name": "Knitting",
+          "name": "针织",
           "level": 9
         }
       ],
@@ -11061,25 +13130,41 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Chestnut Ridge",
+      "worldId": "chestnutridge",
       "image": "/images/sims/GoosemanDon.jpg",
+      "career": "无业",
       "aspiration": {
-        "name": "Angling Ace"
+        "name": "王牌钓手"
       },
       "traits": [
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Horse Lover"
+          "name": "爱马人士"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 1
+        },
+        {
+          "name": "钓鱼",
+          "level": 3
+        },
+        {
+          "name": "骑马",
+          "level": 7
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -11098,27 +13183,48 @@ export default {
       "chineseName": "特雷西·玛丽萨",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Dating",
+      "world": "Chestnut Ridge",
+      "worldId": "chestnutridge",
       "image": "/images/sims/TraceyMarissa.jpg",
+      "career": "无业",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 5
+        },
+        {
+          "name": "喜剧",
+          "level": 6
+        },
+        {
+          "name": "摄影",
+          "level": 3
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "daviladani"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -11135,27 +13241,56 @@ export default {
       "chineseName": "达维拉·丹妮",
       "gender": "Non-binary",
       "age": "Young Adult",
+      "maritalStatus": "Dating",
+      "world": "Chestnut Ridge",
+      "worldId": "chestnutridge",
       "image": "/images/sims/DavilaDani.jpg",
+      "career": "无业",
       "aspiration": {
-        "name": "Expert Nectar Maker"
+        "name": "佳酿制作专家"
       },
       "traits": [
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 1
+        },
+        {
+          "name": "钓鱼",
+          "level": 1
+        },
+        {
+          "name": "园艺",
+          "level": 7
+        },
+        {
+          "name": "制作佳酿",
+          "level": 3
+        },
+        {
+          "name": "小提琴",
+          "level": 5
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "traceymarissa"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -11172,44 +13307,59 @@ export default {
       "chineseName": "格洛夫·安柏尔",
       "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Chestnut Ridge",
+      "worldId": "chestnutridge",
       "image": "/images/sims/GroveUmber.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者-数位艺术家",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Domestic"
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 6
         },
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 4
         },
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 1
+        },
+        {
+          "name": "美食烹饪",
+          "level": 4
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "grovejuniper"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "grovewren"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -11223,48 +13373,63 @@ export default {
       "chineseName": "格洛夫·朱妮珀",
       "gender": "Female",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Chestnut Ridge",
+      "worldId": "chestnutridge",
       "image": "/images/sims/GroveJuniper.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Freelance Botanist"
+        "name": "自由植物学家"
       },
       "traits": [
         {
-          "name": "Horse Lover"
+          "name": "爱马人士"
         },
         {
-          "name": "Rancher"
+          "name": "牧场主"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 1
         },
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 2
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
+          "level": 6
+        },
+        {
+          "name": "骑马",
           "level": 6
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "groveumber"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "grovewren"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -11278,25 +13443,40 @@ export default {
       "chineseName": "格洛夫·雷恩",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Chestnut Ridge",
+      "worldId": "chestnutridge",
       "image": "/images/sims/GroveWren.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Rambunctious Scamp"
+        "name": "天生好动"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         }
       ],
       "skills": [
         {
-          "name": "Social",
+          "name": "社交",
           "level": 1
+        },
+        {
+          "name": "骑马",
+          "level": 7
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "groveumber"
+          },
+          {
+            "id": "grovejuniper"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -11311,32 +13491,40 @@ export default {
       "chineseName": "格洛夫·西椰娜",
       "gender": "Female",
       "age": "Adult",
+      "maritalStatus": "Single",
+      "world": "Chestnut Ridge",
+      "worldId": "chestnutridge",
       "image": "/images/sims/GroveSienna.jpg",
+      "career": "无业",
       "aspiration": {
-        "name": "Championship Rider"
+        "name": "冠军骑手"
       },
       "traits": [
         {
-          "name": "Horse Lover"
+          "name": "爱马人士"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 2
         },
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
+        },
+        {
+          "name": "骑马",
+          "level": 8
         }
       ],
       "relationships": {
@@ -11344,10 +13532,21 @@ export default {
         "lover": [],
         "parents": [],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "groveumber"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "grovejuniper"
+          },
+          {
+            "id": "grovewren"
+          }
+        ]
       }
     },
     {
@@ -11357,26 +13556,42 @@ export default {
       "chineseName": "克林克托普·罗伯托",
       "gender": "Male",
       "age": "Elder",
+      "maritalStatus": "Divorced",
+      "world": "Chestnut Ridge",
+      "worldId": "chestnutridge",
       "image": "/images/sims/CrinkletopRoberto.jpg",
-      "career": "Mysterious Rancher",
+      "career": "NPC",
       "aspiration": {
-        "name": "Angling Ace"
+        "name": "王牌钓手"
       },
       "traits": [
         {
-          "name": "Rancher"
+          "name": "牧场主"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 4
+        },
+        {
+          "name": "骑马",
+          "level": 6
+        },
+        {
+          "name": "制作佳酿",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -11395,19 +13610,39 @@ export default {
       "chineseName": "卡雅普特里·瓦妮莎",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/CahyaputriVanesha.jpg",
-      "career": "Barista",
+      "career": "咖啡师-二级",
       "aspiration": {
-        "name": "Five-Star Property Owner"
+        "name": "五星级业主"
       },
-      "traits": [],
+      "traits": [
+        {
+          "name": "村庄之子"
+        },
+        {
+          "name": "良好"
+        },
+        {
+          "name": "创意"
+        },
+        {
+          "name": "精通生意"
+        }
+      ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "cahyaputrizhafira"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -11420,18 +13655,36 @@ export default {
       "chineseName": "卡雅普特里·扎菲拉",
       "gender": "Female",
       "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/CahyaputriZhafira.jpg",
+      "career": "高中C",
       "aspiration": {
-        "name": "Seeker of Secrets"
+        "name": "秘密发掘者"
       },
-      "traits": [],
+      "traits": [
+        {
+          "name": "八卦"
+        },
+        {
+          "name": "笨拙"
+        },
+        {
+          "name": "卑鄙"
+        }
+      ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "cahyaputrivanesha"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -11442,19 +13695,59 @@ export default {
       "familyId": "linhsadya",
       "name": "Linh Chanh",
       "chineseName": "琳·札安",
+      "gender": "Male",
+      "age": "Elder",
+      "maritalStatus": "Married",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/LinhChanh.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "退休",
+      "aspiration": {
+        "name": "王牌钓手"
+      },
+      "traits": [
+        {
+          "name": "美食家"
+        },
+        {
+          "name": "傻瓜"
+        },
+        {
+          "name": "家庭取向"
+        },
+        {
+          "name": "收藏家"
+        }
+      ],
       "skills": [],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "linharturo"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "sadyalien"
+          },
+          {
+            "id": "linhthi"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
-        "relatives": []
+        "grandchildren": [
+          {
+            "id": "sadyacam"
+          }
+        ],
+        "relatives": [
+          {
+            "id": "sadyaalon"
+          }
+        ]
       }
     },
     {
@@ -11465,44 +13758,65 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/LinhArturo.jpg",
-      "career": "Astronaut",
+      "career": "太空人-四级",
       "aspiration": {
-        "name": "Nerd Brain"
+        "name": "书呆子的脑袋"
       },
       "traits": [
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Wise"
+          "name": "明智"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 2
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 3
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "linhchanh"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "sadyalien"
+          },
+          {
+            "id": "linhthi"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
-        "relatives": []
+        "grandchildren": [
+          {
+            "id": "sadyacam"
+          }
+        ],
+        "relatives": [
+          {
+            "id": "sadyaalon"
+          }
+        ]
       }
     },
     {
@@ -11510,39 +13824,136 @@ export default {
       "familyId": "linhsadya",
       "name": "Sadya Lien",
       "chineseName": "萨迪亚·莉恩",
+      "gender": "Female",
+      "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/SadyaLien.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "风格潮流人士-造型师-八级",
+      "aspiration": {
+        "name": "社区知己"
+      },
+      "traits": [
+        {
+          "name": "慷慨"
+        },
+        {
+          "name": "素食主义者"
+        },
+        {
+          "name": "忠诚"
+        },
+        {
+          "name": "合群"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 6
+        },
+        {
+          "name": "绘画",
+          "level": 5
+        },
+        {
+          "name": "写作",
+          "level": 7
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "sadyaalon"
+          }
+        ],
         "lover": [],
-        "parents": [],
-        "children": [],
-        "siblings": [],
+        "parents": [
+          {
+            "id": "linharturo"
+          },
+          {
+            "id": "linhchanh"
+          }
+        ],
+        "children": [
+          {
+            "id": "sadyacam"
+          }
+        ],
+        "siblings": [
+          {
+            "id": "linhthi"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
       }
     },
     {
-      "id": "sadya-alon",
+      "id": "sadyaalon",
       "familyId": "linhsadya",
       "name": "Sadya  Alon",
       "chineseName": "萨迪亚·阿隆",
+      "gender": "Male",
+      "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/SadyaAlon.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "自由工作者-程式设计师",
+      "aspiration": {
+        "name": "自由植物学家"
+      },
+      "traits": [
+        {
+          "name": "热爱户外"
+        },
+        {
+          "name": "整洁"
+        },
+        {
+          "name": "自信"
+        },
+        {
+          "name": "收藏家"
+        }
+      ],
+      "skills": [
+        {
+          "name": "程式设计",
+          "level": 5
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "sadyalien"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "sadyacam"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "linhchanh"
+          },
+          {
+            "id": "linharturo"
+          },
+          {
+            "id": "linhthi"
+          }
+        ]
       }
     },
     {
@@ -11552,25 +13963,40 @@ export default {
       "chineseName": "萨迪亚·坎姆",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/SadyaCam.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Artistic Prodigy"
+        "name": "艺术天才"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         }
       ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "sadyalien"
+          },
+          {
+            "id": "sadyaalon"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "linhthi"
+          }
+        ]
       }
     },
     {
@@ -11580,44 +14006,65 @@ export default {
       "chineseName": "琳·缇",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/LinhThi.jpg",
-      "career": "Secret Agent",
+      "career": "特务-七级",
       "aspiration": {
-        "name": "Discerning Dweller"
+        "name": "挑剔的居民"
       },
       "traits": [
         {
-          "name": "Cringe"
+          "name": "很尬"
         },
         {
-          "name": "Slob"
+          "name": "邋遢鬼"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 5
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "linharturo"
+          },
+          {
+            "id": "linhchanh"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "sadyalien"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "sadyaalon"
+          },
+          {
+            "id": "sadyacam"
+          }
+        ]
       }
     },
     {
@@ -11625,19 +14072,52 @@ export default {
       "familyId": "bunma",
       "name": "BunMa Bua",
       "chineseName": "邦玛·布雅",
+      "gender": "Female",
+      "age": "Elder",
+      "maritalStatus": "Single",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/BunMaBua.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "退休",
+      "aspiration": {
+        "name": "馆长"
+      },
+      "traits": [
+        {
+          "name": "明智"
+        },
+        {
+          "name": "不愿承诺"
+        },
+        {
+          "name": "音乐爱好者"
+        },
+        {
+          "name": "收藏家"
+        }
+      ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "bunmakasem"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
-        "relatives": []
+        "grandchildren": [
+          {
+            "id": "bunmasud"
+          }
+        ],
+        "relatives": [
+          {
+            "id": "bunmanin"
+          }
+        ]
       }
     },
     {
@@ -11645,15 +14125,57 @@ export default {
       "familyId": "bunma",
       "name": "BunMa Kasem",
       "chineseName": "邦玛·卡塞姆",
+      "gender": "Male",
+      "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/BunMaKasem.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "科技达人-创新企业家-八级",
+      "aspiration": {
+        "name": "快乐大家庭"
+      },
+      "traits": [
+        {
+          "name": "完美主义者"
+        },
+        {
+          "name": "欢乐"
+        },
+        {
+          "name": "家庭取向"
+        },
+        {
+          "name": "居家"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "程式设计",
+          "level": 8
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "bunmanin"
+          }
+        ],
         "lover": [],
-        "parents": [],
-        "children": [],
+        "parents": [
+          {
+            "id": "bunmabua"
+          }
+        ],
+        "children": [
+          {
+            "id": "bunmasud"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -11665,19 +14187,61 @@ export default {
       "familyId": "bunma",
       "name": "BunMa Nin",
       "chineseName": "邦玛·宁",
+      "gender": "Female",
+      "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/BunMaNin.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "运动员-健美选手-五级",
+      "aspiration": {
+        "name": "托马郎知识之泉"
+      },
+      "traits": [
+        {
+          "name": "村庄之子"
+        },
+        {
+          "name": "浪漫风"
+        },
+        {
+          "name": "书呆子"
+        },
+        {
+          "name": "恋家"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 4
+        },
+        {
+          "name": "健身",
+          "level": 7
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "bunmakasem"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "bunmasud"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "bunmabua"
+          }
+        ]
       }
     },
     {
@@ -11685,17 +14249,37 @@ export default {
       "familyId": "bunma",
       "name": "BunMa Sud",
       "chineseName": "邦玛·苏德",
+      "gender": "Male",
+      "age": "Toddler",
+      "maritalStatus": "Single",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/BunMaSud.jpg",
       "aspiration": {},
-      "traits": [],
+      "traits": [
+        {
+          "name": "黏人精"
+        }
+      ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "bunmakasem"
+          },
+          {
+            "id": "bunmanin"
+          }
+        ],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "bunmabua"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -11707,18 +14291,35 @@ export default {
       "chineseName": "李·潘雅",
       "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Single",
+      "world": "Tomarang",
+      "worldId": "tomarang",
       "image": "/images/sims/LiPanya.jpg",
+      "career": "NPC",
       "aspiration": {
-        "name": "Five-Star Property Owner"
+        "name": "五星级业主"
       },
-      "traits": [],
+      "traits": [
+        {
+          "name": "好动"
+        },
+        {
+          "name": "外向"
+        },
+        {
+          "name": "欢乐"
+        },
+        {
+          "name": "精通生意"
+        }
+      ],
       "skills": [
         {
-          "name": "Gardening",
+          "name": "园艺",
           "level": 7
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 6
         }
       ],
@@ -11738,15 +14339,64 @@ export default {
       "familyId": "lopez",
       "name": "Lopez Monica",
       "chineseName": "洛佩兹·莫妮卡",
+      "gender": "Female",
+      "age": "Adult",
+      "maritalStatus": "Dating",
+      "world": "Ciudad Enamorada",
+      "worldId": "ciudadenamorada",
       "image": "/images/sims/LopezMonica.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "太空人-七级",
+      "aspiration": {
+        "name": "浪漫探索家"
+      },
+      "traits": [
+        {
+          "name": "家庭取向"
+        },
+        {
+          "name": "良好"
+        },
+        {
+          "name": "天才"
+        },
+        {
+          "name": "诱人"
+        }
+      ],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 3
+        },
+        {
+          "name": "美食烹饪",
+          "level": 4
+        },
+        {
+          "name": "火箭科学",
+          "level": 8
+        },
+        {
+          "name": "浪漫",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "aguilarmanuel"
+          }
+        ],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "lopezcarlos"
+          },
+          {
+            "id": "lopezluz"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -11758,16 +14408,50 @@ export default {
       "familyId": "lopez",
       "name": "Lopez Carlos",
       "chineseName": "洛佩慈·卡洛斯",
+      "gender": "Male",
+      "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Ciudad Enamorada",
+      "worldId": "ciudadenamorada",
       "image": "/images/sims/LopezCarlos.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "运动员-职业运动员-六级",
+      "aspiration": {
+        "name": "健美运动员"
+      },
+      "traits": [
+        {
+          "name": "刻薄"
+        },
+        {
+          "name": "幼稚"
+        },
+        {
+          "name": "好动"
+        },
+        {
+          "name": "高新陈代谢率"
+        }
+      ],
+      "skills": [
+        {
+          "name": "健身",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "lopezmonica"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "lopezluz"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -11778,16 +14462,47 @@ export default {
       "familyId": "lopez",
       "name": "Lopez Luz",
       "chineseName": "洛佩兹·勒兹",
+      "gender": "Non-binary",
+      "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Ciudad Enamorada",
+      "worldId": "ciudadenamorada",
       "image": "/images/sims/LopezLuz.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "高中C",
+      "aspiration": {
+        "name": "文艺复兴模拟市民"
+      },
+      "traits": [
+        {
+          "name": "创意"
+        },
+        {
+          "name": "宅宅"
+        },
+        {
+          "name": "学习能力快速"
+        }
+      ],
+      "skills": [
+        {
+          "name": "绘画",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "lopezmonica"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "lopezcarlos"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -11800,32 +14515,35 @@ export default {
       "chineseName": "奥尔特加·卡门",
       "gender": "Female",
       "age": "Elder",
+      "maritalStatus": "Widowed",
+      "world": "Ciudad Enamorada",
+      "worldId": "ciudadenamorada",
       "image": "/images/sims/OrtegaCarmen.jpg",
-      "career": "Retired",
+      "career": "退休",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Noncommittal"
+          "name": "不愿承诺"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 6
         },
         {
-          "name": "Romance",
+          "name": "浪漫",
           "level": 7
         }
       ],
@@ -11847,37 +14565,44 @@ export default {
       "chineseName": "克鲁兹·埃利亚",
       "gender": "Non-binary",
       "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Ciudad Enamorada",
+      "worldId": "ciudadenamorada",
       "image": "/images/sims/CruzElia.jpg",
-      "career": "Culinary",
+      "career": "烹饪-主厨-十级",
       "aspiration": {
-        "name": "Master Chef"
+        "name": "妙手主厨"
       },
       "traits": [
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Vegetarian"
+          "name": "素食主义者"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 7
         },
         {
-          "name": "Mixology",
+          "name": "调酒",
           "level": 2
+        },
+        {
+          "name": "美食烹饪",
+          "level": 6
         }
       ],
       "relationships": {
@@ -11898,50 +14623,57 @@ export default {
       "chineseName": "阿吉拉尔·曼努尔",
       "gender": "Male",
       "age": "Young Adult",
+      "maritalStatus": "Dating",
+      "world": "Ciudad Enamorada",
+      "worldId": "ciudadenamorada",
       "image": "/images/sims/AguilarManuel.jpg",
-      "career": "Entertainer",
+      "career": "演艺人员-音乐家-七级",
       "aspiration": {
-        "name": "Paragon Partner"
+        "name": "模范伴侣"
       },
       "traits": [
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Lovebug"
+          "name": "恋爱脑"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 4
         },
         {
-          "name": "Comedy",
+          "name": "喜剧",
           "level": 3
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 2
         },
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 6
         },
         {
-          "name": "Romance",
+          "name": "浪漫",
           "level": 5
         }
       ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "lopezmonica"
+          }
+        ],
         "parents": [],
         "children": [],
         "siblings": [],
@@ -11955,10 +14687,40 @@ export default {
       "familyId": "dynamicdaters",
       "name": "Xicotencatl Yoltic",
       "chineseName": "希科滕卡特尔·约尔蒂奇",
+      "gender": "Male",
+      "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Ciudad Enamorada",
+      "worldId": "ciudadenamorada",
       "image": "/images/sims/XicotencatlYoltic.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "风格潮流人士-造型师-六级",
+      "aspiration": {
+        "name": "心灵伴侣"
+      },
+      "traits": [
+        {
+          "name": "浪漫保守派"
+        },
+        {
+          "name": "创意"
+        },
+        {
+          "name": "忠诚"
+        },
+        {
+          "name": "诱人"
+        }
+      ],
+      "skills": [
+        {
+          "name": "逻辑",
+          "level": 4
+        },
+        {
+          "name": "钢琴",
+          "level": 7
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -11977,41 +14739,48 @@ export default {
       "chineseName": "纳迪尔·阿奇兹",
       "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Ciudad Enamorada",
+      "worldId": "ciudadenamorada",
       "image": "/images/sims/NadirAziz.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者-作家",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Lazy"
+          "name": "懒惰"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
       "skills": [
         {
-          "name": "Cooking",
+          "name": "烹饪",
           "level": 3
         },
         {
-          "name": "Romance",
+          "name": "浪漫",
           "level": 7
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 5
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "nadirvalentina"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -12028,37 +14797,44 @@ export default {
       "chineseName": "纳迪尔·瓦伦缇娜",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "Ciudad Enamorada",
+      "worldId": "ciudadenamorada",
       "image": "/images/sims/NadirValentina.jpg",
-      "career": "Romance Consultant",
+      "career": "恋爱咨询师-六级",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 7
         },
         {
-          "name": "Romance",
+          "name": "浪漫",
           "level": 6
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "nadiraziz"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -12075,16 +14851,48 @@ export default {
       "chineseName": "戈麦斯·埃斯特",
       "gender": "Non-binary",
       "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/GomesEsther.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "死神-二级",
+      "aspiration": {
+        "name": "鬼魂历史学家"
+      },
+      "traits": [
+        {
+          "name": "自信"
+        },
+        {
+          "name": "完美主义者"
+        },
+        {
+          "name": "阴森恐怖"
+        },
+        {
+          "name": "学习能力快速"
+        }
+      ],
+      "skills": [
+        {
+          "name": "死亡学",
+          "level": 5
+        },
+        {
+          "name": "写作",
+          "level": 9
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "gomestziporah"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -12098,26 +14906,37 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/IzadiZuleika.jpg",
-      "career": "Reaper",
+      "career": "死神-二级",
       "aspiration": {
-        "name": "Freelance Botanist"
+        "name": "自由植物学家"
       },
       "traits": [
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Macabre"
+          "name": "阴森恐怖"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "园艺",
+          "level": 5
+        },
+        {
+          "name": "调酒",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -12137,16 +14956,54 @@ export default {
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/GomesRadwan.jpg",
-      "career": "Astronaut",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "太空人-四级",
+      "aspiration": {
+        "name": "心灵伴侣"
+      },
+      "traits": [
+        {
+          "name": "艺术爱好者"
+        },
+        {
+          "name": "家庭取向"
+        },
+        {
+          "name": "天才"
+        },
+        {
+          "name": "诱人"
+        }
+      ],
+      "skills": [
+        {
+          "name": "钓鱼",
+          "level": 3
+        },
+        {
+          "name": "健身",
+          "level": 3
+        },
+        {
+          "name": "逻辑",
+          "level": 4
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "gomestziporah"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "gomeszelmira"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -12161,17 +15018,55 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/GomesTziporah.jpg",
-      "career": "Writer",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "写作-作者-十级",
+      "aspiration": {
+        "name": "畅销作家"
+      },
+      "traits": [
+        {
+          "name": "浪漫风"
+        },
+        {
+          "name": "笨拙"
+        },
+        {
+          "name": "死神尾随"
+        },
+        {
+          "name": "沉思者"
+        }
+      ],
+      "skills": [
+        {
+          "name": "钓鱼",
+          "level": 5
+        },
+        {
+          "name": "写作",
+          "level": 7
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "gomesradwan"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
-        "siblings": [],
+        "children": [
+          {
+            "id": "gomeszelmira"
+          }
+        ],
+        "siblings": [
+          {
+            "id": "gomesesther"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -12185,35 +15080,45 @@ export default {
       "gender": "Non-binary",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/GomesZelmira.jpg",
+      "career": "高中A",
       "aspiration": {
-        "name": "The Curator"
+        "name": "馆长"
       },
       "traits": [
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Macabre"
+          "name": "阴森恐怖"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
       "skills": [
         {
-          "name": "Thanatology",
+          "name": "死亡学",
           "level": 3
         },
         {
-          "name": "Violin",
+          "name": "小提琴",
           "level": 7
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "gomesradwan"
+          },
+          {
+            "id": "gomestziporah"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -12228,32 +15133,59 @@ export default {
       "chineseName": "伊瑟·凯",
       "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/AetherKai.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "特务-七级",
+      "aspiration": {
+        "name": "书呆子的脑袋"
+      },
+      "traits": [
+        {
+          "name": "善妒"
+        },
+        {
+          "name": "自信"
+        },
+        {
+          "name": "多疑"
+        },
+        {
+          "name": "学习能力快速"
+        }
+      ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
         },
         {
-          "name": "Handiness",
+          "name": "灵巧",
           "level": 5
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 6
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 4
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "aetherekade"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "aethertakama"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -12267,28 +15199,55 @@ export default {
       "chineseName": "伊瑟·埃卡德",
       "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/AetherEkade.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "商业-六级",
+      "aspiration": {
+        "name": "文艺复兴模拟市民"
+      },
+      "traits": [
+        {
+          "name": "热爱户外"
+        },
+        {
+          "name": "雄心壮志"
+        },
+        {
+          "name": "死神尾随"
+        },
+        {
+          "name": "学习能力快速"
+        }
+      ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 5
         },
         {
-          "name": "Dancing",
+          "name": "跳舞",
           "level": 5
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 4
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "aetherkai"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "aethertakama"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -12302,14 +15261,34 @@ export default {
       "chineseName": "伊瑟·高间",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/AetherTakama.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "小学A",
+      "aspiration": {
+        "name": "艺术天才"
+      },
+      "traits": [
+        {
+          "name": "阴森恐怖"
+        },
+        {
+          "name": "高度自信"
+        }
+      ],
       "skills": [],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "aetherkai"
+          },
+          {
+            "id": "aetherekade"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -12325,31 +15304,55 @@ export default {
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Engaged",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/CoffinLayne.jpg",
-      "career": "Entertainer",
-      "aspiration": {},
-      "traits": [],
+      "career": "演艺人员-音乐家-十级",
+      "aspiration": {
+        "name": "社区知己"
+      },
+      "traits": [
+        {
+          "name": "忠诚"
+        },
+        {
+          "name": "良好"
+        },
+        {
+          "name": "创意"
+        },
+        {
+          "name": "合群"
+        },
+        {
+          "name": "邪恶"
+        }
+      ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 10
         },
         {
-          "name": "Guitar",
+          "name": "吉他",
           "level": 9
         },
         {
-          "name": "Knitting",
+          "name": "针织",
           "level": 10
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 9
         }
       ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "specterolive"
+          }
+        ],
         "parents": [],
         "children": [],
         "siblings": [],
@@ -12363,14 +15366,55 @@ export default {
       "familyId": "specter",
       "name": "Specter Nyon",
       "chineseName": "幽浑·尼昂",
+      "gender": "Male",
+      "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/SpecterNyon.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "高中C",
+      "aspiration": {
+        "name": "畅销作家"
+      },
+      "traits": [
+        {
+          "name": "死神尾随"
+        },
+        {
+          "name": "独行侠"
+        },
+        {
+          "name": "点子王"
+        },
+        {
+          "name": "死神出生"
+        },
+        {
+          "name": "沉思者"
+        }
+      ],
+      "skills": [
+        {
+          "name": "恶作剧",
+          "level": 6
+        },
+        {
+          "name": "单板滑雪",
+          "level": 8
+        },
+        {
+          "name": "写作",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "specterolive"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -12386,36 +15430,62 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Engaged",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/SpecterOlive.jpg",
-      "aspiration": {},
-      "traits": [],
+      "career": "殡葬者-丧葬承办人-九级",
+      "aspiration": {
+        "name": "连环浪漫"
+      },
+      "traits": [
+        {
+          "name": "阴森恐怖"
+        },
+        {
+          "name": "整洁"
+        },
+        {
+          "name": "书呆子"
+        },
+        {
+          "name": "诱人"
+        }
+      ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "魅力",
           "level": 8
         },
         {
-          "name": "Fitness",
+          "name": "健身",
           "level": 5
         },
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 7
         },
         {
-          "name": "Painting",
+          "name": "绘画",
           "level": 9
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 5
         }
       ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "coffinlayne"
+          }
+        ],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "specternyon"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -12429,18 +15499,35 @@ export default {
       "chineseName": "艾莉丝",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Single",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/Alice.jpg",
+      "career": "NPC",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
-      "traits": [],
+      "traits": [
+        {
+          "name": "家庭取向"
+        },
+        {
+          "name": "鲁莽"
+        },
+        {
+          "name": "雄心壮志"
+        },
+        {
+          "name": "居家"
+        }
+      ],
       "skills": [
         {
-          "name": "Logic",
+          "name": "逻辑",
           "level": 9
         },
         {
-          "name": "Piano",
+          "name": "钢琴",
           "level": 9
         }
       ],
@@ -12448,7 +15535,11 @@ export default {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "edith"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -12462,29 +15553,37 @@ export default {
       "chineseName": "伊迪丝",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/Edith.jpg",
+      "career": "NPC",
       "aspiration": {
-        "name": "Rambunctious Scamp"
+        "name": "天生好动"
       },
       "traits": [
         {
-          "name": "Mean"
+          "name": "刻薄"
         }
       ],
       "skills": [
         {
-          "name": "Mental",
+          "name": "心智",
           "level": 5
         },
         {
-          "name": "Motor",
+          "name": "运动",
           "level": 7
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "alice"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -12497,10 +15596,40 @@ export default {
       "familyId": "gothlady",
       "name": "Goth LadyRavendancer",
       "chineseName": "高斯·鸦舞者女士",
+      "gender": "Female",
+      "age": "Adult",
+      "maritalStatus": "Single",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/GothLadyRavendancer.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "NPC",
+      "aspiration": {
+        "name": "鬼魂历史学家"
+      },
+      "traits": [
+        {
+          "name": "浪漫风"
+        },
+        {
+          "name": "阴森恐怖"
+        },
+        {
+          "name": "死神拥抱"
+        },
+        {
+          "name": "学习能力快速"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 10
+        },
+        {
+          "name": "写作",
+          "level": 10
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -12519,31 +15648,35 @@ export default {
       "chineseName": "瓦雷兹·威伦",
       "gender": "Male",
       "age": "Elder",
+      "maritalStatus": "Single",
+      "world": "Ravenwood",
+      "worldId": "ravenwood",
       "image": "/images/sims/WarezWaylon.jpg",
+      "career": "NPC",
       "aspiration": {
-        "name": "Ghost Historian"
+        "name": "鬼魂历史学家"
       },
       "traits": [
         {
-          "name": "Hates Children"
+          "name": "痛恨小孩"
         },
         {
-          "name": "Macabre"
+          "name": "阴森恐怖"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [
         {
-          "name": "Mischief",
+          "name": "恶作剧",
           "level": 5
         },
         {
-          "name": "Writing",
+          "name": "写作",
           "level": 6
         }
       ],
@@ -12565,17 +15698,63 @@ export default {
       "chineseName": "洛登·艾瑞克",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/LodenErik.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "小学C",
+      "aspiration": {
+        "name": "艺术天才"
+      },
+      "traits": [
+        {
+          "name": "创意"
+        }
+      ],
+      "skills": [
+        {
+          "name": "创意",
+          "level": 4
+        },
+        {
+          "name": "心智",
+          "level": 2
+        },
+        {
+          "name": "运动",
+          "level": 2
+        },
+        {
+          "name": "陶艺",
+          "level": 2
+        },
+        {
+          "name": "社交",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "lodennora"
+          },
+          {
+            "id": "lodendahlia"
+          }
+        ],
         "children": [],
-        "siblings": [],
-        "grandparents": [],
+        "siblings": [
+          {
+            "id": "lodenfreya"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "lodengrammahattie"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -12587,29 +15766,65 @@ export default {
       "chineseName": "洛登·芙蕾雅",
       "gender": "Female",
       "age": "Teen",
+      "maritalStatus": "Single",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/LodenFreya.jpg",
+      "career": "高中C",
       "aspiration": {
-        "name": "Bodybuilder"
+        "name": "健美运动员"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 3
+        },
+        {
+          "name": "跳舞",
+          "level": 5
+        },
+        {
+          "name": "健身",
+          "level": 3
+        },
+        {
+          "name": "健康",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "lodennora"
+          },
+          {
+            "id": "lodendahlia"
+          }
+        ],
         "children": [],
-        "siblings": [],
-        "grandparents": [],
+        "siblings": [
+          {
+            "id": "lodenerik"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "lodengrammahattie"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -12619,19 +15834,76 @@ export default {
       "familyId": "loden",
       "name": "Loden GrammaHattie",
       "chineseName": "洛登·海蒂奶奶",
+      "gender": "Female",
+      "age": "Elder",
+      "maritalStatus": "Widowed",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/LodenGrammaHattie.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "NPC",
+      "aspiration": {
+        "name": "显赫家世"
+      },
+      "traits": [
+        {
+          "name": "家庭取向"
+        },
+        {
+          "name": "美食家"
+        },
+        {
+          "name": "理想主义者"
+        },
+        {
+          "name": "学习能力快速"
+        }
+      ],
+      "skills": [
+        {
+          "name": "烘焙",
+          "level": 8
+        },
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "烹饪",
+          "level": 8
+        },
+        {
+          "name": "美食烹饪",
+          "level": 2
+        },
+        {
+          "name": "育儿",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "lodennora"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
-        "relatives": []
+        "grandchildren": [
+          {
+            "id": "lodenerik"
+          },
+          {
+            "id": "lodenfreya"
+          }
+        ],
+        "relatives": [
+          {
+            "id": "lodendahlia"
+          }
+        ]
       }
     },
     {
@@ -12641,17 +15913,70 @@ export default {
       "chineseName": "洛登·诺拉",
       "gender": "Female",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/LodenNora.jpg",
+      "career": "小型事业",
       "aspiration": {
-        "name": "Esteemed Entrepreneur"
+        "name": "尊荣企业家"
       },
-      "traits": [],
-      "skills": [],
+      "traits": [
+        {
+          "name": "雄心壮志"
+        },
+        {
+          "name": "整洁"
+        },
+        {
+          "name": "外向"
+        },
+        {
+          "name": "高新陈代谢率"
+        }
+      ],
+      "skills": [
+        {
+          "name": "烘焙",
+          "level": 5
+        },
+        {
+          "name": "烹饪",
+          "level": 5
+        },
+        {
+          "name": "灵巧",
+          "level": 4
+        },
+        {
+          "name": "调酒",
+          "level": 2
+        },
+        {
+          "name": "育儿",
+          "level": 4
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "lodendahlia"
+          }
+        ],
         "lover": [],
-        "parents": [],
-        "children": [],
+        "parents": [
+          {
+            "id": "lodengrammahattie"
+          }
+        ],
+        "children": [
+          {
+            "id": "lodenerik"
+          },
+          {
+            "id": "lodenfreya"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -12665,20 +15990,70 @@ export default {
       "chineseName": "洛登·达莉娅",
       "gender": "Female",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/LodenDahlia.jpg",
-      "career": "Freelance Writer",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "自由工作者-作家",
+      "aspiration": {
+        "name": "畅销作家"
+      },
+      "traits": [
+        {
+          "name": "书呆子"
+        },
+        {
+          "name": "良好"
+        },
+        {
+          "name": "忠诚"
+        },
+        {
+          "name": "沉思者"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "烹饪",
+          "level": 3
+        },
+        {
+          "name": "逻辑",
+          "level": 3
+        },
+        {
+          "name": "写作",
+          "level": 8
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "lodennora"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "lodenerik"
+          },
+          {
+            "id": "lodenfreya"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "lodengrammahattie"
+          }
+        ]
       }
     },
     {
@@ -12688,16 +16063,45 @@ export default {
       "chineseName": "萨普昂·莱拉托",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/SarpongLerato.jpg",
+      "career": "小学A",
       "aspiration": {
-        "name": "Whiz Kid"
+        "name": "神童"
       },
-      "traits": [],
-      "skills": [],
+      "traits": [
+        {
+          "name": "宅宅"
+        }
+      ],
+      "skills": [
+        {
+          "name": "创意",
+          "level": 2
+        },
+        {
+          "name": "心智",
+          "level": 5
+        },
+        {
+          "name": "运动",
+          "level": 3
+        },
+        {
+          "name": "社交",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "sarpongnia"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -12713,17 +16117,54 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/SarpongNia.jpg",
+      "career": "小型事业",
       "aspiration": {
-        "name": "Neighborhood Confidante"
+        "name": "社区知己"
       },
-      "traits": [],
-      "skills": [],
+      "traits": [
+        {
+          "name": "创意"
+        },
+        {
+          "name": "家庭取向"
+        },
+        {
+          "name": "完美主义者"
+        },
+        {
+          "name": "合群"
+        }
+      ],
+      "skills": [
+        {
+          "name": "绘画",
+          "level": 7
+        },
+        {
+          "name": "育儿",
+          "level": 3
+        },
+        {
+          "name": "摄影",
+          "level": 4
+        },
+        {
+          "name": "刺青",
+          "level": 8
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "sarponglerato"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -12738,26 +16179,57 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/ColemanCannonball.jpg",
-      "career": "Entertainer",
+      "career": "演艺人员-音乐家-六级",
       "aspiration": {
-        "name": "Musical Genius"
+        "name": "音乐天才"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 7
+        },
+        {
+          "name": "烹饪",
+          "level": 4
+        },
+        {
+          "name": "吉他",
+          "level": 5
+        },
+        {
+          "name": "调酒",
+          "level": 6
+        },
+        {
+          "name": "钢琴",
+          "level": 8
+        },
+        {
+          "name": "唱歌",
+          "level": 5
+        },
+        {
+          "name": "小提琴",
+          "level": 8
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -12777,31 +16249,66 @@ export default {
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Single",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/BlackCrispin.jpg",
-      "career": "Painter",
+      "career": "画家-艺术品买家-七级",
       "aspiration": {
-        "name": "Esteemed Entrepreneur"
+        "name": "尊荣企业家"
       },
       "traits": [
         {
-          "name": "Hot-headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Shady"
+          "name": "阴险"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 4
+        },
+        {
+          "name": "烹饪",
+          "level": 4
+        },
+        {
+          "name": "绘画",
+          "level": 5
+        },
+        {
+          "name": "育儿",
+          "level": 4
+        },
+        {
+          "name": "摄影",
+          "level": 5
+        },
+        {
+          "name": "陶艺",
+          "level": 4
+        },
+        {
+          "name": "小提琴",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "markollie"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -12816,26 +16323,46 @@ export default {
       "gender": "Non-binary",
       "age": "Teen",
       "maritalStatus": "Single",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/MarkOllie.jpg",
+      "career": "高中A",
       "aspiration": {
-        "name": "Nerd Brain"
+        "name": "书呆子的脑袋"
       },
       "traits": [
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 4
+        },
+        {
+          "name": "逻辑",
+          "level": 5
+        },
+        {
+          "name": "程式设计",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "blackcrispin"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -12851,13 +16378,56 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/KoopmanGert.jpg",
-      "career": "Unemployed",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "无业",
+      "aspiration": {
+        "name": "世界之友"
+      },
+      "traits": [
+        {
+          "name": "笨拙"
+        },
+        {
+          "name": "浪漫风"
+        },
+        {
+          "name": "自信"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 8
+        },
+        {
+          "name": "烹饪",
+          "level": 3
+        },
+        {
+          "name": "灵巧",
+          "level": 3
+        },
+        {
+          "name": "针织",
+          "level": 3
+        },
+        {
+          "name": "育儿",
+          "level": 5
+        },
+        {
+          "name": "陶艺",
+          "level": 5
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "koopmanjolanda"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -12875,12 +16445,47 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Married",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/KoopmanJolanda.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "小型事业",
+      "aspiration": {
+        "name": "大师指导者"
+      },
+      "traits": [
+        {
+          "name": "艺术爱好者"
+        },
+        {
+          "name": "傻瓜"
+        },
+        {
+          "name": "完美主义者"
+        },
+        {
+          "name": "沉思者"
+        }
+      ],
+      "skills": [
+        {
+          "name": "园艺",
+          "level": 4
+        },
+        {
+          "name": "灵巧",
+          "level": 4
+        },
+        {
+          "name": "陶艺",
+          "level": 10
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "koopmangert"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -12898,13 +16503,45 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Widowed",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/HoffmanBruno.jpg",
-      "career": "Unemployed",
+      "career": "无业",
       "aspiration": {
-        "name": "Esteemed Entrepreneur"
+        "name": "尊荣企业家"
       },
-      "traits": [],
-      "skills": [],
+      "traits": [
+        {
+          "name": "谄媚势力"
+        },
+        {
+          "name": "偷窃狂"
+        },
+        {
+          "name": "笨拙"
+        },
+        {
+          "name": "高新陈代谢率"
+        }
+      ],
+      "skills": [
+        {
+          "name": "烘焙",
+          "level": 5
+        },
+        {
+          "name": "烹饪",
+          "level": 7
+        },
+        {
+          "name": "美食烹饪",
+          "level": 8
+        },
+        {
+          "name": "恶作剧",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -12912,7 +16549,11 @@ export default {
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
+        "grandchildren": [
+          {
+            "id": "hoffmanfelix"
+          }
+        ],
         "relatives": []
       }
     },
@@ -12924,33 +16565,52 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/HoffmanFelix.jpg",
-      "career": "Candy Vendor at Hoffman's Candy Stall",
+      "career": "NPC",
       "aspiration": {
-        "name": "Master Chef"
+        "name": "妙手主厨"
       },
       "traits": [
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Hates Children"
+          "name": "痛恨小孩"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烘焙",
+          "level": 4
+        },
+        {
+          "name": "烹饪",
+          "level": 6
+        },
+        {
+          "name": "美食烹饪",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "hoffmanbruno"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -12963,26 +16623,45 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/NyhusCorey.jpg",
-      "career": "Culinary",
+      "career": "烹饪-调酒师-七级",
       "aspiration": {
-        "name": "Soulmate"
+        "name": "心灵伴侣"
       },
       "traits": [
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         },
         {
-          "name": "Graduated with Honors"
+          "name": "带着荣誉毕业"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "灵巧",
+          "level": 2
+        },
+        {
+          "name": "调酒",
+          "level": 5
+        },
+        {
+          "name": "浪漫",
+          "level": 2
+        },
+        {
+          "name": "电玩游戏",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13002,23 +16681,54 @@ export default {
       "gender": "Non-binary",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Nordhaven",
+      "worldId": "nordhaven",
       "image": "/images/sims/AmriZain.jpg",
-      "career": "Entertainer",
+      "career": "演艺人员-音乐家-五级",
       "aspiration": {
-        "name": "Musical Genius"
+        "name": "音乐天才"
       },
       "traits": [
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "DJ混音",
+          "level": 2
+        },
+        {
+          "name": "吉他",
+          "level": 4
+        },
+        {
+          "name": "钢琴",
+          "level": 4
+        },
+        {
+          "name": "唱歌",
+          "level": 5
+        },
+        {
+          "name": "小提琴",
+          "level": 2
+        },
+        {
+          "name": "健康",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13038,25 +16748,37 @@ export default {
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/NhoamGlen.jpg",
+      "career": "无业",
       "aspiration": {
-        "name": "The Curator"
+        "name": "馆长"
       },
       "traits": [
         {
-          "name": "Loner"
+          "name": "独行侠"
         },
         {
-          "name": "Clumsy"
+          "name": "笨拙"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "灵巧",
+          "level": 8
+        },
+        {
+          "name": "写作",
+          "level": 10
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13075,31 +16797,55 @@ export default {
       "chineseName": "拉迪波·阿约",
       "gender": "Non-binary",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/LadipoAyo.jpg",
-      "career": "Tech Guru",
+      "career": "科技达人-创新企业家-八级",
       "aspiration": {
-        "name": "Computer Whiz"
+        "name": "电脑神童"
       },
       "traits": [
         {
-          "name": "Neat"
+          "name": "整洁"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "逻辑",
+          "level": 2
+        },
+        {
+          "name": "程式设计",
+          "level": 8
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "ladipoflora"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "ladipoiris"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -13113,31 +16859,55 @@ export default {
       "chineseName": "拉迪波·芙洛拉",
       "gender": "Female",
       "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/LadipoFlora.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者-数位艺术家",
       "aspiration": {
-        "name": "Nerd Brain"
+        "name": "书呆子的脑袋"
       },
       "traits": [
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "逻辑",
+          "level": 4
+        },
+        {
+          "name": "绘画",
+          "level": 7
+        },
+        {
+          "name": "程式设计",
+          "level": 5
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "ladipoayo"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "ladipoiris"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -13151,30 +16921,53 @@ export default {
       "chineseName": "德穆雷·艾尔里克",
       "gender": "Male",
       "age": "Adult",
-      "maritalStatus": "|family    = DeMuray family",
+      "maritalStatus": "Dating",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/DeMurayElric.jpg",
-      "career": "Culinary",
+      "career": "烹饪-调酒师-七级",
       "aspiration": {
-        "name": "Nature Nomad"
+        "name": "自然游牧"
       },
       "traits": [
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "园艺",
+          "level": 7
+        },
+        {
+          "name": "调酒",
+          "level": 6
+        },
+        {
+          "name": "自然生活",
+          "level": 7
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "attenberrytodd"
+          }
+        ],
         "parents": [],
         "children": [],
         "siblings": [],
@@ -13191,26 +16984,48 @@ export default {
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Dating",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/AttenberryTodd.jpg",
-      "aspiration": {},
+      "career": "无业",
+      "aspiration": {
+        "name": "灵药爱好者"
+      },
       "traits": [
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "药剂师",
+          "level": 10
+        },
+        {
+          "name": "园艺",
+          "level": 6
+        },
+        {
+          "name": "自然生活",
+          "level": 6
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "demurayelric"
+          }
+        ],
         "parents": [],
         "children": [],
         "siblings": [],
@@ -13226,25 +17041,58 @@ export default {
       "chineseName": "夏梦·缇塔尼亚",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/SummerdreamTitania.jpg",
-      "career": "Naturopath",
-      "aspiration": {},
-      "traits": [],
-      "skills": [
+      "career": "天然疗法师-好奇药师-六级",
+      "aspiration": {
+        "name": "灵药爱好者"
+      },
+      "traits": [
         {
-          "name": "Charisma",
-          "level": 2
+          "name": "邋遢鬼"
         },
         {
-          "name": "Creativity",
-          "level": 1
+          "name": "不愿承诺"
+        },
+        {
+          "name": "良好"
+        },
+        {
+          "name": "学习能力快速"
+        },
+        {
+          "name": "高级仙子血统"
+        }
+      ],
+      "skills": [
+        {
+          "name": "药剂师",
+          "level": 6
+        },
+        {
+          "name": "园艺",
+          "level": 3
+        },
+        {
+          "name": "园艺",
+          "level": 6
         }
       ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "summerdreamoberon"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "summerdreammara"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -13258,16 +17106,58 @@ export default {
       "chineseName": "夏梦·奥伯伦",
       "gender": "Male",
       "age": "Young Adult",
+      "maritalStatus": "Married",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/SummerdreamOberon.jpg",
-      "career": "Unemployed",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "无业",
+      "aspiration": {
+        "name": "显赫家世"
+      },
+      "traits": [
+        {
+          "name": "植物爱好者"
+        },
+        {
+          "name": "好动"
+        },
+        {
+          "name": "神秘"
+        },
+        {
+          "name": "居家"
+        },
+        {
+          "name": "高级仙子血统"
+        }
+      ],
+      "skills": [
+        {
+          "name": "钓鱼",
+          "level": 7
+        },
+        {
+          "name": "园艺",
+          "level": 8
+        },
+        {
+          "name": "自然生活",
+          "level": 5
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "summerdreamtitania"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "summerdreammara"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -13281,23 +17171,43 @@ export default {
       "chineseName": "夏梦·玛拉",
       "gender": "Female",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/SummerdreamMara.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Social Butterfly"
+        "name": "交际花"
       },
       "traits": [
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "High Fae Lineage"
+          "name": "高级仙子血统"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "钓鱼",
+          "level": 2
+        },
+        {
+          "name": "心智",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "summerdreamoberon"
+          },
+          {
+            "id": "summerdreamtitania"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -13313,30 +17223,56 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/LadipoIris.jpg",
-      "career": "Babysitter",
+      "career": "保姆-二级",
       "aspiration": {
-        "name": "Fairy Stories"
+        "name": "仙子故事"
       },
       "traits": [
         {
-          "name": "Mystical"
+          "name": "神秘"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Loyal"
+          "name": "忠诚"
         },
         {
-          "name": "Fairy Influence"
+          "name": "仙子影响"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "药剂师",
+          "level": 4
+        },
+        {
+          "name": "魅力",
+          "level": 2
+        },
+        {
+          "name": "园艺",
+          "level": 3
+        },
+        {
+          "name": "自然生活",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "ladipoayo"
+          },
+          {
+            "id": "ladipoflora"
+          }
+        ],
         "children": [],
         "siblings": [],
         "grandparents": [],
@@ -13352,26 +17288,41 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/KishkaNadya.jpg",
-      "career": "Entertainer",
+      "career": "演艺人员-音乐家-五级",
       "aspiration": {
-        "name": "Musical Genius"
+        "name": "音乐天才"
       },
       "traits": [
         {
-          "name": "Music Lover"
+          "name": "音乐爱好者"
         },
         {
-          "name": "Disruptive"
+          "name": "来乱的"
         },
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "吉他",
+          "level": 3
+        },
+        {
+          "name": "恶作剧",
+          "level": 7
+        },
+        {
+          "name": "钢琴",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13391,26 +17342,37 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/AmaniZhaleh.jpg",
-      "career": "|careerlevel =",
+      "career": "NPC",
       "aspiration": {
-        "name": "Harmonious Fairy"
+        "name": "和谐仙子"
       },
       "traits": [
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Vegetarian"
+          "name": "素食主义者"
         },
         {
-          "name": "Mystical"
+          "name": "神秘"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "药剂师",
+          "level": 7
+        },
+        {
+          "name": "自然生活",
+          "level": 7
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13429,27 +17391,42 @@ export default {
       "chineseName": "任·凯尔",
       "gender": "Female",
       "age": "Adult",
-      "maritalStatus": "|family    = Ren family",
+      "maritalStatus": "Single",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/RenCare.jpg",
-      "career": "|careerlevel =",
+      "career": "NPC",
       "aspiration": {
-        "name": "Grilled Cheese"
+        "name": "烤起司"
       },
       "traits": [
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 6
+        },
+        {
+          "name": "烹饪",
+          "level": 5
+        },
+        {
+          "name": "逻辑",
+          "level": 7
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13468,26 +17445,34 @@ export default {
       "chineseName": "天树·王牌",
       "gender": "Non-binary",
       "age": "Adult",
+      "maritalStatus": "Single",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/AlmightySpruce.jpg",
-      "career": "|asp           = Nature Nomad",
+      "career": "NPC",
       "aspiration": {
-        "name": "Nature Nomad"
+        "name": "自然游牧"
       },
       "traits": [
         {
-          "name": "Romantic"
+          "name": "浪漫风"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "园艺",
+          "level": 8
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13506,26 +17491,37 @@ export default {
       "chineseName": "自然·之母",
       "gender": "Female",
       "age": "Young Adult",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/NatureMother.jpg",
-      "career": "|asp           = Friend of the World",
+      "career": "NPC",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Loves Outdoors"
+          "name": "热爱户外"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 10
+        },
+        {
+          "name": "园艺",
+          "level": 10
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13545,26 +17541,37 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Innisgreen",
+      "worldId": "innisgreen",
       "image": "/images/sims/TraderJoe.jpg",
-      "career": "|careerlevel =",
+      "career": "NPC",
       "aspiration": {
-        "name": "Chief of Mischief"
+        "name": "狡黠之王"
       },
       "traits": [
         {
-          "name": "Disruptive"
+          "name": "来乱的"
         },
         {
-          "name": "Kleptomaniac"
+          "name": "偷窃狂"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 10
+        },
+        {
+          "name": "恶作剧",
+          "level": 7
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13581,15 +17588,79 @@ export default {
       "familyId": "chavezralston",
       "name": "ChavezRalston Nigel",
       "chineseName": "查维兹-劳斯顿·奈杰尔",
+      "gender": "Male",
+      "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/ChavezRalstonNigel.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "无业",
+      "aspiration": {
+        "name": "快乐大家庭"
+      },
+      "traits": [
+        {
+          "name": "好动"
+        },
+        {
+          "name": "家庭取向"
+        },
+        {
+          "name": "热爱户外"
+        },
+        {
+          "name": "收藏家"
+        },
+        {
+          "name": "居家"
+        }
+      ],
+      "skills": [
+        {
+          "name": "射箭",
+          "level": 5
+        },
+        {
+          "name": "魅力",
+          "level": 8
+        },
+        {
+          "name": "跳水",
+          "level": 3
+        },
+        {
+          "name": "钓鱼",
+          "level": 5
+        },
+        {
+          "name": "吉他",
+          "level": 5
+        },
+        {
+          "name": "绘画",
+          "level": 5
+        },
+        {
+          "name": "纸艺",
+          "level": 4
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "chavezralstonsara"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "chavezralstonaeris"
+          },
+          {
+            "id": "chavezralstonerin"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -13601,15 +17672,79 @@ export default {
       "familyId": "chavezralston",
       "name": "ChavezRalston Sara",
       "chineseName": "查维兹-劳斯顿·莎拉",
+      "gender": "Female",
+      "age": "Adult",
+      "maritalStatus": "Married",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/ChavezRalstonSara.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "公园工作者-公园辅导员-十级",
+      "aspiration": {
+        "name": "小动物猎人"
+      },
+      "traits": [
+        {
+          "name": "家庭取向"
+        },
+        {
+          "name": "热爱户外"
+        },
+        {
+          "name": "整洁"
+        },
+        {
+          "name": "居家"
+        },
+        {
+          "name": "资深营地辅导员"
+        }
+      ],
+      "skills": [
+        {
+          "name": "射箭",
+          "level": 2
+        },
+        {
+          "name": "魅力",
+          "level": 9
+        },
+        {
+          "name": "园艺",
+          "level": 6
+        },
+        {
+          "name": "灵巧",
+          "level": 2
+        },
+        {
+          "name": "逻辑",
+          "level": 8
+        },
+        {
+          "name": "绘画",
+          "level": 4
+        },
+        {
+          "name": "纸艺",
+          "level": 7
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "chavezralstonnigel"
+          }
+        ],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "chavezralstonaeris"
+          },
+          {
+            "id": "chavezralstonerin"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
@@ -13621,16 +17756,47 @@ export default {
       "familyId": "chavezralston",
       "name": "ChavezRalston Aeris",
       "chineseName": "查维兹-劳斯顿·艾莉丝",
+      "gender": "Female",
+      "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/ChavezRalstonAeris.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "小学C",
+      "aspiration": {
+        "name": "艺术天才"
+      },
+      "traits": [
+        {
+          "name": "创意"
+        },
+        {
+          "name": "资深的露营者"
+        }
+      ],
+      "skills": [
+        {
+          "name": "创意",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "chavezralstonsara"
+          },
+          {
+            "id": "chavezralstonnigel"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "chavezralstonerin"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -13641,16 +17807,47 @@ export default {
       "familyId": "chavezralston",
       "name": "ChavezRalston Erin",
       "chineseName": "查维兹-劳斯顿·艾琳",
+      "gender": "Female",
+      "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/ChavezRalstonErin.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "小学C",
+      "aspiration": {
+        "name": "街区酷小孩"
+      },
+      "traits": [
+        {
+          "name": "好胜"
+        },
+        {
+          "name": "资深的露营者"
+        }
+      ],
+      "skills": [
+        {
+          "name": "社交",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "chavezralstonsara"
+          },
+          {
+            "id": "chavezralstonnigel"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "chavezralstonaeris"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -13664,27 +17861,62 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/AddamJane.jpg",
+      "career": "无业",
       "aspiration": {
-        "name": "Master Mixologist"
+        "name": "调酒大师"
       },
       "traits": [
         {
-          "name": "Jealous"
+          "name": "善妒"
         },
         {
-          "name": "Loyal"
+          "name": "忠诚"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Essence of Flavor"
+          "name": "味之精髓"
+        },
+        {
+          "name": "资深的浪漫主办人"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "烹饪",
+          "level": 8
+        },
+        {
+          "name": "健身",
+          "level": 2
+        },
+        {
+          "name": "美食烹饪",
+          "level": 7
+        },
+        {
+          "name": "灵巧",
+          "level": 3
+        },
+        {
+          "name": "调酒",
+          "level": 5
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "addamstar"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -13702,27 +17934,54 @@ export default {
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/AddamStar.jpg",
+      "career": "无业",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Erratic"
+          "name": "古怪"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
+        },
+        {
+          "name": "资深的浪漫主办人"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 7
+        },
+        {
+          "name": "钓鱼",
+          "level": 6
+        },
+        {
+          "name": "逻辑",
+          "level": 6
+        },
+        {
+          "name": "钢琴",
+          "level": 7
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "addamjane"
+          }
+        ],
         "lover": [],
         "parents": [],
         "children": [],
@@ -13740,44 +17999,42 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/TchotchkeAgora.jpg",
+      "career": "无业",
       "aspiration": {
-        "name": "Chief of Mischief"
+        "name": "狡黠之王"
       },
       "traits": [
         {
-          "name": "Gloomy"
+          "name": "阴沉"
         },
         {
-          "name": "Lazy"
+          "name": "懒惰"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
+        },
+        {
+          "name": "资深的浪漫单身者"
         }
       ],
       "skills": [
         {
-          "name": "Mechanical",
-          "level": 3
+          "name": "魅力",
+          "level": 5
         },
         {
-          "name": "Charisma",
+          "name": "烹饪",
           "level": 2
         },
         {
-          "name": "Body",
-          "level": 3
-        },
-        {
-          "name": "Creativity",
-          "level": 1
-        },
-        {
-          "name": "Cleaning",
-          "level": 2
+          "name": "钓鱼",
+          "level": 4
         }
       ],
       "relationships": {
@@ -13798,26 +18055,60 @@ export default {
       "chineseName": "布罗克·斯基普",
       "gender": "Male",
       "age": "Adult",
+      "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/BrokeSkip.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者-程式设计师",
       "aspiration": {
-        "name": "Fabulously Wealthy"
+        "name": "家财万万贯"
       },
       "traits": [
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Slob"
+          "name": "邋遢鬼"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Business Savvy"
+          "name": "精通生意"
+        },
+        {
+          "name": "资深的浪漫单身者"
+        },
+        {
+          "name": "资深的健身静修营宾客"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 7
+        },
+        {
+          "name": "健身",
+          "level": 7
+        },
+        {
+          "name": "美食烹饪",
+          "level": 8
+        },
+        {
+          "name": "灵巧",
+          "level": 5
+        },
+        {
+          "name": "逻辑",
+          "level": 6
+        },
+        {
+          "name": "小提琴",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13837,25 +18128,53 @@ export default {
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/PerryFreeda.jpg",
+      "career": "无业",
       "aspiration": {
-        "name": "Bodybuilder"
+        "name": "健美运动员"
       },
       "traits": [
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "High Metabolism"
+          "name": "高新陈代谢率"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 8
+        },
+        {
+          "name": "烹饪",
+          "level": 8
+        },
+        {
+          "name": "健身",
+          "level": 6
+        },
+        {
+          "name": "调酒",
+          "level": 6
+        },
+        {
+          "name": "纸艺",
+          "level": 5
+        },
+        {
+          "name": "钢琴",
+          "level": 9
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13863,7 +18182,11 @@ export default {
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
+        "grandchildren": [
+          {
+            "id": "perrydougie"
+          }
+        ],
         "relatives": []
       }
     },
@@ -13874,23 +18197,36 @@ export default {
       "chineseName": "佩里·道奇",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/PerryDougie.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Whiz Kid"
+        "name": "神童"
       },
       "traits": [
         {
-          "name": "Loner"
+          "name": "独行侠"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "心智",
+          "level": 1
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "perryfreeda"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -13902,22 +18238,20 @@ export default {
       "chineseName": "史酷普·巴迪",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/ScoopBuddy.jpg",
+      "career": "小学C",
       "aspiration": {
-        "name": "Rambunctious Scamp"
+        "name": "天生好动"
       },
       "traits": [
         {
-          "name": "Competitive"
+          "name": "好胜"
         },
         {
-          "name": "Competitive Spirit: Bad"
-        },
-        {
-          "name": "Seasoned Camper"
-        },
-        {
-          "name": "|muscle        = f-0.146"
+          "name": "资深的露营者"
         }
       ],
       "skills": [],
@@ -13940,26 +18274,45 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/PreenerPruella.jpg",
-      "career": "|maritalstatus = Single",
+      "career": "NPC",
       "aspiration": {
-        "name": "Critter Hunter"
+        "name": "小动物猎人"
       },
       "traits": [
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Loyal"
+          "name": "忠诚"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Collector"
+          "name": "收藏家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 10
+        },
+        {
+          "name": "钓鱼",
+          "level": 10
+        },
+        {
+          "name": "灵巧",
+          "level": 10
+        },
+        {
+          "name": "唱歌",
+          "level": 10
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -13979,26 +18332,45 @@ export default {
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/AkamineToshie.jpg",
-      "career": "Freelancer",
+      "career": "自由工作者-作家",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Muser"
+          "name": "沉思者"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 7
+        },
+        {
+          "name": "钓鱼",
+          "level": 5
+        },
+        {
+          "name": "绘画",
+          "level": 5
+        },
+        {
+          "name": "写作",
+          "level": 9
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -14018,19 +18390,63 @@ export default {
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/KunalRaheel.jpg",
-      "career": "|maritalstatus = Single",
+      "career": "NPC",
       "aspiration": {
-        "name": "Angling Ace"
+        "name": "王牌钓手"
       },
-      "traits": [],
-      "skills": [],
+      "traits": [
+        {
+          "name": "热爱户外"
+        },
+        {
+          "name": "独行侠"
+        },
+        {
+          "name": "好动"
+        },
+        {
+          "name": "收藏家"
+        }
+      ],
+      "skills": [
+        {
+          "name": "钓鱼",
+          "level": 7
+        },
+        {
+          "name": "健身",
+          "level": 5
+        },
+        {
+          "name": "灵巧",
+          "level": 9
+        },
+        {
+          "name": "调酒",
+          "level": 8
+        },
+        {
+          "name": "纸艺",
+          "level": 9
+        },
+        {
+          "name": "写作",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "kunallaxmi"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -14044,19 +18460,59 @@ export default {
       "gender": "Non-binary",
       "age": "Young Adult",
       "maritalStatus": "Single",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
       "image": "/images/sims/KunalLaxmi.jpg",
-      "career": "|maritalstatus = Single",
+      "career": "NPC",
       "aspiration": {
-        "name": "Critter Hunter"
+        "name": "小动物猎人"
       },
-      "traits": [],
-      "skills": [],
+      "traits": [
+        {
+          "name": "浪漫风"
+        },
+        {
+          "name": "忠诚"
+        },
+        {
+          "name": "热爱户外"
+        },
+        {
+          "name": "收藏家"
+        }
+      ],
+      "skills": [
+        {
+          "name": "钓鱼",
+          "level": 7
+        },
+        {
+          "name": "园艺",
+          "level": 7
+        },
+        {
+          "name": "灵巧",
+          "level": 6
+        },
+        {
+          "name": "调酒",
+          "level": 5
+        },
+        {
+          "name": "纸艺",
+          "level": 7
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "kunalraheel"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -14075,26 +18531,39 @@ export default {
       "image": "/images/sims/MontyJuliette.jpg",
       "career": "无业",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Foodie"
+          "name": "美食家"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Entrepreneurial"
+          "name": "企业家"
         },
         {
-          "name": "Savant"
+          "name": "专家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 10
+        },
+        {
+          "name": "钢琴",
+          "level": 4
+        },
+        {
+          "name": "剑术",
+          "level": 6
+        }
+      ],
       "relationships": {
         "spouse": [
           {
@@ -14119,17 +18588,7 @@ export default {
           }
         ],
         "grandchildren": [],
-        "relatives": [
-          {
-            "id": "cappbeatrice"
-          },
-          {
-            "id": "cappbeatrice"
-          },
-          {
-            "id": "cappvirgilio"
-          }
-        ]
+        "relatives": []
       }
     },
     {
@@ -14143,24 +18602,36 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/MontyRomeo.jpg",
-      "career": "烹饪",
+      "career": "烹饪-五级",
       "aspiration": {
-        "name": "Soulmate"
+        "name": "心灵伴侣"
       },
       "traits": [
         {
-          "name": "Bro"
+          "name": "好哥们"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Foodie"
+          "name": "美食家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
+          "name": "烹饪",
+          "level": 10
+        },
+        {
+          "name": "美食烹饪",
+          "level": 8
+        },
+        {
+          "name": "调酒",
+          "level": 7
+        },
+        {
+          "name": "电玩游戏",
           "level": 3
         }
       ],
@@ -14180,7 +18651,11 @@ export default {
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "capptybalt"
+          }
+        ]
       }
     },
     {
@@ -14194,31 +18669,40 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/MontyDante.jpg",
-      "career": "HighSchool",
+      "career": "高中C",
       "aspiration": {
-        "name": "Joke Star"
+        "name": "喜剧之王"
       },
       "traits": [
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "烹饪",
+          "level": 5
+        },
+        {
+          "name": "电玩游戏",
+          "level": 8
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [
           {
-            "id": "montyromeo"
+            "id": "montyjuliette"
           },
           {
-            "id": "montyjuliette"
+            "id": "montyromeo"
           }
         ],
         "children": [],
@@ -14227,16 +18711,10 @@ export default {
         "grandchildren": [],
         "relatives": [
           {
+            "id": "cappceleste"
+          },
+          {
             "id": "capptybalt"
-          },
-          {
-            "id": "cappbeatrice"
-          },
-          {
-            "id": "cappbeatrice"
-          },
-          {
-            "id": "cappvirgilio"
           }
         ]
       }
@@ -14246,12 +18724,47 @@ export default {
       "familyId": "alto",
       "name": "Alto Enzo",
       "chineseName": "艾托·恩佐",
+      "gender": "Male",
+      "age": "Adult",
+      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AltoEnzo.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "贵族-七级",
+      "aspiration": {
+        "name": "连环浪漫"
+      },
+      "traits": [
+        {
+          "name": "痛恨小孩"
+        },
+        {
+          "name": "鲁莽"
+        },
+        {
+          "name": "善妒"
+        },
+        {
+          "name": "诱人"
+        },
+        {
+          "name": "皇家恋人"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 3
+        },
+        {
+          "name": "浪漫",
+          "level": 2
+        },
+        {
+          "name": "剑术",
+          "level": 9
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -14271,42 +18784,50 @@ export default {
       "id": "capptybalt",
       "familyId": "capp",
       "name": "Capp Tybalt",
-      "chineseName": "盖普·提伯特",
+      "chineseName": "卡普·提伯特",
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/CappTybalt.jpg",
-      "career": "Respected Regent",
+      "career": "贵族-九级",
       "aspiration": {
-        "name": "Mansion Baron"
+        "name": "豪宅大王"
       },
       "traits": [
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Regal Romancer"
+          "name": "皇家恋人"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
       "skills": [
         {
-          "name": "Body",
-          "level": 10
+          "name": "魅力",
+          "level": 9
         },
         {
-          "name": "Logic",
-          "level": 1
+          "name": "绘画",
+          "level": 8
+        },
+        {
+          "name": "钢琴",
+          "level": 7
+        },
+        {
+          "name": "剑术",
+          "level": 2
         }
       ],
       "relationships": {
@@ -14318,7 +18839,7 @@ export default {
             "id": "cappbeatrice"
           },
           {
-            "id": "cappbeatrice"
+            "id": "cappceleste"
           },
           {
             "id": "cappvirgilio"
@@ -14338,6 +18859,9 @@ export default {
         "relatives": [
           {
             "id": "montydante"
+          },
+          {
+            "id": "montyromeo"
           }
         ]
       }
@@ -14346,120 +18870,248 @@ export default {
       "id": "cappbeatrice",
       "familyId": "capp",
       "name": "Capp Beatrice",
-      "chineseName": "盖普·比阿特丽丝",
+      "chineseName": "卡普·比阿特丽丝",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/CappBeatrice.jpg",
-      "career": "Writer",
+      "career": "写作-记者-六级",
       "aspiration": {
-        "name": "Friend of the World"
+        "name": "世界之友"
       },
       "traits": [
         {
-          "name": "Loyal"
+          "name": "忠诚"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Gregarious"
+          "name": "合群"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 9
+        },
+        {
+          "name": "绘画",
+          "level": 6
+        },
+        {
+          "name": "钢琴",
+          "level": 9
+        },
+        {
+          "name": "剑术",
+          "level": 7
+        },
+        {
+          "name": "写作",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "capptybalt"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "cappceleste"
+          },
+          {
+            "id": "cappvirgilio"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "cappconsort"
+          },
+          {
+            "id": "montydante"
+          }
+        ]
       }
     },
     {
       "id": "cappceleste",
       "familyId": "capp",
       "name": "Capp Celeste",
-      "chineseName": "盖普·塞莱斯特",
+      "chineseName": "卡普·塞莱斯特",
       "gender": "Non-binary",
       "age": "Young Adult",
+      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/CappCeleste.jpg",
-      "career": "Entertainer",
+      "career": "演艺人员-音乐家-六级",
       "aspiration": {
-        "name": "Soulmate"
+        "name": "心灵伴侣"
       },
       "traits": [
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Cheerful"
+          "name": "欢乐"
         },
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Alluring"
+          "name": "诱人"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 9
+        },
+        {
+          "name": "逻辑",
+          "level": 2
+        },
+        {
+          "name": "恶作剧",
+          "level": 6
+        },
+        {
+          "name": "绘画",
+          "level": 2
+        },
+        {
+          "name": "钢琴",
+          "level": 2
+        },
+        {
+          "name": "剑术",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "capptybalt"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "cappbeatrice"
+          },
+          {
+            "id": "cappvirgilio"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "cappconsort"
+          },
+          {
+            "id": "montydante"
+          }
+        ]
       }
     },
     {
       "id": "cappvirgilio",
       "familyId": "capp",
       "name": "Capp Virgilio",
-      "chineseName": "盖普·维吉里欧",
+      "chineseName": "卡普·维吉里欧",
       "gender": "Male",
       "age": "Young Adult",
+      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/CappVirgilio.jpg",
-      "career": "Business",
+      "career": "上班族-三级",
       "aspiration": {
-        "name": "Chief of Mischief"
+        "name": "狡黠之王"
       },
       "traits": [
         {
-          "name": "Geek"
+          "name": "宅宅"
         },
         {
-          "name": "Goofball"
+          "name": "傻瓜"
         },
         {
-          "name": "Mean"
+          "name": "刻薄"
         },
         {
-          "name": "Dastardly"
+          "name": "卑鄙"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 9
+        },
+        {
+          "name": "吉他",
+          "level": 4
+        },
+        {
+          "name": "绘画",
+          "level": 8
+        },
+        {
+          "name": "钢琴",
+          "level": 6
+        },
+        {
+          "name": "剑术",
+          "level": 6
+        },
+        {
+          "name": "电玩游戏",
+          "level": 3
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "capptybalt"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "cappbeatrice"
+          },
+          {
+            "id": "cappceleste"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "cappconsort"
+          },
+          {
+            "id": "montydante"
+          }
+        ]
       }
     },
     {
@@ -14469,36 +19121,74 @@ export default {
       "chineseName": "达隆·阿德科亚",
       "gender": "Male",
       "age": "Elder",
+      "maritalStatus": "Widowed",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/DarongAdekoya.jpg",
-      "career": "|careerlevel   =",
+      "career": "无业",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Bookworm"
+          "name": "书呆子"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Speed Reader"
+          "name": "快速阅读人"
+        },
+        {
+          "name": "早起的市民有虫吃"
+        },
+        {
+          "name": "奋进的昔日贵族"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 9
+        },
+        {
+          "name": "绘画",
+          "level": 4
+        },
+        {
+          "name": "剑术",
+          "level": 8
+        },
+        {
+          "name": "写作",
+          "level": 10
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "ananouafua"
+          },
+          {
+            "id": "darongjawara"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
+        "grandchildren": [
+          {
+            "id": "darongamarachi"
+          },
+          {
+            "id": "darongobi"
+          }
+        ],
         "relatives": []
       }
     },
@@ -14509,34 +19199,74 @@ export default {
       "chineseName": "达隆·贾瓦拉",
       "gender": "Female",
       "age": "Young Adult",
+      "maritalStatus": "Dating",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/DarongJawara.jpg",
-      "career": "Noble",
+      "career": "贵族-九级",
       "aspiration": {
-        "name": "Big Happy Family"
+        "name": "快乐大家庭"
       },
       "traits": [
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Family-Oriented"
+          "name": "家庭取向"
         },
         {
-          "name": "Night Owl"
+          "name": "夜猫子"
+        },
+        {
+          "name": "皇家恋人"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 5
+        },
+        {
+          "name": "绘画",
+          "level": 9
+        },
+        {
+          "name": "剑术",
+          "level": 2
+        },
+        {
+          "name": "写作",
+          "level": 4
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
-        "parents": [],
-        "children": [],
-        "siblings": [],
+        "lover": [
+          {
+            "id": "onojaakachi"
+          }
+        ],
+        "parents": [
+          {
+            "id": "darongadekoya"
+          }
+        ],
+        "children": [
+          {
+            "id": "darongamarachi"
+          },
+          {
+            "id": "darongobi"
+          }
+        ],
+        "siblings": [
+          {
+            "id": "ananouafua"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -14549,34 +19279,68 @@ export default {
       "chineseName": "达隆·阿玛拉奇",
       "gender": "Female",
       "age": "Teen",
+      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/DarongAmarachi.jpg",
+      "career": "高中B",
       "aspiration": {
-        "name": "Painter Extraordinaire"
+        "name": "非凡画家"
       },
       "traits": [
         {
-          "name": "Art Lover"
+          "name": "艺术爱好者"
         },
         {
-          "name": "Creative"
+          "name": "创意"
         },
         {
-          "name": "Night Owl"
+          "name": "夜猫子"
         },
         {
-          "name": "Creative Visionary"
+          "name": "创意梦想家"
+        },
+        {
+          "name": "沉思者"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 9
+        },
+        {
+          "name": "绘画",
+          "level": 6
+        },
+        {
+          "name": "剑术",
+          "level": 8
+        },
+        {
+          "name": "写作",
+          "level": 9
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "darongjawara"
+          }
+        ],
         "children": [],
-        "siblings": [],
-        "grandparents": [],
+        "siblings": [
+          {
+            "id": "darongobi"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "darongadekoya"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -14588,28 +19352,55 @@ export default {
       "chineseName": "达隆·奥比",
       "gender": "Male",
       "age": "Child",
+      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/DarongObi.jpg",
+      "career": "小学A",
       "aspiration": {
-        "name": "Whiz Kid"
+        "name": "神童"
       },
       "traits": [
         {
-          "name": "Genius"
+          "name": "天才"
         },
         {
-          "name": "Morning Sim"
+          "name": "早起的市民有虫吃"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "逻辑",
+          "level": 2
+        },
+        {
+          "name": "心智",
+          "level": 5
+        },
+        {
+          "name": "电玩游戏",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "darongjawara"
+          }
+        ],
         "children": [],
-        "siblings": [],
-        "grandparents": [],
+        "siblings": [
+          {
+            "id": "darongamarachi"
+          }
+        ],
+        "grandparents": [
+          {
+            "id": "darongadekoya"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -14625,24 +19416,42 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AnanouEkene.jpg",
+      "career": "无业",
       "aspiration": {
-        "name": "Nerd Brain"
+        "name": "书呆子的脑袋"
       },
       "traits": [
         {
-          "name": "Practice Makes Perfect"
+          "name": "熟能生巧"
         },
         {
-          "name": "Childish"
+          "name": "幼稚"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Marketable"
+          "name": "超级销售员"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 4
+        },
+        {
+          "name": "喜剧",
+          "level": 6
+        },
+        {
+          "name": "灵巧",
+          "level": 10
+        },
+        {
+          "name": "恶作剧",
+          "level": 6
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -14650,7 +19459,11 @@ export default {
         "children": [],
         "siblings": [],
         "grandparents": [],
-        "grandchildren": [],
+        "grandchildren": [
+          {
+            "id": "ananouafua"
+          }
+        ],
         "relatives": []
       }
     },
@@ -14665,22 +19478,36 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AnanouAfua.jpg",
+      "career": "小学D",
       "aspiration": {
-        "name": "Social Butterfly"
+        "name": "交际花"
       },
       "traits": [
         {
-          "name": "Self-Assured"
+          "name": "自信"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "恶作剧",
+          "level": 7
+        },
+        {
+          "name": "社交",
+          "level": 2
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
         "children": [],
         "siblings": [],
-        "grandparents": [],
+        "grandparents": [
+          {
+            "id": "ananouekene"
+          }
+        ],
         "grandchildren": [],
         "relatives": []
       }
@@ -14690,21 +19517,87 @@ export default {
       "familyId": "thebe",
       "name": "ThebeV Cordelia",
       "chineseName": "提比五世·柯德莉亚",
+      "gender": "Female",
+      "age": "Young Adult",
+      "maritalStatus": "Married",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/ThebeVCordelia.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "贵族-九级",
+      "aspiration": {
+        "name": "馆长"
+      },
+      "traits": [
+        {
+          "name": "热爱户外"
+        },
+        {
+          "name": "物质主义"
+        },
+        {
+          "name": "浪漫风"
+        },
+        {
+          "name": "勇敢"
+        },
+        {
+          "name": "皇家恋人"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 9
+        },
+        {
+          "name": "钓鱼",
+          "level": 3
+        },
+        {
+          "name": "健身",
+          "level": 6
+        },
+        {
+          "name": "灵巧",
+          "level": 3
+        },
+        {
+          "name": "逻辑",
+          "level": 6
+        },
+        {
+          "name": "恶作剧",
+          "level": 4
+        },
+        {
+          "name": "剑术",
+          "level": 8
+        }
+      ],
       "relationships": {
-        "spouse": [],
-        "lover": [],
+        "spouse": [
+          {
+            "id": "abrantesthiago"
+          }
+        ],
+        "lover": [
+          {
+            "id": "acostafia"
+          }
+        ],
         "parents": [],
         "children": [],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "abrantesermelinda"
+          },
+          {
+            "id": "abrantessofia"
+          }
+        ]
       }
     },
     {
@@ -14717,31 +19610,59 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AbrantesThiago.jpg",
-      "career": "Noble",
+      "career": "贵族-八级",
       "aspiration": {
-        "name": "Renaissance Sim"
+        "name": "文艺复兴模拟市民"
       },
       "traits": [
         {
-          "name": "Loyal"
+          "name": "忠诚"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
+        },
+        {
+          "name": "皇家恋人"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 8
+        },
+        {
+          "name": "逻辑",
+          "level": 7
+        },
+        {
+          "name": "剑术",
+          "level": 5
+        }
+      ],
       "relationships": {
-        "spouse": [],
+        "spouse": [
+          {
+            "id": "thebevcordelia"
+          }
+        ],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "abrantesermelinda"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "abrantessofia"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
         "relatives": []
@@ -14754,37 +19675,65 @@ export default {
       "chineseName": "阿布兰特斯·埃尔梅琳达",
       "gender": "Female",
       "age": "Elder",
+      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AbrantesErmelinda.jpg",
-      "career": "Noble",
+      "career": "贵族-六级",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Hot-Headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Materialistic"
+          "name": "物质主义"
         },
         {
-          "name": "Regal Romancer"
+          "name": "皇家恋人"
+        },
+        {
+          "name": "居家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 8
+        },
+        {
+          "name": "逻辑",
+          "level": 7
+        },
+        {
+          "name": "剑术",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "abrantesthiago"
+          },
+          {
+            "id": "abrantessofia"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "thebevcordelia"
+          }
+        ]
       }
     },
     {
@@ -14792,21 +19741,62 @@ export default {
       "familyId": "abrantes",
       "name": "Abrantes Sofia",
       "chineseName": "阿布兰特斯·索菲亚",
+      "gender": "Female",
+      "age": "Teen",
+      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AbrantesSofia.jpg",
-      "aspiration": {},
-      "traits": [],
-      "skills": [],
+      "career": "高中A",
+      "aspiration": {
+        "name": "社区知己"
+      },
+      "traits": [
+        {
+          "name": "欢乐"
+        },
+        {
+          "name": "忠诚"
+        },
+        {
+          "name": "合群"
+        }
+      ],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 8
+        },
+        {
+          "name": "逻辑",
+          "level": 5
+        },
+        {
+          "name": "剑术",
+          "level": 5
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
-        "parents": [],
+        "parents": [
+          {
+            "id": "abrantesermelinda"
+          }
+        ],
         "children": [],
-        "siblings": [],
+        "siblings": [
+          {
+            "id": "abrantesthiago"
+          }
+        ],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "thebevcordelia"
+          }
+        ]
       }
     },
     {
@@ -14820,25 +19810,37 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/RomualdoAloisio.jpg",
-      "career": "Criminal",
+      "career": "罪犯-五级",
       "aspiration": {
-        "name": "Public Enemy"
+        "name": "全民公敌"
       },
       "traits": [
         {
-          "name": "Loyal"
+          "name": "忠诚"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Kleptomaniac"
+          "name": "偷窃狂"
         },
         {
-          "name": "Beguiling"
+          "name": "接吻高手"
+        },
+        {
+          "name": "万人迷"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "恶作剧",
+          "level": 8
+        },
+        {
+          "name": "剑术",
+          "level": 8
+        }
+      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -14861,28 +19863,48 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/OnojaAkachi.jpg",
-      "career": "Noble",
+      "career": "贵族-五级",
       "aspiration": {
-        "name": "Bodybuilder"
+        "name": "健美运动员"
       },
       "traits": [
         {
-          "name": "Perfectionist"
+          "name": "完美主义者"
         },
         {
-          "name": "Active"
+          "name": "好动"
         },
         {
-          "name": "Self-Assured"
+          "name": "自信"
         },
         {
-          "name": "Regal Romancer"
+          "name": "皇家恋人"
+        },
+        {
+          "name": "恋家"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "魅力",
+          "level": 5
+        },
+        {
+          "name": "健身",
+          "level": 7
+        },
+        {
+          "name": "剑术",
+          "level": 9
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "darongjawara"
+          }
+        ],
         "parents": [],
         "children": [],
         "siblings": [],
@@ -14902,22 +19924,22 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/FidentialConnie.jpg",
-      "career": "|careerlevel   =",
+      "career": "无业",
       "aspiration": {
-        "name": "Bestselling Author"
+        "name": "畅销作家"
       },
       "traits": [
         {
-          "name": "Outgoing"
+          "name": "外向"
         },
         {
-          "name": "Self-assured"
+          "name": "自信"
         },
         {
-          "name": "Snob"
+          "name": "谄媚势力"
         },
         {
-          "name": "Quick Learner"
+          "name": "学习能力快速"
         }
       ],
       "skills": [],
@@ -14936,45 +19958,73 @@ export default {
       "id": "cappconsort",
       "familyId": "cappconsort",
       "name": "Capp Consort",
-      "chineseName": "盖普·康索特",
+      "chineseName": "卡普·康索特",
       "gender": "Male",
       "age": "Elder",
+      "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/CappConsort.jpg",
-      "career": "|careerlevel   =",
       "aspiration": {
-        "name": "Successful Lineage"
+        "name": "显赫家世"
       },
       "traits": [
         {
-          "name": "Erratic"
+          "name": "古怪"
         },
         {
-          "name": "Hot-headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Ambitious"
+          "name": "雄心壮志"
         },
         {
-          "name": "Former Noble Hustler"
+          "name": "奋进的昔日贵族"
+        },
+        {
+          "name": "居家"
         }
       ],
       "skills": [
         {
-          "name": "Charisma",
-          "level": 4
+          "name": "绘画",
+          "level": 7
+        },
+        {
+          "name": "钢琴",
+          "level": 6
+        },
+        {
+          "name": "剑术",
+          "level": 8
         }
       ],
       "relationships": {
         "spouse": [],
         "lover": [],
         "parents": [],
-        "children": [],
+        "children": [
+          {
+            "id": "capptybalt"
+          },
+          {
+            "id": "montyjuliette"
+          }
+        ],
         "siblings": [],
         "grandparents": [],
         "grandchildren": [],
-        "relatives": []
+        "relatives": [
+          {
+            "id": "cappbeatrice"
+          },
+          {
+            "id": "cappceleste"
+          },
+          {
+            "id": "cappvirgilio"
+          }
+        ]
       }
     },
     {
@@ -14988,28 +20038,68 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/sims/AcostaFia.jpg",
-      "career": "|careerlevel   =",
+      "career": "无业",
       "aspiration": {
-        "name": "Public Enemy"
+        "name": "全民公敌"
       },
       "traits": [
         {
-          "name": "Noncommittal"
+          "name": "不愿承诺"
         },
         {
-          "name": "Hot-headed"
+          "name": "鲁莽"
         },
         {
-          "name": "Good"
+          "name": "良好"
         },
         {
-          "name": "Shameless"
+          "name": "脸皮比墙厚"
+        },
+        {
+          "name": "独立分子"
         }
       ],
-      "skills": [],
+      "skills": [
+        {
+          "name": "射箭",
+          "level": 4
+        },
+        {
+          "name": "魅力",
+          "level": 5
+        },
+        {
+          "name": "钓鱼",
+          "level": 4
+        },
+        {
+          "name": "健身",
+          "level": 9
+        },
+        {
+          "name": "灵巧",
+          "level": 5
+        },
+        {
+          "name": "恶作剧",
+          "level": 9
+        },
+        {
+          "name": "调酒",
+          "level": 8
+        },
+        {
+          "name": "剑术",
+          "level": 10
+        }
+      ],
       "relationships": {
         "spouse": [],
-        "lover": [],
+        "lover": [
+          {
+            "id": "thebevcordelia"
+          }
+        ],
         "parents": [],
         "children": [],
         "siblings": [],
@@ -16137,11 +21227,7 @@ export default {
       "world": "Britechester",
       "worldId": "britechester",
       "image": "/images/families/Psyded.jpg",
-      "members": [
-        {
-          "id": "psydedfelix"
-        }
-      ]
+      "members": []
     },
     {
       "id": "charm",
@@ -16603,7 +21689,7 @@ export default {
       "world": "Tartosa",
       "worldId": "tartosa",
       "image": "/images/families/Soto.jpg",
-      "description": "多年前，多米尼克和卡米尔在塔图沙成婚。每年她们都会回来度假，希望能够再次体验只有塔图沙能够给予的满满爱意——以及丰富的当地文化。两人都退休后，她们决定取消这每年的行程，改为永久定居。\r\n\r\n多米尼克是一名艺术家，现在大部分时间都在村庄广场绘制风景画和肖像画；卡米尔则是一名作家，她对这个地区的历史沿革深感兴趣。许多人将她视为是光明港的历史学家，而她也时常会和多明妮可一起享受户外风光，同时也会向愿意聆听的人畅谈当地的历史。",
+      "description": "多年前，多米尼克和卡米尔在塔图沙成婚。每年她们都会回来度假，希望能够再次体验只有塔图沙能够给予的满满爱意——以及丰富的当地文化。两人都退休后，她们决定取消这每年的行程，改为永久定居。\r\r\n\r\r\n多米尼克是一名艺术家，现在大部分时间都在村庄广场绘制风景画和肖像画；卡米尔则是一名作家，她对这个地区的历史沿革深感兴趣。许多人将她视为是光明港的历史学家，而她也时常会和多明妮可一起享受户外风光，同时也会向愿意聆听的人畅谈当地的历史。",
       "members": [
         {
           "id": "sotocamille"
@@ -17055,7 +22141,7 @@ export default {
           "id": "sadyalien"
         },
         {
-          "id": "sadya-alon"
+          "id": "sadyaalon"
         },
         {
           "id": "sadyacam"
@@ -17700,7 +22786,7 @@ export default {
     {
       "id": "capp",
       "name": "Capp family",
-      "chineseName": "盖普",
+      "chineseName": "卡普",
       "world": "Ondarion",
       "lot": "Bellacorde Palace",
       "lotId": "bellacordepalace",
@@ -17731,7 +22817,7 @@ export default {
       "lotId": "renaissanceroad",
       "worldId": "ondarion",
       "image": "/images/families/Monty.jpg",
-      "description": "追随内心，为茱丽叶·蒙蒂（前姓盖普）带来了巨大的后果。被原本的世家除名后，她失去了贵族阶级与大部分财富。然而，与挚爱罗密欧在一起的生活却美好得多。看到他们的儿子但丁逐渐长大，成为和父亲一样心地善良的人，更让她由衷地感到满足。然而——如今新家庭已在此扎根安定——她仍不时幻想夺回曾经失去的一切。",
+      "description": "追随内心，为茱丽叶·蒙蒂（前姓卡普）带来了巨大的后果。被原本的世家除名后，她失去了贵族阶级与大部分财富。然而，与挚爱罗密欧在一起的生活却美好得多。看到他们的儿子但丁逐渐长大，成为和父亲一样心地善良的人，更让她由衷地感到满足。然而——如今新家庭已在此扎根安定——她仍不时幻想夺回曾经失去的一切。",
       "members": [
         {
           "id": "montyjuliette"
@@ -17753,7 +22839,7 @@ export default {
       "lotId": "abrantesestate",
       "worldId": "ondarion",
       "image": "/images/families/Abrantes.jpg",
-      "description": "在长子与提比家族的女性继承人成功联姻后，埃尔梅琳达．阿布兰特斯理应能安心退休才对。但她希望家族更上一层楼的野心并未随着岁月一同流逝。在家族政治与权力斗争之间，她正值青春年少的女儿索菲亚往往只是贵族生活的天真旁观者，偶尔也会不小心捕捉到宫廷里本应悄然无声的丑闻。",
+      "description": "在长子与提比家族的女性继承人成功联姻后，埃尔梅琳达·阿布兰特斯理应能安心退休才对。但她希望家族更上一层楼的野心并未随着岁月一同流逝。在家族政治与权力斗争之间，她正值青春年少的女儿索菲亚往往只是贵族生活的天真旁观者，偶尔也会不小心捕捉到宫廷里本应悄然无声的丑闻。",
       "members": [
         {
           "id": "abrantesermelinda"
@@ -17832,7 +22918,7 @@ export default {
       "lotId": "18brightcliff",
       "worldId": "ondarion",
       "image": "/images/families/Ananou.jpg",
-      "description": "爱玩又傻气，阿南努一家是热情好客的家族——只要你不介意那些恶作剧！但他们可不只有欢笑和游戏而已。埃克内·阿南努，一辈子都只是个朴实工匠，如今在女儿过世后肩负起抚养孙女阿芙娅的责任。那孩子的父亲呢？嗯，没人真正知道他是谁。埃克内只说，那人跟他们其他人实在太不一样。于是双方同意由阿南娅留在阿娜努家，长大后过一种「普通人生」，不管那到底是什么意思。但许多人仍对这个谜团闲言闲语，甚至有人发誓看见阿南努家信箱里出现过数笔相当可观的捐款。",
+      "description": "爱玩又傻气，阿南努一家是热情好客的家族——只要你不介意那些恶作剧！但他们可不只有欢笑和游戏而已。埃克内·阿南努，一辈子都只是个朴实工匠，如今在女儿过世后肩负起抚养孙女阿芙娅的责任。那孩子的父亲呢？嗯，没人真正知道他是谁。埃克内只说，那人跟他们其他人实在太不一样。于是双方同意由阿芙娅留在阿南努家，长大后过一种「普通人生」，不管那到底是什么意思。但许多人仍对这个谜团闲言闲语，甚至有人发誓看见阿南努家信箱里出现过数笔相当可观的捐款。",
       "members": [
         {
           "id": "ananouekene"
@@ -17875,7 +22961,7 @@ export default {
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/families/Fidential.jpg",
-      "description": "康妮真的非常了解昂達里昂居民們的生活與八卦。或許知道得太多了。",
+      "description": "康妮真的非常了解昂达里昂居民们的生活与八卦。或许知道得太多了。",
       "members": [
         {
           "id": "fidentialconnie"
@@ -17885,11 +22971,11 @@ export default {
     {
       "id": "cappconsort",
       "name": "CappConsort family",
-      "chineseName": "盖普",
+      "chineseName": "卡普",
       "world": "Ondarion",
       "worldId": "ondarion",
       "image": "/images/families/CappConsort.jpg",
-      "description": "康索特·盖普对自己的世家变成如今这副德性震惊不已，决心无论过多久都要留下，务必让这些肮脏、纵欲的后代重新学会洁身自爱。就算要花上永恒的时光也在所不惜。",
+      "description": "康索特·卡普对自己的世家变成如今这副德性震惊不已，决心无论过多久都要留下，务必让这些肮脏、纵欲的后代重新学会洁身自爱。就算要花上永恒的时光也在所不惜。",
       "members": [
         {
           "id": "cappconsort"
