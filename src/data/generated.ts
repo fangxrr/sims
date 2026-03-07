@@ -30394,7 +30394,7 @@ export default {
       ],
       "status": "Active",
       "url": "https://boosty.to/lamalama",
-      "avatar": "/images/creators/LAMALAMA.jpg"
+      "avatar": "/images/creators/LAMALAMA.png"
     },
     {
       "id": "lamatisse",
@@ -31898,52 +31898,62 @@ export default {
     {
       "id": "boujeesimss",
       "name": "boujeesimss",
-      "url": "https://www.tumblr.com/boujeesimss"
+      "url": "https://www.tumblr.com/boujeesimss",
+      "avatar": "/images/finders/boujeesimss.jpg"
     },
     {
       "id": "farfalla",
       "name": "farfalla",
-      "url": "https://farfallafinds.tumblr.com/masterlist"
+      "url": "https://farfallafinds.tumblr.com/masterlist",
+      "avatar": "/images/finders/farfalla.jpg"
     },
     {
       "id": "sssvitlanz",
       "name": "sssvitlanz",
-      "url": "https://sssvitlanz.tumblr.com/alls4cc"
+      "url": "https://sssvitlanz.tumblr.com/alls4cc",
+      "avatar": "/images/finders/sssvitlanz.jpg"
     },
     {
       "id": "alwaysfreecc",
       "name": "alwaysfreecc",
-      "url": "https://alwaysfreecc.tumblr.com/tags"
+      "url": "https://alwaysfreecc.tumblr.com/tags",
+      "avatar": "/images/finders/alwaysfreecc.png"
     },
     {
       "id": "mmfinds",
       "name": "mmfinds",
-      "url": "https://mmfinds.tumblr.com/navigation"
+      "url": "https://mmfinds.tumblr.com/navigation",
+      "avatar": "/images/finders/mmfinds.png"
     },
     {
       "id": "emilyccfinds",
       "name": "Emily CC Finds",
-      "url": "https://emilyccfinds.tumblr.com/sims4cc"
+      "url": "https://emilyccfinds.tumblr.com/sims4cc",
+      "avatar": "/images/finders/emilyccfinds.jpg"
     },
     {
       "id": "maxismatchccworld",
       "name": "Maxis Match CC World",
-      "url": "https://maxismatchccworld.tumblr.com/Navigation"
+      "url": "https://maxismatchccworld.tumblr.com/Navigation",
+      "avatar": "/images/finders/maxismatchccworld.jpg"
     },
     {
       "id": "abonnie",
       "name": "邦妮",
-      "url": "https://www.abonnie.uk/"
+      "url": "https://www.abonnie.uk/",
+      "avatar": "/images/finders/abonnie.webp"
     },
     {
       "id": "meowcats",
       "name": "MeowCats",
-      "url": "https://www.patreon.com/cw/meowcats/posts"
+      "url": "https://www.patreon.com/cw/meowcats/posts",
+      "avatar": "/images/finders/MeowCats.png"
     },
     {
       "id": "ts4poses",
       "name": "ts4-poses",
-      "url": "https://ts4-poses.tumblr.com/masterlist"
+      "url": "https://ts4-poses.tumblr.com/masterlist",
+      "avatar": "/images/finders/ts4poses.jpg"
     }
   ],
   "gallery": [

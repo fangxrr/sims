@@ -69,7 +69,11 @@ try {
             // Try each filename and extension combination
             for (const base of filenames) {
                 for (const ext of extensions) {
-                    const match = files.find(f => f.toLowerCase() === `${base}${ext}`.toLowerCase());
+                    const match = files.find(f => {
+                        const baseName = f.substring(0, f.lastIndexOf('.'));
+                        const fileExt = f.substring(f.lastIndexOf('.'));
+                        return (baseName.trim().toLowerCase() === base.toLowerCase()) && (fileExt.toLowerCase() === ext.toLowerCase());
+                    });
                     if (match) {
                         return `/images/${subfolder}/${match}`;
                     }
@@ -282,7 +286,8 @@ try {
     const findersData = rawFinders.filter(row => getRowVal(row, 'id')).map(row => ({
         id: normalizeId(getRowVal(row, 'id')),
         name: getRowVal(row, 'name'),
-        url: getRowVal(row, 'url')
+        url: getRowVal(row, 'url'),
+        avatar: getImagePath(getRowVal(row, 'id') || getRowVal(row, 'name'), 'finders')
     }));
 
     const rawGallery = getSheet('Gallery');

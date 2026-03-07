@@ -6,9 +6,9 @@ export interface Finder {
 }
 
 // Helper function to automatically generate the avatar path from the id
-const createFinder = (data: Omit<Finder, 'avatar'>): Finder => ({
+const createFinder = (data: Partial<Finder> & Omit<Finder, 'avatar'>): Finder => ({
   ...data,
-  avatar: `/images/finders/${data.id}.jpg`
+  avatar: data.avatar || `/images/finders/${data.id}.jpg`
 });
 
 const defaultFindersData: Finder[] = [
