@@ -52,9 +52,33 @@ try {
 
     const getImagePath = (id, subfolder) => {
         if (!id) return undefined;
-        // Removes spaces and hyphens to match the new naming convention (e.g., WillowCreek.jpg)
-        const filename = String(id).trim().replace(/[\s-]/g, '');
-        return `/images/${subfolder}/${filename}.jpg`;
+
+        // Potential filenames to try
+        const filenames = [
+            String(id).trim().replace(/[\s-]/g, ''),           // WillowCreek
+            String(id).trim().toLowerCase().replace(/[\s-]/g, ''), // willowcreek
+            normalizeId(id)                                     // willowcreek (with full normalization)
+        ];
+
+        const extensions = ['.jpg', '.jpeg', '.png', '.webp', '.jpeg', '.JPG', '.PNG', '.WEBP', '.JPEG'];
+        const subfolderPath = path.join(projectRoot, 'public', 'images', subfolder);
+
+        if (fs.existsSync(subfolderPath)) {
+            const files = fs.readdirSync(subfolderPath);
+
+            // Try each filename and extension combination
+            for (const base of filenames) {
+                for (const ext of extensions) {
+                    const match = files.find(f => f.toLowerCase() === `${base}${ext}`.toLowerCase());
+                    if (match) {
+                        return `/images/${subfolder}/${match}`;
+                    }
+                }
+            }
+        }
+
+        // Fallback to default jpg if not found
+        return `/images/${subfolder}/${filenames[0]}.jpg`;
     };
 
     const parseRefs = (str) => {
@@ -228,14 +252,19 @@ try {
 
     // 6. Creators
     const rawCreators = getSheet('Creators');
-    const creatorsData = rawCreators.filter(row => getRowVal(row, 'id')).map(row => ({
-        id: normalizeId(getRowVal(row, 'id')),
-        name: getRowVal(row, 'name'),
-        favLevel: getRowVal(row, 'favLevel'),
-        types: parseArray(getRowVal(row, 'types')) || [],
-        status: getRowVal(row, 'status'),
-        url: getRowVal(row, 'url')
-    }));
+    const creatorsData = rawCreators.filter(row => getRowVal(row, 'id')).map(row => {
+        const rawId = getRowVal(row, 'id');
+        const rawName = getRowVal(row, 'name');
+        return {
+            id: normalizeId(rawId),
+            name: rawName,
+            favLevel: getRowVal(row, 'favLevel'),
+            types: parseArray(getRowVal(row, 'types')) || [],
+            status: getRowVal(row, 'status'),
+            url: getRowVal(row, 'url'),
+            avatar: getImagePath(rawId || rawName, 'creators')
+        };
+    });
 
     // 7. Trackers
     const rawTrackers = getSheet('Trackers');

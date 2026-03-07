@@ -28449,7 +28449,7 @@ export default {
       "name": "Henford-on-Bagley",
       "chineseName": "亨福昂贝格利",
       "description": "从柯德莉亚瀑布的天然美景，到贝格利河清澈的水流，山水之间的和谐景象让亨福昂贝格利成了迷人的美丽景点，更是更迷人的居住之处。此处的村民不只对这块土地的历史知之甚详，同时也和栖息在林中的各色生物关系密切。所以如果平常的邻居有点太爱八卦怎么办？那再也没有地方比这里更适合养育、照顾与滋养更加自然的生命了。",
-      "image": "/images/worlds/HenfordOnBagley.jpg",
+      "image": "/images/worlds/HenfordOnBagley.png",
       "sizes": [
         "64x64",
         "50x40",
@@ -28679,7 +28679,7 @@ export default {
       "id": "bedrockstrait",
       "worldId": "oasissprings",
       "name": "岩床海峡",
-      "image": "/images/worlds/districts/BedrockStrait.jpg",
+      "image": "/images/worlds/districts/BedrockStrait.JPG",
       "description": "在这个俗气得令人舒畅的社区中，每个居民都为其广告牌及草地地精感到无比骄傲，而且有谁会不想每天早上和雷龙巴瑞问声早呢？",
       "lots": []
     },
@@ -28687,7 +28687,7 @@ export default {
       "id": "parchedprospect",
       "worldId": "oasissprings",
       "name": "一片干涸",
-      "image": "/images/worlds/districts/ParchedProspect.jpg",
+      "image": "/images/worlds/districts/ParchedProspect.JPG",
       "description": "这个社区能提供经典的沙漠生活体验，不但有多到不行的风滚草，还有一望无际的仙人掌呢！",
       "lots": []
     },
@@ -28695,7 +28695,7 @@ export default {
       "id": "skywardpalms",
       "worldId": "oasissprings",
       "name": "天空棕榈",
-      "image": "/images/worlds/districts/SkywardPalms.jpg",
+      "image": "/images/worlds/districts/SkywardPalms.JPG",
       "description": "这个高档的门禁社区提供居民温暖及狂野等沙漠生活的好处，同时又提供无尽青草的奢华。",
       "lots": []
     },
@@ -28703,7 +28703,7 @@ export default {
       "id": "acquisitionbutte",
       "worldId": "oasissprings",
       "name": "获得小山",
-      "image": "/images/worlds/districts/AcquisitionButte.jpg",
+      "image": "/images/worlds/districts/AcquisitionButte.JPG",
       "description": "获得小山的居民可是花了不少钱换得这美妙且怪石嶙峋的眺望景观，以及那甜美的孤独感。",
       "lots": []
     },
@@ -28711,7 +28711,7 @@ export default {
       "id": "miragecanyon",
       "worldId": "oasissprings",
       "name": "蜃楼峡谷",
-      "image": "/images/worlds/districts/MirageCanyon.jpg",
+      "image": "/images/worlds/districts/MirageCanyon.JPG",
       "description": "蜃楼峡谷才是绿洲之泉的真正绿洲。看到此处美妙的瀑布奔腾，以及如及时雨般的休息站，口干舌燥的来往游客往往欣喜若狂。",
       "lots": []
     },
@@ -28719,7 +28719,7 @@ export default {
       "id": "bridgeview",
       "worldId": "newcrest",
       "name": "布瑞吉维优",
-      "image": "/images/worlds/districts/Bridgeview.jpg",
+      "image": "/images/worlds/districts/Bridgeview.JPG",
       "description": "这个适合家庭的社区中有着宜人的野餐区域，以及绝美的城市天际线景观。",
       "lots": []
     },
@@ -28727,7 +28727,7 @@ export default {
       "id": "llamalagoon",
       "worldId": "newcrest",
       "name": "拉玛拉古恩",
-      "image": "/images/worlds/districts/LlamaLagoon.jpg",
+      "image": "/images/worlds/districts/LlamaLagoon.JPG",
       "description": "拥有湖畔步道和公共游乐场设备，这个社区有着恰到好处的都会风情。",
       "lots": []
     },
@@ -28735,7 +28735,7 @@ export default {
       "id": "ridgelinedrive",
       "worldId": "newcrest",
       "name": "瑞吉莱德莱夫",
-      "image": "/images/worlds/districts/RidgelineDrive.jpg",
+      "image": "/images/worlds/districts/RidgelineDrive.JPG",
       "description": "怡景绝顶郊区的大道上有着密集的物业，以及交错繁杂的商业街，除此之外还有这大量的登山步道。",
       "lots": []
     },
@@ -28743,21 +28743,21 @@ export default {
       "id": "campground",
       "worldId": "granitefalls",
       "name": "露营地",
-      "image": "/images/worlds/districts/Campground.jpg",
+      "image": "/images/worlds/districts/Campground.JPG",
       "lots": []
     },
     {
       "id": "magnoliapromenade",
       "worldId": "magnoliapromenade",
       "name": "玉兰步道",
-      "image": "/images/worlds/districts/MagnoliaPromenade.jpg",
+      "image": "/images/worlds/districts/MagnoliaPromenade.JPG",
       "lots": []
     },
     {
       "id": "oldeplatz",
       "worldId": "windenburg",
       "name": "古色广场",
-      "image": "/images/worlds/districts/OldePlatz.jpg",
+      "image": "/images/worlds/districts/OldePlatz.JPG",
       "description": "诱人的鹅卵石弥补了古色广场所欠缺的绿意。在温登堡最古老而丰富的文化里中生活，工作和娱乐。",
       "lots": []
     },
@@ -28765,7 +28765,7 @@ export default {
       "id": "lykkecentre",
       "worldId": "windenburg",
       "name": "莱克中心",
-      "image": "/images/worlds/districts/LykkeCentre.jpg",
+      "image": "/images/worlds/districts/LykkeCentre.JPG",
       "description": "崭新，初现，引人注目的闪耀。莱克中心是温登堡新兴商业企业蓬勃发展之地。",
       "lots": []
     },
@@ -28773,7 +28773,7 @@ export default {
       "id": "windslar",
       "worldId": "windenburg",
       "name": "温斯乐",
-      "image": "/images/worlds/districts/Windslar.jpg",
+      "image": "/images/worlds/districts/Windslar.JPG",
       "description": "开阔的空间以及一两处豪华别墅。造访或居住在温斯乐，体验令人愉悦的乡村生活。",
       "lots": []
     },
@@ -28781,7 +28781,7 @@ export default {
       "id": "thecrumblingisle",
       "worldId": "windenburg",
       "name": "破碎屿",
-      "image": "/images/worlds/districts/TheCrumblingIsle.jpg",
+      "image": "/images/worlds/districts/TheCrumblingIsle.JPG",
       "description": "破碎屿可以算是镇上这部分的误称。这里举目所及之处，只有美轮美奂的高级住宅。",
       "lots": []
     },
@@ -28789,7 +28789,7 @@ export default {
       "id": "spicemarket",
       "worldId": "sanmyshuno",
       "name": "香料市场",
-      "image": "/images/worlds/districts/SpiceMarket.jpg",
+      "image": "/images/worlds/districts/SpiceMarket.JPG",
       "description": "一处家庭式社区，以香料庆典，跳蚤市场，及码头景色出名。",
       "lots": []
     },
@@ -28797,7 +28797,7 @@ export default {
       "id": "artsquarter",
       "worldId": "sanmyshuno",
       "name": "艺术区",
-      "image": "/images/worlds/districts/ArtsQuarter.jpg",
+      "image": "/images/worlds/districts/ArtsQuarter.JPG",
       "description": "波希米亚艺术区是幽默狂欢庆典的发源地，受到许多音乐家，艺术家，及各种创作形式所钟爱。",
       "lots": []
     },
@@ -28805,7 +28805,7 @@ export default {
       "id": "fashiondistrict",
       "worldId": "sanmyshuno",
       "name": "时尚区",
-      "image": "/images/worlds/districts/FashionDistrict.jpg",
+      "image": "/images/worlds/districts/FashionDistrict.JPG",
       "description": "相当受年轻且赶流行的模拟市民欢迎，时尚区同时也是浪漫庆典及宅宅会展的发源地。",
       "lots": []
     },
@@ -28813,7 +28813,7 @@ export default {
       "id": "uptown",
       "worldId": "sanmyshuno",
       "name": "上城区",
-      "image": "/images/worlds/districts/Uptown.jpg",
+      "image": "/images/worlds/districts/Uptown.JPG",
       "description": "城市的奢华心脏地段，上城区是有钱，有势…以及有点怪的人们住的地方。",
       "lots": []
     },
@@ -28821,14 +28821,14 @@ export default {
       "id": "forgottenhollow",
       "worldId": "forgottenhollow",
       "name": "遗忘山谷",
-      "image": "/images/worlds/districts/ForgottenHollow.jpg",
+      "image": "/images/worlds/districts/ForgottenHollow.JPG",
       "lots": []
     },
     {
       "id": "sablesquare",
       "worldId": "brindletonbay",
       "name": "黑貂广场",
-      "image": "/images/worlds/districts/SableSquare.jpg",
+      "image": "/images/worlds/districts/SableSquare.JPG",
       "description": "城市的文化中心，黑貂广场非常适合猫咪和狗狗。这些人这么地爱他们的宠物，爱到在城镇中心盖了一座纪念碑来纪念他们！",
       "lots": []
     },
@@ -28836,7 +28836,7 @@ export default {
       "id": "whiskermanswharf",
       "worldId": "brindletonbay",
       "name": "威斯克曼码头",
-      "image": "/images/worlds/districts/WhiskermansWharf.jpg",
+      "image": "/images/worlds/districts/WhiskermansWharf.JPG",
       "description": "海湾的猫科居民们最爱的聚会地点，经常可以看见他们码头四处攀爬的身影，威斯克曼码头也同样受到渔夫和观光客的喜爱",
       "lots": []
     },
@@ -28844,7 +28844,7 @@ export default {
       "id": "cavaliercove",
       "worldId": "brindletonbay",
       "name": "骑士海湾",
-      "image": "/images/worlds/districts/CavalierCove.jpg",
+      "image": "/images/worlds/districts/CavalierCove.JPG",
       "description": "以它的健行步道与延伸的海岸房地产著名，骑士海湾是个非常适合探索或和爱冒险的小狗一起追逐海鸥的地方！",
       "lots": []
     },
@@ -28852,7 +28852,7 @@ export default {
       "id": "deadgrassisle",
       "worldId": "brindletonbay",
       "name": "死草小岛",
-      "image": "/images/worlds/districts/DeadgrassIsle.jpg",
+      "image": "/images/worlds/districts/DeadgrassIsle.JPG",
       "description": "死草小岛是一场神秘海难的失事地点，而今已是世界知名的虎斑灯塔的家，以及这城市拥有最多本地流浪动物居住的地方。不过，最近有传出关于太阳下山后的怪异访客的传闻… ",
       "lots": []
     },
@@ -28860,7 +28860,7 @@ export default {
       "id": "puertollamantemarketplace",
       "worldId": "selvadorada",
       "name": "波多骆曼铁市场",
-      "image": "/images/worlds/districts/PuertoLlamanteMarketplace.jpg",
+      "image": "/images/worlds/districts/PuertoLlamanteMarketplace.JPG",
       "description": "快来享受瑟瓦多拉达的视觉与声音的飨宴！准备好基本装备来深入丛林，或是放松并体验不同的美食文化。冒险正等着您展开！顺道造访市场，就在酒馆旁边。",
       "lots": []
     },
@@ -28868,7 +28868,7 @@ export default {
       "id": "belomisiajungle",
       "worldId": "selvadorada",
       "name": "贝洛米希亚丛林",
-      "image": "/images/worlds/districts/BelomisiaJungle.jpg",
+      "image": "/images/worlds/districts/BelomisiaJungle.JPG",
       "description": "丛林中充满美妙的景色，却也危机四伏。勇敢的冒险家可以探索古欧米斯卡遗迹。技能高超的模拟市民，以及从市场购入装备随身携带的模拟市民，都能在这里顺利生活。",
       "lots": []
     },
@@ -28876,7 +28876,7 @@ export default {
       "id": "miragepark",
       "worldId": "delsolvalley",
       "name": "幻象公园",
-      "image": "/images/worlds/districts/MiragePark.jpg",
+      "image": "/images/worlds/districts/MiragePark.JPG",
       "description": "住家价格合理且离闹区近的幻象公园，是最适合新兴明星展开宏大星途的地方。",
       "lots": []
     },
@@ -28884,7 +28884,7 @@ export default {
       "id": "thepinnacles",
       "worldId": "delsolvalley",
       "name": "顶峰山",
-      "image": "/images/worlds/districts/ThePinnacles.jpg",
+      "image": "/images/worlds/districts/ThePinnacles.JPG",
       "description": "富人和名人的首选之地顶峰山，号称有着太阳谷最为昂贵的格式住宅。如果您想住在这里，可得想办法成为大人物才行！",
       "lots": []
     },
@@ -28892,7 +28892,7 @@ export default {
       "id": "starlightboulevard",
       "worldId": "delsolvalley",
       "name": "星光大道",
-      "image": "/images/worlds/districts/StarlightBoulevard.jpg",
+      "image": "/images/worlds/districts/StarlightBoulevard.JPG",
       "description": "说到夜生活，没有地方敌得过星光大道。只有最出名的模拟市民能够进入这区镇上的管制严格的夜店。业界有头有脸的人士会来此处炫耀自己的名气。",
       "lots": []
     },
@@ -28900,7 +28900,7 @@ export default {
       "id": "strangervilleplaza",
       "worldId": "strangerville",
       "name": "诡奇小镇广场",
-      "image": "/images/worlds/districts/StrangerVillePlaza.jpg",
+      "image": "/images/worlds/districts/StrangerVillePlaza.JPG",
       "description": "当地人喜欢在诡奇小镇广场打发时间。你可以在图书馆找到科学家，在酒吧找到军事人员，而珍奇异品店则位于拖车园区旁。你不只能在此处购买各种奇怪的东西，还能找到一切所需的资讯。",
       "lots": []
     },
@@ -28908,7 +28908,7 @@ export default {
       "id": "shadyacres",
       "worldId": "strangerville",
       "name": "林荫天地",
-      "image": "/images/worlds/districts/ShadyAcres.jpg",
+      "image": "/images/worlds/districts/ShadyAcres.JPG",
       "description": "坐落于高原的林荫天地原始且幽静，住着诡奇小镇当地较富裕的人家。令人不禁好奇他们的赚钱途径。",
       "lots": []
     },
@@ -28916,7 +28916,7 @@ export default {
       "id": "muapelam",
       "worldId": "sulani",
       "name": "穆佩兰岛",
-      "image": "/images/worlds/districts/MuaPelAm.jpg",
+      "image": "/images/worlds/districts/MuaPelAm.JPG",
       "description": "从活火山到流泻的瀑布和隐秘洞穴的深度等，大自然主宰着这座岛屿的一切。此岛屿位于索尼拉群岛的一处偏远位置，适合探索大自然之美。",
       "lots": []
     },
@@ -28924,7 +28924,7 @@ export default {
       "id": "ohanalitown",
       "worldId": "sulani",
       "name": "欧汉纳里镇",
-      "image": "/images/worlds/districts/OhanAliTown.jpg",
+      "image": "/images/worlds/districts/OhanAliTown.JPG",
       "description": "自从在热带丛林和宁静潟湖之间办了一场小小钓鱼营之后 ，欧汉纳里镇就成了索拉尼群岛最热闹的地区之一 。经过开发成为区域主要城镇 ，社区的风土民情却不曾因此改变 ，他们对于岛屿传统的强烈情感也没有因此消失 。",
       "lots": []
     },
@@ -28932,7 +28932,7 @@ export default {
       "id": "lanisttaz",
       "worldId": "sulani",
       "name": "拉尼圣塔斯",
-      "image": "/images/worlds/districts/LaniStTaz.jpg",
+      "image": "/images/worlds/districts/LaniStTaz.JPG",
       "description": "悠闲的热带天堂，海滩充满了白沙，海水也温暖明亮。这片茂密的丛林环境很适合人们沉浸在隽永的岛屿兴致当中 。",
       "lots": []
     },
@@ -28940,7 +28940,7 @@ export default {
       "id": "universityofbritechester",
       "worldId": "britechester",
       "name": "布莱彻斯特大学",
-      "image": "/images/worlds/districts/UniversityofBritechester.jpg",
+      "image": "/images/worlds/districts/UniversityofBritechester.JPG",
       "description": "本校是布莱切彻斯特最古老的大学，由知名的菲利克斯.赛迪德创立，此人以学习的热情和幽默的著作闻名。多年过去，布莱彻斯特大学已成为受人尊敬的古典教育学院。",
       "lots": []
     },
@@ -28948,7 +28948,7 @@ export default {
       "id": "foxburyinstitute",
       "worldId": "britechester",
       "name": "狐陵学院",
-      "image": "/images/worlds/districts/FoxburyInstitute.jpg",
+      "image": "/images/worlds/districts/FoxburyInstitute.JPG",
       "description": "与周围的历史名城相比，狐陵学院的年资看起来似乎不够久远，但它很快就在学术界奠定其出色地位。对于努力用功才能进狐陵学院读书的学生而言，鼓舞校园精神的可不仅仅是学校作业，更包含了对于个人热情的追求。",
       "lots": []
     },
@@ -28956,7 +28956,7 @@ export default {
       "id": "gibbshill",
       "worldId": "britechester",
       "name": "吉布斯山丘",
-      "image": "/images/worlds/districts/GibbsHill.jpg",
+      "image": "/images/worlds/districts/GibbsHill.JPG",
       "description": "吉布斯山丘就坐落于布莱彻斯特中心，即狐陵学院和布莱彻斯特大学两所大学中间。这里是布莱彻斯特第一个活动集中地，其知名的桂冠图书馆更是许多学生念书与学籍的重要场所。胡椒饮料吧也是两所大学学生的共有地点，在这里，他们可以抛开竞争关系，成为朋友。",
       "lots": []
     },
@@ -28964,14 +28964,14 @@ export default {
       "id": "glimmerbrook",
       "worldId": "glimmerbrook",
       "name": "微光溪流",
-      "image": "/images/worlds/districts/Glimmerbrook.jpg",
+      "image": "/images/worlds/districts/Glimmerbrook.JPG",
       "lots": []
     },
     {
       "id": "grimsquarry",
       "worldId": "evergreenharbor",
       "name": "葛林姆斯采石场",
-      "image": "/images/worlds/districts/GrimsQuarry.jpg",
+      "image": "/images/worlds/districts/GrimsQuarry.JPG",
       "description": "当初探矿者阿诺.葛林姆斯在万年青港创立他著名的岩石矿场时，他完全没有想到这个地方在数十年后发展出小小的郊区。时至今日，一系列舒适的房屋，公寓以及社群空间全都座落在夺目白石墙的阴影之下。",
       "lots": []
     },
@@ -28979,7 +28979,7 @@ export default {
       "id": "coniferstation",
       "worldId": "evergreenharbor",
       "name": "针叶木车站",
-      "image": "/images/worlds/districts/ConiferStation.jpg",
+      "image": "/images/worlds/districts/ConiferStation.JPG",
       "description": "如果火车停止运行怎么办呢？万年青市中心地段，也就是当人暱称为针叶木车站的地区，这里现在虽然较为安静，但居民们会告诉你，潜藏在停运的火车站及不堪入目的储藏槽背后的，有个想极力提升这世界一隅的社群正不断为此投注心力。",
       "lots": []
     },
@@ -28987,7 +28987,7 @@ export default {
       "id": "portpromise",
       "worldId": "evergreenharbor",
       "name": "诺言港",
-      "image": "/images/worlds/districts/PortPromise.jpg",
+      "image": "/images/worlds/districts/PortPromise.JPG",
       "description": "这里曾是熙来攘往的贸易港，如今仍有着不少房屋和商店，致敬着过往的工厂传承，并且期望未来能像当地人所说的:\"保持万年青的特异独行!\"虽然码头已经不再运作，对更好生活的期待仍存续于此。",
       "lots": []
     },
@@ -28995,7 +28995,7 @@ export default {
       "id": "wakaba",
       "worldId": "mtkomorebi",
       "name": "若叶",
-      "image": "/images/worlds/districts/Wakaba.jpg",
+      "image": "/images/worlds/districts/Wakaba.JPG",
       "description": "\"若叶\"这一词代表在早春时分树木上长出的明亮新幼叶。一如其名，这个小镇时这区域的后起之秀，有着许多美丽时髦的新房屋，迷人的城镇中心还有着木楼隙光山官方吉祥物\"山酱\"。旅客可以在此享受老少咸宜的青春节庆，或者单纯观赏这社区的天然美景。",
       "lots": []
     },
@@ -29003,7 +29003,7 @@ export default {
       "id": "senbamachi",
       "worldId": "mtkomorebi",
       "name": "千叶町",
-      "image": "/images/worlds/districts/Senbamachi.jpg",
+      "image": "/images/worlds/districts/Senbamachi.JPG",
       "description": "传说中拥有万千叶片的\"千叶町\"，是此区域中最古老的城镇。许多当地人喜欢这城镇与大自然的连结，特别是环绕在城镇四周的竹林，或是藏身在竹林之中，活力十足的独特生物。传说若你在当地的步道走得够久，就会遇见树木的守护者，给予那些喜爱且尊贵其住所之人奖励。",
       "lots": []
     },
@@ -29011,7 +29011,7 @@ export default {
       "id": "yukimatsu",
       "worldId": "mtkomorebi",
       "name": "雪松",
-      "image": "/images/worlds/districts/Yukimatsu.jpg",
+      "image": "/images/worlds/districts/Yukimatsu.JPG",
       "description": "\"雪松\"之名源自于被白雪覆盖的松树，乡间的真实美景在这里一览无遗。位于木漏隙光山的山坡之上，这个度假村区域提供绝美的度假租屋，许多雪上运动，粗犷的野生环境，以及让人逃离一切纷扰的祥和温泉澡堂。无论是要在温泉中放松，观赏雪之节庆的盛景，或是踏上登上木漏隙光山顶峰的飒爽旅程，每个人来到这个终年有学的美丽幻境都能找到自己喜爱的活动。",
       "lots": []
     },
@@ -29019,7 +29019,7 @@ export default {
       "id": "finchwick",
       "worldId": "henfordonbagley",
       "name": "芬奇威克",
-      "image": "/images/worlds/districts/Finchwick.jpg",
+      "image": "/images/worlds/districts/Finchwick.JPG",
       "description": "位在贝格利河旁，古老的磨坊村庄芬奇威克拥有引以为傲的繁华且关系紧密的社区。它那充满历史感的广场中有一间酒吧，还有许多古雅的摊贩和开满花朵的花园，非常适合让大家逛逛橱窗。每周举办村庄市集时，观光客和当地人都会蜂拥而来，而芬奇威克的市长则会特别出戏担任参赛作品的评审，顺便聊聊近期发生的八卦。",
       "lots": []
     },
@@ -29027,7 +29027,7 @@ export default {
       "id": "oldnewhenford",
       "worldId": "henfordonbagley",
       "name": "旧新亨福郡",
-      "image": "/images/worlds/districts/OldNewHenford.jpg",
+      "image": "/images/worlds/districts/OldNewHenford.JPG",
       "description": "拥有连绵丘陵，郁葱宅邸以及一座小型社区花园，旧新亨福郡最为人所津津乐道的，就是它在过往命名的故事了吧。此处原本称做小亨福郡，居民决定将其重新命名为新亨福郡，试图摆脱微\"小\"之名。然而，由于忘记告知国家地图制造商，这里整整在地图上消失了两个礼拜。受到告知重新写入地图需要再一次改名后，居民于是选择了\"旧新亨福郡\", 这名字以一票之差赢过了另一个选择\"新新亨福郡\"。",
       "lots": []
     },
@@ -29035,7 +29035,7 @@ export default {
       "id": "thebramblewood",
       "worldId": "henfordonbagley",
       "name": "布兰伯伍德森林",
-      "image": "/images/worlds/districts/TheBramblewood.jpg",
+      "image": "/images/worlds/districts/TheBramblewood.JPG",
       "description": "这些森林中的自然美景，一直以来都为许多野生鸟类，兔子以及狐狸提供美不胜收的居所。无论是要在蜗牛苏菲底下藏个小惊喜，带画架来绘出典雅的柯德莉亚瀑布，寻觅野生蘑菇，还是在沃普岛的遗迹中寻找浪漫，只要在布兰伯伍德森林待上一天，每个模拟市民都能有莫大转变。",
       "lots": []
     },
@@ -29043,7 +29043,7 @@ export default {
       "id": "portoluminoso",
       "worldId": "tartosa",
       "name": "光明港",
-      "image": "/images/worlds/districts/PortoLuminoso.jpg",
+      "image": "/images/worlds/districts/PortoLuminoso.JPG",
       "description": "历史学家说光明港之名要追溯到当初刚抵达此处的海盗，由于受到波光粼粼的潮汐，前途光明的贸易和新发明的水果塔所吸引，他们前仆后继地来到此处。随着时间过去，村庄发展得更为繁荣。尽管有着远近驰名的水果塔，但真正让光明港名声大噪的，是它自称为婚礼产业中，最浪漫的婚礼服务首选之地。",
       "lots": []
     },
@@ -29051,7 +29051,7 @@ export default {
       "id": "terraamorosa",
       "worldId": "tartosa",
       "name": "爱之地",
-      "image": "/images/worlds/districts/TerraAmorosa.jpg",
+      "image": "/images/worlds/districts/TerraAmorosa.JPG",
       "description": "从光明港的海岸线往下走，便是当地人称为爱之地的爱情圣地。无论是想在木板路上钓鱼，还是想在偏僻的藏身处瀑布下游泳，或是登上丘陵，造访此区域最著名的情人树，这个爱侣天堂所能提供的各种迷人景致和历史地标，保证会让所有模拟市民都疯狂爱上。",
       "lots": []
     },
@@ -29059,14 +29059,14 @@ export default {
       "id": "moonwoodmill",
       "worldId": "moonwoodmill",
       "name": "月木锯木厂",
-      "image": "/images/worlds/districts/MoonwoodMill.jpg",
+      "image": "/images/worlds/districts/MoonwoodMill.JPG",
       "lots": []
     },
     {
       "id": "plumbitecove",
       "worldId": "copperdale",
       "name": "晶锥石湖湾",
-      "image": "/images/worlds/districts/PlumbiteCove.jpg",
+      "image": "/images/worlds/districts/PlumbiteCove.JPG",
       "description": "在拉苏里湖上有座晶锥石湖湾，这里当初曾因为稀有宝石的开探而一时声名大噪。等到矿坑都关闭后，城镇把握住此处美不胜收的风光，将此处化成了湖畔的游乐场。有刺激、有休闲，还有绝美的景致，晶锥石码头是无论老少都能在此营造回忆的理想去处。前往晃晃公园参观壮美的摇摇岩，然后再到码头去跟飞行哭哭兽法兰克拍张自拍。无论是想定居还是想参观，晶锥石湖湾都是考柏戴尔必看的宝物。",
       "lots": []
     },
@@ -29074,7 +29074,7 @@ export default {
       "id": "prescottsquare",
       "worldId": "copperdale",
       "name": "普列斯考特广场",
-      "image": "/images/worlds/districts/PrescottSquare.jpg",
+      "image": "/images/worlds/districts/PrescottSquare.JPG",
       "description": "以考柏戴尔的创立者贾斯伯.普列斯考特命名，这座古朴的城镇广场是所有课后聚会的枢纽。对于喜欢时尚的青少年而言，伊洛丝.希多史提那间知名的超省茶不仅有卖珍珠奶茶，还提供许多最新潮流品项供人探索。湖景图书馆则适合以课业为重的青少年们拼命苦读，或者找个读书的伙伴。代表着考柏戴尔的历史传承，这座广场是所有居民的中心。有些人还说他们曾在贾斯伯过往的住所\"布斯柏夫神秘屋\"中看过他的鬼魂出没。",
       "lots": []
     },
@@ -29082,7 +29082,7 @@ export default {
       "id": "rockridgeheights",
       "worldId": "copperdale",
       "name": "岩岭高地",
-      "image": "/images/worlds/districts/RockridgeHeights.jpg",
+      "image": "/images/worlds/districts/RockridgeHeights.JPG",
       "description": "作为考柏戴尔高中的所在地，岩岭高地代代以来都是这城镇标准的学术用地。备受喜爱的校园不只带来难忘的青少年回忆，也为大学的准备奠下基础。有着充满学习的教室，还有充满毕业舞会可能性的礼堂，对于每个想要探索自己本质的青少年而言，岩岭高地都有着完美的环境。 ",
       "lots": []
     },
@@ -29090,7 +29090,7 @@ export default {
       "id": "anchorpointwharf",
       "worldId": "sansequoia",
       "name": "锚点码头",
-      "image": "/images/worlds/districts/AnchorpointWharf.jpg",
+      "image": "/images/worlds/districts/AnchorpointWharf.JPG",
       "description": "曾是繁荣的渔业与罐头业中心，锚点码头现在是个充满活力的市中心地区，不只有电影院，还有许多大小公园等去处。这里有许多好玩的地方，保证能让老少都尽兴。",
       "lots": []
     },
@@ -29098,7 +29098,7 @@ export default {
       "id": "gilbertgardens",
       "worldId": "sansequoia",
       "name": "吉尔伯特花园",
-      "image": "/images/worlds/districts/GilbertGardens.jpg",
+      "image": "/images/worlds/districts/GilbertGardens.JPG",
       "description": "吉尔伯特花园这个美妙的原地原本是有吉尔伯特.吉尔伯特斯所拥有，这名土地开发商协助建立了这整个地区。现在，这里是家族花园旅行的完美去处--而除了聚会外，模拟市民们还能走上三条不同的湖畔观景步道，或者造访社区中的喷水垫游玩区域。巨鲸伯特希望很快就能看到你喔！",
       "lots": []
     },
@@ -29106,7 +29106,7 @@ export default {
       "id": "hopewellhills",
       "worldId": "sansequoia",
       "name": "望好丘陵",
-      "image": "/images/worlds/districts/HopewellHills.jpg",
+      "image": "/images/worlds/districts/HopewellHills.JPG",
       "description": "望好丘陵是能远离成立熙攘喧嚣的舒适地点，特别适合需要，嗯，空间的人们！若郊区对你而言是种乐土，那你就能在这宁静的社区找到天堂。",
       "lots": []
     },
@@ -29114,7 +29114,7 @@ export default {
       "id": "newappaloosa",
       "worldId": "chestnutridge",
       "name": "新阿帕卢萨",
-      "image": "/images/worlds/districts/NewAppaloosa.jpg",
+      "image": "/images/worlds/districts/NewAppaloosa.JPG",
       "description": "历史上，新阿帕卢萨是马匹骑手，牧场主和佳酿酿造者交流的枢纽。无论是要去\"草草\"闹闹!马术中心竞赛，在舞厅享受夜晚出游，或是和好友一起品尝美味佳酿，这间老酒馆都有各种老少咸宜的活动。",
       "lots": []
     },
@@ -29122,7 +29122,7 @@ export default {
       "id": "ridersglen",
       "worldId": "chestnutridge",
       "name": "骑手幽谷",
-      "image": "/images/worlds/districts/RidersGlen.jpg",
+      "image": "/images/worlds/districts/RidersGlen.JPG",
       "description": "在被当地人称为\"老甜饼\"的可靠良驹岩上俯瞰，骑手幽谷一直是许多牧场主和佳酿酿造者代代相传的家乡。它有供牧场动物活动的开放空间，适合制作佳酿的气候环境，还有亲切友善的领居，是个欢迎各色人物加入的好社群。",
       "lots": []
     },
@@ -29130,7 +29130,7 @@ export default {
       "id": "gallopinggulch",
       "worldId": "chestnutridge",
       "name": "奔腾溪谷",
-      "image": "/images/worlds/districts/GallopingGulch.jpg",
+      "image": "/images/worlds/districts/GallopingGulch.JPG",
       "description": "这座溪谷被誉为骑马时必去的地区之一，充满了绝美的小径和壮观的眺望点。在探索溪谷各种美景奇观的同时，你还能在骏马安息处缅怀故事的高尚马儿，探索危机四伏的惧马洞穴，或者在马鞍峰露营地享受星光下的时光。",
       "lots": []
     },
@@ -29138,7 +29138,7 @@ export default {
       "id": "morensong",
       "worldId": "tomarang",
       "name": "穆朗桑",
-      "image": "/images/worlds/districts/Morensong.jpg",
+      "image": "/images/worlds/districts/Morensong.JPG",
       "description": "熙熙攘攘的街区，田园诗般的宁静，还有睦邻友好的一角！穆朗桑是活力社区日夜蓬勃发展的好地方。你可以漫步穿过植物园或在游乐场玩跳格子游戏。甚至可以加入热闹的夜市，享受日落购物和月光下的美味小吃。多重选择，永无止境！",
       "lots": []
     },
@@ -29146,7 +29146,7 @@ export default {
       "id": "kohsahpa",
       "worldId": "tomarang",
       "name": "科萨帕",
-      "image": "/images/worlds/districts/KohSahpa.jpg",
+      "image": "/images/worlds/districts/KohSahpa.JPG",
       "description": "以大自然或其他为邻，沿河的科萨帕会给你带来轻松的生活方式。在海里畅游或度过渴望已久的海滩时光后，你可以在\"尖叫壁虎\"小聚，喝两杯。在阳光沐浴下，你是否觉得心里暖暖的呢？你还可以参观苏莉亚老虎保护区，支持当地的保育工作。无论你选择哪一项活动，科萨帕都是你随心所欲的理想之地。",
       "lots": []
     },
@@ -29154,7 +29154,7 @@ export default {
       "id": "nuevocorazon",
       "worldId": "ciudadenamorada",
       "name": "甜心街区",
-      "image": "/images/worlds/districts/NuevoCorazon.jpg",
+      "image": "/images/worlds/districts/NuevoCorazon.JPG",
       "description": "爱慕之城最精彩热闹的夜生活，尽在甜心街区内。时尚的派对常客都喜欢来这个活力四射的城市区域享受城镇的夜生活，在聚会上搜寻下一位潜在的恋爱对象。勇敢地踏进诱人而神秘的夜店\"爱情观察站\"吧，那里是公认展开热恋和进行浪漫行为的热门地点。不过，并非每个人都享受夜生活，所以，对于那些喜欢在白天约会的人，在\"爱与汗水健身房\"里出一身汗并秀出你的一身肌肉，就再合适不过了。",
       "lots": []
     },
@@ -29162,7 +29162,7 @@ export default {
       "id": "plazamariposa",
       "worldId": "ciudadenamorada",
       "name": "马里波萨广场",
-      "image": "/images/worlds/districts/PlazaMariposa.jpg",
+      "image": "/images/worlds/districts/PlazaMariposa.JPG",
       "description": "马里波萨广场是爱慕之城的中心广场，也是观赏绝佳美景和进行有趣的约会之夜活动的绝妙地点。造访\"半个橘子酒吧\"，逛一逛让人神清气爽的公园，或预定\"温情庄园\"租赁房屋，来一次迷人的度假之旅。你还可以送上来自\"伊莎贝拉的花店\"的浪漫礼物，让你的约会对象兴奋不已，或在\"梦想之泉\"许个愿。",
       "lots": []
     },
@@ -29170,7 +29170,7 @@ export default {
       "id": "vistahermosa",
       "worldId": "ciudadenamorada",
       "name": "美景镇",
-      "image": "/images/worlds/districts/VistaHermosa.jpg",
+      "image": "/images/worlds/districts/VistaHermosa.JPG",
       "description": "美景镇宁静的环境为各种浪漫体验提供了最佳环境。当地人通常会造访\"爱的抱抱酒廊\"，这个繁忙的热门地点离大名鼎鼎的\"爱情之墙\"仅几步之遥，情人们可以在这面墙上写下对彼此的爱的誓言。若你渴望另一种广西，则可以造访全天候营业，位置便利的摩铁\"热吻旅馆\"。",
       "lots": []
     },
@@ -29178,7 +29178,7 @@ export default {
       "id": "crowscrossing",
       "worldId": "ravenwood",
       "name": "乌鸦渡口",
-      "image": "/images/worlds/districts/CrowsCrossing.jpg",
+      "image": "/images/worlds/districts/CrowsCrossing.JPG",
       "description": "乌鸦渡口是一座由山羊莫比所建立的小村庄，传闻中，那里很常有鬼魂出没，闹鬼更是家常便饭。拜访古老幽魂墓园的神秘商人，调查城镇边缘的塔罗宝典圣坛，探索废弃的房子，在思念与遗憾之井许下愿望，不过要小心伊迪丝就是了！",
       "lots": []
     },
@@ -29186,7 +29186,7 @@ export default {
       "id": "whisperingglen",
       "worldId": "ravenwood",
       "name": "低语山坳",
-      "image": "/images/worlds/districts/WhisperingGlen.jpg",
+      "image": "/images/worlds/districts/WhisperingGlen.JPG",
       "description": "低语山坳位于暗鸦森林乡间的山丘之中，这里是安静的乡间地区，很适合有意远离当地鬼魂骚扰，想要享受漫步调生活的人。这地方满是遗迹和谣言，是收藏家与历史学家的天堂。探索当地的地穴，在遗迹深处调查塔罗宝典圣坛，在共享社群地带种些花花草草，或者完善自己的收藏。",
       "lots": []
     },
@@ -29194,7 +29194,7 @@ export default {
       "id": "mourningvale",
       "worldId": "ravenwood",
       "name": "悼念谷地",
-      "image": "/images/worlds/districts/Mourningvale.jpg",
+      "image": "/images/worlds/districts/Mourningvale.JPG",
       "description": "悼念谷地给人一种不同于俗世的感觉。也许是因为风呼啸穿越生满青苔的树木的缘故，又或是因为钟楼总在奇怪的时间发出诡异声响，也可能是因为那些有知觉的植物。不论原因为何，很多鬼魂都把这地方当成自己的家。死神甚至不时会在这附近徘徊！模拟市民能在这里找到凶恶沼泽，还能调查钟楼旁边的塔罗宝典圣坛，或者聆听守护者树与艾莉丝的低语。",
       "lots": []
     },
@@ -29202,7 +29202,7 @@ export default {
       "id": "gammelvik",
       "worldId": "nordhaven",
       "name": "加莫克",
-      "image": "/images/worlds/districts/Gammelvik.jpg",
+      "image": "/images/worlds/districts/Gammelvik.JPG",
       "description": "漫步在加莫克的历史街道上，沉浸在诺黑凡最古老区域的文化氛围中。这里的居民喜欢慢慢生活，骑着复古脚踏车去上班，并在晚上沿着古老的运河悠闲散步。不妨前往中央广场参加嗜好聚会或者市集，或造访一家旧浪，度过一个温暖的音乐之夜。",
       "lots": []
     },
@@ -29210,7 +29210,7 @@ export default {
       "id": "iverstad",
       "worldId": "nordhaven",
       "name": "艾佛斯达",
-      "image": "/images/worlds/districts/Iverstad.jpg",
+      "image": "/images/worlds/districts/Iverstad.JPG",
       "description": "艾佛斯达原先是城市中的工业区，近来已转变为胸怀壮志且时尚迷人的模拟市民们的新居所。许多旧工厂已被改建为居住空间，且最近开放了大量空地，为新的开发建设铺路。过桥前往中央岛屿，并参加当地的嗜好聚会，认识这个快速发展社区中的年轻世代。不过最好还是避开那条黑暗的小巷--听说那里晚上会有阴险人物出没…...",
       "lots": []
     },
@@ -29218,7 +29218,7 @@ export default {
       "id": "coastofadhmor",
       "worldId": "innisgreen",
       "name": "阿德莫尔海岸",
-      "image": "/images/worlds/districts/CoastofAdhmor.jpg",
+      "image": "/images/worlds/districts/CoastofAdhmor.JPG",
       "description": "阿德莫尔海岸是座充满传说与历史的热闹海滨村庄，因为色彩缤纷的建筑，经典的地标和海岸风光而称为旅游胜地。",
       "lots": []
     },
@@ -29226,7 +29226,7 @@ export default {
       "id": "sprucederrygrove",
       "worldId": "innisgreen",
       "name": "史普德葛罗",
-      "image": "/images/worlds/districts/SprucederryGrove.jpg",
+      "image": "/images/worlds/districts/SprucederryGrove.JPG",
       "description": "史普德葛罗是热爱自然与波希米亚生活风格的模拟市民的天堂。他们热爱钻研园艺，自给自足的生活方式，并致力于精通药剂师技能。大自然爱好者蜂拥而至，在风景如画的树林间寻宝，在静谧的溪流中沐浴。这个社区的名称源自在地传奇--王牌天树，这位深受邻里喜爱的花园伙伴。",
       "lots": []
     },
@@ -29234,7 +29234,7 @@ export default {
       "id": "everdew",
       "worldId": "innisgreen",
       "name": "埃弗杜",
-      "image": "/images/worlds/districts/Everdew.jpg",
+      "image": "/images/worlds/districts/Everdew.JPG",
       "description": "埃弗杜是仙子议会的总部，也是仙子生活的中心，仙子在这里可以尽情做自己。伊丝格林最迷人的社区在自然美景智商闪耀着魔法的光泽。",
       "lots": []
     },
@@ -29242,7 +29242,7 @@ export default {
       "id": "wanderwoodwilds",
       "worldId": "gibbipoint",
       "name": "漂林野地",
-      "image": "/images/worlds/districts/WanderwoodWilds.jpg",
+      "image": "/images/worlds/districts/WanderwoodWilds.JPG",
       "description": "漂林野地的生活真是有趣到爆--字面上的意思！火爆岩间隙泉虽然是这一带的主要亮点，但这片森林中的奇妙惊喜远不止于此。模拟市民可以在营火旁享受户外时光，在开阔的湖中划独木舟，或者钓鱼来放松心情。别忘了造访旧消防塔，感谢守望者的辛劳。如果你感受自己有点心跳加速，仿佛体内有蝴蝶飞舞，务必去找蝴蝶自然资源保护人士寻求协助。",
       "lots": []
     },
@@ -29250,7 +29250,7 @@ export default {
       "id": "jellyfishjunction",
       "worldId": "gibbipoint",
       "name": "水母交叉口",
-      "image": "/images/worlds/districts/JellyfishJunction.jpg",
+      "image": "/images/worlds/districts/JellyfishJunction.JPG",
       "description": "水母交叉口以其独特的艺术氛围闻名，不仅吸引创意人才，也吸引着划独木舟玩家与跃跃欲试的游客。拜访我们的说书人托诗，深入认识吉比岬冒险任务，别错过弓箭匠岬和孤寂灯塔，这里曾是晶锥鸟的知名热点，并以制箭工艺而得名。从暗光海湾到\"寻桨选品\"，水母交叉口总有新鲜事等着你。",
       "lots": []
     },
@@ -29258,7 +29258,7 @@ export default {
       "id": "crystalvalley",
       "worldId": "gibbipoint",
       "name": "水晶谷",
-      "image": "/images/worlds/districts/CrystalValley.jpg",
+      "image": "/images/worlds/districts/CrystalValley.JPG",
       "description": "水晶谷曾是热闹的淘金社区，并因一次不寻常的事件而得名: 某天夜里，史酷普金矿突然枯竭，并被水晶取而代之！如今，人们可以来这里淘洗水晶，或造访电光潟湖，在萤火虫的微光中与霓虹水母游泳。游客们可能还会看到一种独特的鸟类。想了解这里更多资讯，不妨走一趟\"来就知中心\"一探究竟。",
       "lots": []
     },
@@ -29266,7 +29266,7 @@ export default {
       "id": "dambele",
       "worldId": "ondarion",
       "name": "丹贝莱",
-      "image": "/images/worlds/districts/Dambele.jpg",
+      "image": "/images/worlds/districts/Dambele.JPG",
       "description": "以充满活力的街道，公共空间，与深厚的绘画与工艺传统闻名。丹贝莱是个热情又好客的地方。别被它朴实无华的外表骗了：这里其实是极为富庶的社区…... 他们只是不喜欢炫耀罢了。毕竟，丹贝莱最重要的传统，就是让社群里的每个人彼此分享所有一切。",
       "lots": []
     },
@@ -29274,7 +29274,7 @@ export default {
       "id": "verdemar",
       "worldId": "ondarion",
       "name": "维德玛",
-      "image": "/images/worlds/districts/Verdemar.jpg",
+      "image": "/images/worlds/districts/Verdemar.JPG",
       "description": "如同其居民般狂放不羁，维德玛是一个充满强烈对比的地方。吵闹的海盗与受过教育的贵族，在历史长河中都曾以此为家。外人眼中或许像是格格不入的冲突，其实是文化之间和平的结合。的确，在这里几乎找不到没有海盗祖先的贵族家庭。直到今日，这里仍是冒险家与流放者的天地，唯有坚强与精明的人，才能赢得更多尊敬。",
       "lots": []
     },
@@ -29282,7 +29282,7 @@ export default {
       "id": "bellacorde",
       "worldId": "ondarion",
       "name": "贝拉科德",
-      "image": "/images/worlds/districts/Bellacorde.jpg",
+      "image": "/images/worlds/districts/Bellacorde.JPG",
       "description": "品味，华丽与优雅。在贝拉科德，一切都浪漫，美丽…...而且贵得离谱。这里有着骑士精神与宫廷戏码的悠久历史，是品味精英生活方方面面的最佳舞台。只是别玩得太过火，惹出什么轰动丑闻就不好了。这里的八卦传得极快，而在贝拉科德，没有什么罪行比名声受损更严重了。",
       "lots": []
     }
@@ -29296,7 +29296,8 @@ export default {
         "家具"
       ],
       "status": "Inactive",
-      "url": "https://ifdian.net/a/dundunhome"
+      "url": "https://ifdian.net/a/dundunhome",
+      "avatar": "/images/creators/dundun.jpeg"
     },
     {
       "id": "tutuguodawang",
@@ -29306,7 +29307,8 @@ export default {
         "家具"
       ],
       "status": "Inactive",
-      "url": "https://afdian.com/a/heyya"
+      "url": "https://afdian.com/a/heyya",
+      "avatar": "/images/creators/tutuguodawang.jpeg"
     },
     {
       "id": "kukusim",
@@ -29316,7 +29318,8 @@ export default {
         "家具"
       ],
       "status": "Active",
-      "url": "https://ifdian.net/a/PIGDC"
+      "url": "https://ifdian.net/a/PIGDC",
+      "avatar": "/images/creators/kukusim.jpg"
     },
     {
       "id": "achasims",
@@ -29326,7 +29329,8 @@ export default {
         "动作"
       ],
       "status": "Active",
-      "url": "https://www.patreon.com/cw/acha_sims/posts"
+      "url": "https://www.patreon.com/cw/acha_sims/posts",
+      "avatar": "/images/creators/Acha_sims.jpg"
     },
     {
       "id": "adrienpastel",
@@ -29338,7 +29342,8 @@ export default {
         "童装"
       ],
       "status": "Active",
-      "url": "https://www.patreon.com/cw/adrienpastel"
+      "url": "https://www.patreon.com/cw/adrienpastel",
+      "avatar": "/images/creators/adrienpastel.jpg"
     },
     {
       "id": "aggressivekitty",
@@ -29348,7 +29353,8 @@ export default {
         "家具"
       ],
       "status": "Active",
-      "url": "https://www.patreon.com/c/aggressivekitty/posts"
+      "url": "https://www.patreon.com/c/aggressivekitty/posts",
+      "avatar": "/images/creators/AggressiveKitty.jpg"
     },
     {
       "id": "aharris00britney",
@@ -29358,7 +29364,8 @@ export default {
         "女发"
       ],
       "status": "Active",
-      "url": "https://www.patreon.com/cw/aharris00britney/posts"
+      "url": "https://www.patreon.com/cw/aharris00britney/posts",
+      "avatar": "/images/creators/aharris00britney.jpg"
     },
     {
       "id": "aira",
@@ -29368,7 +29375,8 @@ export default {
         "家具"
       ],
       "status": "Inactive",
-      "url": "https://www.patreon.com/c/airacc/posts"
+      "url": "https://www.patreon.com/c/airacc/posts",
+      "avatar": "/images/creators/Aira.png"
     },
     {
       "id": "aladdin",
@@ -29378,7 +29386,8 @@ export default {
         "女发"
       ],
       "status": "Inactive",
-      "url": "https://www.tumblr.com/aladdin-the-simmer"
+      "url": "https://www.tumblr.com/aladdin-the-simmer",
+      "avatar": "/images/creators/Aladdin.jpg"
     }
   ],
   "trackers": [

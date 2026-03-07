@@ -9,9 +9,9 @@ export interface Creator {
 }
 
 // Helper function to automatically generate the avatar path from the id
-const createCreator = (data: Omit<Creator, 'avatar'>): Creator => ({
+const createCreator = (data: Partial<Creator> & Omit<Creator, 'avatar'>): Creator => ({
   ...data,
-  avatar: `/images/creators/${data.id}.jpg`
+  avatar: data.avatar || `/images/creators/${data.id}.jpg`
 });
 
 const defaultCreatorsData: Creator[] = [
