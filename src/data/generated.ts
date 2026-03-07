@@ -29289,16 +29289,96 @@ export default {
   ],
   "creators": [
     {
-      "id": "greenllama",
-      "name": "GreenLlama",
-      "favLevel": 0,
+      "id": "dundun",
+      "name": "墩墩",
+      "favLevel": "B",
       "types": [
-        "Male Hair",
-        "Female Hair",
-        "Clothes"
+        "家具"
+      ],
+      "status": "Inactive",
+      "url": "https://ifdian.net/a/dundunhome"
+    },
+    {
+      "id": "tutuguodawang",
+      "name": "兔兔国大王",
+      "favLevel": "B",
+      "types": [
+        "家具"
+      ],
+      "status": "Inactive",
+      "url": "https://afdian.com/a/heyya"
+    },
+    {
+      "id": "kukusim",
+      "name": "猪大葱",
+      "favLevel": "B",
+      "types": [
+        "家具"
       ],
       "status": "Active",
-      "url": "https://patreon.com"
+      "url": "https://ifdian.net/a/PIGDC"
+    },
+    {
+      "id": "achasims",
+      "name": "Acha_sims",
+      "favLevel": "A",
+      "types": [
+        "动作"
+      ],
+      "status": "Active",
+      "url": "https://www.patreon.com/cw/acha_sims/posts"
+    },
+    {
+      "id": "adrienpastel",
+      "name": "adrienpastel",
+      "favLevel": "A",
+      "types": [
+        "男装",
+        "女装",
+        "童装"
+      ],
+      "status": "Active",
+      "url": "https://www.patreon.com/cw/adrienpastel"
+    },
+    {
+      "id": "aggressivekitty",
+      "name": "AggressiveKitty",
+      "favLevel": "B",
+      "types": [
+        "家具"
+      ],
+      "status": "Active",
+      "url": "https://www.patreon.com/c/aggressivekitty/posts"
+    },
+    {
+      "id": "aharris00britney",
+      "name": "aharris00britney",
+      "favLevel": "A",
+      "types": [
+        "女发"
+      ],
+      "status": "Active",
+      "url": "https://www.patreon.com/cw/aharris00britney/posts"
+    },
+    {
+      "id": "aira",
+      "name": "Aira",
+      "favLevel": "A",
+      "types": [
+        "家具"
+      ],
+      "status": "Inactive",
+      "url": "https://www.patreon.com/c/airacc/posts"
+    },
+    {
+      "id": "aladdin",
+      "name": "Aladdin",
+      "favLevel": "A",
+      "types": [
+        "女发"
+      ],
+      "status": "Inactive",
+      "url": "https://www.tumblr.com/aladdin-the-simmer"
     }
   ],
   "trackers": [
