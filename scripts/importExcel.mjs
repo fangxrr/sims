@@ -266,7 +266,8 @@ try {
             types: parseArray(getRowVal(row, 'types')) || [],
             status: getRowVal(row, 'status'),
             url: getRowVal(row, 'url'),
-            avatar: getImagePath(rawId || rawName, 'creators')
+            avatar: getImagePath(rawId || rawName, 'creators'),
+            date: getRowVal(row, 'date') || getRowVal(row, 'releaseDate')
         };
     });
 
@@ -275,11 +276,14 @@ try {
     const trackersData = rawTrackers.filter(row => getRowVal(row, 'id')).map(row => ({
         id: normalizeId(getRowVal(row, 'id')),
         title: getRowVal(row, 'title'),
+        chineseTitle: getRowVal(row, 'chineseTitle'),
         author: getRowVal(row, 'author'),
         type: getRowVal(row, 'type'),
         subtype: getRowVal(row, 'subtype'),
         downloadUrl: getRowVal(row, 'downloadUrl'),
-        translationUrl: getRowVal(row, 'translationUrl')
+        translationUrl: getRowVal(row, 'translationUrl'),
+        date: getRowVal(row, 'date') || getRowVal(row, 'releaseDate'),
+        isDownloaded: String(getRowVal(row, 'isDownloaded')).toLowerCase() === 'true' || getRowVal(row, 'isDownloaded') === true || getRowVal(row, 'isDownloaded') === '已下载'
     }));
 
     const rawFinders = getSheet('Finders');

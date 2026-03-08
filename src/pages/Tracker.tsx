@@ -24,11 +24,13 @@ export const CCTracker: React.FC = () => {
     Object.keys(subtypeMap).forEach(key => subtypeMap[key].sort());
 
     const authors = Array.from(new Set(CC_DATA.map(item => item.author))).sort();
+    const downloadedOptions = ['All', 'Downloaded', 'Not Downloaded'];
 
     return {
       type: types,
       subtype: subtypeMap,
-      author: authors
+      author: authors,
+      isDownloaded: downloadedOptions
     };
   }, []);
 
@@ -87,6 +89,11 @@ export const CCTracker: React.FC = () => {
         item.author.toLowerCase().includes(searchQuery.toLowerCase());
 
       const matchesFilters = Object.entries(activeFilters).every(([key, value]) => {
+        if (key === 'isDownloaded') {
+          if (value === 'Downloaded') return item.isDownloaded === true;
+          if (value === 'Not Downloaded') return item.isDownloaded !== true;
+          return true;
+        }
         return (item as any)[key] === value;
       });
 
@@ -173,7 +180,7 @@ export const CCTracker: React.FC = () => {
                 transition={{ duration: 0.3, ease: "easeInOut" }}
                 className="overflow-hidden border-b border-white/5 bg-black/20 backdrop-blur-xl"
               >
-                <div className="px-4 py-4 md:px-8 md:py-6 grid grid-cols-1 sm:grid-cols-3 gap-6">
+                <div className="px-4 py-4 md:px-8 md:py-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
                   {/* Type Filter */}
                   <div className="relative group">
                     <label className="block text-[10px] font-bold uppercase tracking-wider text-white/40 mb-2 ml-1">
@@ -247,6 +254,27 @@ export const CCTracker: React.FC = () => {
                     </div>
                   </div>
 
+                  {/* Status Filter */}
+                  <div className="relative group">
+                    <label className="block text-[10px] font-bold uppercase tracking-wider text-white/40 mb-2 ml-1">
+                      Status
+                    </label>
+                    <div className="relative">
+                      <select
+                        value={activeFilters.isDownloaded || ''}
+                        onChange={(e) => toggleFilter('isDownloaded', e.target.value)}
+                        className="appearance-none w-full bg-white/5 border border-white/10 text-white text-xs rounded-lg py-2.5 px-3 pr-8 focus:outline-none focus:border-white/30 cursor-pointer hover:bg-white/10 transition-colors"
+                      >
+                        <option value="">All Status</option>
+                        <option value="Downloaded" className="bg-gray-900 text-white">Downloaded</option>
+                        <option value="Not Downloaded" className="bg-gray-900 text-white">Not Downloaded</option>
+                      </select>
+                      <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-white/40">
+                        <ChevronDown size={12} />
+                      </div>
+                    </div>
+                  </div>
+
                 </div>
               </motion.div>
             )}
@@ -264,7 +292,7 @@ export const CCTracker: React.FC = () => {
                   onClick={() => clearFilter(category)}
                   className="flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 border border-white/10 text-xs text-white hover:bg-white/20 transition-colors group"
                 >
-                  <span className="text-white/60 capitalize">{category}:</span>
+                  <span className="text-white/60 capitalize">{category === 'isDownloaded' ? 'Status' : category}:</span>
                   <span className="font-medium">{value}</span>
                   <X size={12} className="text-white/40 group-hover:text-white transition-colors" />
                 </motion.button>
@@ -331,13 +359,26 @@ export const CCTracker: React.FC = () => {
                         <Download size={14} />
                       </a>
                     </div>
+
+                    {/* Downloaded Badge */}
+                    {item.isDownloaded && (
+                      <div className="absolute top-3 left-3 px-2 py-1 rounded-md bg-white/90 backdrop-blur-md text-black text-[9px] font-bold uppercase tracking-widest flex items-center gap-1 shadow-lg">
+                        <Download size={10} strokeWidth={3} />
+                        <span>已下载</span>
+                      </div>
+                    )}
                   </div>
 
                   {/* Content */}
                   <div className="p-4 flex flex-col gap-1">
                     <h4 className="text-sm font-semibold text-white/90 truncate group-hover:text-white transition-colors">
-                      {item.title}
+                      {item.chineseTitle || item.title}
                     </h4>
+                    {item.chineseTitle && (
+                      <p className="text-[10px] text-white/40 truncate -mt-0.5">
+                        {item.title}
+                      </p>
+                    )}
                     <div className="flex items-center justify-between mt-1">
                       <span className="text-xs text-white/50 truncate">
                         {item.author}
@@ -360,7 +401,7 @@ export const CCTracker: React.FC = () => {
                       <input
                         type="text"
                         placeholder="yyyy/mm/dd"
-                        value={downloadDates[item.id] || ''}
+                        value={downloadDates[item.id] || item.date || ''}
                         onChange={(e) => handleDateChange(item.id, e.target.value)}
                         className="w-[70px] bg-transparent text-xs text-white/80 focus:outline-none focus:text-white placeholder-white/30 text-right"
                       />

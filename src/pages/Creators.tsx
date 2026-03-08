@@ -270,7 +270,7 @@ export const Creators: React.FC = () => {
                       <input
                         type="text"
                         placeholder="yyyy/mm/dd"
-                        value={downloadDates[creator.id] || ''}
+                        value={downloadDates[creator.id] || creator.date || ''}
                         onChange={(e) => handleDateChange(creator.id, e.target.value)}
                         className="flex-1 bg-transparent text-[10px] text-white/80 focus:outline-none focus:text-white placeholder-white/30 text-left"
                       />

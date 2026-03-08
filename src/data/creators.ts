@@ -6,6 +6,7 @@ export interface Creator {
   types: string[];
   status: string;
   url: string;
+  date?: string;
 }
 
 // Helper function to automatically generate the avatar path from the id
