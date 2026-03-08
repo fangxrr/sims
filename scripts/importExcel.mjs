@@ -282,7 +282,7 @@ try {
             avatar: getImagePath(rawId || rawName, 'creators'),
             date: formatExcelDate(getRowVal(row, 'date') || getRowVal(row, 'releaseDate'))
         };
-    });
+    }).filter(c => c.id && (c.name || c.id));
 
     // 7. Trackers
     const rawTrackers = getSheet('Trackers');
@@ -297,7 +297,7 @@ try {
         translationUrl: getRowVal(row, 'translationUrl'),
         date: formatExcelDate(getRowVal(row, 'date') || getRowVal(row, 'releaseDate')),
         isDownloaded: Boolean(getRowVal(row, 'isDownloaded') === true || String(getRowVal(row, 'isDownloaded')).toLowerCase() === 'true' || getRowVal(row, 'isDownloaded') === '已下载')
-    }));
+    })).filter(t => t.id && (t.title || t.id));
 
     const rawFinders = getSheet('Finders');
     const findersData = rawFinders.filter(row => getRowVal(row, 'id')).map(row => ({

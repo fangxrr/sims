@@ -16,8 +16,8 @@ export const Creators: React.FC = () => {
     const allTypes = new Set<string>();
     CREATORS_DATA.forEach(c => c.types.forEach(t => allTypes.add(t)));
 
-    const favLevels = new Set(CREATORS_DATA.map(c => c.favLevel));
-    const statuses = new Set(CREATORS_DATA.map(c => c.status));
+    const favLevels = new Set(CREATORS_DATA.map(c => c.favLevel || ''));
+    const statuses = new Set(CREATORS_DATA.map(c => c.status || ''));
 
     return {
       type: Array.from(allTypes).sort(),
@@ -70,8 +70,10 @@ export const Creators: React.FC = () => {
 
   const filteredCreators = useMemo(() => {
     return CREATORS_DATA.filter(creator => {
-      const matchesSearch = creator.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        creator.types.some(t => t.toLowerCase().includes(searchQuery.toLowerCase()));
+      const name = creator.name || '';
+      const types = creator.types || [];
+      const matchesSearch = name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        types.some(t => t.toLowerCase().includes(searchQuery.toLowerCase()));
 
       const matchesFilters = (Object.entries(activeFilters) as [string, string[]][]).every(([key, values]) => {
         if (values.length === 0) return true;
@@ -83,7 +85,7 @@ export const Creators: React.FC = () => {
       });
 
       return matchesSearch && matchesFilters;
-    }).sort((a, b) => a.name.localeCompare(b.name));
+    }).sort((a, b) => (a.name || '').localeCompare(b.name || ''));
   }, [searchQuery, activeFilters]);
 
   return (

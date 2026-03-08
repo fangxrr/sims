@@ -16,14 +16,16 @@ export const CCTracker: React.FC = () => {
 
     const subtypeMap: Record<string, string[]> = {};
     CC_DATA.forEach(item => {
-      if (!subtypeMap[item.type]) subtypeMap[item.type] = [];
-      if (!subtypeMap[item.type].includes(item.subtype)) {
-        subtypeMap[item.type].push(item.subtype);
+      const type = item.type || 'Unknown';
+      const subtype = item.subtype || 'Unknown';
+      if (!subtypeMap[type]) subtypeMap[type] = [];
+      if (!subtypeMap[type].includes(subtype)) {
+        subtypeMap[type].push(subtype);
       }
     });
     Object.keys(subtypeMap).forEach(key => subtypeMap[key].sort());
 
-    const authors = Array.from(new Set(CC_DATA.map(item => item.author))).sort();
+    const authors = Array.from(new Set(CC_DATA.map(item => item.author || 'Unknown'))).sort();
     const downloadedOptions = ['All', 'Downloaded', 'Not Downloaded'];
 
     return {
@@ -85,8 +87,10 @@ export const CCTracker: React.FC = () => {
 
   const filteredItems = useMemo(() => {
     return CC_DATA.filter(item => {
-      const matchesSearch = item.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        item.author.toLowerCase().includes(searchQuery.toLowerCase());
+      const title = item.title || '';
+      const author = item.author || '';
+      const matchesSearch = title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        author.toLowerCase().includes(searchQuery.toLowerCase());
 
       const matchesFilters = Object.entries(activeFilters).every(([key, value]) => {
         if (key === 'isDownloaded') {
@@ -99,10 +103,14 @@ export const CCTracker: React.FC = () => {
 
       return matchesSearch && matchesFilters;
     }).sort((a, b) => {
-      if (a.type !== b.type) {
-        return a.type.localeCompare(b.type);
+      const typeA = a.type || '';
+      const typeB = b.type || '';
+      if (typeA !== typeB) {
+        return typeA.localeCompare(typeB);
       }
-      return a.subtype.localeCompare(b.subtype);
+      const subtypeA = a.subtype || '';
+      const subtypeB = b.subtype || '';
+      return subtypeA.localeCompare(subtypeB);
     });
   }, [searchQuery, activeFilters]);
 
