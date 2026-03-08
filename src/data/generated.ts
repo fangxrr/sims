@@ -29298,7 +29298,7 @@ export default {
       "status": "Active",
       "url": "https://www.patreon.com/cw/acha_sims/posts",
       "avatar": "/images/creators/Acha_sims.jpg",
-      "date": 46296
+      "date": "2026/10/01"
     },
     {
       "id": "adrienpastel",
@@ -32154,6 +32154,7 @@ export default {
     },
     {
       "id": "",
+      "translationUrl": "https://www.patreon.com/posts/functional-stand-75087173",
       "isDownloaded": false
     },
     {

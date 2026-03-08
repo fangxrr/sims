@@ -50,6 +50,19 @@ try {
         return String(id).trim().toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
     };
 
+    const formatExcelDate = (val) => {
+        if (!val) return undefined;
+        if (typeof val === 'number') {
+            // Excel dates are days since 1899-12-30
+            const date = new Date(Math.round((val - 25569) * 86400 * 1000));
+            const y = date.getFullYear();
+            const m = String(date.getMonth() + 1).padStart(2, '0');
+            const d = String(date.getDate()).padStart(2, '0');
+            return `${y}/${m}/${d}`;
+        }
+        return String(val).trim();
+    };
+
     const getImagePath = (id, subfolder) => {
         if (!id) return undefined;
 
@@ -267,7 +280,7 @@ try {
             status: getRowVal(row, 'status'),
             url: getRowVal(row, 'url'),
             avatar: getImagePath(rawId || rawName, 'creators'),
-            date: getRowVal(row, 'date') || getRowVal(row, 'releaseDate')
+            date: formatExcelDate(getRowVal(row, 'date') || getRowVal(row, 'releaseDate'))
         };
     });
 
@@ -282,8 +295,8 @@ try {
         subtype: getRowVal(row, 'subtype'),
         downloadUrl: getRowVal(row, 'downloadUrl'),
         translationUrl: getRowVal(row, 'translationUrl'),
-        date: getRowVal(row, 'date') || getRowVal(row, 'releaseDate'),
-        isDownloaded: String(getRowVal(row, 'isDownloaded')).toLowerCase() === 'true' || getRowVal(row, 'isDownloaded') === true || getRowVal(row, 'isDownloaded') === '已下载'
+        date: formatExcelDate(getRowVal(row, 'date') || getRowVal(row, 'releaseDate')),
+        isDownloaded: Boolean(getRowVal(row, 'isDownloaded') === true || String(getRowVal(row, 'isDownloaded')).toLowerCase() === 'true' || getRowVal(row, 'isDownloaded') === '已下载')
     }));
 
     const rawFinders = getSheet('Finders');
