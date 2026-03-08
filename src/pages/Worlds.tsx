@@ -5,6 +5,7 @@ import { useNavigate } from 'react-router-dom';
 import { WORLDS_DATA } from '../data/worlds';
 import { useDraggableScroll } from '../hooks/useDraggableScroll';
 import { SmartImage } from '../components/SmartImage';
+import { WorldMap } from '../components/WorldMap';
 
 const WORLDS = Object.values(WORLDS_DATA);
 
@@ -159,50 +160,64 @@ export const Worlds: React.FC = () => {
             {/* Conditional Rendering: Spotlight OR Grid */}
             {!isFiltering ? (
               /* Spotlight Section (Default View) */
-              <div className="mb-12">
+              <div className="flex flex-col gap-12">
+                {/* World Map Section */}
                 <motion.div
-                  key={selectedWorld.id}
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.4 }}
-                  className="flex flex-col md:flex-row gap-8 items-start"
+                  initial={{ opacity: 0, scale: 0.98 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                  transition={{ duration: 0.6, delay: 0.2 }}
+                  className="w-full"
                 >
-                  {/* Spotlight Image */}
-                  <div className="w-full md:w-1/2 aspect-video rounded-2xl overflow-hidden border border-white/10 shadow-2xl relative group">
-                    <SmartImage
-                      src={selectedWorld.image}
-                      alt={selectedWorld.name}
-                      className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-                      referrerPolicy="no-referrer"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-60"></div>
-                  </div>
-
-                  {/* Spotlight Info */}
-                  <div className="flex-1 flex flex-col h-full justify-center pt-4">
-
-                    <h2 className="text-4xl md:text-5xl font-bold text-white mb-2 tracking-tight">
-                      {selectedWorld.chineseName || selectedWorld.name}
-                    </h2>
-                    {selectedWorld.chineseName && (
-                      <h3 className="text-xl text-white/40 mb-4 font-light tracking-wide">
-                        {selectedWorld.name}
-                      </h3>
-                    )}
-
-                    <p className="text-white/60 text-sm leading-relaxed mb-8 font-light">
-                      {selectedWorld.description}
-                    </p>
-
-                    <button
-                      onClick={() => navigate(`/worlds/${selectedWorld.id}`)}
-                      className="self-start px-6 py-3 rounded-full bg-white/10 hover:bg-white/20 border border-white/10 text-white text-xs font-semibold tracking-wider transition-all flex items-center gap-2 group"
-                    >
-                      <span>Explore Worlds Details</span>
-                      <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
-                    </button>
-                  </div>
+                  <WorldMap />
                 </motion.div>
+
+                <div className="w-full h-px bg-white/5"></div>
+
+                <div className="mb-12">
+                  <motion.div
+                    key={selectedWorld.id}
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.4 }}
+                    className="flex flex-col md:flex-row gap-8 items-start"
+                  >
+                    {/* Spotlight Image */}
+                    <div className="w-full md:w-1/2 aspect-video rounded-2xl overflow-hidden border border-white/10 shadow-2xl relative group">
+                      <SmartImage
+                        src={selectedWorld.image}
+                        alt={selectedWorld.name}
+                        className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                        referrerPolicy="no-referrer"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-60"></div>
+                    </div>
+
+                    {/* Spotlight Info */}
+                    <div className="flex-1 flex flex-col h-full justify-center pt-4">
+
+                      <h2 className="text-4xl md:text-5xl font-bold text-white mb-2 tracking-tight">
+                        {selectedWorld.chineseName || selectedWorld.name}
+                      </h2>
+                      {selectedWorld.chineseName && (
+                        <h3 className="text-xl text-white/40 mb-4 font-light tracking-wide">
+                          {selectedWorld.name}
+                        </h3>
+                      )}
+
+                      <p className="text-white/60 text-sm leading-relaxed mb-8 font-light">
+                        {selectedWorld.description}
+                      </p>
+
+                      <button
+                        onClick={() => navigate(`/worlds/${selectedWorld.id}`)}
+                        className="self-start px-6 py-3 rounded-full bg-white/10 hover:bg-white/20 border border-white/10 text-white text-xs font-semibold tracking-wider transition-all flex items-center gap-2 group"
+                      >
+                        <span>Explore Worlds Details</span>
+                        <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
+                      </button>
+                    </div>
+                  </motion.div>
+                </div>
               </div>
             ) : (
               /* Filtered Grid View */

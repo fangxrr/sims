@@ -29297,8 +29297,7 @@ export default {
       ],
       "status": "Active",
       "url": "https://www.patreon.com/cw/acha_sims/posts",
-      "avatar": "/images/creators/Acha_sims.jpg",
-      "date": "2026/10/01"
+      "avatar": "/images/creators/Acha_sims.jpg"
     },
     {
       "id": "adrienpastel",
@@ -31893,7 +31892,7 @@ export default {
       "subtype": "教育",
       "downloadUrl": "https://adeepindigomods.itch.io/better-daycare",
       "translationUrl": "https://www.patreon.com/posts/better-daycare-113858230",
-      "isDownloaded": true
+      "isDownloaded": false
     },
     {
       "id": "adeepindigobeautybarclubandsmallbusinessactivities",
@@ -32135,8 +32134,9 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "functionalbarbellrows",
+      "id": "cepzidfunctionalbarbellrows",
       "title": "Functional Barbell Rows",
+      "author": "Cepzid",
       "type": "H互动家具",
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/functional-rows-64942778",
@@ -32144,8 +32144,9 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "thesims4functionalsoccer",
+      "id": "cepzidthesims4functionalsoccer",
       "title": "The Sims 4 Functional Soccer",
+      "author": "Cepzid",
       "type": "H互动家具",
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/60061320",
@@ -32153,12 +32154,110 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "functionallemonadestandandtablebakesale",
+      "id": "cepzidfunctionallemonadestandandtablebakesale",
       "title": "Functional Lemonade Stand and Table Bake Sale",
+      "author": "Cepzid",
       "type": "H互动家具",
       "subtype": "摊位",
       "downloadUrl": "https://www.patreon.com/posts/72234357?fbclid=IwAR0pg2bhECyN6Ef6pQDJ5UFo7krZYSfOY6WMh6q3qoMvm8x-p8qGdgnSXJc",
       "translationUrl": "https://www.patreon.com/posts/functional-stand-75087173",
+      "isDownloaded": false
+    },
+    {
+      "id": "cepzidfunctionallandlinewallphone",
+      "title": "Functional Landline Wall Phone",
+      "author": "Cepzid",
+      "type": "H互动家具",
+      "subtype": "小物件",
+      "downloadUrl": "https://www.patreon.com/posts/functional-wall-89013394",
+      "translationUrl": "https://www.patreon.com/posts/functional-wall-89414600",
+      "isDownloaded": false
+    },
+    {
+      "id": "cepzidletsgetfitfanmademodpack",
+      "title": "Lets Get Fit Fanmade Modpack",
+      "author": "Cepzid",
+      "type": "H互动家具",
+      "subtype": "运动器材",
+      "downloadUrl": "https://www.patreon.com/posts/68907168",
+      "translationUrl": "https://www.patreon.com/posts/lets-get-fit-wo-74642167",
+      "isDownloaded": false
+    },
+    {
+      "id": "cepzidplaydrummods",
+      "title": "Play Drum Mods",
+      "author": "Cepzid",
+      "type": "H互动家具",
+      "subtype": "乐器",
+      "downloadUrl": "https://www.patreon.com/posts/play-drum-mods-56808638",
+      "translationUrl": "https://www.patreon.com/posts/117761740",
+      "isDownloaded": false
+    },
+    {
+      "id": "cepzidthesims4romanticinteractionaddition",
+      "title": "The Sims 4 Romantic Interaction Addition",
+      "author": "Cepzid",
+      "type": "F互动",
+      "subtype": "浪漫",
+      "downloadUrl": "https://www.patreon.com/posts/62995066",
+      "translationUrl": "https://www.patreon.com/posts/romantic-from-3-101870392",
+      "isDownloaded": false
+    },
+    {
+      "id": "cepzidselfmanicureandpedicure",
+      "title": "Self Manicure and Pedicure",
+      "author": "Cepzid",
+      "type": "F互动",
+      "subtype": "丰富生活",
+      "downloadUrl": "https://www.patreon.com/posts/self-manicure-62812890",
+      "translationUrl": "https://www.patreon.com/posts/self-manicure-zi-66190320",
+      "isDownloaded": false
+    },
+    {
+      "id": "cherisidynamicbillboardsccset",
+      "title": "Dynamic Billboards CC Set",
+      "author": "Cherisi",
+      "type": "H互动家具",
+      "subtype": "其他",
+      "downloadUrl": "https://www.curseforge.com/sims4/build-buy/dynamic-billboards-cc-set",
+      "isDownloaded": false
+    },
+    {
+      "id": "dollishaubreyplayhouse",
+      "title": "Aubrey Playhouse",
+      "author": "dollish",
+      "type": "H互动家具",
+      "subtype": "婴幼儿物件",
+      "downloadUrl": "https://www.patreon.com/posts/aubrey-playhouse-84278475",
+      "translationUrl": "https://www.patreon.com/posts/aubrey-playhouse-90578869",
+      "isDownloaded": false
+    },
+    {
+      "id": "playfulplaypen",
+      "title": "Playful Playpen",
+      "type": "H互动家具",
+      "subtype": "婴幼儿物件",
+      "downloadUrl": "https://www.patreon.com/posts/playful-playpen-123320372",
+      "translationUrl": "https://www.patreon.com/posts/playful-playpen-126206292",
+      "isDownloaded": false
+    },
+    {
+      "id": "downinsimslandfunctionalregisters",
+      "title": "Functional Registers",
+      "author": "Down in Simsland",
+      "type": "G职业",
+      "subtype": "开店",
+      "downloadUrl": "https://down-in-simsland.tumblr.com/post/738900138719936512/multi-purpose-lots",
+      "translationUrl": "https://www.patreon.com/posts/functional-gong-125308127",
+      "isDownloaded": false
+    },
+    {
+      "id": "downinsimslandmulti-purposelots",
+      "title": "Multi-Purpose Lots",
+      "author": "Down in Simsland",
+      "type": "K建房",
+      "subtype": "地段特征",
+      "downloadUrl": "https://down-in-simsland.tumblr.com/post/738900138719936512/multi-purpose-lots",
       "isDownloaded": false
     }
   ],
