@@ -31938,8 +31938,8 @@ export default {
       "id": "adeepindigofamilyandfriendsactivities",
       "title": "Family and Friends Activities",
       "author": "adeepindigo",
-      "type": "J活动&节日",
-      "subtype": "手机活动",
+      "type": "F互动",
+      "subtype": "丰富生活",
       "downloadUrl": "https://adeepindigomods.itch.io/friends-and-family-activities",
       "translationUrl": "https://www.patreon.com/posts/3-1zhu-ti-geng-72184577",
       "isDownloaded": false
@@ -31988,8 +31988,8 @@ export default {
       "id": "adeepindigopersonalcareservices",
       "title": "Personal Care Services",
       "author": "adeepindigo",
-      "type": "J活动&节日",
-      "subtype": "手机活动",
+      "type": "F互动",
+      "subtype": "丰富生活",
       "downloadUrl": "https://adeepindigomods.itch.io/personal-care-services",
       "translationUrl": "https://www.patreon.com/posts/personal-care-ge-124359427",
       "isDownloaded": false
@@ -32218,7 +32218,7 @@ export default {
       "title": "Dynamic Billboards CC Set",
       "author": "Cherisi",
       "type": "H互动家具",
-      "subtype": "其他",
+      "subtype": "其他物件",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/dynamic-billboards-cc-set",
       "isDownloaded": false
     },
@@ -32233,8 +32233,9 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "playfulplaypen",
+      "id": "dollishplayfulplaypen",
       "title": "Playful Playpen",
+      "author": "dollish",
       "type": "H互动家具",
       "subtype": "婴幼儿物件",
       "downloadUrl": "https://www.patreon.com/posts/playful-playpen-123320372",
@@ -32258,6 +32259,104 @@ export default {
       "type": "K建房",
       "subtype": "地段特征",
       "downloadUrl": "https://down-in-simsland.tumblr.com/post/738900138719936512/multi-purpose-lots",
+      "isDownloaded": false
+    },
+    {
+      "id": "ellesimsworldmedicalschoolstudentmod",
+      "title": "Medical School Student Mod",
+      "author": "ellesimsworld",
+      "type": "G职业",
+      "subtype": "跟随",
+      "downloadUrl": "https://www.patreon.com/posts/medical-school-106978164?utm_campaign=patron_engagement&utm_source=post_link&utm_id=fa022ef7-fa65-4de3-91ac-a59d834b7cf2&utm_medium=email",
+      "translationUrl": "https://www.patreon.com/posts/7-9geng-xin-yi-107673741",
+      "isDownloaded": false
+    },
+    {
+      "id": "ellesimsworldromanticaaloverstypemod",
+      "title": "Romantica A Lovers Type Mod",
+      "author": "ellesimsworld",
+      "type": "F互动",
+      "subtype": "浪漫",
+      "downloadUrl": "https://www.patreon.com/posts/download-lovers-137991992",
+      "translationUrl": "https://www.patreon.com/posts/romantica-lovers-140675167",
+      "isDownloaded": false
+    },
+    {
+      "id": "e404promanticextensions",
+      "title": "Romantic Extensions",
+      "author": "E404P",
+      "type": "F互动",
+      "subtype": "浪漫",
+      "downloadUrl": "https://www.patreon.com/posts/romantic-110553240",
+      "translationUrl": "https://www.patreon.com/posts/romantic-lang-125306582",
+      "isDownloaded": false
+    },
+    {
+      "id": "frankkextraholidays",
+      "title": "Extra Holidays",
+      "author": "Frankk",
+      "type": "J活动&节日",
+      "subtype": "节日",
+      "downloadUrl": "https://frankkmods.com/#/mods/extra-holidays",
+      "translationUrl": "https://www.patreon.com/posts/extra-holidays-e-88705123",
+      "isDownloaded": false
+    },
+    {
+      "id": "finjingsimssprinklewaterontobuddhastatuetable",
+      "title": "Sprinkle Water Onto Buddha Statue Table",
+      "author": "FinJingSims",
+      "type": "H互动家具",
+      "subtype": "其他物件",
+      "downloadUrl": "https://www.curseforge.com/sims4/build-buy/finjingsims-sprinkle-water-onto-buddha-statue",
+      "translationUrl": "https://www.patreon.com/posts/sprinkle-water-97835403",
+      "isDownloaded": false
+    },
+    {
+      "id": "finjingsimsphantoktrayandaluminiumwaterdipper",
+      "title": "Phan Tok Tray and Aluminium Water Dipper",
+      "author": "FinJingSims",
+      "type": "H互动家具",
+      "subtype": "其他物件",
+      "downloadUrl": "https://www.curseforge.com/sims4/build-buy/finjingsims-phan-tok-tray-and-aluminium-water",
+      "translationUrl": "https://www.patreon.com/posts/sprinkle-water-97835403",
+      "isDownloaded": false
+    },
+    {
+      "id": "finjingsimsthaiseatedbuddhastatue",
+      "title": "Thai Seated Buddha Statue",
+      "author": "FinJingSims",
+      "downloadUrl": "https://www.curseforge.com/sims4/build-buy/finjingsims-thai-seated-buddha-statue",
+      "translationUrl": "https://www.patreon.com/posts/thai-seated-tai-97833886",
+      "isDownloaded": false
+    },
+    {
+      "id": "frequentlybasicaskforweddingrolesviatext",
+      "title": "Ask for Wedding Roles via Text",
+      "author": "FrequentlyBasic",
+      "type": "F互动",
+      "subtype": "婚礼",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/ask-for-wedding-roles-via-text",
+      "translationUrl": "https://www.patreon.com/posts/ask-for-wedding-121253695",
+      "isDownloaded": false
+    },
+    {
+      "id": "frequentlybasicreconcileovertextremake",
+      "title": "Reconcile over Text Remake",
+      "author": "FrequentlyBasic",
+      "type": "F互动",
+      "subtype": "浪漫",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/reconcile-over-text-remake",
+      "translationUrl": "https://www.patreon.com/posts/reconcile-over-131772490",
+      "isDownloaded": false
+    },
+    {
+      "id": "frequentlybasichighschoolreimaginedinteractiveclassroom",
+      "title": "High School Reimagined Interactive Classroom",
+      "author": "FrequentlyBasic",
+      "type": "G职业",
+      "subtype": "教育",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/high-school-reimagined-interactive-classroom",
+      "translationUrl": "https://www.patreon.com/posts/high-school-gao-145335921",
       "isDownloaded": false
     }
   ],
