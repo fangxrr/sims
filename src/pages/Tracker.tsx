@@ -25,7 +25,7 @@ export const CCTracker: React.FC = () => {
     });
     Object.keys(subtypeMap).forEach(key => subtypeMap[key].sort());
 
-    const authors = Array.from(new Set(CC_DATA.map(item => item.author || 'Unknown'))).sort();
+    const authors = Array.from(new Set(CC_DATA.map(item => item.author || 'Unknown'))).sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
     const downloadedOptions = ['All', 'Downloaded', 'Not Downloaded'];
 
     return {

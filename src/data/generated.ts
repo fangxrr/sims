@@ -31893,6 +31893,7 @@ export default {
       "subtype": "小型事业",
       "downloadUrl": "https://adeepindigomods.itch.io/beauty-bar-small-business",
       "translationUrl": "https://www.patreon.com/posts/129977857",
+      "image": "/images/trackers/adeepindigo_BeautyBarClubandSmallBusinessActivities.webp",
       "isDownloaded": false
     },
     {
@@ -31904,6 +31905,7 @@ export default {
       "subtype": "教育大修",
       "downloadUrl": "https://adeepindigomods.itch.io/better-daycare",
       "translationUrl": "https://www.patreon.com/posts/better-daycare-113858230",
+      "image": "/images/trackers/adeepindigo_BetterDaycare.webp",
       "isDownloaded": false
     },
     {
@@ -31915,6 +31917,7 @@ export default {
       "subtype": "社交互动",
       "downloadUrl": "https://adeepindigomods.itch.io/connected-sims",
       "translationUrl": "https://www.patreon.com/posts/7-4zhu-ti-geng-100090985",
+      "image": "/images/trackers/adeepindigo_ConnectedSims.webp",
       "isDownloaded": false
     },
     {
@@ -31926,6 +31929,7 @@ export default {
       "subtype": "教育大修",
       "downloadUrl": "https://adeepindigomods.itch.io/dynamic-teen-life",
       "translationUrl": "https://www.patreon.com/posts/3-1zhu-ti-geng-73520382",
+      "image": "/images/trackers/adeepindigo_DaynamicTeenLife.webp",
       "isDownloaded": false
     },
     {
@@ -31937,6 +31941,7 @@ export default {
       "subtype": "教育大修",
       "downloadUrl": "https://adeepindigomods.itch.io/education-overhaul",
       "translationUrl": "https://www.patreon.com/posts/3-1zhu-ti-geng-67547400",
+      "image": "/images/trackers/adeepindigo_EducationOverhaul.webp",
       "isDownloaded": false
     },
     {
@@ -31948,6 +31953,7 @@ export default {
       "subtype": "宠物系统",
       "downloadUrl": "https://adeepindigomods.itch.io/equestrian-center-expanded",
       "translationUrl": "https://www.abonnie.uk/equestrian-center-expanded",
+      "image": "/images/trackers/adeepindigo_EquestrianCenterExpanded.webp",
       "isDownloaded": false
     },
     {
@@ -31958,6 +31964,7 @@ export default {
       "subtype": "演艺人员",
       "downloadUrl": "https://adeepindigomods.itch.io/entertainer-career-overhaul",
       "translationUrl": "https://www.patreon.com/posts/3-1zhu-ti-geng-74966382",
+      "image": "/images/trackers/adeepindigo_EntertainerCareerOverhaul.jpg",
       "isDownloaded": false
     },
     {
@@ -31968,6 +31975,7 @@ export default {
       "subtype": "丰富生活",
       "downloadUrl": "https://adeepindigomods.itch.io/friends-and-family-activities",
       "translationUrl": "https://www.patreon.com/posts/3-1zhu-ti-geng-72184577",
+      "image": "/images/trackers/adeepindigo_FamilyandFriendsActivities.jpg",
       "isDownloaded": false
     },
     {
@@ -31979,6 +31987,7 @@ export default {
       "subtype": "厨师餐饮",
       "downloadUrl": "https://adeepindigomods.itch.io/freelance-chef",
       "translationUrl": "https://www.patreon.com/posts/3-2zhu-ti-geng-65585082",
+      "image": "/images/trackers/adeepindigo_FreelanceChef.webp",
       "isDownloaded": false
     },
     {
@@ -31990,6 +31999,7 @@ export default {
       "subtype": "丰富生活",
       "downloadUrl": "https://adeepindigomods.itch.io/healthcare-redux",
       "translationUrl": "https://www.patreon.com/posts/7-4zhu-ti-geng-64887771",
+      "image": "/images/trackers/adeepindigo_HealthcareRedux.webp",
       "isDownloaded": false
     },
     {
@@ -32001,6 +32011,7 @@ export default {
       "subtype": "丰富生活",
       "downloadUrl": "https://adeepindigomods.itch.io/personal-care-services",
       "translationUrl": "https://www.patreon.com/posts/personal-care-ge-124359427",
+      "image": "/images/trackers/adeepindigo_PersonalCareServices.webp",
       "isDownloaded": false
     },
     {
@@ -32012,6 +32023,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://adeepindigomods.itch.io/pet-careers",
       "translationUrl": "https://www.patreon.com/posts/pet-careers-wu-79183804",
+      "image": "/images/trackers/adeepindigo_PetCareers.webp",
       "isDownloaded": false
     },
     {
@@ -32022,6 +32034,7 @@ export default {
       "subtype": "青春年少",
       "downloadUrl": "https://adeepindigomods.itch.io/itskatato-preteen-mod",
       "translationUrl": "https://www.patreon.com/posts/3-1zhu-ti-geng-59507279",
+      "image": "/images/trackers/adeepindigo_PreTeenMod.jpg",
       "isDownloaded": false
     },
     {
@@ -32033,6 +32046,7 @@ export default {
       "subtype": "青春年少",
       "downloadUrl": "https://adeepindigomods.itch.io/tweaks",
       "translationUrl": "https://www.patreon.com/posts/small-high-years-71643532",
+      "image": "/images/trackers/adeepindigo_TweaksandModifications.webp",
       "isDownloaded": false
     },
     {
@@ -32043,6 +32057,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://adeepindigomods.itch.io/writing-and-writer-career-overhaul",
       "translationUrl": "https://www.patreon.com/posts/7-4zhu-ti-geng-96904760",
+      "image": "/images/trackers/adeepindigo_WritingandWriterCareerOverhaul.jpg",
       "isDownloaded": false
     },
     {
@@ -32054,6 +32069,7 @@ export default {
       "subtype": "功能补充",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/no-shoes-no-accessories",
       "translationUrl": "https://www.abonnie.uk/take-it-off-no-shoes-no-accessories",
+      "image": "/images/trackers/Andirz_TakeItOffNoShoesNoAccessories.webp",
       "isDownloaded": false
     },
     {
@@ -32065,6 +32081,7 @@ export default {
       "subtype": "拍摄工具",
       "downloadUrl": "https://sims4studio.com/thread/2617/andrews-studio",
       "translationUrl": "https://www.abonnie.uk/pose-player",
+      "image": "/images/trackers/Andrew_PosePlayer.webp",
       "isDownloaded": false
     },
     {
@@ -32075,6 +32092,7 @@ export default {
       "subtype": "教育大修",
       "downloadUrl": "https://www.nexusmods.com/thesims4/mods/1463?tab=description",
       "translationUrl": "https://www.patreon.com/posts/1-7geng-xin-high-74007779",
+      "image": "/images/trackers/Aramiteus_HighSchoolMoreClassmates.webp",
       "isDownloaded": false
     },
     {
@@ -32085,6 +32103,7 @@ export default {
       "subtype": "食物制作",
       "downloadUrl": "https://www.patreon.com/posts/functional-bar-150588413?utm_campaign=patron_engagement&utm_source=post_link&post_id=150588413&utm_id=2be5e960-111f-4089-a0d0-939e5ac811cd&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/functional-bar-150823758",
+      "image": "/images/trackers/BonnieTheSimmer_FunctionalBarCart.jpg",
       "isDownloaded": false
     },
     {
@@ -32095,6 +32114,7 @@ export default {
       "subtype": "智能生活",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/the-bedtime-mod",
       "translationUrl": "https://www.patreon.com/posts/bedtime-jiu-qin-81221288",
+      "image": "/images/trackers/BosseladyTV_Bedtime.jpg",
       "isDownloaded": false
     },
     {
@@ -32105,6 +32125,7 @@ export default {
       "subtype": "功能补充",
       "downloadUrl": "https://www.patreon.com/posts/carl-ready-v1-21-66434572",
       "translationUrl": "https://www.patreon.com/posts/3-3zhu-ti-geng-93157858",
+      "image": "/images/trackers/CarlsGuides_CarlCollectiblesReady.jpg",
       "isDownloaded": false
     },
     {
@@ -32115,6 +32136,7 @@ export default {
       "subtype": "厨师餐饮",
       "downloadUrl": "https://www.patreon.com/posts/64188681",
       "translationUrl": "https://www.patreon.com/posts/6-14zhu-ti-geng-76909025",
+      "image": "/images/trackers/CarlsGuides_DineOutReloaded.jpg",
       "isDownloaded": false
     },
     {
@@ -32125,6 +32147,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/arcade-room-pack-61024978?utm_campaign=patron_engagement&utm_source=post_link&post_id=61024978&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWRpc19rZXkiOiJpYTI6NDk3NDE2NzgtNjhlYy00MzI5LThmZjQtNjEzMDk1OGM3YjYxIiwicG9zdF9pZCI6NjEwMjQ5NzgsInBhdHJvbl9pZCI6NTA2MzkyNDN9._f5vdQu_ydhdT4NoAMI31L3TgDEEFTyDqHSPszxUtb0&utm_id=0b40946b-dad1-4a26-ba2a-460bad1fbc03&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/arcade-room-gong-62276358",
+      "image": "/images/trackers/Cepzid_ArcadeRoomFanmadePack.jpg",
       "isDownloaded": false
     },
     {
@@ -32135,6 +32158,7 @@ export default {
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/functional-rows-64942778",
       "translationUrl": "https://www.patreon.com/posts/functional-rows-66189824",
+      "image": "/images/trackers/Cepzid_FunctionalBarbellRows.jpg",
       "isDownloaded": false
     },
     {
@@ -32145,6 +32169,7 @@ export default {
       "subtype": "小型物件",
       "downloadUrl": "https://www.patreon.com/posts/functional-wall-89013394",
       "translationUrl": "https://www.patreon.com/posts/functional-wall-89414600",
+      "image": "/images/trackers/Cepzid_FunctionalLandlineWallPhone.jpg",
       "isDownloaded": false
     },
     {
@@ -32155,6 +32180,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://www.patreon.com/posts/72234357?fbclid=IwAR0pg2bhECyN6Ef6pQDJ5UFo7krZYSfOY6WMh6q3qoMvm8x-p8qGdgnSXJc",
       "translationUrl": "https://www.patreon.com/posts/functional-stand-75087173",
+      "image": "/images/trackers/Cepzid_FunctionalLemonadeStandandTableBakeSale.jpg",
       "isDownloaded": false
     },
     {
@@ -32165,6 +32191,7 @@ export default {
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/68907168",
       "translationUrl": "https://www.patreon.com/posts/lets-get-fit-wo-74642167",
+      "image": "/images/trackers/Cepzid_LetsGetFitFanmadeModpack.jpg",
       "isDownloaded": false
     },
     {
@@ -32175,6 +32202,7 @@ export default {
       "subtype": "音乐乐器",
       "downloadUrl": "https://www.patreon.com/posts/play-drum-mods-56808638",
       "translationUrl": "https://www.patreon.com/posts/117761740",
+      "image": "/images/trackers/Cepzid_PlayDrumMods.jpg",
       "isDownloaded": false
     },
     {
@@ -32185,6 +32213,7 @@ export default {
       "subtype": "丰富生活",
       "downloadUrl": "https://www.patreon.com/posts/self-manicure-62812890",
       "translationUrl": "https://www.patreon.com/posts/self-manicure-zi-66190320",
+      "image": "/images/trackers/Cepzid_SelfManicureandPedicure.jpg",
       "isDownloaded": false
     },
     {
@@ -32195,6 +32224,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-backyard-111357739",
       "translationUrl": "https://www.patreon.com/posts/backyard-hou-jia-114308886",
+      "image": "/images/trackers/Cepzid_TheSIms4BackyardCarnivalModpack.jpg",
       "isDownloaded": false
     },
     {
@@ -32205,6 +32235,7 @@ export default {
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/60061320",
       "translationUrl": "https://www.patreon.com/posts/functional-goal-69024389",
+      "image": "/images/trackers/Cepzid_TheSims4FunctionalSoccer.jpg",
       "isDownloaded": false
     },
     {
@@ -32215,6 +32246,7 @@ export default {
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://www.patreon.com/posts/62995066",
       "translationUrl": "https://www.patreon.com/posts/romantic-from-3-101870392",
+      "image": "/images/trackers/Cepzid_TheSims4RomanticInteractionAddition.jpg",
       "isDownloaded": false
     },
     {
@@ -32224,6 +32256,7 @@ export default {
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/dynamic-billboards-cc-set",
+      "image": "/images/trackers/Cherisi_DynamicBillboardsCCSet.jpg",
       "isDownloaded": false
     },
     {
@@ -32234,45 +32267,50 @@ export default {
       "subtype": "性格特征",
       "downloadUrl": "https://www.patreon.com/posts/100-base-game-v1-41969378",
       "translationUrl": "https://www.patreon.com/posts/100-base-game-v1-107668872",
+      "image": "/images/trackers/chingyu1023_100BaseGameTraitsPack.jpg",
       "isDownloaded": false
     },
     {
-      "id": "chingyu1024absentemotiontraitspack",
+      "id": "chingyu1023absentemotiontraitspack",
       "title": "Absent Emotion Traits Pack",
-      "author": "chingyu1024",
+      "author": "chingyu1023",
       "type": "C人物创建",
       "subtype": "性格特征",
       "downloadUrl": "https://www.patreon.com/posts/absent-emotion-62643545",
+      "image": "/images/trackers/chingyu1023_AbsentEmotionTraitsPack.jpg",
       "isDownloaded": false
     },
     {
-      "id": "chingyu1025functionallottraits",
+      "id": "chingyu1023functionallottraits",
       "title": "Functional Lot Traits",
-      "author": "chingyu1025",
+      "author": "chingyu1023",
       "type": "E功能模组",
       "subtype": "地段特征",
       "downloadUrl": "https://www.patreon.com/posts/functional-lot-65503704",
       "translationUrl": "https://www.patreon.com/posts/functional-lot-90573621",
+      "image": "/images/trackers/chingyu1023_FunctionalLotTraits.jpg",
       "isDownloaded": false
     },
     {
-      "id": "chingyu1026holidaytraditioncustompreferences",
+      "id": "chingyu1023holidaytraditioncustompreferences",
       "title": "Holiday Tradition Custom Preferences",
-      "author": "chingyu1026",
+      "author": "chingyu1023",
       "type": "J活动节日",
       "subtype": "节日庆典",
       "downloadUrl": "https://www.patreon.com/posts/holiday-custom-114177438?utm_campaign=patron_engagement&utm_source=post_link&post_id=114177438&utm_id=d1caad70-5fda-4cfb-9b83-e8913de7eff3&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/holiday-custom-116121963",
+      "image": "/images/trackers/chingyu1023_HolidayTraditionCustomPreferences.jpg",
       "isDownloaded": false
     },
     {
-      "id": "chingyu1027in-depthemotions",
+      "id": "chingyu1023in-depthemotions",
       "title": "In-depth Emotions",
-      "author": "chingyu1027",
+      "author": "chingyu1023",
       "type": "E功能模组",
       "subtype": "情绪扩展",
       "downloadUrl": "https://www.patreon.com/posts/91029329",
       "translationUrl": "https://www.patreon.com/posts/in-depth-shen-ru-93148236",
+      "image": "/images/trackers/chingyu1023_IndepthEmotions.jpg",
       "isDownloaded": false
     },
     {
@@ -32283,6 +32321,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/aubrey-playhouse-84278475",
       "translationUrl": "https://www.patreon.com/posts/aubrey-playhouse-90578869",
+      "image": "/images/trackers/dollish_AubreyPlayhouse.jpg",
       "isDownloaded": false
     },
     {
@@ -32293,6 +32332,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/playful-playpen-123320372",
       "translationUrl": "https://www.patreon.com/posts/playful-playpen-126206292",
+      "image": "/images/trackers/dollish_PlayfulPlaypen.jpg",
       "isDownloaded": false
     },
     {
@@ -32303,6 +32343,7 @@ export default {
       "subtype": "小型事业",
       "downloadUrl": "https://down-in-simsland.tumblr.com/post/738900138719936512/multi-purpose-lots",
       "translationUrl": "https://www.patreon.com/posts/functional-gong-125308127",
+      "image": "/images/trackers/DowninSimsland_FunctionalRegisters.jpg",
       "isDownloaded": false
     },
     {
@@ -32312,6 +32353,7 @@ export default {
       "type": "E功能模组",
       "subtype": "地段特征",
       "downloadUrl": "https://down-in-simsland.tumblr.com/post/738900138719936512/multi-purpose-lots",
+      "image": "/images/trackers/DowninSimsland_MultiPurposeLots.jpg",
       "isDownloaded": false
     },
     {
@@ -32322,6 +32364,7 @@ export default {
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://www.patreon.com/posts/romantic-110553240",
       "translationUrl": "https://www.patreon.com/posts/romantic-lang-125306582",
+      "image": "/images/trackers/E404P_RomanticExtensions.jpg",
       "isDownloaded": false
     },
     {
@@ -32332,6 +32375,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://www.patreon.com/posts/medical-school-106978164?utm_campaign=patron_engagement&utm_source=post_link&utm_id=fa022ef7-fa65-4de3-91ac-a59d834b7cf2&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/7-9geng-xin-yi-107673741",
+      "image": "/images/trackers/ellesimsworld_MedicalSchoolStudentMod.jpg",
       "isDownloaded": false
     },
     {
@@ -32342,6 +32386,7 @@ export default {
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://www.patreon.com/posts/download-lovers-137991992",
       "translationUrl": "https://www.patreon.com/posts/romantica-lovers-140675167",
+      "image": "/images/trackers/ellesimsworld_RomanticaALoversTypeMod.jpg",
       "isDownloaded": false
     },
     {
@@ -32352,6 +32397,7 @@ export default {
       "subtype": "其他家具",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/finjingsims-phan-tok-tray-and-aluminium-water",
       "translationUrl": "https://www.patreon.com/posts/sprinkle-water-97835403",
+      "image": "/images/trackers/FinJingSims_PhanTokTrayandAluminiumWaterDipper.jpg",
       "isDownloaded": false
     },
     {
@@ -32362,6 +32408,7 @@ export default {
       "subtype": "其他家具",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/finjingsims-sprinkle-water-onto-buddha-statue",
       "translationUrl": "https://www.patreon.com/posts/sprinkle-water-97835403",
+      "image": "/images/trackers/FinJingSims_SprinkleWaterOntoBuddhaStatueTable.jpg",
       "isDownloaded": false
     },
     {
@@ -32372,6 +32419,7 @@ export default {
       "subtype": "其他家具",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/finjingsims-thai-seated-buddha-statue",
       "translationUrl": "https://www.patreon.com/posts/thai-seated-tai-97833886",
+      "image": "/images/trackers/FinJingSims_ThaiSeatedBuddhaStatue.jpg",
       "isDownloaded": false
     },
     {
@@ -32382,6 +32430,7 @@ export default {
       "subtype": "节日庆典",
       "downloadUrl": "https://frankkmods.com/#/mods/extra-holidays",
       "translationUrl": "https://www.patreon.com/posts/extra-holidays-e-88705123",
+      "image": "/images/trackers/Frankk_ExtraHolidays.jpg",
       "isDownloaded": false
     },
     {
@@ -32392,6 +32441,7 @@ export default {
       "subtype": "婚礼系统",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/ask-for-wedding-roles-via-text",
       "translationUrl": "https://www.patreon.com/posts/ask-for-wedding-121253695",
+      "image": "/images/trackers/FrequentlyBasic_AskforWeddingRolesviaText.jpg",
       "isDownloaded": false
     },
     {
@@ -32402,6 +32452,7 @@ export default {
       "subtype": "教育大修",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/high-school-reimagined-interactive-classroom",
       "translationUrl": "https://www.patreon.com/posts/high-school-gao-145335921",
+      "image": "/images/trackers/FrequentlyBasic_HighSchoolReimaginedInteractiveClassroom.jpg",
       "isDownloaded": false
     },
     {
@@ -32412,6 +32463,7 @@ export default {
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/reconcile-over-text-remake",
       "translationUrl": "https://www.patreon.com/posts/reconcile-over-131772490",
+      "image": "/images/trackers/FrequentlyBasic_ReconcileoverTextRemake.jpg",
       "isDownloaded": false
     },
     {
@@ -32422,6 +32474,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://www.patreon.com/posts/77793384",
       "translationUrl": "https://www.patreon.com/posts/city-living-food-93553596",
+      "image": "/images/trackers/hamsterbellbelle_CityLivingCyberpunkFoodStall.jpg",
       "isDownloaded": true
     },
     {
@@ -32432,6 +32485,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/archaeologist-palaeontologist-freelancer",
       "translationUrl": "https://www.patreon.com/posts/6-6geng-xin-kao-94463412",
+      "image": "/images/trackers/ilkavelle_ArchaeologistPalaeontologistFreelancer.jpg",
       "isDownloaded": false
     },
     {
@@ -32442,6 +32496,7 @@ export default {
       "subtype": "演艺人员",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/awards-tweaks/files/all?page=1&pageSize=20&showAlphaFiles=hide",
       "translationUrl": "https://www.patreon.com/posts/4-16zhu-ti-geng-101866460",
+      "image": "/images/trackers/ilkavelle_AwardsTweaks.jpg",
       "isDownloaded": false
     },
     {
@@ -32452,6 +32507,7 @@ export default {
       "subtype": "音乐乐器",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/cello-skill",
       "translationUrl": "https://www.patreon.com/posts/3-2zhu-ti-geng-90578109",
+      "image": "/images/trackers/JaneSimsten_CelloSkill.jpg",
       "isDownloaded": false
     },
     {
@@ -32462,6 +32518,7 @@ export default {
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/mod-climbable-88600597",
       "translationUrl": "https://www.patreon.com/posts/climbable-tree-102765581",
+      "image": "/images/trackers/JaneSimsten_ClimbableTree.jpg",
       "isDownloaded": false
     },
     {
@@ -32472,6 +32529,7 @@ export default {
       "subtype": "美妆用品",
       "downloadUrl": "https://www.patreon.com/posts/mod-functional-77282024",
       "translationUrl": "https://www.patreon.com/posts/functional-gong-80883242",
+      "image": "/images/trackers/JaneSimsten_FunctionalHairbrushes.jpg",
       "isDownloaded": false
     },
     {
@@ -32482,6 +32540,7 @@ export default {
       "subtype": "音乐乐器",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/lute-skill",
       "translationUrl": "https://www.patreon.com/posts/3-2zhu-ti-geng-92395086",
+      "image": "/images/trackers/JaneSimsten_LuteSkill.jpg",
       "isDownloaded": false
     },
     {
@@ -32492,6 +32551,7 @@ export default {
       "subtype": "美妆用品",
       "downloadUrl": "https://www.patreon.com/posts/mod-makeup-kit-85057055",
       "translationUrl": "https://www.patreon.com/posts/3-2zhu-ti-geng-91085348",
+      "image": "/images/trackers/JaneSimsten_MakeupKit.jpg",
       "isDownloaded": false
     },
     {
@@ -32502,6 +32562,7 @@ export default {
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/mod-ballet-skill-101313993",
       "translationUrl": "https://www.patreon.com/posts/ballet-skill-ba-104094069",
+      "image": "/images/trackers/JaneSimsten_ModBalletSkill.jpg",
       "isDownloaded": false
     },
     {
@@ -32512,6 +32573,7 @@ export default {
       "subtype": "音乐乐器",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/playable-harp",
       "translationUrl": "https://www.patreon.com/posts/3-2zhu-ti-geng-90133593",
+      "image": "/images/trackers/JaneSimsten_PlayableHarp.jpg",
       "isDownloaded": false
     },
     {
@@ -32522,6 +32584,7 @@ export default {
       "subtype": "孕育医疗",
       "downloadUrl": "https://www.patreon.com/posts/its-official-x-138230239?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share",
       "translationUrl": "https://www.patreon.com/posts/bundle-of-joy-xi-139473867",
+      "image": "/images/trackers/JayESims_BundleofJoyIncoming.jpg",
       "isDownloaded": false
     },
     {
@@ -32532,6 +32595,7 @@ export default {
       "subtype": "演艺人员",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/play-together-billys-band-practice",
       "translationUrl": "https://www.patreon.com/posts/play-together-yi-140749393",
+      "image": "/images/trackers/PlayTogether:Billy'sBandv2.0_PlayTogetherBillysBand.jpg",
       "isDownloaded": false
     },
     {
@@ -32542,6 +32606,7 @@ export default {
       "subtype": "丰富生活",
       "downloadUrl": "https://www.patreon.com/posts/133610029",
       "translationUrl": "https://www.patreon.com/posts/6-6geng-xin-of-87585627",
+      "image": "/images/trackers/KawaiiStacie_SliceofLifeMod.jpg",
       "isDownloaded": false
     },
     {
@@ -32552,6 +32617,7 @@ export default {
       "subtype": "活动聚会",
       "downloadUrl": "https://kiarasims4mods.net/female-male-events/",
       "translationUrl": "https://www.patreon.com/posts/3-23geng-xin-4-l-64511549",
+      "image": "/images/trackers/kiarasims4_FemaleMaleEvents.jpg",
       "isDownloaded": false
     },
     {
@@ -32562,6 +32628,7 @@ export default {
       "subtype": "活动聚会",
       "downloadUrl": "https://kiarasims4mods.net/events/holiday-events/",
       "translationUrl": "https://www.patreon.com/posts/kiarasims4modss-123328018",
+      "image": "/images/trackers/kiarasims4_HolidayEvents.jpg",
       "isDownloaded": false
     },
     {
@@ -32572,6 +32639,7 @@ export default {
       "subtype": "活动聚会",
       "downloadUrl": "https://kiarasims4mods.net/couple-events/",
       "translationUrl": "https://www.patreon.com/posts/3-24geng-xin-10-96900586",
+      "image": "/images/trackers/kiarasims4_CoupleEvents.jpg",
       "isDownloaded": false
     },
     {
@@ -32582,6 +32650,7 @@ export default {
       "subtype": "活动聚会",
       "downloadUrl": "https://kiarasims4mods.net/party-events/",
       "translationUrl": "https://www.patreon.com/posts/kiarasims4modss-123324123",
+      "image": "/images/trackers/kiarasims4_PartyEvents.jpg",
       "isDownloaded": false
     },
     {
@@ -32592,6 +32661,7 @@ export default {
       "subtype": "活动聚会",
       "downloadUrl": "https://www.patreon.com/posts/3-29geng-xin-23-60536782",
       "translationUrl": "https://kiarasims4mods.net/misc-events/",
+      "image": "/images/trackers/kiarasims4_MiscellaneousEvents.jpg",
       "isDownloaded": false
     },
     {
@@ -32602,6 +32672,7 @@ export default {
       "subtype": "地段特征",
       "downloadUrl": "https://kiarasims4mods.net/traits/lot-traits/",
       "translationUrl": "https://www.patreon.com/posts/3-24geng-xin-53-63867858",
+      "image": "/images/trackers/kiarasims4_LotFeatures.jpg",
       "isDownloaded": false
     },
     {
@@ -32612,6 +32683,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://kiarasims4mods.net/2021/12/23/angler-career/",
       "translationUrl": "https://www.patreon.com/posts/3-5zhu-ti-geng-77505600",
+      "image": "/images/trackers/kiarasims4_AnglerCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32622,6 +32694,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://kiarasims4mods.net/2022/10/05/artist-career/",
       "translationUrl": "https://www.patreon.com/posts/3-5zhu-ti-geng-78300348",
+      "image": "/images/trackers/kiarasims4_ArtistCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32632,6 +32705,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/fashion-designer-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-96028489",
+      "image": "/images/trackers/kiarasims4_FashionDesignerCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32642,6 +32716,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/military-active-career",
       "translationUrl": "https://www.patreon.com/posts/3-6zhu-ti-geng-81845564",
+      "image": "/images/trackers/kiarasims4_MilitaryActiveCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32652,6 +32727,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/nail-technician-active-career",
       "translationUrl": "https://www.patreon.com/posts/3-6zhu-ti-geng-84000462",
+      "image": "/images/trackers/kiarasims4_NailTechnicianActiveCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32662,6 +32738,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/photographer-active-career",
       "translationUrl": "https://www.patreon.com/posts/3-31zhu-ti-geng-100961684",
+      "image": "/images/trackers/kiarasims4_PhotographerActiveCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32672,6 +32749,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/personal-trainer-active-career",
       "translationUrl": "https://www.patreon.com/posts/personal-trainer-125309893",
+      "image": "/images/trackers/kiarasims4_PersonalTrainerActiveCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32682,6 +32760,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/rocket-scientist-active-career",
       "translationUrl": "https://www.patreon.com/posts/rocket-scientist-134196153",
+      "image": "/images/trackers/kiarasims4_RocketScientistActiveCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32692,6 +32771,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/model-career",
       "translationUrl": "https://www.patreon.com/posts/model-career-mo-105418647",
+      "image": "/images/trackers/kiarasims4_ModelCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32702,6 +32782,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/dietitian-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-93631481",
+      "image": "/images/trackers/kiarasims4_DietitianCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32712,6 +32793,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/celebrity-manager-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-89747979",
+      "image": "/images/trackers/kiarasims4_CelebrityManagerCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32722,6 +32804,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/dentist-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-92736013",
+      "image": "/images/trackers/kiarasims4_DentistCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32732,6 +32815,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/dj-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-93999097",
+      "image": "/images/trackers/kiarasims4_DJCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32742,6 +32826,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/baker-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-88316306",
+      "image": "/images/trackers/kiarasims4_BakerCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32752,6 +32837,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/woodworker-career",
       "translationUrl": "https://www.patreon.com/posts/woodworker-ban-113409131",
+      "image": "/images/trackers/kiarasims4_WoodworkerCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32762,6 +32848,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/yoga-instructor-career",
       "translationUrl": "https://www.patreon.com/posts/yoga-instructor-113857969",
+      "image": "/images/trackers/kiarasims4_YogaInstructorCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32772,6 +32859,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/tattoo-artist-career",
       "translationUrl": "https://www.patreon.com/posts/131767059",
+      "image": "/images/trackers/kiarasims4_TattooArtistCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32782,6 +32870,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/banker-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-88698561",
+      "image": "/images/trackers/kiarasims4_BankerCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32792,6 +32881,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/veterinarian-career",
       "translationUrl": "https://www.patreon.com/posts/veterinarian-ban-113408824",
+      "image": "/images/trackers/kiarasims4_VeterinarianCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32802,6 +32892,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/simstagram-influencer-career",
       "translationUrl": "https://www.patreon.com/posts/simstagram-hong-111596124",
+      "image": "/images/trackers/kiarasims4_SimstagramInfluencerCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32812,6 +32903,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://kiarasims4mods.net/2022/07/21/stylist-career-2/",
       "translationUrl": "https://www.patreon.com/posts/4-6zhu-ti-geng-84666553",
+      "image": "/images/trackers/kiarasims4_StylistCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -32822,6 +32914,7 @@ export default {
       "subtype": "社交互动",
       "downloadUrl": "https://kiarasims4mods.net/social-interaction-pack-1/",
       "translationUrl": "https://www.patreon.com/posts/3-8geng-xin-pack-63327452",
+      "image": "/images/trackers/kiarasims4_SocialInteractionPack.jpg",
       "isDownloaded": false
     },
     {
@@ -32832,6 +32925,7 @@ export default {
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://kiarasims4mods.net/2021/02/06/romance-interactions/",
       "translationUrl": "https://www.patreon.com/posts/117753766",
+      "image": "/images/trackers/kiarasims4_RomanceInteractions.jpg",
       "isDownloaded": false
     },
     {
@@ -32842,6 +32936,7 @@ export default {
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://www.patreon.com/posts/66864823",
       "translationUrl": "https://www.patreon.com/posts/carry-and-kiss-78674229",
+      "image": "/images/trackers/Khlas_CarryandKiss.jpg",
       "isDownloaded": false
     },
     {
@@ -32852,6 +32947,7 @@ export default {
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://www.patreon.com/posts/cuddle-and-bath-98234300",
       "translationUrl": "https://www.patreon.com/posts/6-20zhu-ti-geng-100973180",
+      "image": "/images/trackers/Khlas_CuddleAndBathTogether.jpg",
       "isDownloaded": false
     },
     {
@@ -32862,6 +32958,7 @@ export default {
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://www.patreon.com/posts/141692273",
       "translationUrl": "https://www.patreon.com/posts/one-with-all-man-144441391",
+      "image": "/images/trackers/SonozakiSisters_TheOneWithAllTheRomanceRemake.jpg",
       "isDownloaded": false
     },
     {
@@ -32872,6 +32969,7 @@ export default {
       "subtype": "社交互动",
       "downloadUrl": "https://www.patreon.com/posts/update-for-one-138297640?utm_campaign=patron_engagement&utm_source=post_link&post_id=138297640&utm_id=d9af90ab-2ef6-4538-84ce-a8e39e8eacdc&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/one-where-they-107163838",
+      "image": "/images/trackers/SonozakiSisters_TheOneWhereTheyAreFriends.jpg",
       "isDownloaded": false
     },
     {
@@ -32882,6 +32980,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/mega-by-katie-141739291?utm_campaign=patron_engagement&utm_source=post_link&post_id=141739291&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWRpc19rZXkiOiJpYTI6YzdhNjRhOWEtOTA5MS00ZmVhLTk5ZTYtMDc0MjU2YjZjNTYzIiwicG9zdF9pZCI6MTQxNzM5MjkxLCJwYXRyb25faWQiOjUwNjM5MjQzfQ.oEiY-hdU7GkIWGzp74s4SjYu2o5VUUY_vxnFT5RUCew&utm_id=cc6f51a8-0d6f-4146-a476-a79b874af08d&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/one-with-loving-108113214",
+      "image": "/images/trackers/SonozakiSisters_TheOneWithTheLovingParents.jpg",
       "isDownloaded": false
     },
     {
@@ -32892,6 +32991,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/carry-napping-toddlers-to-bed",
       "translationUrl": "https://www.patreon.com/posts/carry-napping-to-116123567",
+      "image": "/images/trackers/KaylaDot_CarryNappingToddlerstoBed.jpg",
       "isDownloaded": false
     },
     {
@@ -32902,6 +33002,7 @@ export default {
       "subtype": "美妆用品",
       "downloadUrl": "https://www.patreon.com/posts/vanity-girl-hair-124146009",
       "translationUrl": "https://www.patreon.com/posts/vanity-girl-hair-127158418",
+      "image": "/images/trackers/kikovanity_vanitygirlhairmaintenancemod.jpg",
       "isDownloaded": false
     },
     {
@@ -32912,6 +33013,7 @@ export default {
       "subtype": "成长里程",
       "downloadUrl": "https://www.patreon.com/posts/44832679",
       "translationUrl": "https://www.patreon.com/posts/3-2zhu-ti-geng-54422702",
+      "image": "/images/trackers/Lumpinou_FirstImpressions.jpg",
       "isDownloaded": false
     },
     {
@@ -32922,6 +33024,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/108863277",
       "translationUrl": "https://www.patreon.com/posts/lovestruck-auto-110264494",
+      "image": "/images/trackers/Lumpinou_LovestruckAutoBreakUpsTweaks.jpg",
       "isDownloaded": false
     },
     {
@@ -32932,6 +33035,7 @@ export default {
       "subtype": "成长里程",
       "downloadUrl": "https://www.patreon.com/posts/mod-milestones-4-80639650",
       "translationUrl": "https://www.patreon.com/posts/2-28geng-xin-li-82226376",
+      "image": "/images/trackers/Lumpinou_MilestonesExpanded.jpg",
       "isDownloaded": false
     },
     {
@@ -32942,6 +33046,7 @@ export default {
       "subtype": "孕育医疗",
       "downloadUrl": "https://www.patreon.com/posts/75983577",
       "translationUrl": "https://www.patreon.com/posts/6-24geng-xin-rpo-54016150",
+      "image": "/images/trackers/Lumpinou_RelationshipPregnancyOverhaul.jpg",
       "isDownloaded": false
     },
     {
@@ -32952,6 +33057,7 @@ export default {
       "subtype": "情绪扩展",
       "downloadUrl": "https://www.patreon.com/posts/mod-lumpinous-43759541",
       "translationUrl": "https://www.patreon.com/posts/6-21zhu-ti-geng-54421898",
+      "image": "/images/trackers/Lumpinou_LumpinousMoodPack.jpg",
       "isDownloaded": false
     },
     {
@@ -32962,6 +33068,7 @@ export default {
       "subtype": "性格特征",
       "downloadUrl": "https://www.patreon.com/posts/51561971",
       "translationUrl": "https://www.patreon.com/posts/talents-tian-fu-65239048",
+      "image": "/images/trackers/Lumpinou_TalentsWeaknesses.jpg",
       "isDownloaded": false
     },
     {
@@ -32972,6 +33079,7 @@ export default {
       "subtype": "种田农务",
       "downloadUrl": "https://lot51.cc/mods/free-range",
       "translationUrl": "https://www.patreon.com/posts/3-6zhu-ti-geng-79872934",
+      "image": "/images/trackers/Lot51_FreeRange.jpg",
       "isDownloaded": false
     },
     {
@@ -32982,6 +33090,7 @@ export default {
       "subtype": "地段特征",
       "downloadUrl": "https://lot51.cc/mods/suite-life",
       "translationUrl": "https://www.patreon.com/posts/suite-life-jiu-111596727",
+      "image": "/images/trackers/Lot51_SuiteLife.jpg",
       "isDownloaded": false
     },
     {
@@ -32992,6 +33101,7 @@ export default {
       "subtype": "功能补充",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/automatic-preferences",
       "translationUrl": "https://www.patreon.com/posts/automatic-zi-hao-135502702",
+      "image": "/images/trackers/lotharihoe_AutomaticPreferences.jpg",
       "isDownloaded": false
     },
     {
@@ -33002,6 +33112,7 @@ export default {
       "subtype": "功能补充",
       "downloadUrl": "https://www.patreon.com/posts/more-group-in-85417141",
       "translationUrl": "https://www.patreon.com/posts/more-group-geng-118466979",
+      "image": "/images/trackers/Lorea_MoreGroupMembers.jpg",
       "isDownloaded": false
     },
     {
@@ -33012,6 +33123,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/mercuryfoam-mod-141666835",
       "translationUrl": "https://www.patreon.com/posts/3-17geng-xin-ren-60350633",
+      "image": "/images/trackers/Mercuryfoam_BallroomDanceMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33022,6 +33134,7 @@ export default {
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/mercuryfoam-mod-142191712",
       "translationUrl": "https://www.patreon.com/posts/ballet-barre-ba-69429726",
+      "image": "/images/trackers/Mercuryfoam_BalletBarreMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33032,6 +33145,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/lie-on-lap-57253438",
       "translationUrl": "https://www.patreon.com/posts/lie-on-lap-tang-71295920",
+      "image": "/images/trackers/Mercuryfoam_LieOnLapInteraction.jpg",
       "isDownloaded": false
     },
     {
@@ -33042,6 +33156,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/lie-on-lap-for-68306474",
       "translationUrl": "https://www.patreon.com/posts/lie-on-lap-for-71296205",
+      "image": "/images/trackers/Mercuryfoam_LieOnLapInteractionforKids.jpg",
       "isDownloaded": false
     },
     {
@@ -33052,6 +33167,7 @@ export default {
       "subtype": "音乐乐器",
       "downloadUrl": "https://www.patreon.com/posts/music-festival-60654361",
       "translationUrl": "https://www.patreon.com/posts/music-festival-62763807",
+      "image": "/images/trackers/Mercuryfoam_MusicFestivalandConcertMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33062,6 +33178,7 @@ export default {
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/mercuryfoam-pole-141221022",
       "translationUrl": "https://www.patreon.com/posts/pole-dance-gang-84332689",
+      "image": "/images/trackers/Mercuryfoam_PoleDanceMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33072,6 +33189,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/romantic-beta-62763568",
       "translationUrl": "https://www.patreon.com/posts/romantic-lang-xi-81217697",
+      "image": "/images/trackers/Mercuryfoam_RomanticSurpriseProposalInteractions.jpg",
       "isDownloaded": false
     },
     {
@@ -33082,6 +33200,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://www.patreon.com/posts/68826987",
       "translationUrl": "https://www.patreon.com/posts/active-mod-huo-60315345",
+      "image": "/images/trackers/MizoreYukii_ShearBrillianceActiveCosmetologyCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -33092,6 +33211,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://www.patreon.com/posts/mod-planet-doggy-69014863",
       "translationUrl": "https://www.patreon.com/posts/active-doggy-huo-92440641",
+      "image": "/images/trackers/MizoreYukii_PlanetCanineActiveDoggyDaycareBusiness.jpg",
       "isDownloaded": false
     },
     {
@@ -33102,6 +33222,7 @@ export default {
       "subtype": "其他家具",
       "downloadUrl": "https://www.patreon.com/posts/new-mod-bow-at-43859688",
       "translationUrl": "https://www.patreon.com/posts/bow-at-shrine-re-114295774",
+      "image": "/images/trackers/MizoreYukii_BowAtShrine.jpg",
       "isDownloaded": false
     },
     {
@@ -33112,6 +33233,7 @@ export default {
       "subtype": "电梯楼梯",
       "downloadUrl": "https://www.patreon.com/posts/72465250",
       "translationUrl": "https://www.patreon.com/posts/functional-gong-75484532",
+      "image": "/images/trackers/thepancake1_FunctionalSpiralStaircases.jpg",
       "isDownloaded": false
     },
     {
@@ -33122,6 +33244,7 @@ export default {
       "subtype": "兔兔电话",
       "downloadUrl": "https://www.patreon.com/posts/call-me-maybe-127818072?utm_campaign=patron_engagement&utm_source=post_link&post_id=127818072&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWRpc19rZXkiOiJpYTI6NGFmYzExODctYWUzNy00OGNjLWE5MzMtNGNjNGJkOTI5ZWYwIiwicG9zdF9pZCI6MTI3ODE4MDcyLCJwYXRyb25faWQiOjUwNjM5MjQzfQ.JNutYBHmaUYO-tDsGuHSgpi0R6VIDDx1CL3Xvx8SpYc&utm_id=d7989462-b185-4ddd-8929-881e7e52dbd0&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/call-me-maybe-da-130845859",
+      "image": "/images/trackers/midnitetech_CallMeMaybe.jpg",
       "isDownloaded": false
     },
     {
@@ -33132,6 +33255,7 @@ export default {
       "subtype": "演艺人员",
       "downloadUrl": "https://www.patreon.com/posts/actor-overhaul-103372435?utm_campaign=patron_engagement&utm_source=post_link&utm_id=4739d2d8-f8ce-4a0d-a2c6-671810823c75&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/5-23geng-xin-yan-104092337",
+      "image": "/images/trackers/maplebell_ActorOverhaul.jpg",
       "isDownloaded": false
     },
     {
@@ -33142,6 +33266,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/more-kisses-134290995?utm_campaign=patron_engagement&utm_source=post_link&post_id=134290995&utm_id=c025b24a-de86-4146-b04e-632fd95c1211&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/sweet-moments-mi-120258360",
+      "image": "/images/trackers/maplebell_SweetMoments.jpg",
       "isDownloaded": false
     },
     {
@@ -33152,6 +33277,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/more-kisses-134290995?utm_campaign=patron_engagement&utm_source=post_link&post_id=134290995&utm_id=c025b24a-de86-4146-b04e-632fd95c1211&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/yi-sun-huai-more-100964567",
+      "image": "/images/trackers/maplebell_MoreKisses.jpg",
       "isDownloaded": false
     },
     {
@@ -33162,6 +33288,7 @@ export default {
       "subtype": "美妆用品",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/functional-tabletop-mirror-for-make-up",
       "translationUrl": "https://www.patreon.com/posts/functional-for-86571140",
+      "image": "/images/trackers/maru_FunctionalTabletopmirrorformakeup.jpg",
       "isDownloaded": false
     },
     {
@@ -33172,6 +33299,7 @@ export default {
       "subtype": "其他家具",
       "downloadUrl": "https://www.patreon.com/posts/car-woohoo-mod-3-122860240",
       "translationUrl": "https://www.patreon.com/posts/car-woohoo-qi-mo-130990220",
+      "image": "/images/trackers/makeitsizzle_CarWoohooMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33182,6 +33310,7 @@ export default {
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/pilates-mod-142576862",
       "translationUrl": "https://www.patreon.com/posts/pilates-mod-pi-147454870",
+      "image": "/images/trackers/MiliNiki_PilatesMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33192,6 +33321,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://www.patreon.com/posts/adopted-tumbling-67416711",
       "translationUrl": "https://www.patreon.com/posts/3-3zhu-ti-geng-58375002",
+      "image": "/images/trackers/NeedCoffee4That_ActiveDaycareCareer.jpg",
       "isDownloaded": false
     },
     {
@@ -33202,6 +33332,7 @@ export default {
       "subtype": "社交互动",
       "downloadUrl": "https://www.patreon.com/posts/nc4t-mini-mod-65202018",
       "translationUrl": "https://www.patreon.com/posts/6-1geng-xin-wen-65410686",
+      "image": "/images/trackers/NeedCoffee4That_Greetings.jpg",
       "isDownloaded": false
     },
     {
@@ -33212,6 +33343,7 @@ export default {
       "subtype": "活动聚会",
       "downloadUrl": "https://www.patreon.com/posts/masquerade-ball-133538640?utm_campaign=patron_engagement&utm_source=post_link&post_id=133538640&utm_id=fc091d4e-840b-4d6c-b9b7-14d8942c8c5b&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/masquerade-event-134187754",
+      "image": "/images/trackers/Natabear_MasqueradeSocialEvent.jpg",
       "isDownloaded": false
     },
     {
@@ -33222,6 +33354,7 @@ export default {
       "subtype": "婴幼成长",
       "downloadUrl": "https://www.patreon.com/posts/self-soothing-66353288",
       "translationUrl": "https://www.patreon.com/posts/self-soothing-zi-71297769",
+      "image": "/images/trackers/OzzySims4Mods_SelfSoothingToddlers.jpg",
       "isDownloaded": false
     },
     {
@@ -33232,6 +33365,7 @@ export default {
       "subtype": "孕育医疗",
       "downloadUrl": "https://www.pandasama.com/child-birth-mod/#downloads",
       "translationUrl": "https://www.patreon.com/posts/6-25zhu-ti-geng-65116225",
+      "image": "/images/trackers/PandaSama_ChildBirth.jpg",
       "isDownloaded": false
     },
     {
@@ -33242,6 +33376,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/toddler-pack-52862857",
       "translationUrl": "https://www.patreon.com/posts/3-15geng-xin-you-54055773",
+      "image": "/images/trackers/PandaSama_ToddlerCreativityPack.jpg",
       "isDownloaded": false
     },
     {
@@ -33252,6 +33387,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/toddler-play-55595133",
       "translationUrl": "https://www.patreon.com/posts/toddler-play-you-56512052",
+      "image": "/images/trackers/PandaSama_ToddlerPlayTelephone.jpg",
       "isDownloaded": false
     },
     {
@@ -33262,6 +33398,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/toddler-play-kit-56613427?utm_medium=post_notification_email&utm_source=post_link&utm_campaign=patron_engagement",
       "translationUrl": "https://www.patreon.com/posts/3-4zhu-ti-geng-57537780",
+      "image": "/images/trackers/PandaSama_ToddlerPlayTunnelMakeupKit.jpg",
       "isDownloaded": false
     },
     {
@@ -33272,6 +33409,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/toddler-stuff-49517597",
       "translationUrl": "https://www.patreon.com/posts/toddler-stuff-er-65533964",
+      "image": "/images/trackers/PandaSama_ToddlerStuffModPack.jpg",
       "isDownloaded": false
     },
     {
@@ -33282,6 +33420,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/toddler-co-mod-140371552?utm_campaign=patron_engagement&utm_source=post_link&post_id=140371552&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWRpc19rZXkiOiJpYTI6ZmJjYThlMmQtNmExYS00ZjhlLTg5YzItZDI0ZGQ1OGFkOGE4IiwicG9zdF9pZCI6MTQwMzcxNTUyLCJwYXRyb25faWQiOjUwNjM5MjQzfQ.QYYls7iAPFcul0jtHdvSeDDvS8JPMCSyYQCCXLf2FBk&utm_id=b2185458-3f39-49f9-926e-cbf1dc857a27&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/toddler-co-you-141343795",
+      "image": "/images/trackers/PandaSama_ToddlerCoSleepingMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33292,6 +33431,7 @@ export default {
       "subtype": "兔兔电话",
       "downloadUrl": "https://www.patreon.com/posts/immersive-social-135228102",
       "translationUrl": "https://www.patreon.com/posts/3-13geng-xin-jin-86141917",
+      "image": "/images/trackers/plumlace_ImmersiveSocialBunny.jpg",
       "isDownloaded": false
     },
     {
@@ -33302,6 +33442,7 @@ export default {
       "subtype": "其他职业",
       "downloadUrl": "https://www.patreon.com/posts/71045532",
       "translationUrl": "https://www.patreon.com/posts/archaeology-kit-101406295",
+      "image": "/images/trackers/SimsonianLibrary_ArchaeologyKit2.jpg",
       "isDownloaded": false
     },
     {
@@ -33312,6 +33453,7 @@ export default {
       "subtype": "食物制作",
       "downloadUrl": "https://www.patreon.com/posts/simsco-canning-64632302",
       "translationUrl": "https://www.patreon.com/posts/10-3geng-xin-tou-65667446",
+      "image": "/images/trackers/SimsonianLibrary_SimscoCanningFactoryMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33322,6 +33464,7 @@ export default {
       "subtype": "美妆用品",
       "downloadUrl": "https://www.patreon.com/posts/perfumery-public-65978680",
       "translationUrl": "https://www.patreon.com/posts/1-21geng-xin-ji-72533377",
+      "image": "/images/trackers/SimsonianLibrary_Perfumery.jpg",
       "isDownloaded": false
     },
     {
@@ -33332,6 +33475,7 @@ export default {
       "subtype": "路人美化",
       "downloadUrl": "https://www.patreon.com/posts/animated-wings-134342960",
       "translationUrl": "https://www.patreon.com/posts/animated-wings-135534771",
+      "image": "/images/trackers/SpinningPlumbobs_AnimatedWingsMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33342,6 +33486,7 @@ export default {
       "subtype": "节日庆典",
       "downloadUrl": "https://www.patreon.com/posts/me-time-calendar-89466745",
       "translationUrl": "https://www.patreon.com/posts/me-time-calendar-96465022",
+      "image": "/images/trackers/SimwithShan_MeTimeCalendarTraditions.jpg",
       "isDownloaded": false
     },
     {
@@ -33352,6 +33497,7 @@ export default {
       "subtype": "演艺人员",
       "downloadUrl": "https://sacrificialmods.com/downloads.html",
       "translationUrl": "https://www.patreon.com/posts/7-5zhu-ti-geng-85050877",
+      "image": "/images/trackers/sacrificialmods_RoadToFame.jpg",
       "isDownloaded": false
     },
     {
@@ -33362,6 +33508,7 @@ export default {
       "subtype": "市民管理",
       "downloadUrl": "https://www.patreon.com/posts/life-manager-mod-107174394",
       "translationUrl": "https://www.patreon.com/posts/life-manager-huo-108099884",
+      "image": "/images/trackers/SacrificialJunior_LifeManager.jpg",
       "isDownloaded": false
     },
     {
@@ -33372,6 +33519,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://sacrificialmods.com/downloads.html",
       "translationUrl": "https://www.patreon.com/posts/7-5zhu-ti-geng-86527390",
+      "image": "/images/trackers/sacrificialmods_PassionateRomance.jpg",
       "isDownloaded": false
     },
     {
@@ -33382,6 +33530,7 @@ export default {
       "subtype": "丰富生活",
       "downloadUrl": "https://simrealist.itch.io/snbank",
       "translationUrl": "https://www.patreon.com/posts/3-4zhu-ti-geng-86851075",
+      "image": "/images/trackers/simrealist_SNBank.jpg",
       "isDownloaded": false
     },
     {
@@ -33392,6 +33541,7 @@ export default {
       "subtype": "小型物件",
       "downloadUrl": "https://simularity.cc/cc/objects/little-outdoor-washtub/",
       "translationUrl": "https://www.patreon.com/posts/little-outdoor-103682479",
+      "image": "/images/trackers/simularity_LittleOutdoorWashtub.jpg",
       "isDownloaded": false
     },
     {
@@ -33402,6 +33552,7 @@ export default {
       "subtype": "兔兔电话",
       "downloadUrl": "https://simularity.cc/mods/tuning/more-outcomes-to-advice-phone-calls/#google_vignette",
       "translationUrl": "https://www.patreon.com/posts/more-outcomes-to-111146650",
+      "image": "/images/trackers/simularity_MoreOutcomestoAdvicePhoneCalls.jpg",
       "isDownloaded": false
     },
     {
@@ -33412,6 +33563,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/new-interaction-109317608?utm_campaign=patron_engagement&utm_source=post_link&post_id=109317608&utm_id=32da7623-50c9-45b0-9ccc-10c1707e866f&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/ask-to-learn-how-110722097",
+      "image": "/images/trackers/simkatu_newinteractionasktolearnhowtokiss.jpg",
       "isDownloaded": false
     },
     {
@@ -33422,6 +33574,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/dance-with-baby-132101139?utm_campaign=patron_engagement&utm_source=post_link&post_id=132101139&utm_id=2a3b72bb-85e9-4c51-a0e9-c81c03e1c707&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/dance-with-baby-135496329",
+      "image": "/images/trackers/simkatu_dancewithbabyinarms.jpg",
       "isDownloaded": false
     },
     {
@@ -33432,6 +33585,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/hang-out-and-on-143636880",
       "translationUrl": "https://www.patreon.com/posts/hang-out-and-on-147453498",
+      "image": "/images/trackers/simkatu_hangoutandchatonthebed.jpg",
       "isDownloaded": false
     },
     {
@@ -33442,6 +33596,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/125422688?utm_id=2fda423c-e3c5-424d-a1b4-b6ffea634ada&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/kids-interaction-126270134",
+      "image": "/images/trackers/simkatu_kidsinteractionpack.jpg",
       "isDownloaded": false
     },
     {
@@ -33452,6 +33607,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/lap-reading-for-121264123",
       "translationUrl": "https://www.patreon.com/posts/lap-reading-for-122098490",
+      "image": "/images/trackers/simkatu_lapreadingforinfantsreadingwhileinfantsnaponlaps.jpg",
       "isDownloaded": false
     },
     {
@@ -33462,6 +33618,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/nap-with-baby-in-137123858?utm_campaign=patron_engagement&utm_source=post_link&post_id=137123858&utm_id=761171fb-bbe5-4f3b-a9cd-554e48fb6721&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/nap-with-baby-in-141712904",
+      "image": "/images/trackers/simkatu_napwithbabyinbed.jpg",
       "isDownloaded": false
     },
     {
@@ -33472,6 +33629,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/playing-with-on-132837938",
       "translationUrl": "https://www.patreon.com/posts/playing-with-on-136561737",
+      "image": "/images/trackers/simkatu_playingwithtoysonhighchairsandcribs.jpg",
       "isDownloaded": false
     },
     {
@@ -33482,6 +33640,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/take-nap-with-116027318",
       "translationUrl": "https://www.patreon.com/posts/take-nap-with-he-119766383",
+      "image": "/images/trackers/simkatu_takeanapwithinfant.jpg",
       "isDownloaded": false
     },
     {
@@ -33492,6 +33651,7 @@ export default {
       "subtype": "互动补充",
       "downloadUrl": "https://www.patreon.com/posts/read-in-bed-128394840?utm_campaign=patron_engagement&utm_source=post_link&post_id=128394840&utm_id=4e267901-99a6-40cd-b996-d611af956788&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/read-in-bed-zai-131752103",
+      "image": "/images/trackers/simkatu_readinbed.jpg",
       "isDownloaded": false
     },
     {
@@ -33502,6 +33662,7 @@ export default {
       "subtype": "婴幼成长",
       "downloadUrl": "https://www.patreon.com/posts/twins-update-142934347",
       "translationUrl": "https://www.patreon.com/posts/twins-mod-shuang-109891467",
+      "image": "/images/trackers/SonozakiSisters_TwinsUpdate.jpg",
       "isDownloaded": false
     },
     {
@@ -33512,6 +33673,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/baby-steps-112580732",
       "translationUrl": "https://www.patreon.com/posts/infant-activity-113413297",
+      "image": "/images/trackers/ShoobySims_BabyStepsInfantActivityWalker.jpg",
       "isDownloaded": false
     },
     {
@@ -33522,6 +33684,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://www.patreon.com/posts/simply-zest-122272499",
       "translationUrl": "https://www.patreon.com/posts/functional-stand-123330824",
+      "image": "/images/trackers/ShoobySims_SimplytheZestFunctionalLemonadeStand.jpg",
       "isDownloaded": false
     },
     {
@@ -33532,6 +33695,7 @@ export default {
       "subtype": "小型事业",
       "downloadUrl": "https://www.patreon.com/posts/new-mini-mod-get-123952733",
       "translationUrl": "https://www.patreon.com/posts/get-makeovers-124409751",
+      "image": "/images/trackers/Simsefin_GetMakeovers.jpg",
       "isDownloaded": false
     },
     {
@@ -33542,6 +33706,7 @@ export default {
       "subtype": "社交互动",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/xtra-interactions-mod",
       "translationUrl": "https://www.patreon.com/posts/xtra-e-wai-hu-129984221",
+      "image": "/images/trackers/simmerkate_XtraInteractions.jpg",
       "isDownloaded": false
     },
     {
@@ -33552,6 +33717,7 @@ export default {
       "subtype": "拍摄工具",
       "downloadUrl": "https://ravasheen.com/download/iso-love-photos-full-control-camera/",
       "translationUrl": "https://www.patreon.com/posts/3-14zhu-ti-geng-60844721",
+      "image": "/images/trackers/Ravasheen_ISOLovePhoto.jpg",
       "isDownloaded": false
     },
     {
@@ -33562,6 +33728,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://ravasheen.com/download/functional-vending-machines/",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-69878371",
+      "image": "/images/trackers/Ravasheen_FunctionalVendingMachine.jpg",
       "isDownloaded": false
     },
     {
@@ -33572,6 +33739,7 @@ export default {
       "subtype": "建筑工具",
       "downloadUrl": "https://ravasheen.com/download/easy-peasy-lumen-squeezy-hidden-lights/",
       "translationUrl": "https://www.patreon.com/posts/3-3zhu-ti-geng-76030051",
+      "image": "/images/trackers/Ravasheen_EasyPeasyLumenSqueezyHiddenLights.jpg",
       "isDownloaded": false
     },
     {
@@ -33582,6 +33750,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://ravasheen.com/download/mint-to-be-ice-cream-market/",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-74965617",
+      "image": "/images/trackers/Ravasheen_MintToBeIceCreamMarket.jpg",
       "isDownloaded": false
     },
     {
@@ -33592,6 +33761,7 @@ export default {
       "subtype": "宠物用品",
       "downloadUrl": "https://www.thesimsresource.com/downloads/details/category/sims4-objects-furnishing-pets/title/muttropolitan-pet-wash/id/1483667/",
       "translationUrl": "https://www.patreon.com/posts/muttropolitan-wu-87289017",
+      "image": "/images/trackers/Ravasheen_MuttropolitanPetWash.jpg",
       "isDownloaded": false
     },
     {
@@ -33602,6 +33772,7 @@ export default {
       "subtype": "食物制作",
       "downloadUrl": "https://ravasheen.com/download/nectar-cooler-bar/",
       "translationUrl": "https://www.patreon.com/posts/nectar-cooler-ba-76032062",
+      "image": "/images/trackers/Ravasheen_NectarCoolerBar.jpg",
       "isDownloaded": false
     },
     {
@@ -33612,6 +33783,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://ravasheen.com/download/porto-luminoso-market-cutouts/",
       "translationUrl": "https://www.patreon.com/posts/porto-luminoso-112948064",
+      "image": "/images/trackers/Ravasheen_PortoLuminosoMarketCutouts.jpg",
       "isDownloaded": false
     },
     {
@@ -33622,6 +33794,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://ravasheen.com/download/shop-chef-ingredients/",
       "translationUrl": "https://www.patreon.com/posts/3-14zhu-ti-geng-69747945",
+      "image": "/images/trackers/Ravasheen_ShopChefIngredients.jpg",
       "isDownloaded": false
     },
     {
@@ -33632,6 +33805,7 @@ export default {
       "subtype": "夜店设施",
       "downloadUrl": "https://ravasheen.com/download/side-fx-visual-effect-player/",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-76315123",
+      "image": "/images/trackers/Ravasheen_SideFXVisualEffectPlayer.jpg",
       "isDownloaded": false
     },
     {
@@ -33642,6 +33816,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://ravasheen.com/download/shop-chef-buffet/",
       "translationUrl": "https://www.patreon.com/posts/3-14zhu-ti-geng-91999416",
+      "image": "/images/trackers/Ravasheen_ShopChefBuffet.jpg",
       "isDownloaded": false
     },
     {
@@ -33652,6 +33827,7 @@ export default {
       "subtype": "宠物用品",
       "downloadUrl": "https://ravasheen.com/download/ultimutt-indoor-dog-potty-pads/",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-89052574",
+      "image": "/images/trackers/Ravasheen_UltimuttIndoorDogPottyPads.jpg",
       "isDownloaded": false
     },
     {
@@ -33662,6 +33838,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/digital-romance-114849571?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link",
       "translationUrl": "https://www.patreon.com/posts/digital-romance-122330729",
+      "image": "/images/trackers/thatssojordy_DigitalRomance.jpg",
       "isDownloaded": false
     },
     {
@@ -33672,6 +33849,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/115297926",
       "translationUrl": "https://www.patreon.com/posts/3-6geng-xin-qiu-96463054",
+      "image": "/images/trackers/UTOPYAcc_BilliardMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33682,6 +33860,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/kiss-n-grind-1-9-131081267?utm_campaign=patron_engagement&utm_source=post_link&post_id=131081267&utm_id=7379ed4a-11db-4637-a916-5e540c225303&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/5-10geng-xin-n-88314354",
+      "image": "/images/trackers/UTOPYAcc_KissnGrind.jpg",
       "isDownloaded": false
     },
     {
@@ -33692,6 +33871,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/kiss-and-grind-115299392?utm_campaign=patron_engagement&utm_source=post_link&post_id=115299392&utm_id=ad534e74-0cc9-4050-91cf-7363c4a40cc6&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/5-10geng-xin-n-88314354",
+      "image": "/images/trackers/UTOPYAcc_KissandGrindWaveandGrind.jpg",
       "isDownloaded": false
     },
     {
@@ -33702,6 +33882,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/passionate-gift-146645188?utm_campaign=patron_engagement&utm_source=post_link&post_id=146645188&utm_id=7c79e4e2-0193-459a-ad70-ba10130df5b4&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/3-7geng-xin-re-90952330",
+      "image": "/images/trackers/UTOPYAcc_PassionateGift.jpg",
       "isDownloaded": false
     },
     {
@@ -33712,6 +33893,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/romantic-sims-4-128656481?utm_campaign=patron_engagement&utm_source=post_link&post_id=128656481&utm_id=53ff53ea-c9fd-4815-9043-6ddbe156be5f&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/romantic-lian-ai-134193686",
+      "image": "/images/trackers/UTOPYAcc_RomanticComplaints.jpg",
       "isDownloaded": false
     },
     {
@@ -33722,6 +33904,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/ride-together-0-142863954?utm_campaign=patron_engagement&utm_source=post_link&post_id=142863954&utm_id=afd4608b-9fba-49f1-9c4e-329759f058f9&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/ride-together-yi-145333502",
+      "image": "/images/trackers/UTOPYAcc_RideTogether.jpg",
       "isDownloaded": false
     },
     {
@@ -33732,6 +33915,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/use-laptop-0-5-117834485?utm_campaign=patron_engagement&utm_source=post_link&post_id=117834485&utm_id=e5a1d84a-32d5-493a-8d78-c8e344a412b1&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/together-on-yi-113863666",
+      "image": "/images/trackers/UTOPYAcc_UseLaptopTogether.jpg",
       "isDownloaded": false
     },
     {
@@ -33742,6 +33926,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/mod-talks-by-age-127997255",
       "translationUrl": "https://www.patreon.com/posts/talks-by-age-yi-131771641",
+      "image": "/images/trackers/vellesa_TALKSBYAGEChildren.jpg",
       "isDownloaded": false
     },
     {
@@ -33752,6 +33937,7 @@ export default {
       "subtype": "社交互动",
       "downloadUrl": "https://www.patreon.com/posts/137653729",
       "translationUrl": "https://www.patreon.com/posts/talks-by-age-yi-145331897",
+      "image": "/images/trackers/vellesa_TALKSBYAGETeens.jpg",
       "isDownloaded": false
     },
     {
@@ -33762,6 +33948,7 @@ export default {
       "subtype": "社交互动",
       "downloadUrl": "https://www.patreon.com/posts/mod-talks-by-age-121741519",
       "translationUrl": "https://www.patreon.com/posts/talks-by-age-yi-133507105",
+      "image": "/images/trackers/vellesa_TALKSBYAGESeniors.jpg",
       "isDownloaded": false
     },
     {
@@ -33772,6 +33959,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-amusment-66873088",
       "translationUrl": "https://www.patreon.com/posts/waronkccde-yun-69945011",
+      "image": "/images/trackers/waronkcc_amusmentrollercostertogetherplay.jpg",
       "isDownloaded": false
     },
     {
@@ -33782,6 +33970,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-carausel-68086399",
       "translationUrl": "https://www.patreon.com/posts/waronkccde-yun-69945012",
+      "image": "/images/trackers/waronkcc_carauselamusmentfuction.jpg",
       "isDownloaded": false
     },
     {
@@ -33792,6 +33981,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-fuction-73116320",
       "translationUrl": "https://www.patreon.com/posts/bumpercars-for-77499801",
+      "image": "/images/trackers/waronkcc_bumpercarsfuction.jpg",
       "isDownloaded": false
     },
     {
@@ -33802,6 +33992,7 @@ export default {
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-match-118663445",
       "translationUrl": "https://www.patreon.com/posts/basketball-match-122387272",
+      "image": "/images/trackers/waronkcc_basketballmatchinteraction.jpg",
       "isDownloaded": false
     },
     {
@@ -33812,6 +34003,7 @@ export default {
       "subtype": "其他家具",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-bicycle-127729987",
       "translationUrl": "https://www.patreon.com/posts/bicycle-jiao-ta-143275537",
+      "image": "/images/trackers/waronkcc_bicyclehitchiking.jpg",
       "isDownloaded": false
     },
     {
@@ -33822,6 +34014,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-carousel-69174678",
       "translationUrl": "https://www.patreon.com/posts/carousel-swing-74644865",
+      "image": "/images/trackers/waronkcc_carouselswingfuctiontogether.jpg",
       "isDownloaded": false
     },
     {
@@ -33832,6 +34025,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-ferris-70608706",
       "translationUrl": "https://www.patreon.com/posts/ferris-wheel-ke-75484241",
+      "image": "/images/trackers/waronkcc_ferriswheelfuctiontogether.jpg",
       "isDownloaded": false
     },
     {
@@ -33842,6 +34036,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/go-cart-fuction-74434132",
       "translationUrl": "https://www.patreon.com/posts/go-cart-fuction-80198690",
+      "image": "/images/trackers/waronkcc_gocartfuctiontogether.jpg",
       "isDownloaded": false
     },
     {
@@ -33852,6 +34047,7 @@ export default {
       "subtype": "其他家具",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-hammock-94482231",
       "translationUrl": "https://www.patreon.com/posts/hammock-fuction-99651804",
+      "image": "/images/trackers/waronkcc_hammockfuction.jpg",
       "isDownloaded": false
     },
     {
@@ -33862,6 +34058,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-fuction-80934116",
       "translationUrl": "https://www.patreon.com/posts/lanzandera-gong-85092959",
+      "image": "/images/trackers/waronkcc_lanzanderafuction.jpg",
       "isDownloaded": false
     },
     {
@@ -33872,6 +34069,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-new-pool-54378165",
       "translationUrl": "https://www.patreon.com/posts/new-object-pool-73209277",
+      "image": "/images/trackers/waronkcc_summerpack2.jpg",
       "isDownloaded": false
     },
     {
@@ -33882,6 +34080,7 @@ export default {
       "subtype": "其他家具",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-plane-63620793",
       "translationUrl": "https://www.patreon.com/posts/plane-fuction-ji-73208387",
+      "image": "/images/trackers/waronkcc_planefuction.jpg",
       "isDownloaded": false
     },
     {
@@ -33892,6 +34091,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-pirate-93052075",
       "translationUrl": "https://www.patreon.com/posts/pirate-ship-ride-99652495",
+      "image": "/images/trackers/waronkcc_pirateshiprideammusment.jpg",
       "isDownloaded": false
     },
     {
@@ -33902,6 +34102,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-sled-77778298",
       "translationUrl": "https://www.patreon.com/posts/sled-water-ren-82569105",
+      "image": "/images/trackers/waronkcc_sledwatertogetherfuction.jpg",
       "isDownloaded": false
     },
     {
@@ -33912,6 +34113,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-skatepark-89907660",
       "translationUrl": "https://www.patreon.com/posts/skatepark-gong-99653620",
+      "image": "/images/trackers/waronkcc_skateparkfuction.jpg",
       "isDownloaded": false
     },
     {
@@ -33922,6 +34124,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-water-76198710",
       "translationUrl": "https://www.patreon.com/posts/water-coster-ren-81544035",
+      "image": "/images/trackers/waronkcc_watercosterfuctiontogether.jpg",
       "isDownloaded": false
     },
     {
@@ -33932,6 +34135,7 @@ export default {
       "subtype": "小型事业",
       "downloadUrl": "https://www.patreon.com/posts/functional-nail-146570715?utm_campaign=patron_engagement&utm_source=post_link&post_id=146570715&utm_id=1a076648-419e-45e4-884f-66ab30b0d1e4&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/3-5zhu-ti-geng-92391559",
+      "image": "/images/trackers/WICKEDPIXXEL_FUNCTIONALNAILSALONS.jpg",
       "isDownloaded": false
     },
     {
@@ -33942,6 +34146,7 @@ export default {
       "subtype": "演艺人员",
       "downloadUrl": "https://www.patreon.com/posts/music-industry-1-116471588",
       "translationUrl": "https://www.patreon.com/posts/3-11zhu-ti-geng-95209395",
+      "image": "/images/trackers/WICKEDPIXXEL_MUSICINDUSTRYMOD.jpg",
       "isDownloaded": false
     },
     {
@@ -33952,6 +34157,7 @@ export default {
       "subtype": "小型事业",
       "downloadUrl": "https://www.patreon.com/posts/shopping-doesnt-123993350",
       "translationUrl": "https://www.patreon.com/posts/shopping-doesnt-124423156",
+      "image": "/images/trackers/WafflesMixIns_ShoppingDoesntEmptyShelves.jpg",
       "isDownloaded": false
     },
     {
@@ -33962,6 +34168,7 @@ export default {
       "subtype": "教育大修",
       "downloadUrl": "https://zerbu.tumblr.com/post/695381322171138049/the-sims-4-go-to-school-mod-v5",
       "translationUrl": "https://www.patreon.com/posts/go-to-school-v5-75752795",
+      "image": "/images/trackers/zerbu_GotoSchool.jpg",
       "isDownloaded": false
     },
     {
@@ -33972,6 +34179,7 @@ export default {
       "subtype": "行人大修",
       "downloadUrl": "https://zerbu.tumblr.com/post/712256097134772224/the-sims-4-mod-spawn-refresh",
       "translationUrl": "https://www.patreon.com/posts/spawn-refresh-se-83622783",
+      "image": "/images/trackers/zerbu_SpawnRefresh.jpg",
       "isDownloaded": false
     },
     {
@@ -33982,6 +34190,7 @@ export default {
       "subtype": "跟随职业",
       "downloadUrl": "https://zerbu.tumblr.com/post/160454960980/the-sims-4-turbo-careers-mod-pack",
       "translationUrl": "https://www.patreon.com/posts/12-14zhu-ti-geng-59574518",
+      "image": "/images/trackers/zerbu_TurboCareersMod.jpg",
       "isDownloaded": false
     },
     {
@@ -33992,6 +34201,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/bg-autonomous-go-52368400",
       "translationUrl": "https://www.patreon.com/posts/autonomous-go-zi-89748814",
+      "image": "/images/trackers/Zero_AutonomousGoSteadyandPropose.jpg",
       "isDownloaded": false
     },
     {
@@ -34002,6 +34212,7 @@ export default {
       "subtype": "市民管理",
       "downloadUrl": "https://www.patreon.com/posts/assign-npc-jobs-73945932",
       "translationUrl": "https://www.patreon.com/posts/assign-npc-jobs-120757305",
+      "image": "/images/trackers/Zero_AssignNPCJobs.jpg",
       "isDownloaded": false
     },
     {
@@ -34012,6 +34223,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/call-family-for-117084253?utm_campaign=patron_engagement&utm_source=post_link&post_id=117084253&utm_id=5a3a91a5-1ee0-4b65-9e57-2593ff20bff8&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/call-family-for-118466185",
+      "image": "/images/trackers/Zero_CallFamilyforHelpWithKids.jpg",
       "isDownloaded": false
     },
     {
@@ -34022,6 +34234,7 @@ export default {
       "subtype": "社交互动",
       "downloadUrl": "https://www.patreon.com/posts/bg-go-for-jog-50068048",
       "translationUrl": "https://www.patreon.com/posts/go-for-jog-yi-qi-70431492",
+      "image": "/images/trackers/Zero_GoforaJogTogether.jpg",
       "isDownloaded": false
     }
   ],

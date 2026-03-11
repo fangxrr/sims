@@ -13,10 +13,10 @@ export interface CCItem {
 }
 
 // Helper function to automatically generate the image path from the id
-const createCCItem = (data: Omit<CCItem, 'image'>): CCItem => ({
+const createCCItem = (data: Partial<CCItem> & { id: string; title: string }): CCItem => ({
   ...data,
-  image: `/images/trackers/${data.id}.jpg`
-});
+  image: data.image || `/images/trackers/${data.id}.jpg`
+} as CCItem);
 
 const defaultTrackersData: CCItem[] = [
   createCCItem({ id: 'goth-galore-hair', title: 'Goth Galore Hair', chineseTitle: '哥特风华发型', author: 'GreenLlama', type: 'CAS', subtype: 'Female Hair', downloadUrl: '#', translationUrl: '#' }),

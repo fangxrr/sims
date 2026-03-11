@@ -295,6 +295,7 @@ try {
         subtype: getRowVal(row, 'subtype'),
         downloadUrl: getRowVal(row, 'downloadUrl'),
         translationUrl: getRowVal(row, 'translationUrl'),
+        image: getImagePath(getRowVal(row, 'id') || getRowVal(row, 'title'), 'trackers'),
         date: formatExcelDate(getRowVal(row, 'date') || getRowVal(row, 'releaseDate')),
         isDownloaded: Boolean(getRowVal(row, 'isDownloaded') === true || String(getRowVal(row, 'isDownloaded')).toLowerCase() === 'true' || getRowVal(row, 'isDownloaded') === '已下载')
     })).filter(t => t.id && (t.title || t.id));

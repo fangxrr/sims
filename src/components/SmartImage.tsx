@@ -8,7 +8,7 @@ interface SmartImageProps extends React.ImgHTMLAttributes<HTMLImageElement> {
 
 export const SmartImage: React.FC<SmartImageProps> = ({
     src: initialSrc,
-    fallbackExtensions = ['.jpg', '.png', '.webp', '.jpeg', '.JPG', '.PNG', '.WEBP', '.JPEG'],
+    fallbackExtensions = ['.jpg', '.png', '.webp', '.jpeg', '.avif', '.JPG', '.PNG', '.WEBP', '.JPEG', '.AVIF'],
     className,
     alt = "",
     ...props
