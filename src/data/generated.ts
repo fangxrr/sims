@@ -31885,6 +31885,61 @@ export default {
   ],
   "trackers": [
     {
+      "id": "abonniecache",
+      "title": "cache",
+      "chineseTitle": "一键自动清理游戏缓存",
+      "author": "ABonnie",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://www.abonnie.uk/cache-cleaner",
+      "image": "/images/trackers/ABonnie_cache.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "abonniemorerandompose",
+      "title": "more random pose",
+      "chineseTitle": "更多随机家庭合影动作",
+      "author": "ABonnie",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://www.abonnie.uk/more-random-pose",
+      "image": "/images/trackers/ABonnie_morerandompose.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "abonniesimplifiedchinese",
+      "title": "Simplified Chinese",
+      "chineseTitle": "简体补丁+美化字体",
+      "author": "ABonnie",
+      "type": "B核心必备",
+      "subtype": "简中修复",
+      "downloadUrl": "https://www.abonnie.uk/fonts",
+      "image": "/images/trackers/ABonnie_SimplifiedChinese.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "abonniestringsfix",
+      "title": "strings fix",
+      "chineseTitle": "游戏文本小修",
+      "author": "ABonnie",
+      "type": "B核心必备",
+      "subtype": "简中修复",
+      "downloadUrl": "https://www.abonnie.uk/strings-fix",
+      "image": "/images/trackers/ABonnie_stringsfix.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "abonniethumbnailfix",
+      "title": "thumbnail fix",
+      "chineseTitle": "修复缩略图",
+      "author": "ABonnie",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://www.abonnie.uk/thumbnail-fix",
+      "image": "/images/trackers/ABonnie_thumbnailfix.jpg",
+      "isDownloaded": false
+    },
+    {
       "id": "adeepindigobeautybarclubandsmallbusinessactivities",
       "title": "Beauty Bar Club and Small Business Activities",
       "chineseTitle": "小型事业&俱乐部活动",
@@ -32072,6 +32127,72 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "alerionjkeeesansequoiabridgeoverride",
+      "title": "San Sequoia Bridge Override",
+      "chineseTitle": "替换圣西果亚大桥",
+      "author": "Alerionjkeee",
+      "type": "B核心必备",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/san-sequoia-bridge-override-by-alerion",
+      "image": "/images/trackers/Alerionjkeee_SanSequoiaBridgeOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "alexcroftgoclickanywheremod",
+      "title": "GoClick Anywhere MOD",
+      "chineseTitle": "自由世界足迹",
+      "author": "AlexCroft",
+      "type": "B核心必备",
+      "subtype": "建筑工具",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/go-click-anywhere-mod",
+      "image": "/images/trackers/AlexCroft_GoClickAnywhereMOD.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "alisrabbohirevendorsofflot",
+      "title": "Hire Vendors Off Lot",
+      "chineseTitle": "随处都能免费雇佣摊贩",
+      "author": "alisrabbo",
+      "type": "E功能模组",
+      "subtype": "行人大修",
+      "downloadUrl": "https://www.patreon.com/posts/hire-vendors-off-34589034",
+      "image": "/images/trackers/alisrabbo_HireVendorsOffLot.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "amellceasktoeat",
+      "title": "Ask to Eat",
+      "chineseTitle": "要求吃喝&给食物等",
+      "author": "Amellce",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/ask-to-eat-and-more",
+      "image": "/images/trackers/Amellce_AsktoEat.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "amellcesteadysitseatanysim",
+      "title": "Steady Sit Seat Any Sim",
+      "chineseTitle": "稳坐",
+      "author": "Amellce",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/steady-sit-seat-any-sim",
+      "image": "/images/trackers/Amellce_SteadySitSeatAnySim.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "amethystlilacbetterladderscarryitemsclimbfaster",
+      "title": "Better Ladders Carry items Climb faster",
+      "chineseTitle": "更好的梯子",
+      "author": "AmethystLilac",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.patreon.com/posts/better-ladders-133618466",
+      "image": "/images/trackers/AmethystLilac_BetterLaddersCarryitemsClimbfaster.jpg",
+      "isDownloaded": false
+    },
+    {
       "id": "amethystlilacleaningpaintingslots",
       "title": "Leaning Painting Slots",
       "chineseTitle": "任意摆放画作：画作展示插槽",
@@ -32081,6 +32202,28 @@ export default {
       "downloadUrl": "https://www.abonnie.uk/leaning-painting-slots",
       "translationUrl": "https://www.patreon.com/posts/leaning-painting-127829871",
       "image": "/images/trackers/AmethystLilac_LeaningPaintingSlots.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "andirzbeachyoga",
+      "title": "Beach Yoga",
+      "chineseTitle": "海滩瑜伽",
+      "author": "Andirz",
+      "type": "H互动家具",
+      "subtype": "运动器材",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/beach-yoga",
+      "image": "/images/trackers/Andirz_BeachYoga.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "andirzbetterpiemenu",
+      "title": "Better Pie Menu",
+      "chineseTitle": "更好的菜单",
+      "author": "Andirz",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/better-pie-menu",
+      "image": "/images/trackers/Andirz_BetterPieMenu.webp",
       "isDownloaded": false
     },
     {
@@ -32100,11 +32243,34 @@ export default {
       "title": "Pose Player",
       "chineseTitle": "动作播放器",
       "author": "Andrew",
-      "type": "B核心必备",
+      "type": "C人物创建",
       "subtype": "拍摄工具",
       "downloadUrl": "https://sims4studio.com/thread/2617/andrews-studio",
       "translationUrl": "https://www.abonnie.uk/pose-player",
       "image": "/images/trackers/Andrew_PosePlayer.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "aramiteusassignnpcbedsatnpchomes",
+      "title": "Assign NPC beds at NPC homes",
+      "chineseTitle": "指定NPC家的床位",
+      "author": "Aramiteus",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.nexusmods.com/thesims4/mods/1921?tab=description",
+      "image": "/images/trackers/Aramiteus_AssignNPCbedsatNPChomes.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "aramiteushighschoolmoreclassmates",
+      "title": "High School More Classmates",
+      "chineseTitle": "选择高中同学和教职工",
+      "author": "Aramiteus",
+      "type": "G职业生涯",
+      "subtype": "教育大修",
+      "downloadUrl": "https://www.nexusmods.com/thesims4/mods/1463?tab=description",
+      "translationUrl": "https://www.patreon.com/posts/1-7geng-xin-high-74007779",
+      "image": "/images/trackers/Aramiteus_HighSchoolMoreClassmates.webp",
       "isDownloaded": false
     },
     {
@@ -32120,15 +32286,37 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "aramiteushighschoolmoreclassmates",
-      "title": "High School More Classmates",
-      "chineseTitle": "选择高中同学和教职工",
-      "author": "Aramiteus",
-      "type": "G职业生涯",
-      "subtype": "教育大修",
-      "downloadUrl": "https://www.nexusmods.com/thesims4/mods/1463?tab=description",
-      "translationUrl": "https://www.patreon.com/posts/1-7geng-xin-high-74007779",
-      "image": "/images/trackers/Aramiteus_HighSchoolMoreClassmates.webp",
+      "id": "batsandbabydollsadultsgetcrushesfix",
+      "title": "Adults Get Crushes FIX",
+      "chineseTitle": "成年人可以暗恋",
+      "author": "batsandbabydolls",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://modthesims.info/d/679628/adults-get-crushes-fix.html",
+      "image": "/images/trackers/batsandbabydolls_AdultsGetCrushesFIX.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "batsandbabydollscrushoverhaul",
+      "title": "Crush Overhaul",
+      "chineseTitle": "暗恋大修",
+      "author": "batsandbabydolls",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://modthesims.info/d/680317/crush-overhaul.html",
+      "translationUrl": "https://www.abonnie.uk/crush-overhaul",
+      "image": "/images/trackers/batsandbabydolls_CrushOverhaul.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "bloombatteravailablelockthecameradirectlyfromsim",
+      "title": "Available Lock The Camera directly from Sim",
+      "chineseTitle": "锁定镜头",
+      "author": "bloombatter",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://modthesims.info/d/686440/available-lock-the-camera-directly-from-sim.html",
+      "image": "/images/trackers/bloombatter_AvailableLockTheCameradirectlyfromSim.webp",
       "isDownloaded": false
     },
     {
@@ -32154,6 +32342,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "bosseladytvbetterranchhands",
+      "title": "Better Ranch Hands",
+      "chineseTitle": "更好的牧场帮手",
+      "author": "BosseladyTV",
+      "type": "E功能模组",
+      "subtype": "种田农务",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/better-ranch-hands",
+      "image": "/images/trackers/BosseladyTV_BetterRanchHands.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "bosseladytvcomeinstickaround",
       "title": "Come In Stick Around",
       "chineseTitle": "请进请留步",
@@ -32166,6 +32365,39 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "bosseladytvnochildmesses",
+      "title": "No Child Messes",
+      "chineseTitle": "孩子不再制造脏乱",
+      "author": "BosseladyTV",
+      "type": "E功能模组",
+      "subtype": "婴幼成长",
+      "downloadUrl": "https://www.abonnie.uk/no-child-messes",
+      "image": "/images/trackers/BosseladyTV_NoChildMesses.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "bosseladytvstayasleepfromcuddle",
+      "title": "Stay Asleep from Cuddle",
+      "chineseTitle": "床上拥抱后睡觉",
+      "author": "BosseladyTV",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/stay-asleep-from-cuddle",
+      "image": "/images/trackers/BosseladyTV_StayAsleepfromCuddle.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "bravesimsmarterrobotvacuum",
+      "title": "Smarter Robot Vacuum",
+      "chineseTitle": "更智能的扫地机",
+      "author": "BraveSim",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://modthesims.info/download.php?p=5889406#post5889406",
+      "image": "/images/trackers/BraveSim_SmarterRobotVacuum.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "brazenlotusharvestgather",
       "title": "Harvest Gather",
       "chineseTitle": "BrazenLotus餐厨合集",
@@ -32175,6 +32407,17 @@ export default {
       "downloadUrl": "https://www.brazenlotus.com/",
       "translationUrl": "https://www.abonnie.uk/brazenlotus",
       "image": "/images/trackers/BrazenLotus_HarvestGather.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "breezytraitcaslighting",
+      "title": "CAS Lighting",
+      "chineseTitle": "CAS打光",
+      "author": "breezytrait",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://breezytrait.tumblr.com/post/686961779023265792/sims-4-cas-lighting-mods-free-download",
+      "image": "/images/trackers/breezytrait_CASLighting.webp",
       "isDownloaded": false
     },
     {
@@ -32340,6 +32583,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "cepzidkidscantakecareminianimal",
+      "title": "Kids Can Take care Mini Animal ",
+      "chineseTitle": "孩子可以照顾迷你小动物",
+      "author": "Cepzid",
+      "type": "E功能模组",
+      "subtype": "婴幼成长",
+      "downloadUrl": "https://www.patreon.com/posts/kids-can-take-94059091",
+      "image": "/images/trackers/Cepzid_KidsCanTakecareMiniAnimal .webp",
+      "isDownloaded": false
+    },
+    {
       "id": "cepzidletsgetfitfanmademodpack",
       "title": "Lets Get Fit Fanmade Modpack",
       "chineseTitle": "健身达人",
@@ -32372,6 +32626,17 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/play-with-mirror-51915759",
       "translationUrl": "https://www.abonnie.uk/play-with-mirror",
       "image": "/images/trackers/Cepzid_PlayWithMirror.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "cepzidrealistickidsmods",
+      "title": "Realistic Kids Mods",
+      "chineseTitle": "孩子可以做更多事",
+      "author": "Cepzid",
+      "type": "E功能模组",
+      "subtype": "婴幼成长",
+      "downloadUrl": "https://www.patreon.com/posts/realistic-kids-41547853",
+      "image": "/images/trackers/Cepzid_RealisticKidsMods.webp",
       "isDownloaded": false
     },
     {
@@ -32408,99 +32673,6 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "vickysimschingyu1023100basegametraitspack",
-      "title": "100 Base Game Traits Pack",
-      "chineseTitle": "100个特征",
-      "author": "Vicky Sims chingyu1023",
-      "type": "C人物创建",
-      "subtype": "性格特征",
-      "downloadUrl": "https://www.patreon.com/posts/100-base-game-v1-41969378",
-      "translationUrl": "https://www.patreon.com/posts/100-base-game-v1-107668872",
-      "image": "/images/trackers/VickySimschingyu1023_100BaseGameTraitsPack.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "vickysimschingyu1023absentemotiontraitspack",
-      "title": "Absent Emotion Traits Pack",
-      "author": "Vicky Sims chingyu1023",
-      "type": "C人物创建",
-      "subtype": "性格特征",
-      "downloadUrl": "https://www.patreon.com/posts/absent-emotion-62643545",
-      "image": "/images/trackers/VickySimschingyu1023_AbsentEmotionTraitsPack.jpg",
-      "isDownloaded": false
-    },
-    {
-      "id": "vickysimschingyu1023conversationtopiclotchallenges",
-      "title": "Conversation Topic Lot Challenges",
-      "chineseTitle": "对话主题地段",
-      "author": "Vicky Sims chingyu1023",
-      "type": "E功能模组",
-      "subtype": "地段特征",
-      "downloadUrl": "https://www.patreon.com/posts/105301365",
-      "translationUrl": "https://www.abonnie.uk/conversation-topic-lot-challenges",
-      "image": "/images/trackers/VickySimschingyu1023_ConversationTopicLotChallenges.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "vickysimschingyu1023functionallottraits",
-      "title": "Functional Lot Traits",
-      "chineseTitle": "功能地段特征",
-      "author": "Vicky Sims chingyu1023",
-      "type": "E功能模组",
-      "subtype": "地段特征",
-      "downloadUrl": "https://www.patreon.com/posts/functional-lot-65503704",
-      "translationUrl": "https://www.patreon.com/posts/functional-lot-90573621",
-      "image": "/images/trackers/VickySimschingyu1023_FunctionalLotTraits.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "vickysimschingyu1023activitylotchallenges",
-      "title": "Activity Lot Challenges",
-      "chineseTitle": "活动地段",
-      "author": "Vicky Sims chingyu1023",
-      "type": "E功能模组",
-      "subtype": "地段特征",
-      "downloadUrl": "https://www.patreon.com/posts/activity-lot-v2-113006626",
-      "translationUrl": "https://www.abonnie.uk/activity-lot-challenges",
-      "image": "/images/trackers/VickySimschingyu1023_ActivityLotChallenges.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "vickysimschingyu1023holidaytraditioncustompreferences",
-      "title": "Holiday Tradition Custom Preferences",
-      "author": "Vicky Sims chingyu1023",
-      "type": "J活动节日",
-      "subtype": "节日庆典",
-      "downloadUrl": "https://www.patreon.com/posts/holiday-custom-114177438?utm_campaign=patron_engagement&utm_source=post_link&post_id=114177438&utm_id=d1caad70-5fda-4cfb-9b83-e8913de7eff3&utm_medium=email",
-      "translationUrl": "https://www.patreon.com/posts/holiday-custom-116121963",
-      "image": "/images/trackers/VickySimschingyu1023_HolidayTraditionCustomPreferences.jpg",
-      "isDownloaded": false
-    },
-    {
-      "id": "vickysimschingyu1023catanddogcustomtraitspack",
-      "title": "Cat And Dog Custom Traits Pack",
-      "chineseTitle": "自订猫狗特征",
-      "author": "Vicky Sims chingyu1023",
-      "type": "C人物创建",
-      "subtype": "性格特征",
-      "downloadUrl": "https://www.patreon.com/posts/cat-and-dog-pack-120892985",
-      "translationUrl": "https://www.abonnie.uk/cat-and-dog-custom-traits-pack",
-      "image": "/images/trackers/VickySimschingyu1023_CatAndDogCustomTraitsPack.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "vickysimschingyu1023woohooconsent",
-      "title": "Woohoo Consent",
-      "chineseTitle": "询问嘿咻意愿",
-      "author": "Vicky Sims chingyu1023",
-      "type": "K其他模组",
-      "subtype": "美妙奇想",
-      "downloadUrl": "https://www.patreon.com/posts/74550453",
-      "translationUrl": "https://www.abonnie.uk/woohoo-consent",
-      "image": "/images/trackers/VickySimschingyu1023_WoohooConsent.webp",
-      "isDownloaded": false
-    },
-    {
       "id": "chingyu1023in-depthemotions",
       "title": "In-depth Emotions",
       "author": "chingyu1023",
@@ -32509,6 +32681,64 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/91029329",
       "translationUrl": "https://www.patreon.com/posts/in-depth-shen-ru-93148236",
       "image": "/images/trackers/chingyu1023_IndepthEmotions.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "claudiasharonnofoodfishleavesfreshnessdecay",
+      "title": "No Food Fish Leaves Freshness Decay",
+      "chineseTitle": "食物树叶鱼永不腐败不变质",
+      "author": "ClaudiaSharon",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://www.patreon.com/posts/49325397",
+      "image": "/images/trackers/ClaudiaSharon_NoFoodFishLeavesFreshnessDecay.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "coolspearnoautonomous",
+      "title": "no autonomous",
+      "chineseTitle": "禁止自主做某事",
+      "author": "coolspear",
+      "type": "E功能模组",
+      "subtype": "智能生活",
+      "downloadUrl": "https://simsasylum.com/tfm/index.php?/topic/16707-no-autonomous-mods-all-in-here/",
+      "translationUrl": "https://www.abonnie.uk/no-autonomous",
+      "image": "/images/trackers/coolspear_noautonomous.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "coolspearnocensorblurmosaic",
+      "title": "No Censor Blur Mosaic",
+      "chineseTitle": "全年龄段去马赛克",
+      "author": "coolspear",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://simsasylum.com/tfm/index.php?/topic/16451-no-censor-blur-mosaic-all-sims-compatible-with-ww-new-december-2022/",
+      "translationUrl": "https://www.abonnie.uk/no-censor-blur-mosaic",
+      "image": "/images/trackers/coolspear_NoCensorBlurMosaic.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "coolspearquickersimautonomysimulationlagimprovements",
+      "title": "Quicker Sim Autonomy Simulation Lag Improvements",
+      "chineseTitle": "更快的市民自治和改进模拟滞后",
+      "author": "coolspear",
+      "type": "E功能模组",
+      "subtype": "智能生活",
+      "downloadUrl": "https://simsasylum.com/tfm/index.php?/topic/14126-quicker-sim-autonomy-simulation-lag-improvements-march-2023-196-update/",
+      "translationUrl": "https://www.abonnie.uk/quicker-sim-autonomy-simulation-lag-improvements",
+      "image": "/images/trackers/coolspear_QuickerSimAutonomySimulationLagImprovements.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "cubiertodefloresimprovedphonecamera",
+      "title": "Improved phone camera",
+      "chineseTitle": "改进手机镜头相机",
+      "author": "CubiertoDeFlores",
+      "type": "C人物创建",
+      "subtype": "拍摄工具",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/improved-phone-camera",
+      "image": "/images/trackers/CubiertoDeFlores_Improvedphonecamera.jpg",
       "isDownloaded": false
     },
     {
@@ -32521,6 +32751,50 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/105152706",
       "translationUrl": "https://www.abonnie.uk/fashion-designer",
       "image": "/images/trackers/Danitysimmer_FashionDesigner.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "darkolaitorealsnowflakesoverride",
+      "title": "Real Snowflakes Override",
+      "chineseTitle": "替换雪花",
+      "author": "Darkolaito",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://modthesims.info/d/637604/real-snowflakes-override.html",
+      "image": "/images/trackers/Darkolaito_RealSnowflakesOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "dearkimpairedselfiemods",
+      "title": "Paired Selfie Mods",
+      "chineseTitle": "替换合影自拍",
+      "author": "DearKim",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/collection/453462?view=expanded",
+      "image": "/images/trackers/DearKim_PairedSelfieMods.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "dearkimsingleselfiecelebrity",
+      "title": "SingleSelfie Celebrity",
+      "chineseTitle": "替换单人自拍合集",
+      "author": "DearKim",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/collection/418926?view=expanded",
+      "image": "/images/trackers/DearKim_SingleSelfieCelebrity.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "dershayanfanartmap",
+      "title": "Fanart Map",
+      "chineseTitle": "替换世界地图",
+      "author": "DerShayan",
+      "type": "D视觉美化",
+      "subtype": "地图替换",
+      "downloadUrl": "https://dershayan.de/mods-cc/fanart-maps/",
+      "image": "/images/trackers/DerShayan_FanartMap.webp",
       "isDownloaded": false
     },
     {
@@ -32549,24 +32823,57 @@ export default {
     {
       "id": "downinsimslandfunctionalregisters",
       "title": "Functional Registers",
-      "author": "Down in Simsland",
+      "author": "DownInSimsLand",
       "type": "G职业生涯",
       "subtype": "小型事业",
       "downloadUrl": "https://down-in-simsland.tumblr.com/post/738900138719936512/multi-purpose-lots",
       "translationUrl": "https://www.patreon.com/posts/functional-gong-125308127",
-      "image": "/images/trackers/DowninSimsland_FunctionalRegisters.jpg",
+      "image": "/images/trackers/DownInSimsLand_FunctionalRegisters.jpg",
       "isDownloaded": false
     },
     {
       "id": "downinsimslandmultipurposelots",
       "title": "MultiPurpose Lots",
       "chineseTitle": "多用途地段特征",
-      "author": "Down in Simsland",
+      "author": "DownInSimsLand",
       "type": "E功能模组",
       "subtype": "行人大修",
       "downloadUrl": "https://down-in-simsland.tumblr.com/post/738900138719936512/multi-purpose-lots",
       "translationUrl": "https://www.abonnie.uk/multi-purpose-lot-traits",
-      "image": "/images/trackers/DowninSimsland_MultiPurposeLots.webp",
+      "image": "/images/trackers/DownInSimsLand_MultiPurposeLots.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "downinsimslandbackgroundreplacementsforcupidcorner",
+      "title": "Background Replacements for Cupid Corner",
+      "chineseTitle": "替换丘比特角照片背景",
+      "author": "DownInSimsLand",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://down-in-simsland.tumblr.com/post/758524334012809216/random-small-mods",
+      "image": "/images/trackers/DownInSimsLand_BackgroundReplacementsforCupidCorner.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "downinsimslandinteractintightspaces",
+      "title": "Interact in Tight Spaces",
+      "chineseTitle": "在狭小空间互动",
+      "author": "DownInSimsLand",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://down-in-simsland.tumblr.com/post/758524334012809216/random-small-mods",
+      "image": "/images/trackers/DownInSimsLand_InteractinTightSpaces.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "downinsimslandlesscouplesoncommunitylots",
+      "title": "Less Couples on Community Lots",
+      "chineseTitle": "社区地段NPC情侣优化",
+      "author": "DownInSimsLand",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://down-in-simsland.tumblr.com/post/758524334012809216/random-small-mods",
+      "image": "/images/trackers/DownInSimsLand_LessCouplesonCommunityLots.webp",
       "isDownloaded": false
     },
     {
@@ -32579,6 +32886,28 @@ export default {
       "downloadUrl": "https://www.curseforge.com/sims4/mods/sim-control-hub",
       "translationUrl": "https://www.abonnie.uk/sim-control-hub",
       "image": "/images/trackers/DQuiet_SimControlHub.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "dudleystrailerboxingglovesdefault",
+      "title": "Boxing Gloves Default",
+      "chineseTitle": "替换拳击手套",
+      "author": "Dudleys Trailer",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.abonnie.uk/boxing-gloves-default",
+      "image": "/images/trackers/DudleysTrailer_BoxingGlovesDefault.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "dudleystrailermicrophonedefaultreplacement",
+      "title": "Microphone Default Replacement",
+      "chineseTitle": "替换麦克风",
+      "author": "Dudleys Trailer",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/microphone-123417743",
+      "image": "/images/trackers/DudleysTrailer_MicrophoneDefaultReplacement.webp",
       "isDownloaded": false
     },
     {
@@ -32629,6 +32958,72 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "empyreansimsocculteyecolorsbegone",
+      "title": "Occult Eye Colors be gone",
+      "chineseTitle": "隐藏人类CAS中的神秘学眼瞳",
+      "author": "EmpyreanSims",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://www.patreon.com/posts/occult-eye-be-136347723",
+      "image": "/images/trackers/EmpyreanSims_OccultEyeColorsbegone.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "fakepikachuaiupscaledcollectibles",
+      "title": "AI Upscaled Collectibles",
+      "chineseTitle": "高清游戏全部藏品",
+      "author": "FakePikachu",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.nexusmods.com/thesims4/mods/1965",
+      "image": "/images/trackers/FakePikachu_AIUpscaledCollectibles.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "fakepikachuaiupscaledfood",
+      "title": "AI Upscaled Food",
+      "chineseTitle": "高清游戏全部食物+餐具",
+      "author": "FakePikachu",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.nexusmods.com/thesims4/mods/463",
+      "image": "/images/trackers/FakePikachu_AIUpscaledFood.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "fakepikachuaiupscaledgardening",
+      "title": "AI Upscaled Gardening",
+      "chineseTitle": "高清游戏全部植物",
+      "author": "FakePikachu",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.nexusmods.com/thesims4/mods/732?tab=description",
+      "image": "/images/trackers/FakePikachu_AIUpscaledGardening.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "fernbladesplantongrasstiles",
+      "title": "Plant on Grass Tiles",
+      "chineseTitle": "随处种植：在任意草地泥地类地砖",
+      "author": "FernBlades",
+      "type": "E功能模组",
+      "subtype": "种田农务",
+      "downloadUrl": "https://www.patreon.com/posts/127827137",
+      "image": "/images/trackers/FernBlades_PlantonGrassTiles.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "filipesimsmapreplacementmod",
+      "title": "Map Replacement Mod",
+      "chineseTitle": "替换世界地图",
+      "author": "filipesims",
+      "type": "D视觉美化",
+      "subtype": "地图替换",
+      "downloadUrl": "https://www.patreon.com/collection/1523253",
+      "image": "/images/trackers/filipesims_MapReplacementMod.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "finjingsimsphantoktrayandaluminiumwaterdipper",
       "title": "Phan Tok Tray and Aluminium Water Dipper",
       "author": "FinJingSims",
@@ -32674,6 +33069,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "fogityhiddenhighlight",
+      "title": "Hidden Highlight",
+      "chineseTitle": "隐藏轮廓线",
+      "author": "Fogity",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
+      "downloadUrl": "https://www.patreon.com/posts/mod-hidden-51813502",
+      "image": "/images/trackers/Fogity_HiddenHighlight.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "frankkextraholidays",
       "title": "Extra Holidays",
       "author": "Frankk",
@@ -32694,6 +33100,17 @@ export default {
       "downloadUrl": "https://frankkmods.com/#/mods/show-sim-info",
       "translationUrl": "https://www.abonnie.uk/show-sim-info",
       "image": "/images/trackers/Frankk_ShowSimInfo.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "freezerbnuuyuiemotionsposeoverrides",
+      "title": "UI Emotions Pose Overrides",
+      "chineseTitle": "替换情绪缩略图",
+      "author": "FreezerBnuuy",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/sims-4-ui-pose-108519031",
+      "image": "/images/trackers/FreezerBnuuy_UIEmotionsPoseOverrides.webp",
       "isDownloaded": false
     },
     {
@@ -32720,6 +33137,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "frequentlybasicreacttomanythings",
+      "title": "React to Many Things",
+      "chineseTitle": "对身边事件做出反应",
+      "author": "FrequentlyBasic",
+      "type": "E功能模组",
+      "subtype": "情绪扩展",
+      "downloadUrl": "https://www.patreon.com/posts/collection-react-127082104",
+      "image": "/images/trackers/FrequentlyBasic_ReacttoManyThings.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "frequentlybasicreconcileovertextremake",
       "title": "Reconcile over Text Remake",
       "author": "FrequentlyBasic",
@@ -32728,6 +33156,28 @@ export default {
       "downloadUrl": "https://www.curseforge.com/sims4/mods/reconcile-over-text-remake",
       "translationUrl": "https://www.patreon.com/posts/reconcile-over-131772490",
       "image": "/images/trackers/FrequentlyBasic_ReconcileoverTextRemake.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "gardenbreezeclotheslinetextureoverride",
+      "title": "clothesline texture override",
+      "chineseTitle": "覆盖晾晒的衣物",
+      "author": "Garden Breeze",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://gardenbreeze.home.blog/2021/03/12/laundry-mini-set/",
+      "image": "/images/trackers/GardenBreeze_clotheslinetextureoverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "gettpgardeningforallseasons",
+      "title": "Gardening for All Seasons",
+      "chineseTitle": "四季园艺+可选植物成熟时间",
+      "author": "Gettp",
+      "type": "E功能模组",
+      "subtype": "种田农务",
+      "downloadUrl": "https://modthesims.info/d/643968/gardening-for-all-seasons.html",
+      "image": "/images/trackers/Gettp_GardeningforAllSeasons.webp",
       "isDownloaded": false
     },
     {
@@ -32778,6 +33228,28 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "helgatishacascloseup",
+      "title": "CAS Close Up",
+      "chineseTitle": "CAS无表情",
+      "author": "helgatisha",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://www.patreon.com/posts/cas-close-up-86885442",
+      "image": "/images/trackers/helgatisha_CASCloseUp.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "helgatishastandstillincaschill",
+      "title": "Stand Still in CAS Chill",
+      "chineseTitle": "CAS静止不动",
+      "author": "helgatisha",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://www.patreon.com/posts/stand-still-in-99363591",
+      "image": "/images/trackers/helgatisha_StandStillinCASChill.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "hiolescornersoapmakinghobby",
       "title": "Soap Making Hobby",
       "chineseTitle": "制作香皂",
@@ -32787,6 +33259,17 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/soap-making-mod-123920143",
       "translationUrl": "https://www.abonnie.uk/soap-making-hobby",
       "image": "/images/trackers/HiolesCorner_SoapMakingHobby.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "icecreamforbreakfastpearlywhitesteethreplacements",
+      "title": "Pearly Whites Teeth Replacements",
+      "chineseTitle": "替换默认牙齿",
+      "author": "Icecreamforbreakfast",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/pearly-whites-v-44424587",
+      "image": "/images/trackers/Icecreamforbreakfast_PearlyWhitesTeethReplacements.webp",
       "isDownloaded": false
     },
     {
@@ -32941,6 +33424,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "jarisimccoverridebgcakevintage",
+      "title": "Override BG Cake Vintage",
+      "chineseTitle": "替换基础游戏蛋糕",
+      "author": "JariSimCC",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/144387331",
+      "image": "/images/trackers/JariSimCC_OverrideBGCakeVintage.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "jayesimsbundleofjoyincoming",
       "title": "Bundle of Joy Incoming",
       "author": "JayESims",
@@ -32964,14 +33458,47 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "jessicakitchenwareretexture",
+      "title": "Kitchenware Retexture",
+      "chineseTitle": "替换厨具",
+      "author": "Jessica",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.apricotrush.com/post/kitchenware-retexture",
+      "image": "/images/trackers/Jessica_KitchenwareRetexture.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "jessicaspongereplacement",
+      "title": "Sponge Replacement",
+      "chineseTitle": "替换洗碗海绵",
+      "author": "Jessica",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/scrub-father-90536356",
+      "image": "/images/trackers/Jessica_SpongeReplacement.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "johnbaccaratposealignmentinteractions",
       "title": "Pose Alignment Interactions",
       "author": "JohnBaccarat",
-      "type": "B核心必备",
+      "type": "C人物创建",
       "subtype": "拍摄工具",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/pose-alignment-interactions",
       "translationUrl": "https://www.abonnie.uk/ww-pose-alignment-interactions",
       "image": "/images/trackers/JohnBaccarat_PoseAlignmentInteractions.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "joshseohuniversalhairoverlay",
+      "title": "Universal Hair Overlay",
+      "chineseTitle": "CAS染发",
+      "author": "Joshseoh",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://www.curseforge.com/sims4/create-a-sim/universal-hair-overlay",
+      "image": "/images/trackers/Joshseoh_UniversalHairOverlay.webp",
       "isDownloaded": false
     },
     {
@@ -33046,30 +33573,6 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "kayladotrandomcrafting",
-      "title": "Random Crafting",
-      "chineseTitle": "随机制作：烹饪/绘画/木工等",
-      "author": "KaylaDot",
-      "type": "E功能模组",
-      "subtype": "功能补充",
-      "downloadUrl": "https://www.curseforge.com/sims4/mods/random-crafting",
-      "translationUrl": "https://www.abonnie.uk/random-crafting",
-      "image": "/images/trackers/KaylaDot_RandomCrafting.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "kayladottoddlerfeedingoverhaul",
-      "title": "Toddler Feeding Overhaul",
-      "chineseTitle": "幼儿喂养大修",
-      "author": "KaylaDot",
-      "type": "E功能模组",
-      "subtype": "婴幼成长",
-      "downloadUrl": "https://www.curseforge.com/sims4/mods/toddler-feeding-overhaul",
-      "translationUrl": "https://www.abonnie.uk/toddler-feeding-overhaul",
-      "image": "/images/trackers/KaylaDot_ToddlerFeedingOverhaul.webp",
-      "isDownloaded": false
-    },
-    {
       "id": "kayladotnpcbabyshowerinvites",
       "title": "NPC Baby Shower Invites",
       "chineseTitle": "NPC迎婴派对邀请",
@@ -33103,6 +33606,41 @@ export default {
       "downloadUrl": "https://www.curseforge.com/sims4/mods/npc-weddings-and-invites",
       "translationUrl": "https://www.abonnie.uk/npc-weddings-and-invites",
       "image": "/images/trackers/KaylaDot_NPCWeddingsandInvites.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "kayladotrandomcrafting",
+      "title": "Random Crafting",
+      "chineseTitle": "随机制作：烹饪/绘画/木工等",
+      "author": "KaylaDot",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/random-crafting",
+      "translationUrl": "https://www.abonnie.uk/random-crafting",
+      "image": "/images/trackers/KaylaDot_RandomCrafting.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "kayladottoddlerfeedingoverhaul",
+      "title": "Toddler Feeding Overhaul",
+      "chineseTitle": "幼儿喂养大修",
+      "author": "KaylaDot",
+      "type": "E功能模组",
+      "subtype": "婴幼成长",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/toddler-feeding-overhaul",
+      "translationUrl": "https://www.abonnie.uk/toddler-feeding-overhaul",
+      "image": "/images/trackers/KaylaDot_ToddlerFeedingOverhaul.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "kekeywbillboardoverrides",
+      "title": "billboard overrides",
+      "chineseTitle": "替换广告牌",
+      "author": "kekeyw",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/kekeyw-billboard-102381659",
+      "image": "/images/trackers/kekeyw_billboardoverrides.webp",
       "isDownloaded": false
     },
     {
@@ -33509,6 +34047,39 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "kjikoeaeyelashesremover",
+      "title": "EA Eyelashes Remover",
+      "chineseTitle": "去除EA睫毛",
+      "author": "Kjiko",
+      "type": "D视觉美化",
+      "subtype": "路人美化",
+      "downloadUrl": "https://kijiko-catfood.com/ea-eyelashes-remover/",
+      "image": "/images/trackers/Kjiko_EAEyelashesRemover.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "konanhurryclubbusinessactivityexpanded",
+      "title": "Club Business Activity Expanded",
+      "chineseTitle": "俱乐部和小型事业活动扩展200+",
+      "author": "konanhurry",
+      "type": "G职业生涯",
+      "subtype": "小型事业",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/club-business-activity-expanded",
+      "image": "/images/trackers/konanhurry_ClubBusinessActivityExpanded.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "ksuihuhhighschooluniform",
+      "title": "High School Uniform",
+      "chineseTitle": "统一高中校服",
+      "author": "Ksuihuh",
+      "type": "G职业生涯",
+      "subtype": "教育大修",
+      "downloadUrl": "https://modthesims.info/d/669935/high-school-uniform-mod.html",
+      "image": "/images/trackers/Ksuihuh_HighSchoolUniform.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "kuttoefestivalnotificationrework",
       "title": "Festival Notification Rework",
       "chineseTitle": "管理节庆活动通知",
@@ -33518,6 +34089,138 @@ export default {
       "downloadUrl": "https://kuttoe.itch.io/festival-notification-rework",
       "translationUrl": "https://www.abonnie.uk/festival-notification-rework",
       "image": "/images/trackers/kuttoe_FestivalNotificationRework.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "kuttoenpcseverywhere",
+      "title": "Npcs Everywhere",
+      "chineseTitle": "服务型NPC无处不在",
+      "author": "kuttoe",
+      "type": "E功能模组",
+      "subtype": "行人大修",
+      "downloadUrl": "https://kuttoe.itch.io/npcs-everywhere",
+      "image": "/images/trackers/kuttoe_NpcsEverywhere.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "largetaytertotsboatoverride",
+      "title": "Boat Override",
+      "chineseTitle": "替换港口船只",
+      "author": "LargeTayterTots",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/110036593",
+      "image": "/images/trackers/LargeTayterTots_BoatOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "largetaytertotsbrindletonbaybenchoverride",
+      "title": "Brindleton Bay Bench Override",
+      "chineseTitle": "替换虎斑湾户外长椅",
+      "author": "LargeTayterTots",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/122377343",
+      "image": "/images/trackers/LargeTayterTots_BrindletonBayBenchOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "largetaytertotsbrindletonbayfreewayoverride",
+      "title": "Brindleton Bay Freeway Override",
+      "chineseTitle": "替换虎斑湾高速公路",
+      "author": "LargeTayterTots",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/122377829",
+      "image": "/images/trackers/LargeTayterTots_BrindletonBayFreewayOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "largetaytertotsbrindletonbaylighthouseoverride",
+      "title": "Brindleton Bay Lighthouse Override",
+      "chineseTitle": "替换虎斑湾灯塔",
+      "author": "LargeTayterTots",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/107897118?collection=747404",
+      "image": "/images/trackers/LargeTayterTots_BrindletonBayLighthouseOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "largetaytertotscleaningspraybottleoverride",
+      "title": "Cleaning Spray Bottle Override",
+      "chineseTitle": "替换清洁喷雾瓶",
+      "author": "LargeTayterTots",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/115441234",
+      "image": "/images/trackers/LargeTayterTots_CleaningSprayBottleOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "largetaytertotsfishingrodoverride",
+      "title": "Fishing Rod Override",
+      "chineseTitle": "替换钓鱼竿",
+      "author": "LargeTayterTots",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/113442525",
+      "image": "/images/trackers/LargeTayterTots_FishingRodOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "largetaytertotslaundrypiledefaultreplacement",
+      "title": "Laundry Pile Default Replacement",
+      "chineseTitle": "替换脏衣堆",
+      "author": "LargeTayterTots",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/laundry-pile-86627265",
+      "image": "/images/trackers/LargeTayterTots_LaundryPileDefaultReplacement.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "largetaytertotsluxegiftboxoverride",
+      "title": "Luxe Gift Box Override",
+      "chineseTitle": "替换礼物盒",
+      "author": "LargeTayterTots",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/luxe-gift-box-by-104977636",
+      "image": "/images/trackers/LargeTayterTots_LuxeGiftBoxOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "largetaytertotstaxioverride",
+      "title": "Taxi Override",
+      "chineseTitle": "替换出租车",
+      "author": "LargeTayterTots",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/taxi-override-by-109054473",
+      "image": "/images/trackers/LargeTayterTots_TaxiOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "largetaytertotswillowcreekcherrytreeoverride",
+      "title": "Willow Creek Cherry Tree Override",
+      "chineseTitle": "替换柳溪樱花树",
+      "author": "LargeTayterTots",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/119816261",
+      "image": "/images/trackers/LargeTayterTots_WillowCreekCherryTreeOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "laurelisimsoutdoorcats",
+      "title": "Outdoor Cats",
+      "chineseTitle": "猫咪可以在恶劣天气的户外如厕",
+      "author": "Laureli Sims",
+      "type": "E功能模组",
+      "subtype": "宠物系统",
+      "downloadUrl": "https://www.patreon.com/posts/outdoor-cats-100822955",
+      "image": "/images/trackers/LaureliSims_OutdoorCats.webp",
       "isDownloaded": false
     },
     {
@@ -33533,6 +34236,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "littlbowbubmixingbowloverrides",
+      "title": "Mixing Bowl Overrides",
+      "chineseTitle": "覆盖搅拌碗",
+      "author": "Littlbowbub",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/mixing-bowl-103403007",
+      "image": "/images/trackers/Littlbowbub_MixingBowlOverrides.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "littlemssamcheckneedsofcatsdogs",
       "title": "Check Needs of Cats Dogs",
       "chineseTitle": "检查宠物需求",
@@ -33542,6 +34256,17 @@ export default {
       "downloadUrl": "https://www.curseforge.com/sims4/mods/rsm-cats-dogs-check-needs",
       "translationUrl": "https://www.abonnie.uk/check-needs-of-cats-dogs",
       "image": "/images/trackers/LittleMsSam_CheckNeedsofCatsDogs.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "littlemssamfirstlove",
+      "title": "First Love",
+      "chineseTitle": "初恋：两小无猜",
+      "author": "LittleMsSam",
+      "type": "E功能模组",
+      "subtype": "青春年少",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/first-love",
+      "image": "/images/trackers/LittleMsSam_FirstLove.webp",
       "isDownloaded": false
     },
     {
@@ -33557,15 +34282,36 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "lot51fashionauthority",
-      "title": "Fashion Authority",
-      "chineseTitle": "潮流时尚",
-      "author": "Lot 51",
+      "id": "littlemssamnostandinguptogreet",
+      "title": "No Standing Up to Greet",
+      "chineseTitle": "可以坐着打招呼",
+      "author": "LittleMsSam",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/other-mods-no-standing-up-to-greet",
+      "image": "/images/trackers/LittleMsSam_NoStandingUptoGreet.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "littlemssamringupcustomersatregister",
+      "title": "Ring Up Customers at Register",
+      "chineseTitle": "在收银台结账",
+      "author": "LittleMsSam",
       "type": "G职业生涯",
-      "subtype": "其他职业",
-      "downloadUrl": "https://www.abonnie.uk/fashion-authority",
-      "translationUrl": "https://lot51.cc/mods/fashion-authority",
-      "image": "/images/trackers/Lot51_FashionAuthority.webp",
+      "subtype": "小型事业",
+      "downloadUrl": "https://www.abonnie.uk/ring-up-customers-at-register",
+      "image": "/images/trackers/LittleMsSam_RingUpCustomersatRegister.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "loreacollectmoredishesandtrash",
+      "title": "Collect More Dishes and Trash",
+      "chineseTitle": "更快收拾更多垃圾和餐具",
+      "author": "Lorea",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.patreon.com/posts/collect-more-and-88732785",
+      "image": "/images/trackers/Lorea_CollectMoreDishesandTrash.webp",
       "isDownloaded": false
     },
     {
@@ -33580,39 +34326,15 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "lot51freerange",
-      "title": "Free Range",
-      "chineseTitle": "自由放牧",
+      "id": "lot51fashionauthority",
+      "title": "Fashion Authority",
+      "chineseTitle": "潮流时尚",
       "author": "Lot 51",
-      "type": "E功能模组",
-      "subtype": "种田农务",
-      "downloadUrl": "https://lot51.cc/mods/free-range",
-      "translationUrl": "https://www.patreon.com/posts/3-6zhu-ti-geng-79872934",
-      "image": "/images/trackers/Lot51_FreeRange.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "lot51suitelife",
-      "title": "Suite Life",
-      "chineseTitle": "酒店：套房生活",
-      "author": "Lot 51",
-      "type": "E功能模组",
-      "subtype": "地段特征",
-      "downloadUrl": "https://lot51.cc/mods/suite-life",
-      "translationUrl": "https://www.patreon.com/posts/suite-life-jiu-111596727",
-      "image": "/images/trackers/Lot51_SuiteLife.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "lot51plumtelephonecompany",
-      "title": "Plum Telephone Company",
-      "chineseTitle": "晶锥电信公司",
-      "author": "Lot 51",
-      "type": "H互动家具",
-      "subtype": "小型物件",
-      "downloadUrl": "https://lot51.cc/mods/telephone",
-      "translationUrl": "https://www.abonnie.uk/plum-telephone-company",
-      "image": "/images/trackers/Lot51_PlumTelephoneCompany.webp",
+      "type": "G职业生涯",
+      "subtype": "其他职业",
+      "downloadUrl": "https://www.abonnie.uk/fashion-authority",
+      "translationUrl": "https://lot51.cc/mods/fashion-authority",
+      "image": "/images/trackers/Lot51_FashionAuthority.webp",
       "isDownloaded": false
     },
     {
@@ -33628,14 +34350,116 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "lot51freerange",
+      "title": "Free Range",
+      "chineseTitle": "自由放牧",
+      "author": "Lot 51",
+      "type": "E功能模组",
+      "subtype": "种田农务",
+      "downloadUrl": "https://lot51.cc/mods/free-range",
+      "translationUrl": "https://www.patreon.com/posts/3-6zhu-ti-geng-79872934",
+      "image": "/images/trackers/Lot51_FreeRange.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lot51lot51corelibrary",
+      "title": "Lot 51 Core Library",
+      "chineseTitle": "Lot51核心库",
+      "author": "Lot 51",
+      "type": "B核心必备",
+      "subtype": "模组前置",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/lot-51-core-library",
+      "image": "/images/trackers/Lot51_Lot51CoreLibrary.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lot51plumtelephonecompany",
+      "title": "Plum Telephone Company",
+      "chineseTitle": "晶锥电信公司",
+      "author": "Lot 51",
+      "type": "H互动家具",
+      "subtype": "小型物件",
+      "downloadUrl": "https://lot51.cc/mods/telephone",
+      "translationUrl": "https://www.abonnie.uk/plum-telephone-company",
+      "image": "/images/trackers/Lot51_PlumTelephoneCompany.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lot51suitelife",
+      "title": "Suite Life",
+      "chineseTitle": "酒店：套房生活",
+      "author": "Lot 51",
+      "type": "E功能模组",
+      "subtype": "地段特征",
+      "downloadUrl": "https://lot51.cc/mods/suite-life",
+      "translationUrl": "https://www.patreon.com/posts/suite-life-jiu-111596727",
+      "image": "/images/trackers/Lot51_SuiteLife.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "lotharihoeautomaticpreferences",
       "title": "Automatic Preferences",
-      "author": "lotharihoe",
+      "author": "Lotharihoe",
       "type": "E功能模组",
       "subtype": "功能补充",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/automatic-preferences",
       "translationUrl": "https://www.patreon.com/posts/automatic-zi-hao-135502702",
-      "image": "/images/trackers/lotharihoe_AutomaticPreferences.jpg",
+      "image": "/images/trackers/Lotharihoe_AutomaticPreferences.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "lotharihoebrighterwallsandfoundations",
+      "title": "Brighter Walls and Foundations",
+      "chineseTitle": "明亮的墙面和地基",
+      "author": "Lotharihoe",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/brighter-walls-and-foundations",
+      "image": "/images/trackers/Lotharihoe_BrighterWallsandFoundations.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lotharihoecubemapremover",
+      "title": "Cubemap Remover",
+      "chineseTitle": "移除立方体贴图",
+      "author": "Lotharihoe",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/cubemap-remover",
+      "image": "/images/trackers/Lotharihoe_CubemapRemover.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lotharihoenoautonomouslysetlaundrydown",
+      "title": "No Autonomously Set Laundry Down",
+      "chineseTitle": "收好干净的衣服",
+      "author": "Lotharihoe",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/no-autonomously-set-laundry-down",
+      "image": "/images/trackers/Lotharihoe_NoAutonomouslySetLaundryDown.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lotharihoeoutofthedark",
+      "title": "Out Of The Dark",
+      "chineseTitle": "改善室内照明",
+      "author": "Lotharihoe",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/out-of-the-dark",
+      "image": "/images/trackers/Lotharihoe_OutOfTheDark.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lotharihoeperennialpublicplants",
+      "title": "Perennial Public Plants",
+      "chineseTitle": "公区植物四季常青",
+      "author": "Lotharihoe",
+      "type": "E功能模组",
+      "subtype": "种田农务",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/perennial-public-plants",
+      "image": "/images/trackers/Lotharihoe_PerennialPublicPlants.webp",
       "isDownloaded": false
     },
     {
@@ -33651,6 +34475,39 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "lotharihoepurpleskies",
+      "title": "Purple Skies",
+      "chineseTitle": "室外照明大修",
+      "author": "Lotharihoe",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://lotharihoe.itch.io/purple-skies",
+      "image": "/images/trackers/Lotharihoe_PurpleSkies.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lotharihoerundontjog",
+      "title": "Run Dont Jog",
+      "chineseTitle": "远距离跑起来",
+      "author": "Lotharihoe",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/run-dont-jog",
+      "image": "/images/trackers/Lotharihoe_RunDontJog.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lotharihoeshoesignanimationtweaks",
+      "title": "Shoe Sign Animation Tweaks",
+      "chineseTitle": "调整换鞋动画",
+      "author": "Lotharihoe",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/shoe-sign-animation-tweaks",
+      "image": "/images/trackers/Lotharihoe_ShoeSignAnimationTweaks.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "lotharihoesimspawnoverhaul",
       "title": "Sim Spawn Overhaul",
       "chineseTitle": "市民生成大修",
@@ -33660,6 +34517,17 @@ export default {
       "downloadUrl": "https://www.curseforge.com/sims4/mods/sim-spawn-overhaul",
       "translationUrl": "https://www.abonnie.uk/sim-spawn-overhaul",
       "image": "/images/trackers/lotharihoe_SimSpawnOverhaul.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lotharihoewalkfaster",
+      "title": "Walk Faster",
+      "chineseTitle": "走快点 更快步行",
+      "author": "Lotharihoe",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/walk-faster",
+      "image": "/images/trackers/Lotharihoe_WalkFaster.webp",
       "isDownloaded": false
     },
     {
@@ -33759,6 +34627,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "lumpinoupiemenulagdiagnosis",
+      "title": "Pie Menu Lag Diagnosis",
+      "chineseTitle": "缓解交互饼图菜单滞后",
+      "author": "Lumpinou",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://www.patreon.com/posts/121299166",
+      "image": "/images/trackers/Lumpinou_PieMenuLagDiagnosis.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "lumpinourelationshippregnancyoverhaul",
       "title": "Relationship Pregnancy Overhaul",
       "chineseTitle": "关系和怀孕大修",
@@ -33768,6 +34647,18 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/75983577",
       "translationUrl": "https://www.patreon.com/posts/6-24geng-xin-rpo-54016150",
       "image": "/images/trackers/Lumpinou_RelationshipPregnancyOverhaul.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lumpinousiminfomanager",
+      "title": "Sim Info Manager",
+      "chineseTitle": "市民信息管理",
+      "author": "Lumpinou",
+      "type": "B核心必备",
+      "subtype": "市民管理",
+      "downloadUrl": "https://www.patreon.com/posts/mod-sim-info-log-86597581",
+      "translationUrl": "https://www.abonnie.uk/sim-info-manager",
+      "image": "/images/trackers/Lumpinou_SimInfoManager.webp",
       "isDownloaded": false
     },
     {
@@ -33783,6 +34674,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "lumpinouteenscupidscorner",
+      "title": "Teens Cupids Corner",
+      "chineseTitle": "青少年可以使用丘比特之角",
+      "author": "Lumpinou",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://www.patreon.com/posts/mod-lovestruck-4-108998699",
+      "image": "/images/trackers/Lumpinou_TeensCupidsCorner.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "lumpinouviewfamilytreesofnonhouseholdsims",
       "title": "View Family Trees of NonHousehold Sims",
       "chineseTitle": "便捷查看NPC族谱",
@@ -33795,15 +34697,111 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "lumpinousiminfomanager",
-      "title": "Sim Info Manager",
-      "chineseTitle": "市民信息管理",
-      "author": "Lumpinou",
-      "type": "B核心必备",
-      "subtype": "市民管理",
-      "downloadUrl": "https://www.patreon.com/posts/mod-sim-info-log-86597581",
-      "translationUrl": "https://www.abonnie.uk/sim-info-manager",
-      "image": "/images/trackers/Lumpinou_SimInfoManager.webp",
+      "id": "lunarbritneyassignanysimstocustomvenues",
+      "title": "Assign Any Sims to Custom Venues",
+      "chineseTitle": "为自订场地分配任意市民",
+      "author": "lunarbritney",
+      "type": "J活动节日",
+      "subtype": "自订活动",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/assign-any-sims-to-custom-venues",
+      "image": "/images/trackers/lunarbritney_AssignAnySimstoCustomVenues.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lunarbritneyhigherbusinessactivitylimit",
+      "title": "Higher Business Activity Limit",
+      "chineseTitle": "提升小型事业活动数量上限",
+      "author": "lunarbritney",
+      "type": "G职业生涯",
+      "subtype": "小型事业",
+      "downloadUrl": "https://modthesims.info/d/690195/higher-business-activity-limit.html",
+      "image": "/images/trackers/lunarbritney_HigherBusinessActivityLimit.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lunarbritneymoresmallbusinessemployees",
+      "title": "More Small Business Employees",
+      "chineseTitle": "可雇佣更多小型事业员工",
+      "author": "lunarbritney",
+      "type": "G职业生涯",
+      "subtype": "小型事业",
+      "downloadUrl": "https://modthesims.info/d/690222/more-small-business-employees.html",
+      "image": "/images/trackers/lunarbritney_MoreSmallBusinessEmployees.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lunarbritneymoresmallbusinessvisitors",
+      "title": "More Small Business Visitors",
+      "chineseTitle": "更多小型事业访客",
+      "author": "lunarbritney",
+      "type": "G职业生涯",
+      "subtype": "小型事业",
+      "downloadUrl": "https://modthesims.info/d/690196/more-small-business-visitors.html",
+      "image": "/images/trackers/lunarbritney_MoreSmallBusinessVisitors.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lunarbritneyrefinedseasonstextures",
+      "title": "Refined Seasons Textures",
+      "chineseTitle": "更精致的季节材质",
+      "author": "lunarbritney",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://modthesims.info/d/691862/refined-seasons-textures.html",
+      "image": "/images/trackers/lunarbritney_RefinedSeasonsTextures.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "lunarbritneyrunlecturesingetaways",
+      "title": "Run Lectures in Getaways",
+      "chineseTitle": "自订场地可举办讲座",
+      "author": "lunarbritney",
+      "type": "J活动节日",
+      "subtype": "自订活动",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/run-lectures-in-getaways",
+      "image": "/images/trackers/lunarbritney_RunLecturesinGetaways.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "luuforyouchildhomeworkoverride",
+      "title": "Child Homework Override",
+      "chineseTitle": "儿童作业本覆盖",
+      "author": "luuforyou",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/child-homeworkoverride",
+      "image": "/images/trackers/luuforyou_ChildHomeworkOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "luumiacaslighting",
+      "title": "CAS Lighting",
+      "chineseTitle": "CAS打光",
+      "author": "Luumia",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://luumiasims.com/post/136276719134/ahhh-cas-the-home-of-many-custom-content",
+      "image": "/images/trackers/Luumia_CASLighting.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "luumianoblu",
+      "title": "No Blu",
+      "author": "Luumia",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://luumiasims.com/post/176043227929/its-been-well-over-a-year-since-noblu-v1-came-out",
+      "image": "/images/trackers/Luumia_NoBlu.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "luumianoglo",
+      "title": "No Glo",
+      "author": "Luumia",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://luumiasims.com/post/167217001494/i-released-the-noglo-mod-about-a-year-and-a-half",
+      "image": "/images/trackers/Luumia_NoGlo.jpg",
       "isDownloaded": false
     },
     {
@@ -33899,6 +34897,18 @@ export default {
       "downloadUrl": "https://www.curseforge.com/sims4/mods/small-businesses-overhaul-restocking-craftables",
       "translationUrl": "https://www.abonnie.uk/small-businesses-overhaul",
       "image": "/images/trackers/Marquillotuca89_SmallBusinessesOverhaul.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "marufacialoverlayslesssmiling",
+      "title": "Facial Overlays Less Smiling",
+      "chineseTitle": "禁止傻笑",
+      "author": "Maru",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://modthesims.info/download.php?c=1&t=574482&c=1&ht=0&page=5&pp=25#startcomment",
+      "translationUrl": "https://www.abonnie.uk/facial-overlays-less-smiling",
+      "image": "/images/trackers/Maru_FacialOverlaysLessSmiling.webp",
       "isDownloaded": false
     },
     {
@@ -34002,6 +35012,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "midnitetechgenericlotsemptynomore",
+      "title": "Generic Lots Empty No More",
+      "chineseTitle": "一般地段可以生成访客",
+      "author": "midnitetech",
+      "type": "E功能模组",
+      "subtype": "行人大修",
+      "downloadUrl": "https://www.patreon.com/posts/generic-lots-no-100658183",
+      "image": "/images/trackers/midnitetech_GenericLotsEmptyNoMore.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "midnitetechworldrenamemodultimateedition",
       "title": "World Rename Mod Ultimate Edition",
       "chineseTitle": "重命名世界&街区",
@@ -34023,6 +35044,17 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/pilates-mod-142576862",
       "translationUrl": "https://www.patreon.com/posts/pilates-mod-pi-147454870",
       "image": "/images/trackers/MiliNiki_PilatesMod.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "missyhissyautonomouscalloffwedding",
+      "title": "Autonomous Call Off Wedding ",
+      "chineseTitle": "自主取消婚礼",
+      "author": "MissyHissy",
+      "type": "F互动系统",
+      "subtype": "婚礼系统",
+      "downloadUrl": "https://sims4dailyplumbob.game.blog/mods-cc/mods/my-wedding-stories-tweaks/call-off-wedding-enabled-for-wedding-events/",
+      "image": "/images/trackers/MissyHissy_AutonomousCallOffWedding.webp",
       "isDownloaded": false
     },
     {
@@ -34049,6 +35081,61 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "mizoreyukiihikecarrytoddlers",
+      "title": "Hike Carry Toddlers",
+      "chineseTitle": "可抱着幼儿步行",
+      "author": "MizoreYukii",
+      "type": "E功能模组",
+      "subtype": "婴幼成长",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/hike-carry-toddlers",
+      "image": "/images/trackers/MizoreYukii_HikeCarryToddlers.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "mizoreyukiimorerestaurantmenuoptions",
+      "title": "More Restaurant Menu Options",
+      "chineseTitle": "更多餐厅菜单",
+      "author": "MizoreYukii",
+      "type": "G职业生涯",
+      "subtype": "厨师餐饮",
+      "downloadUrl": "https://www.patreon.com/posts/new-mod-more-67650565",
+      "image": "/images/trackers/MizoreYukii_MoreRestaurantMenuOptions.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "mizoreyukiinoblurindistance",
+      "title": "No Blur in Distance",
+      "chineseTitle": "远景不模糊",
+      "author": "MizoreYukii",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://www.patreon.com/posts/mod-no-blur-in-48521320",
+      "image": "/images/trackers/MizoreYukii_NoBlurinDistance.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "mizoreyukiinofadeoneverything",
+      "title": "No Fade On Everything",
+      "chineseTitle": "所有物品不淡入淡出",
+      "author": "MizoreYukii",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://www.patreon.com/posts/mod-no-fade-on-9-30416620",
+      "image": "/images/trackers/MizoreYukii_NoFadeOnEverything.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "mizoreyukiinofadeonsimsobjects",
+      "title": "No Fade on Sims Objects",
+      "chineseTitle": "市民不淡入淡出",
+      "author": "MizoreYukii",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://modthesims.info/d/631169/no-fade-on-sims-amp-objects.html",
+      "image": "/images/trackers/MizoreYukii_NoFadeonSimsObjects.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "mizoreyukiiplanetcanineactivedoggydaycarebusiness",
       "title": "Planet Canine Active Doggy Daycare Business",
       "author": "MizoreYukii",
@@ -34071,15 +35158,47 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "natabearmasqueradesocialevent",
-      "title": "Masquerade Social Event",
-      "chineseTitle": "假面舞会活动",
-      "author": "Natabear",
-      "type": "J活动节日",
-      "subtype": "活动聚会",
-      "downloadUrl": "https://www.patreon.com/posts/masquerade-ball-133538640?utm_campaign=patron_engagement&utm_source=post_link&post_id=133538640&utm_id=fc091d4e-840b-4d6c-b9b7-14d8942c8c5b&utm_medium=email",
-      "translationUrl": "https://www.patreon.com/posts/masquerade-event-134187754",
-      "image": "/images/trackers/Natabear_MasqueradeSocialEvent.webp",
+      "id": "mizoreyukiivetpodiumnotifications",
+      "title": "Vet Podium Notifications",
+      "chineseTitle": "宠物诊所挂号通知",
+      "author": "MizoreYukii",
+      "type": "E功能模组",
+      "subtype": "宠物系统",
+      "downloadUrl": "https://www.patreon.com/posts/mod-vet-podium-48521876",
+      "image": "/images/trackers/MizoreYukii_VetPodiumNotifications.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "moddymelrunwhenbustingtopee",
+      "title": "Run When Busting To Pee",
+      "chineseTitle": "尿急的时候跑起来",
+      "author": "Moddymel",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://modthesims.info/d/676206/run-when-busting-to-pee.html",
+      "image": "/images/trackers/Moddymel_RunWhenBustingToPee.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "mokunoidgetdressedautonomy",
+      "title": "Get Dressed Autonomy",
+      "chineseTitle": "自动换装",
+      "author": "Mokunoid",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://modthesims.info/d/663676/get-dressed-autonomy.html",
+      "image": "/images/trackers/Mokunoid_GetDressedAutonomy.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "mythicalascelinemployeesstay24hours",
+      "title": "Employees Stay 24 Hours",
+      "chineseTitle": "员工逗留24小时",
+      "author": "MythicalAscelin",
+      "type": "G职业生涯",
+      "subtype": "小型事业",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/employees-stay-24-hours",
+      "image": "/images/trackers/MythicalAscelin_EmployeesStay24Hours.webp",
       "isDownloaded": false
     },
     {
@@ -34092,6 +35211,29 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/107660538",
       "translationUrl": "https://www.abonnie.uk/life-s-moments",
       "image": "/images/trackers/Natabear_LifesMoments.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "natabearmasqueradesocialevent",
+      "title": "Masquerade Social Event",
+      "chineseTitle": "假面舞会活动",
+      "author": "Natabear",
+      "type": "J活动节日",
+      "subtype": "活动聚会",
+      "downloadUrl": "https://www.patreon.com/posts/masquerade-ball-133538640?utm_campaign=patron_engagement&utm_source=post_link&post_id=133538640&utm_id=fc091d4e-840b-4d6c-b9b7-14d8942c8c5b&utm_medium=email",
+      "translationUrl": "https://www.patreon.com/posts/masquerade-event-134187754",
+      "image": "/images/trackers/Natabear_MasqueradeSocialEvent.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "natabearmoresmallbusinesslogos",
+      "title": "More Small Business Logos",
+      "chineseTitle": "更多小型事业图标",
+      "author": "Natabear",
+      "type": "G职业生涯",
+      "subtype": "小型事业",
+      "downloadUrl": "https://www.patreon.com/posts/more-small-logos-123866365",
+      "image": "/images/trackers/Natabear_MoreSmallBusinessLogos.webp",
       "isDownloaded": false
     },
     {
@@ -34119,6 +35261,18 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "no12betterseasonalchanges",
+      "title": "Better Seasonal Changes",
+      "chineseTitle": "更好的季节",
+      "author": "No12",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/better-seasonal-changes",
+      "translationUrl": "https://www.abonnie.uk/better-seasonal-changes",
+      "image": "/images/trackers/No12_BetterSeasonalChanges.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "no12weatherrealismoverhaul",
       "title": "Weather Realism Overhaul",
       "chineseTitle": "真实天气：天气现实主义大修",
@@ -34128,6 +35282,50 @@ export default {
       "downloadUrl": "https://modthesims.info/d/620559/weather-realism-overhaul-2-0-9.html",
       "translationUrl": "https://www.abonnie.uk/weather-realism-overhaul",
       "image": "/images/trackers/no12_WeatherRealismOverhaul.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "northernsiberiawindsbetteringamelighting",
+      "title": "BETTER INGAME LIGHTING",
+      "chineseTitle": "调整游戏内人物光",
+      "author": "Northern Siberia Winds",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://www.patreon.com/posts/better-in-game-1-79174144",
+      "image": "/images/trackers/NorthernSiberiaWinds_BETTERINGAMELIGHTING.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "northernsiberiawindsgentlecaslighting",
+      "title": "GENTLE CAS LIGHTING",
+      "chineseTitle": "CAS打光",
+      "author": "Northern Siberia Winds",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://www.patreon.com/posts/gentle-cas-mod-61063863",
+      "image": "/images/trackers/NorthernSiberiaWinds_GENTLECASLIGHTING.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "nvgamesuimood01",
+      "title": "UI Mood 01",
+      "chineseTitle": "更好的情绪缩略图",
+      "author": "NV Games",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/small-mods-69121597",
+      "image": "/images/trackers/NVGames_UIMood01.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "ohmyplumbobeaunnaturalsforkidstoddlersandinfants",
+      "title": "EA Unnaturals for Kids Toddlers and Infants",
+      "chineseTitle": "孩子可以遗传彩色头发",
+      "author": "OhMyPlumbob",
+      "type": "E功能模组",
+      "subtype": "婴幼成长",
+      "downloadUrl": "https://www.patreon.com/posts/99023699",
+      "image": "/images/trackers/OhMyPlumbob_EAUnnaturalsforKidsToddlersandInfants.webp",
       "isDownloaded": false
     },
     {
@@ -34222,6 +35420,239 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "passiberriwillowcreekchairtableoverride",
+      "title": "Willow Creek Chair Table Override",
+      "chineseTitle": "替换柳溪户外桌椅",
+      "author": "passiberri",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/willow-creek-124241945",
+      "image": "/images/trackers/passiberri_WillowCreekChairTableOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "pinkishwrldchildhomeworkoverride",
+      "title": "child homework override",
+      "chineseTitle": "替换小学作业本",
+      "author": "pinkishwrld",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/child-homework-107913599",
+      "image": "/images/trackers/pinkishwrld_childhomeworkoverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "pinkishwrldteenhomeworkoverride",
+      "title": "teen homework override",
+      "chineseTitle": "替换中学作业本",
+      "author": "pinkishwrld",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/teen-homework-by-107838683",
+      "image": "/images/trackers/pinkishwrld_teenhomeworkoverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylabitgreenersulanipalmtreesoverrides",
+      "title": "a bit greener sulani palm trees overrides",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/129774098?collection=1315245",
+      "image": "/images/trackers/Plantyl_abitgreenersulanipalmtreesoverrides.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylbasegamesakuratrees01overridesrecolours",
+      "title": "base game sakura trees 01 overrides recolours",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/131095095?collection=1315245",
+      "image": "/images/trackers/Plantyl_basegamesakuratrees01overridesrecolours.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylcopperdalewildflowersoverridesrecolours",
+      "title": "copperdale wild flowers overrides recolours",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/130274966?collection=1315245",
+      "image": "/images/trackers/Plantyl_copperdalewildflowersoverridesrecolours.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantyldarkgreenbrindletonbaygrassoverride",
+      "title": "dark green brindleton bay grass override",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/129352024?collection=1315245",
+      "image": "/images/trackers/Plantyl_darkgreenbrindletonbaygrassoverride.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantyldarkerfoxburygrassterrainoverrides",
+      "title": "darker foxbury grass terrain overrides",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/139474639?collection=1315245",
+      "image": "/images/trackers/Plantyl_darkerfoxburygrassterrainoverrides.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantyldeorangedstrangervilleoverrides",
+      "title": "deoranged strangerville overrides",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/140198908?collection=1315245",
+      "image": "/images/trackers/Plantyl_deorangedstrangervilleoverrides.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylgreencrumblingisleshrubsoverridesrecolours",
+      "title": "green crumbling isle shrubs overrides recolours",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/130619887?collection=1315245",
+      "image": "/images/trackers/Plantyl_greencrumblingisleshrubsoverridesrecolours.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylgreenerbramblewoodoverrides",
+      "title": "greener bramblewood overrides",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/132577207?collection=1315245",
+      "image": "/images/trackers/Plantyl_greenerbramblewoodoverrides.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylgreenerbrindletonbaygrassterrainsoverrides",
+      "title": "greener brindleton bay grass terrains overrides",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/138267265?collection=1315245",
+      "image": "/images/trackers/Plantyl_greenerbrindletonbaygrassterrainsoverrides.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylgreenercopperdaleoverrides",
+      "title": "greener copperdale overrides",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/131255081?collection=1315245",
+      "image": "/images/trackers/Plantyl_greenercopperdaleoverrides.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylgreenercrumblingisleoverrides",
+      "title": "greener crumbling isle overrides",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/132834854?collection=1315245",
+      "image": "/images/trackers/Plantyl_greenercrumblingisleoverrides.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylgreenersansequoiaeucalyptustreeoverridesrecolours",
+      "title": "greener san sequoia eucalyptus tree overrides recolours",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/130451041?collection=1315245",
+      "image": "/images/trackers/Plantyl_greenersansequoiaeucalyptustreeoverridesrecolours.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylgreenersansequoiaoverrides",
+      "title": "greener san sequoia overrides",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/136784795?collection=1315245",
+      "image": "/images/trackers/Plantyl_greenersansequoiaoverrides.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylgreenersenbamachidistrictoverridesrecolours",
+      "title": "greener senbamachi district overrides recolours",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/129373604?collection=1315245",
+      "image": "/images/trackers/Plantyl_greenersenbamachidistrictoverridesrecolours.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylgreenertartosastonepinetreeoverride",
+      "title": "greener tartosa stone pine tree override",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/130210320?collection=1315245",
+      "image": "/images/trackers/Plantyl_greenertartosastonepinetreeoverride.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylgreenerwakabadistrictgrassterrainoverride",
+      "title": "greener wakaba district grass terrain override",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/119725562?collection=1315245",
+      "image": "/images/trackers/Plantyl_greenerwakabadistrictgrassterrainoverride.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylmiscellaneousoverridesforbrindletonbayset1",
+      "title": "miscellaneous overrides for brindleton bay set 1",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/138744149?collection=1315245",
+      "image": "/images/trackers/Plantyl_miscellaneousoverridesforbrindletonbayset1.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylmiscellaneousoverridesforbrindletonbayset2",
+      "title": "miscellaneous overrides for brindleton bay set 2",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/138911531?collection=1315245",
+      "image": "/images/trackers/Plantyl_miscellaneousoverridesforbrindletonbayset2.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylpalebeigepinkbeigesulanisandterrainsoverrides",
+      "title": "pale beige pink beige sulani sand terrains overrides",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/130525547?collection=1315245",
+      "image": "/images/trackers/Plantyl_palebeigepinkbeigesulanisandterrainsoverrides.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "plantylteallessselvadoradaoverrides",
+      "title": "tealless selvadorada overrides",
+      "author": "Plantyl",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/121851464?collection=1315245",
+      "image": "/images/trackers/Plantyl_teallessselvadoradaoverrides.jpg",
+      "isDownloaded": false
+    },
+    {
       "id": "playtogetherbillysbandv20playtogetherbillysband",
       "title": "Play Together Billys Band",
       "author": "Play Together: Billy's Band v2.0",
@@ -34245,6 +35676,18 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "plumlacesimcare",
+      "title": "SimCare",
+      "chineseTitle": "模拟福利",
+      "author": "plumlace",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/simcare",
+      "translationUrl": "https://www.abonnie.uk/simcare",
+      "image": "/images/trackers/plumlace_SimCare.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "plumlacesimfi",
       "title": "SimFi",
       "chineseTitle": "模拟金融：晶锥信贷",
@@ -34257,15 +35700,47 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "plumlacesimcare",
-      "title": "SimCare",
-      "chineseTitle": "模拟福利",
+      "id": "plumlacestickydramaapp",
+      "title": "Sticky Drama App",
+      "chineseTitle": "树洞八卦：八卦爆料",
       "author": "plumlace",
+      "type": "F互动系统",
+      "subtype": "兔兔电话",
+      "downloadUrl": "https://www.abonnie.uk/sticky-drama-app",
+      "image": "/images/trackers/plumlace_StickyDramaApp.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "polarbearsimsautonomousfirstkiss",
+      "title": "Autonomous First Kiss",
+      "chineseTitle": "自主初吻",
+      "author": "PolarBearSims",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://modthesims.info/d/602767/autonomous-first-kiss.html",
+      "image": "/images/trackers/PolarBearSims_AutonomousFirstKiss.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "polarbearsimsshowerbladderreliever",
+      "title": "Shower Bladder Reliever",
+      "chineseTitle": "淋浴时可以尿尿",
+      "author": "PolarBearSims",
       "type": "E功能模组",
       "subtype": "功能补充",
-      "downloadUrl": "https://www.curseforge.com/sims4/mods/simcare",
-      "translationUrl": "https://www.abonnie.uk/simcare",
-      "image": "/images/trackers/plumlace_SimCare.webp",
+      "downloadUrl": "https://modthesims.info/d/600233/shower-bladder-reliever-updated.html",
+      "image": "/images/trackers/PolarBearSims_ShowerBladderReliever.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "raestheticautonomouslychangeoutfits",
+      "title": "Autonomously Change Outfits",
+      "chineseTitle": "自动换装",
+      "author": "Raesthetic",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://modthesims.info/d/673936/autonomously-change-outfits-temperature-related-deaths.html",
+      "image": "/images/trackers/Raesthetic_AutonomouslyChangeOutfits.webp",
       "isDownloaded": false
     },
     {
@@ -34307,7 +35782,7 @@ export default {
       "title": "ISO Love Photo",
       "chineseTitle": "全控相机",
       "author": "Ravasheen",
-      "type": "B核心必备",
+      "type": "C人物创建",
       "subtype": "拍摄工具",
       "downloadUrl": "https://ravasheen.com/download/iso-love-photos-full-control-camera/",
       "translationUrl": "https://www.patreon.com/posts/3-14zhu-ti-geng-60844721",
@@ -34352,7 +35827,7 @@ export default {
       "title": "Photographic Memory",
       "chineseTitle": "影像记忆",
       "author": "Ravasheen",
-      "type": "B核心必备",
+      "type": "C人物创建",
       "subtype": "拍摄工具",
       "downloadUrl": "https://ravasheen.com/download/photographic-memory-2-0/",
       "translationUrl": "https://www.abonnie.uk/photographic-memory",
@@ -34408,7 +35883,7 @@ export default {
       "title": "Sims portrait maker",
       "chineseTitle": "生成市民肖像",
       "author": "Ravasheen",
-      "type": "B核心必备",
+      "type": "C人物创建",
       "subtype": "拍摄工具",
       "downloadUrl": "https://ravasheen.com/download/sims-portrait-maker/",
       "translationUrl": "https://www.abonnie.uk/sims-portrait-maker",
@@ -34452,6 +35927,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "rfyamiselectablepetsalways",
+      "title": "Selectable Pets Always",
+      "chineseTitle": "控制宠物",
+      "author": "rfYami",
+      "type": "E功能模组",
+      "subtype": "宠物系统",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/always-selectable-pets",
+      "image": "/images/trackers/rfYami_SelectablePetsAlways.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "sacrificialjuniorlifemanager",
       "title": "Life Manager",
       "author": "Sacrificial Junior",
@@ -34460,6 +35946,18 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/life-manager-mod-107174394",
       "translationUrl": "https://www.patreon.com/posts/life-manager-huo-108099884",
       "image": "/images/trackers/SacrificialJunior_LifeManager.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "sacrificialmodslifemanager",
+      "title": "Life Manager",
+      "chineseTitle": "人生管理器",
+      "author": "sacrificialmods",
+      "type": "B核心必备",
+      "subtype": "市民管理",
+      "downloadUrl": "https://www.patreon.com/posts/107174394",
+      "translationUrl": "https://www.abonnie.uk/life-manager",
+      "image": "/images/trackers/sacrificialmods_LifeManager.webp",
       "isDownloaded": false
     },
     {
@@ -34487,15 +35985,14 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "sacrificialmodslifemanager",
-      "title": "Life Manager",
-      "chineseTitle": "人生管理器",
-      "author": "sacrificialmods",
-      "type": "B核心必备",
-      "subtype": "市民管理",
-      "downloadUrl": "https://www.patreon.com/posts/107174394",
-      "translationUrl": "https://www.abonnie.uk/life-manager",
-      "image": "/images/trackers/sacrificialmods_LifeManager.webp",
+      "id": "scumbumbosmarterautonomousmealsizes",
+      "title": "SMARTER AUTONOMOUS MEAL SIZES",
+      "chineseTitle": "智能选择自主烹饪的份数",
+      "author": "Scumbumbo",
+      "type": "E功能模组",
+      "subtype": "智能生活",
+      "downloadUrl": "https://scumbumbomods.com/smarter-autonomous-meal-sizes",
+      "image": "/images/trackers/Scumbumbo_SMARTERAUTONOMOUSMEALSIZES.webp",
       "isDownloaded": false
     },
     {
@@ -34503,7 +36000,7 @@ export default {
       "title": "TELEPORT ANY SIM",
       "chineseTitle": "市民传送器",
       "author": "Scumbumbo",
-      "type": "B核心必备",
+      "type": "C人物创建",
       "subtype": "拍摄工具",
       "downloadUrl": "https://sims4studio.com/post/72734",
       "translationUrl": "https://www.abonnie.uk/teleport-any-sim",
@@ -34545,6 +36042,61 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "siimplyjessicaboxingglovesoverride",
+      "title": "Boxing Gloves Override",
+      "chineseTitle": "替换拳击手套",
+      "author": "SiimplyJessica",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/boxing-gloves-120352573",
+      "image": "/images/trackers/SiimplyJessica_BoxingGlovesOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "siimplyjessicapetbrushoverride",
+      "title": "Pet Brush Override",
+      "chineseTitle": "替换宠物毛刷",
+      "author": "SiimplyJessica",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/pet-brush-123113552",
+      "image": "/images/trackers/SiimplyJessica_PetBrushOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "siimplyjessicatattooremovalmachineoverride",
+      "title": "Tattoo Removal Machine Override",
+      "chineseTitle": "替换纹身移除机",
+      "author": "SiimplyJessica",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/tattoo-removal-128144105",
+      "image": "/images/trackers/SiimplyJessica_TattooRemovalMachineOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "siimplyjessicatoothbrushoverride",
+      "title": "Toothbrush Override",
+      "chineseTitle": "替换牙刷",
+      "author": "SiimplyJessica",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/toothbrush-122034619",
+      "image": "/images/trackers/SiimplyJessica_ToothbrushOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simkatuanimationoverridebookreadingwhileseatedatthetable",
+      "title": "animation override book reading while seated at the table",
+      "chineseTitle": "替换桌边阅读动画",
+      "author": "simkatu",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/reading-override-110145559",
+      "image": "/images/trackers/simkatu_animationoverridebookreadingwhileseatedatthetable.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "simkatuasktolearnhowtokiss",
       "title": "Ask To Learn How To Kiss",
       "chineseTitle": "学习接吻",
@@ -34554,6 +36106,39 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/new-interaction-109317608",
       "translationUrl": "https://www.abonnie.uk/ask-to-learn-how-to-kiss",
       "image": "/images/trackers/simkatu_AskToLearnHowToKiss.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simkatubookcoverdefaultreplacements",
+      "title": "book cover default replacements",
+      "chineseTitle": "替换书籍封面",
+      "author": "simkatu",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/book-cover-100457724",
+      "image": "/images/trackers/simkatu_bookcoverdefaultreplacements.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simkatucomputeranimationoverride",
+      "title": "computer animation override",
+      "chineseTitle": "覆盖用电脑姿势动画",
+      "author": "simkatu",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/computer-126595678",
+      "image": "/images/trackers/simkatu_computeranimationoverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simkatucomputerdesktopoverride",
+      "title": "computer desktop override",
+      "chineseTitle": "替换电脑桌面",
+      "author": "simkatu",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/computer-desktop-105628293",
+      "image": "/images/trackers/simkatu_computerdesktopoverride.jpg",
       "isDownloaded": false
     },
     {
@@ -34641,18 +36226,6 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "simkatunapwithbabyinbed",
-      "title": "nap with baby in bed",
-      "chineseTitle": "和宝宝同床小憩",
-      "author": "simkatu",
-      "type": "F互动系统",
-      "subtype": "儿童互动",
-      "downloadUrl": "https://www.patreon.com/posts/nap-with-baby-in-137123858?utm_campaign=patron_engagement&utm_source=post_link&post_id=137123858&utm_id=761171fb-bbe5-4f3b-a9cd-554e48fb6721&utm_medium=email",
-      "translationUrl": "https://www.patreon.com/posts/nap-with-baby-in-141712904",
-      "image": "/images/trackers/simkatu_napwithbabyinbed.webp",
-      "isDownloaded": false
-    },
-    {
       "id": "simkatunaponthetable",
       "title": "nap on the table",
       "chineseTitle": "趴着睡觉",
@@ -34662,6 +36235,18 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/nap-on-table-112677899",
       "translationUrl": "https://www.abonnie.uk/nap-on-the-table",
       "image": "/images/trackers/simkatu_naponthetable.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simkatunapwithbabyinbed",
+      "title": "nap with baby in bed",
+      "chineseTitle": "和宝宝同床小憩",
+      "author": "simkatu",
+      "type": "F互动系统",
+      "subtype": "儿童互动",
+      "downloadUrl": "https://www.patreon.com/posts/nap-with-baby-in-137123858?utm_campaign=patron_engagement&utm_source=post_link&post_id=137123858&utm_id=761171fb-bbe5-4f3b-a9cd-554e48fb6721&utm_medium=email",
+      "translationUrl": "https://www.patreon.com/posts/nap-with-baby-in-141712904",
+      "image": "/images/trackers/simkatu_napwithbabyinbed.webp",
       "isDownloaded": false
     },
     {
@@ -34677,15 +36262,26 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "simkatuplayingwithtoysonhighchairsandcribs",
-      "title": "playing with toys on highchairs and cribs",
-      "chineseTitle": "在高脚椅和婴儿床玩玩具",
+      "id": "simkatuoverrideflowerarrangement",
+      "title": "override flower arrangement",
+      "chineseTitle": "覆盖花艺桌插花",
       "author": "simkatu",
-      "type": "F互动系统",
-      "subtype": "儿童互动",
-      "downloadUrl": "https://www.patreon.com/posts/playing-with-on-132837938",
-      "translationUrl": "https://www.patreon.com/posts/playing-with-on-136561737",
-      "image": "/images/trackers/simkatu_playingwithtoysonhighchairsandcribs.webp",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/override-flower-101301090",
+      "translationUrl": "https://www.abonnie.uk/override-flower-arrangement",
+      "image": "/images/trackers/simkatu_overrideflowerarrangement.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simkatuoverridereadingbooksseated",
+      "title": "override reading books seated",
+      "chineseTitle": "覆盖坐姿阅读姿势",
+      "author": "simkatu",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/override-reading-102749447",
+      "image": "/images/trackers/simkatu_overridereadingbooksseated.webp",
       "isDownloaded": false
     },
     {
@@ -34701,15 +36297,15 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "simkatuoverrideflowerarrangement",
-      "title": "override flower arrangement",
-      "chineseTitle": "覆盖花艺桌插花",
+      "id": "simkatuplayingwithtoysonhighchairsandcribs",
+      "title": "playing with toys on highchairs and cribs",
+      "chineseTitle": "在高脚椅和婴儿床玩玩具",
       "author": "simkatu",
-      "type": "D视觉美化",
-      "subtype": "默认替换",
-      "downloadUrl": "https://www.patreon.com/posts/override-flower-101301090",
-      "translationUrl": "https://www.abonnie.uk/override-flower-arrangement",
-      "image": "/images/trackers/simkatu_overrideflowerarrangement.webp",
+      "type": "F互动系统",
+      "subtype": "儿童互动",
+      "downloadUrl": "https://www.patreon.com/posts/playing-with-on-132837938",
+      "translationUrl": "https://www.patreon.com/posts/playing-with-on-136561737",
+      "image": "/images/trackers/simkatu_playingwithtoysonhighchairsandcribs.webp",
       "isDownloaded": false
     },
     {
@@ -34761,15 +36357,14 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "simmatticallyezsalepricetagholder",
-      "title": "EZ Sale Price Tag Holder",
-      "chineseTitle": "万能销售标签",
+      "id": "simmatticallybettersimologypanel",
+      "title": "Better Simology Panel",
+      "chineseTitle": "更好的模拟市民学面板",
       "author": "SimMattically",
-      "type": "G职业生涯",
-      "subtype": "小型事业",
-      "downloadUrl": "https://www.patreon.com/posts/ez-sale-price-123602520",
-      "translationUrl": "https://www.abonnie.uk/ez-sale-price-tag-holder",
-      "image": "/images/trackers/SimMattically_EZSalePriceTagHolder.jpg",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
+      "downloadUrl": "https://www.patreon.com/posts/better-simology-130566542",
+      "image": "/images/trackers/SimMattically_BetterSimologyPanel.webp",
       "isDownloaded": false
     },
     {
@@ -34785,6 +36380,29 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "simmatticallyezsalepricetagholder",
+      "title": "EZ Sale Price Tag Holder",
+      "chineseTitle": "万能销售标签",
+      "author": "SimMattically",
+      "type": "G职业生涯",
+      "subtype": "小型事业",
+      "downloadUrl": "https://www.patreon.com/posts/ez-sale-price-123602520",
+      "translationUrl": "https://www.abonnie.uk/ez-sale-price-tag-holder",
+      "image": "/images/trackers/SimMattically_EZSalePriceTagHolder.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "simmatticallyrefreshedmainmenu",
+      "title": "Refreshed Main Menu",
+      "chineseTitle": "替换主菜单",
+      "author": "SimMattically",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
+      "downloadUrl": "https://www.patreon.com/posts/133777443",
+      "image": "/images/trackers/SimMattically_RefreshedMainMenu.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "simmerkatextrainteractions",
       "title": "Xtra Interactions",
       "chineseTitle": "社交拓展",
@@ -34797,6 +36415,83 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "simmytimerainproofelectronicsservos",
+      "title": "Rainproof Electronics Servos",
+      "chineseTitle": "电子产品防雨",
+      "author": "SimmyTime",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://modthesims.info/d/615979/rainproof-electronics-amp-servos.html",
+      "image": "/images/trackers/SimmyTime_RainproofElectronicsServos.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simplifiedmoddingnoautonomouseatingredients",
+      "title": "No Autonomous Eat Ingredients",
+      "chineseTitle": "自主进食调整",
+      "author": "SimplifiedModding",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.patreon.com/posts/food-autonomy-my-97720508",
+      "image": "/images/trackers/SimplifiedModding_NoAutonomousEatIngredients.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simplyanjutacaslighting",
+      "title": "CAS LIGHTING",
+      "chineseTitle": "CAS打光",
+      "author": "SIMPLYANJUTA",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://simplyanjuta.tumblr.com/post/664688629684273152/cas-lighting-city-light-neutral-light",
+      "image": "/images/trackers/SIMPLYANJUTA_CASLIGHTING.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simplyanjutagoldenlight",
+      "title": "GOLDEN LIGHT",
+      "chineseTitle": "CAS打光",
+      "author": "SIMPLYANJUTA",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://simplyanjuta.tumblr.com/post/643034713143017472/cas-lighting-golden-light-for-ts4-if-youre",
+      "image": "/images/trackers/SIMPLYANJUTA_GOLDENLIGHT.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simplyanjutaingamesimlighting",
+      "title": "In Game Sim Lighting",
+      "chineseTitle": "游戏内+CAS照明",
+      "author": "SIMPLYANJUTA",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://simplyanjuta.tumblr.com/post/666640992453246976/in-game-sim-lighting-for-ts4-you-guys-have",
+      "image": "/images/trackers/SIMPLYANJUTA_InGameSimLighting.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simplyanjutanomakeupnoaccessoriesonrandomizedsims",
+      "title": "No MakeUp No Accessories On Randomized Sims",
+      "chineseTitle": "CAS随机市民无体毛无配饰",
+      "author": "SIMPLYANJUTA",
+      "type": "D视觉美化",
+      "subtype": "路人美化",
+      "downloadUrl": "https://simplyanjuta.tumblr.com/post/669037700728373248/cas-mod-no-make-up-no-accessories-on",
+      "image": "/images/trackers/SIMPLYANJUTA_NoMakeUpNoAccessoriesOnRandomizedSims.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simplyanjutaspotlightdaylightvariants",
+      "title": "SPOTLIGHT DAYLIGHT VARIANTS",
+      "chineseTitle": "CAS打光",
+      "author": "SIMPLYANJUTA",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://simplyanjuta.tumblr.com/post/668662872078974976/cas-lighting-spotlight-daylight-variants",
+      "image": "/images/trackers/SIMPLYANJUTA_SPOTLIGHTDAYLIGHTVARIANTS.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "simrealistflowfit",
       "title": "FlowFit",
       "chineseTitle": "畅动健身",
@@ -34806,6 +36501,18 @@ export default {
       "downloadUrl": "https://simrealist.itch.io/public-flowfit",
       "translationUrl": "https://www.abonnie.uk/flowfit",
       "image": "/images/trackers/SimRealist_FlowFit.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simrealistprivatepractice",
+      "title": "Private Practice",
+      "chineseTitle": "私人诊所",
+      "author": "simrealist",
+      "type": "E功能模组",
+      "subtype": "地段特征 ",
+      "downloadUrl": "https://simrealist.itch.io/private-practice-public",
+      "translationUrl": "https://www.abonnie.uk/private-practice",
+      "image": "/images/trackers/simrealist_PrivatePractice.webp",
       "isDownloaded": false
     },
     {
@@ -34845,15 +36552,83 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "simrealistprivatepractice",
-      "title": "Private Practice",
-      "chineseTitle": "私人诊所",
-      "author": "simrealist",
+      "id": "sims4mebienchensautonomousbfgf",
+      "title": "Autonomous BFGF",
+      "chineseTitle": "自主男女朋友",
+      "author": "sims4meBienchens",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/autonomous-boyfriend-girlfriend",
+      "image": "/images/trackers/sims4meBienchens_AutonomousBFGF.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "sims4mebienchensautonomousfirstkiss",
+      "title": "Autonomous First Kiss",
+      "author": "sims4meBienchens",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/autonomous-first-kiss",
+      "image": "/images/trackers/sims4meBienchens_AutonomousFirstKiss.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "sims4mebienchensbikeoutside",
+      "title": "Bike Outside",
+      "chineseTitle": "户外自行车修复",
+      "author": "sims4meBienchens",
       "type": "E功能模组",
-      "subtype": "地段特征 ",
-      "downloadUrl": "https://simrealist.itch.io/private-practice-public",
-      "translationUrl": "https://www.abonnie.uk/private-practice",
-      "image": "/images/trackers/simrealist_PrivatePractice.webp",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/bike-outside",
+      "image": "/images/trackers/sims4meBienchens_BikeOutside.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "sims4mebienchensconversationtweak",
+      "title": "conversation tweak",
+      "chineseTitle": "对话调整",
+      "author": "sims4meBienchens",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.seebee.de/sims4me/index.php?list=0",
+      "translationUrl": "https://www.abonnie.uk/conversation-tweak",
+      "image": "/images/trackers/sims4meBienchens_conversationtweak.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "sims4mebienchensnorandomhatsaccessoriesandmakeup",
+      "title": "no random hats accessories and makeup",
+      "chineseTitle": "禁止随机市民佩戴一切",
+      "author": "sims4meBienchens",
+      "type": "D视觉美化",
+      "subtype": "路人美化",
+      "downloadUrl": "https://www.seebee.de/sims4me/index.php?list=0",
+      "translationUrl": "https://www.abonnie.uk/no-random-hats-accessories-and-makeup",
+      "image": "/images/trackers/sims4meBienchens_norandomhatsaccessoriesandmakeup.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "sims4mebienchenspet2pettryforbabyfix",
+      "title": "Pet 2 pettry for baby fix",
+      "chineseTitle": "宠物可以和家庭外宠物生育",
+      "author": "sims4meBienchens",
+      "type": "E功能模组",
+      "subtype": "宠物系统",
+      "downloadUrl": "https://www.seebee.de/sims4me/index.php?list=0",
+      "translationUrl": "https://www.abonnie.uk/pet-2-pettry-for-baby-fix",
+      "image": "/images/trackers/sims4meBienchens_Pet2pettryforbabyfix.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "sims4mebienchensrestaurantsittweak",
+      "title": "restaurant sit tweak",
+      "chineseTitle": "少在餐厅走动",
+      "author": "sims4meBienchens",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.seebee.de/sims4me/index.php?list=1",
+      "translationUrl": "https://www.abonnie.uk/restaurant-sit-tweak",
+      "image": "/images/trackers/sims4meBienchens_restaurantsittweak.webp",
       "isDownloaded": false
     },
     {
@@ -34865,6 +36640,16 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/new-mini-mod-get-123952733",
       "translationUrl": "https://www.patreon.com/posts/get-makeovers-124409751",
       "image": "/images/trackers/Simsefin_GetMakeovers.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "simsiboysimplicityloadingscreen",
+      "title": "Simplicity Loading Screen",
+      "author": "Simsiboy",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
+      "downloadUrl": "https://www.patreon.com/posts/public-loading-116121689",
+      "image": "/images/trackers/Simsiboy_SimplicityLoadingScreen.jpg",
       "isDownloaded": false
     },
     {
@@ -34892,6 +36677,18 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "simularityimprovedvisitornotifications",
+      "title": "Improved Visitor Notifications",
+      "chineseTitle": "敲门显示访客通知",
+      "author": "simularity",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://simularity.cc/mods/tuning/improved-visitor-notifications/",
+      "translationUrl": "https://www.abonnie.uk/improved-visitor-notifications",
+      "image": "/images/trackers/simularity_ImprovedVisitorNotifications.jpg",
+      "isDownloaded": false
+    },
+    {
       "id": "simularitylittleoutdoorwashtub",
       "title": "Little Outdoor Washtub",
       "author": "simularity",
@@ -34915,15 +36712,14 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "simularityimprovedvisitornotifications",
-      "title": "Improved Visitor Notifications",
-      "chineseTitle": "敲门显示访客通知",
-      "author": "simularity",
-      "type": "E功能模组",
-      "subtype": "功能补充",
-      "downloadUrl": "https://simularity.cc/mods/tuning/improved-visitor-notifications/",
-      "translationUrl": "https://www.abonnie.uk/improved-visitor-notifications",
-      "image": "/images/trackers/simularity_ImprovedVisitorNotifications.jpg",
+      "id": "simularitystarlightaccoladesnotification",
+      "title": "Starlight Accolades Notification",
+      "chineseTitle": "星光奖颁奖礼无遗漏",
+      "author": "Simularity",
+      "type": "G职业生涯",
+      "subtype": "演艺人员",
+      "downloadUrl": "https://simularity.cc/mods/tuning/awards-notifications/",
+      "image": "/images/trackers/Simularity_StarlightAccoladesNotification.webp",
       "isDownloaded": false
     },
     {
@@ -34935,6 +36731,49 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/me-time-calendar-89466745",
       "translationUrl": "https://www.patreon.com/posts/me-time-calendar-96465022",
       "image": "/images/trackers/SimwithShan_MeTimeCalendarTraditions.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "sixamccbabybottledefaultreplacement",
+      "title": "Baby Bottle Default Replacement",
+      "author": "SIXAM CC",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/baby-bottle-default-replacement",
+      "image": "/images/trackers/SIXAMCC_BabyBottleDefaultReplacement.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "sofmc9childcancarefortoddlers",
+      "title": "Child can care for Toddlers",
+      "chineseTitle": "孩子可以抱起幼儿",
+      "author": "Sofmc9",
+      "type": "E功能模组",
+      "subtype": "婴幼成长",
+      "downloadUrl": "https://modthesims.info/d/635277/child-can-be-carried-by-adults-and-child-can-care-for-toddlers-mod-in-progress.html",
+      "image": "/images/trackers/Sofmc9_ChildcancareforToddlers.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "softerhazemilkthistle",
+      "title": "Milk Thistle",
+      "chineseTitle": "调整环境光",
+      "author": "Softerhaze",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://softerhaze.itch.io/milk-thistle",
+      "image": "/images/trackers/Softerhaze_MilkThistle.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "softerhazesunblind",
+      "title": "Sunblind",
+      "chineseTitle": "调整环境光",
+      "author": "Softerhaze",
+      "type": "D视觉美化",
+      "subtype": "画面调整",
+      "downloadUrl": "https://softerhaze.itch.io/sunblind",
+      "image": "/images/trackers/Softerhaze_Sunblind.webp",
       "isDownloaded": false
     },
     {
@@ -35006,6 +36845,17 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "stardustgirlnpcsgetsalary",
+      "title": "NPCs Get Salary",
+      "chineseTitle": "NPC可以获得工资",
+      "author": "Stardustgirl",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://modthesims.info/d/687399/npcs-get-salary.html",
+      "image": "/images/trackers/Stardustgirl_NPCsGetSalary.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "sybouletteliftelevator",
       "title": "Lift Elevator",
       "chineseTitle": "功能电梯套装",
@@ -35015,6 +36865,28 @@ export default {
       "downloadUrl": "https://s4cc.syboulette.fr/lift-elevator-cc-sims-4/",
       "translationUrl": "https://www.abonnie.uk/lift-elevator",
       "image": "/images/trackers/Syboulette_LiftElevator.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "szemokaasktobewoohoopartnerssituations",
+      "title": "Ask to be WooHoo Partners Situations",
+      "chineseTitle": "自主要求成为嘿咻伴侣",
+      "author": "Szemoka",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://modthesims.info/d/691110/ask-to-be-woohoo-partners-situations.html",
+      "image": "/images/trackers/Szemoka_AsktobeWooHooPartnersSituations.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "szemokabathingpetinthesink",
+      "title": "Bathing pet in the sink",
+      "chineseTitle": "在水槽洗宠物",
+      "author": "Szemoka",
+      "type": "E功能模组",
+      "subtype": "宠物系统",
+      "downloadUrl": "https://modthesims.info/d/661959/bathing-pet-in-the-sink.html",
+      "image": "/images/trackers/Szemoka_Bathingpetinthesink.webp",
       "isDownloaded": false
     },
     {
@@ -35030,6 +36902,18 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "thatssojordykissmakeup",
+      "title": "Kiss Make Up",
+      "chineseTitle": "亲吻再续",
+      "author": "thatssojordy",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://www.patreon.com/posts/kiss-make-up-mod-108223414",
+      "translationUrl": "https://www.abonnie.uk/kiss-make-up",
+      "image": "/images/trackers/thatssojordy_KissMakeUp.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "thatssojordyringthealarm",
       "title": "RING THE ALARM",
       "chineseTitle": "防盗警报器通知",
@@ -35042,15 +36926,69 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "thatssojordykissmakeup",
-      "title": "Kiss Make Up",
-      "chineseTitle": "亲吻再续",
-      "author": "thatssojordy",
+      "id": "thepancake1andmizoreyukiifunctionalspiralstaircases",
+      "title": "Functional Spiral Staircases",
+      "author": "thepancake1 and MizoreYukii",
+      "type": "H互动家具",
+      "subtype": "电梯楼梯",
+      "downloadUrl": "https://www.patreon.com/posts/72465250",
+      "translationUrl": "https://www.patreon.com/posts/functional-gong-75484532",
+      "image": "/images/trackers/thepancake1andMizoreYukii_FunctionalSpiralStaircases.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "thepancake1andmizoreyukiiautopauseonpiemenu",
+      "title": "Auto Pause On Pie Menu",
+      "chineseTitle": "打开饼图菜单自动暂停游戏",
+      "author": "thepancake1 and MizoreYukii",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://www.patreon.com/posts/auto-pause-on-123423629",
+      "image": "/images/trackers/thepancake1andMizoreYukii_AutoPauseOnPieMenu.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "thepancake1andmizoreyukiimoretraitsincas",
+      "title": "More Traits in CAS",
+      "chineseTitle": "CAS特征扩列",
+      "author": "thepancake1 and MizoreYukii",
+      "type": "C人物创建",
+      "subtype": "性格特征",
+      "downloadUrl": "https://www.patreon.com/posts/more-traits-in-62838078",
+      "image": "/images/trackers/thepancake1andMizoreYukii_MoreTraitsinCAS.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "thepancake1andmizoreyukiiremovesimsfromconversations",
+      "title": "Remove Sims From Conversations",
+      "chineseTitle": "从对话中移除市民",
+      "author": "thepancake1 and MizoreYukii",
       "type": "F互动系统",
-      "subtype": "浪漫互动",
-      "downloadUrl": "https://www.patreon.com/posts/kiss-make-up-mod-108223414",
-      "translationUrl": "https://www.abonnie.uk/kiss-make-up",
-      "image": "/images/trackers/thatssojordy_KissMakeUp.webp",
+      "subtype": "社交互动",
+      "downloadUrl": "https://www.patreon.com/posts/remove-sims-from-62823426",
+      "image": "/images/trackers/thepancake1andMizoreYukii_RemoveSimsFromConversations.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "tiashaccwrenchoverride",
+      "title": "CC Wrench Override",
+      "chineseTitle": "CCWrenchOverride_Tiasha_CCWrenchOverride",
+      "author": "Tiasha",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/cc-wrench-override",
+      "image": "/images/trackers/Tiasha_CCWrenchOverride.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "tinycoffeecupsfreshenupoverride",
+      "title": "Freshen Up Override",
+      "chineseTitle": "替换对镜梳洗动画",
+      "author": "Tinycoffeecups",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/freshen-up-135594823",
+      "image": "/images/trackers/Tinycoffeecups_FreshenUpOverride.webp",
       "isDownloaded": false
     },
     {
@@ -35066,6 +37004,29 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "turbodriverlessintrusivesims",
+      "title": "Less Intrusive Sims",
+      "chineseTitle": "我们没很熟",
+      "author": "TURBODRIVER",
+      "type": "F互动系统",
+      "subtype": "社交互动",
+      "downloadUrl": "https://modthesims.info/d/672121/less-intrusive-sims.html",
+      "translationUrl": "https://www.abonnie.uk/less-intrusive-sims",
+      "image": "/images/trackers/TURBODRIVER_LessIntrusiveSims.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "turbodriversimulationunclogger",
+      "title": "Simulation Unclogger",
+      "chineseTitle": "时间轴疏通器",
+      "author": "TURBODRIVER",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://modthesims.info/d/627246/simulation-unclogger.html",
+      "image": "/images/trackers/TURBODRIVER_SimulationUnclogger.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "turbodriverwonderfulwhims",
       "title": "Wonderful Whims",
       "chineseTitle": "纯洁包",
@@ -35075,17 +37036,6 @@ export default {
       "downloadUrl": "https://turbodriver.itch.io/wonderfulwhims",
       "translationUrl": "https://www.abonnie.uk/wonderful-whims",
       "image": "/images/trackers/TURBODRIVER_WonderfulWhims.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "thepancake1functionalspiralstaircases",
-      "title": "Functional Spiral Staircases",
-      "author": "thepancake1",
-      "type": "H互动家具",
-      "subtype": "电梯楼梯",
-      "downloadUrl": "https://www.patreon.com/posts/72465250",
-      "translationUrl": "https://www.patreon.com/posts/functional-gong-75484532",
-      "image": "/images/trackers/thepancake1_FunctionalSpiralStaircases.jpg",
       "isDownloaded": false
     },
     {
@@ -35113,18 +37063,6 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "twistedmexitool",
-      "title": "TOOL",
-      "chineseTitle": "TOOL 自由建造工具",
-      "author": "TwistedMexi",
-      "type": "B核心必备",
-      "subtype": "建筑工具",
-      "downloadUrl": "https://twistedmexi.com/Mods/",
-      "translationUrl": "https://www.abonnie.uk/tool",
-      "image": "/images/trackers/TwistedMexi_TOOL.webp",
-      "isDownloaded": false
-    },
-    {
       "id": "twistedmexibetterbuildbuy",
       "title": "Better BuildBuy",
       "chineseTitle": "BBB 更好的建造购买",
@@ -35137,6 +37075,51 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "twistedmexibetterexceptions",
+      "title": "Better Exceptions",
+      "chineseTitle": "BE 游戏异常分析工具",
+      "author": "TwistedMexi",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://twistedmexi.com/Mods/",
+      "image": "/images/trackers/TwistedMexi_BetterExceptions.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "twistedmexisearchablehouseholdmanagement",
+      "title": "Searchable Household Management",
+      "chineseTitle": "可搜索的管理家庭页面",
+      "author": "TwistedMexi",
+      "type": "B核心必备",
+      "subtype": "市民管理",
+      "downloadUrl": "https://twistedmexi.com/Mods/",
+      "image": "/images/trackers/TwistedMexi_SearchableHouseholdManagement.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "twistedmexisearchableposeplayer",
+      "title": "Searchable Pose Player",
+      "chineseTitle": "动作播放器搜索框",
+      "author": "TwistedMexi",
+      "type": "C人物创建",
+      "subtype": "拍摄工具",
+      "downloadUrl": "https://twistedmexi.com/Mods/",
+      "image": "/images/trackers/TwistedMexi_SearchablePosePlayer.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "twistedmexitool",
+      "title": "TOOL",
+      "chineseTitle": "TOOL 自由建造工具",
+      "author": "TwistedMexi",
+      "type": "B核心必备",
+      "subtype": "建筑工具",
+      "downloadUrl": "https://twistedmexi.com/Mods/",
+      "translationUrl": "https://www.abonnie.uk/tool",
+      "image": "/images/trackers/TwistedMexi_TOOL.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "tyjokrcharactervaluesoverhaul",
       "title": "Character Values Overhaul",
       "chineseTitle": "品格值大修",
@@ -35146,6 +37129,17 @@ export default {
       "downloadUrl": "https://modthesims.info/d/659794/character-values-overhaul.html",
       "translationUrl": "https://www.abonnie.uk/character-values-overhaul",
       "image": "/images/trackers/tyjokr_CharacterValuesOverhaul.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "tyjokrromancesuccesstweaks",
+      "title": "Romance Success Tweaks",
+      "chineseTitle": "浪漫互动成功调整",
+      "author": "tyjokr",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/romance-success-tweaks",
+      "image": "/images/trackers/tyjokr_RomanceSuccessTweaks.webp",
       "isDownloaded": false
     },
     {
@@ -35233,6 +37227,41 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "vellesanapanimationreplacement",
+      "title": "Nap Animation Replacement",
+      "chineseTitle": "替换打盹动画",
+      "author": "vellesa",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/override-nap-134338102",
+      "image": "/images/trackers/vellesa_NapAnimationReplacement.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vellesatalkitoutwhatareyouthinkingabout",
+      "title": "TALK IT OUT What are you thinking about",
+      "chineseTitle": "倾心相谈",
+      "author": "vellesa",
+      "type": "F互动系统",
+      "subtype": "社交互动",
+      "downloadUrl": "https://www.patreon.com/posts/119295503?collection=825300",
+      "translationUrl": "https://www.abonnie.uk/what-are-you-thinking-about",
+      "image": "/images/trackers/vellesa_TALKITOUTWhatareyouthinkingabout.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vellesatalkitoutwhatgiftdoyouwant",
+      "title": "TALK IT OUT What gift do you want",
+      "chineseTitle": "礼物私语",
+      "author": "vellesa",
+      "type": "F互动系统",
+      "subtype": "社交互动",
+      "downloadUrl": "https://www.patreon.com/posts/144664640",
+      "translationUrl": "https://www.abonnie.uk/talk-it-out-what-gift-do-you-want",
+      "image": "/images/trackers/vellesa_TALKITOUTWhatgiftdoyouwant.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "vellesatalksbyagechildren",
       "title": "TALKS BY AGE Children",
       "chineseTitle": "年龄对话：儿童版",
@@ -35269,27 +37298,595 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "vellesatalkitoutwhatgiftdoyouwant",
-      "title": "TALK IT OUT What gift do you want",
-      "chineseTitle": "礼物私语",
-      "author": "vellesa",
-      "type": "F互动系统",
-      "subtype": "社交互动",
-      "downloadUrl": "https://www.patreon.com/posts/144664640",
-      "translationUrl": "https://www.abonnie.uk/talk-it-out-what-gift-do-you-want",
-      "image": "/images/trackers/vellesa_TALKITOUTWhatgiftdoyouwant.webp",
+      "id": "vickysimschingyu1023100basegametraitspack",
+      "title": "100 Base Game Traits Pack",
+      "chineseTitle": "100个特征",
+      "author": "Vicky Sims chingyu1023",
+      "type": "C人物创建",
+      "subtype": "性格特征",
+      "downloadUrl": "https://www.patreon.com/posts/100-base-game-v1-41969378",
+      "translationUrl": "https://www.patreon.com/posts/100-base-game-v1-107668872",
+      "image": "/images/trackers/VickySimschingyu1023_100BaseGameTraitsPack.webp",
       "isDownloaded": false
     },
     {
-      "id": "vellesatalkitoutwhatareyouthinkingabout",
-      "title": "TALK IT OUT What are you thinking about",
-      "chineseTitle": "倾心相谈",
-      "author": "vellesa",
+      "id": "vickysimschingyu1023absentemotiontraitspack",
+      "title": "Absent Emotion Traits Pack",
+      "author": "Vicky Sims chingyu1023",
+      "type": "C人物创建",
+      "subtype": "性格特征",
+      "downloadUrl": "https://www.patreon.com/posts/absent-emotion-62643545",
+      "image": "/images/trackers/VickySimschingyu1023_AbsentEmotionTraitsPack.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023activitylotchallenges",
+      "title": "Activity Lot Challenges",
+      "chineseTitle": "活动地段",
+      "author": "Vicky Sims chingyu1023",
+      "type": "E功能模组",
+      "subtype": "地段特征",
+      "downloadUrl": "https://www.patreon.com/posts/activity-lot-v2-113006626",
+      "translationUrl": "https://www.abonnie.uk/activity-lot-challenges",
+      "image": "/images/trackers/VickySimschingyu1023_ActivityLotChallenges.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023catanddogcustomtraitspack",
+      "title": "Cat And Dog Custom Traits Pack",
+      "chineseTitle": "自订猫狗特征",
+      "author": "Vicky Sims chingyu1023",
+      "type": "C人物创建",
+      "subtype": "性格特征",
+      "downloadUrl": "https://www.patreon.com/posts/cat-and-dog-pack-120892985",
+      "translationUrl": "https://www.abonnie.uk/cat-and-dog-custom-traits-pack",
+      "image": "/images/trackers/VickySimschingyu1023_CatAndDogCustomTraitsPack.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023conversationtopiclotchallenges",
+      "title": "Conversation Topic Lot Challenges",
+      "chineseTitle": "对话主题地段",
+      "author": "Vicky Sims chingyu1023",
+      "type": "E功能模组",
+      "subtype": "地段特征",
+      "downloadUrl": "https://www.patreon.com/posts/105301365",
+      "translationUrl": "https://www.abonnie.uk/conversation-topic-lot-challenges",
+      "image": "/images/trackers/VickySimschingyu1023_ConversationTopicLotChallenges.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023functionallottraits",
+      "title": "Functional Lot Traits",
+      "chineseTitle": "功能地段特征",
+      "author": "Vicky Sims chingyu1023",
+      "type": "E功能模组",
+      "subtype": "地段特征",
+      "downloadUrl": "https://www.patreon.com/posts/functional-lot-65503704",
+      "translationUrl": "https://www.patreon.com/posts/functional-lot-90573621",
+      "image": "/images/trackers/VickySimschingyu1023_FunctionalLotTraits.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023holidaytraditioncustompreferences",
+      "title": "Holiday Tradition Custom Preferences",
+      "author": "Vicky Sims chingyu1023",
+      "type": "J活动节日",
+      "subtype": "节日庆典",
+      "downloadUrl": "https://www.patreon.com/posts/holiday-custom-114177438?utm_campaign=patron_engagement&utm_source=post_link&post_id=114177438&utm_id=d1caad70-5fda-4cfb-9b83-e8913de7eff3&utm_medium=email",
+      "translationUrl": "https://www.patreon.com/posts/holiday-custom-116121963",
+      "image": "/images/trackers/VickySimschingyu1023_HolidayTraditionCustomPreferences.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023npcgenerationoverhaulv1",
+      "title": "NPC Generation OverhaulV1",
+      "chineseTitle": "NPC生成大修V1",
+      "author": "Vicky Sims chingyu1023",
+      "type": "E功能模组",
+      "subtype": "行人大修",
+      "downloadUrl": "https://www.patreon.com/posts/127745061",
+      "image": "/images/trackers/VickySimschingyu1023_NPCGenerationOverhaulV1.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023woohooconsent",
+      "title": "Woohoo Consent",
+      "chineseTitle": "询问嘿咻意愿",
+      "author": "Vicky Sims chingyu1023",
+      "type": "K其他模组",
+      "subtype": "美妙奇想",
+      "downloadUrl": "https://www.patreon.com/posts/74550453",
+      "translationUrl": "https://www.abonnie.uk/woohoo-consent",
+      "image": "/images/trackers/VickySimschingyu1023_WoohooConsent.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023niceclimate",
+      "title": "Nice Climate",
+      "chineseTitle": "宜人气候",
+      "author": "Vicky Sims chingyu1023",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.patreon.com/posts/118725642",
+      "image": "/images/trackers/VickySimschingyu1023_NiceClimate.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023smartersocial",
+      "title": "Smarter Social",
+      "chineseTitle": "智慧社交",
+      "author": "Vicky Sims chingyu1023",
+      "type": "E功能模组",
+      "subtype": "智能生活",
+      "downloadUrl": "https://www.patreon.com/posts/50626550",
+      "image": "/images/trackers/VickySimschingyu1023_SmarterSocial.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023smarterselfcare",
+      "title": "Smarter SelfCare",
+      "chineseTitle": "智能自我照顾",
+      "author": "Vicky Sims chingyu1023",
+      "type": "E功能模组",
+      "subtype": "智能生活",
+      "downloadUrl": "https://www.patreon.com/posts/smarter-self-v18-42041384",
+      "image": "/images/trackers/VickySimschingyu1023_SmarterSelfCare.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023lessobsession",
+      "title": "Less Obsession",
+      "chineseTitle": "更少痴迷",
+      "author": "Vicky Sims chingyu1023",
+      "type": "E功能模组",
+      "subtype": "智能生活",
+      "downloadUrl": "https://www.patreon.com/posts/less-obsession-54552921",
+      "image": "/images/trackers/VickySimschingyu1023_LessObsession.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vickysimschingyu1023blushmod",
+      "title": "Blush Mod",
+      "chineseTitle": "脸红模组",
+      "author": "Vicky Sims chingyu1023",
       "type": "F互动系统",
-      "subtype": "社交互动",
-      "downloadUrl": "https://www.patreon.com/posts/119295503?collection=825300",
-      "translationUrl": "https://www.abonnie.uk/what-are-you-thinking-about",
-      "image": "/images/trackers/vellesa_TALKITOUTWhatareyouthinkingabout.webp",
+      "subtype": "互动补充",
+      "downloadUrl": "https://www.patreon.com/posts/blush-mod-92764044",
+      "image": "/images/trackers/VickySimschingyu1023_BlushMod.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsbillsoverride",
+      "title": "Bills Override",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/131973534?collection=107843",
+      "image": "/images/trackers/Vixonspixels_BillsOverride.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelscrossstitchoverride",
+      "title": "Cross Stitch Override",
+      "chineseTitle": "替换十字绣框",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/116387094",
+      "image": "/images/trackers/Vixonspixels_CrossStitchOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultbaristaoutfit",
+      "title": "Default Barista Outfit",
+      "chineseTitle": "替换咖啡师职业装",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-barista-114362404",
+      "image": "/images/trackers/Vixonspixels_DefaultBaristaOutfit.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultbucketandspade",
+      "title": "Default bucket and spade",
+      "chineseTitle": "替换挖沙桶和铲",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-bucket-97299491",
+      "image": "/images/trackers/Vixonspixels_Defaultbucketandspade.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultcatlaser",
+      "title": "Default cat laser",
+      "chineseTitle": "替换猫咪激光笔",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-cat-103816686",
+      "image": "/images/trackers/Vixonspixels_Defaultcatlaser.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultcoffeebag",
+      "title": "Default Coffee Bag",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/116510570?collection=107843",
+      "image": "/images/trackers/Vixonspixels_DefaultCoffeeBag.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultcoffeecup",
+      "title": "Default coffee cup",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/116248059?collection=107843",
+      "image": "/images/trackers/Vixonspixels_Defaultcoffeecup.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultcookingbaster",
+      "title": "Default Cooking Baster",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/95926456?collection=107843",
+      "image": "/images/trackers/Vixonspixels_DefaultCookingBaster.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultdogleash",
+      "title": "Default dog leash",
+      "chineseTitle": "替换狗狗牵引",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-dog-96482889",
+      "image": "/images/trackers/Vixonspixels_Defaultdogleash.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaulthoofpick",
+      "title": "Default Hoof Pick",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/114162986?collection=107843",
+      "image": "/images/trackers/Vixonspixels_DefaultHoofPick.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaulticeskates",
+      "title": "Default Ice Skates",
+      "chineseTitle": "替换滑冰鞋",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-ice-96085860",
+      "image": "/images/trackers/Vixonspixels_DefaultIceSkates.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultinfantbathsponge",
+      "title": "Default infant bath sponge",
+      "chineseTitle": "替换婴儿沐浴海绵",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-infant-92403438",
+      "image": "/images/trackers/Vixonspixels_Defaultinfantbathsponge.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultmopreplacement",
+      "title": "Default Mop Replacement",
+      "chineseTitle": "替换拖把",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-mop-98698101",
+      "image": "/images/trackers/Vixonspixels_DefaultMopReplacement.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultnailfile",
+      "title": "Default nail file",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/115862013?collection=107843",
+      "image": "/images/trackers/Vixonspixels_Defaultnailfile.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultnailpolishbottle",
+      "title": "Default Nail Polish Bottle",
+      "chineseTitle": "替换指甲油瓶",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/121924250?collection=107843",
+      "image": "/images/trackers/Vixonspixels_DefaultNailPolishBottle.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultsalonchairtools",
+      "title": "Default Salon Chair Tools",
+      "chineseTitle": "替换沙龙椅工具",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/122619080",
+      "image": "/images/trackers/Vixonspixels_DefaultSalonChairTools.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultspadaycareeroutift",
+      "title": "Default Spa Day Career Outift",
+      "chineseTitle": "替换按摩师制服",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/spa-day-refresh-121924638",
+      "image": "/images/trackers/Vixonspixels_DefaultSpaDayCareerOutift.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultsturdyinfantbackcarriers",
+      "title": "Default Sturdy Infant Back Carriers",
+      "chineseTitle": "替换婴儿背带",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-sturdy-96044177",
+      "image": "/images/trackers/Vixonspixels_DefaultSturdyInfantBackCarriers.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaulttoddlerspoonfork",
+      "title": "Default Toddler SpoonFork",
+      "chineseTitle": "替换幼儿勺子",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-toddler-95985658",
+      "image": "/images/trackers/Vixonspixels_DefaultToddlerSpoonFork.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultveterinarycareeroutfit",
+      "title": "Default Veterinary Career Outfit",
+      "chineseTitle": "替换兽医职业装",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-career-113345443",
+      "image": "/images/trackers/Vixonspixels_DefaultVeterinaryCareerOutfit.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdefaultyogainstructoroutfit",
+      "title": "Default Yoga Instructor Outfit",
+      "chineseTitle": "替换瑜伽教练制服",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-yoga-122615302",
+      "image": "/images/trackers/Vixonspixels_DefaultYogaInstructorOutfit.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsdoctoroutfitoverride",
+      "title": "Doctor Outfit Override",
+      "chineseTitle": "替换医生职业装",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/doctor-outfit-121261388",
+      "image": "/images/trackers/Vixonspixels_DoctorOutfitOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsfemaledefaultrollerblades",
+      "title": "Female default roller blades",
+      "chineseTitle": "替换女性轮滑鞋",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/female-default-90019647",
+      "image": "/images/trackers/Vixonspixels_Femaledefaultrollerblades.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsfirefighteroverride",
+      "title": "Firefighter Override",
+      "chineseTitle": "替换消防员制服",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/firefighter-121580607",
+      "image": "/images/trackers/Vixonspixels_FirefighterOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsfoldedlaundryoverride",
+      "title": "Folded laundry override",
+      "chineseTitle": "替换叠衣堆",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/folded-laundry-93100691",
+      "image": "/images/trackers/Vixonspixels_Foldedlaundryoverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelshospitalgownoverride",
+      "title": "Hospital Gown Override",
+      "chineseTitle": "替换病号服",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/hospital-gown-121259717",
+      "image": "/images/trackers/Vixonspixels_HospitalGownOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelspenciloverride",
+      "title": "pencil override",
+      "chineseTitle": "替换默认铅笔",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-pencil-91071159",
+      "image": "/images/trackers/Vixonspixels_penciloverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsrepairmanoverrideminicollection",
+      "title": "Repairman Override Mini Collection",
+      "chineseTitle": "替换维修工服装",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/repairman-mini-116690025",
+      "image": "/images/trackers/Vixonspixels_RepairmanOverrideMiniCollection.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsschoolbusoverride",
+      "title": "school bus override",
+      "chineseTitle": "覆盖校车",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/default-school-92273295",
+      "image": "/images/trackers/Vixonspixels_schoolbusoverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vixonspixelsscrubsoverride",
+      "title": "Scrubs Override",
+      "chineseTitle": "替换实习医生职业装",
+      "author": "Vixonspixels",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/scrubs-override-121270021",
+      "image": "/images/trackers/Vixonspixels_ScrubsOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vllmedievalhistoricaltattoomachineoverride",
+      "title": "MedievalHistorical TattooMachineOVERRIDE",
+      "chineseTitle": "替换纹身机为纹身笔",
+      "author": "Vll",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.curseforge.com/sims4/mods/medieval-historical-tattoo-machine-override",
+      "image": "/images/trackers/Vll_MedievalHistoricalTattooMachineOVERRIDE.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vyxatedactiveobjretexture",
+      "title": "active obj retexture",
+      "author": "Vyxated",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
+      "downloadUrl": "https://www.patreon.com/posts/110818388",
+      "image": "/images/trackers/Vyxated_activeobjretexture.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "vyxatedbuildbuygizmooverrides",
+      "title": "Build Buy Gizmo Overrides",
+      "chineseTitle": "替换建造模式拖拽工具",
+      "author": "Vyxated",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
+      "downloadUrl": "https://www.patreon.com/posts/99984985",
+      "image": "/images/trackers/Vyxated_BuildBuyGizmoOverrides.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "vyxatedcaslightingmod",
+      "title": "CAS Lighting Mod",
+      "chineseTitle": "CAS照明套装",
+      "author": "Vyxated",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://www.patreon.com/posts/103471136",
+      "image": "/images/trackers/Vyxated_CASLightingMod.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vyxatedchalkdplumboboverride",
+      "title": "Chalkd Plumbob Override",
+      "chineseTitle": "超酷晶锥替换",
+      "author": "Vyxated",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
+      "downloadUrl": "https://www.patreon.com/posts/chalkd-plumbob-96733235",
+      "image": "/images/trackers/Vyxated_ChalkdPlumbobOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vyxatedchalkdui",
+      "title": "Chalkd UI",
+      "chineseTitle": "粉笔画暗黑UI",
+      "author": "Vyxated",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
+      "downloadUrl": "https://www.patreon.com/posts/sims-4-in-dark-94573845",
+      "image": "/images/trackers/Vyxated_ChalkdUI.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vyxatedheadlinevisualeffectsoverride",
+      "title": "headline visual effects override",
+      "chineseTitle": "覆盖标语气泡视效",
+      "author": "Vyxated",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/headline-visual-133075040",
+      "image": "/images/trackers/Vyxated_headlinevisualeffectsoverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "vyxatedtramoverride",
+      "title": "Tram Override",
+      "chineseTitle": "替换柳溪电车",
+      "author": "Vyxated",
+      "type": "D视觉美化",
+      "subtype": "默认替换",
+      "downloadUrl": "https://www.patreon.com/posts/tram-override-98916972",
+      "image": "/images/trackers/Vyxated_TramOverride.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "wafflesmixinsakeheirloomascheat",
+      "title": "ake Heirloom as Cheat",
+      "chineseTitle": "将「设为传家宝」交互移入作弊菜单",
+      "author": "Waffles MixIns",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://www.patreon.com/posts/115248620",
+      "image": "/images/trackers/WafflesMixIns_akeHeirloomasCheat.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "wafflesmixinsfreewilldelay",
+      "title": "Free Will Delay",
+      "chineseTitle": "延迟自由意志",
+      "author": "Waffles MixIns",
+      "type": "B核心必备",
+      "subtype": "其他工具",
+      "downloadUrl": "https://www.patreon.com/posts/96252917",
+      "image": "/images/trackers/WafflesMixIns_FreeWillDelay.webp",
       "isDownloaded": false
     },
     {
@@ -35301,6 +37898,17 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/shopping-doesnt-123993350",
       "translationUrl": "https://www.patreon.com/posts/shopping-doesnt-124423156",
       "image": "/images/trackers/WafflesMixIns_ShoppingDoesntEmptyShelves.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "wafflesmixinssitforperformances",
+      "title": "Sit For Performances",
+      "chineseTitle": "坐着看表演",
+      "author": "Waffles MixIns",
+      "type": "E功能模组",
+      "subtype": "功能补充",
+      "downloadUrl": "https://www.patreon.com/posts/120831030",
+      "image": "/images/trackers/WafflesMixIns_SitForPerformances.webp",
       "isDownloaded": false
     },
     {
@@ -35481,6 +38089,85 @@ export default {
       "isDownloaded": false
     },
     {
+      "id": "weerbesuimprovedautonomyduringloadingscreens",
+      "title": "Improved Autonomy During Loading Screens",
+      "chineseTitle": "加载屏幕时提高市民自主性",
+      "author": "Weerbesu",
+      "type": "E功能模组",
+      "subtype": "行人大修",
+      "downloadUrl": "https://www.patreon.com/posts/improved-during-25395301",
+      "image": "/images/trackers/Weerbesu_ImprovedAutonomyDuringLoadingScreens.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "weerbesumorecolumnsincas",
+      "title": "More Columns in CAS",
+      "chineseTitle": "CAS物品栏扩列",
+      "author": "Weerbesu",
+      "type": "C人物创建",
+      "subtype": "捏人功能",
+      "downloadUrl": "https://www.patreon.com/posts/more-columns-in-27751117",
+      "image": "/images/trackers/Weerbesu_MoreColumnsinCAS.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "weerbesunoemptyvenueswhenarriving",
+      "title": "No Empty Venues When Arriving",
+      "chineseTitle": "到达时没有空场地",
+      "author": "Weerbesu",
+      "type": "E功能模组",
+      "subtype": "行人大修",
+      "downloadUrl": "https://www.patreon.com/posts/no-empty-venues-25331818",
+      "image": "/images/trackers/Weerbesu_NoEmptyVenuesWhenArriving.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "weerbesuuicheatsextension",
+      "title": "UI Cheats Extension",
+      "chineseTitle": "UI作弊扩展",
+      "author": "Weerbesu",
+      "type": "B核心必备",
+      "subtype": "顶级必备",
+      "downloadUrl": "https://www.patreon.com/posts/ui-cheats-v1-16-26240068",
+      "image": "/images/trackers/Weerbesu_UICheatsExtension.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "weerbesuvisitorsnotspawninginfrontofvenues",
+      "title": "Visitors Not Spawning in Front of Venues",
+      "chineseTitle": "别在地段前扎堆",
+      "author": "Weerbesu",
+      "type": "E功能模组",
+      "subtype": "行人大修",
+      "downloadUrl": "https://modthesims.info/download.php?t=569922",
+      "image": "/images/trackers/Weerbesu_VisitorsNotSpawninginFrontofVenues.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "wickedpixxelbuddingromance",
+      "title": "BUDDING ROMANCE",
+      "chineseTitle": "情窦初开",
+      "author": "WICKED PIXXEL",
+      "type": "F互动系统",
+      "subtype": "浪漫互动",
+      "downloadUrl": "https://www.patreon.com/posts/budding-romance-120125741",
+      "translationUrl": "https://www.abonnie.uk/budding-romance",
+      "image": "/images/trackers/WICKEDPIXXEL_BUDDINGROMANCE.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "wickedpixxelfashionindustry",
+      "title": "Fashion Industry",
+      "chineseTitle": "时尚产业：时装工厂",
+      "author": "WICKED PIXXEL",
+      "type": "G职业生涯",
+      "subtype": "小型事业",
+      "downloadUrl": "https://www.patreon.com/posts/fashion-industry-86259064",
+      "translationUrl": "https://www.abonnie.uk/fashion-industry",
+      "image": "/images/trackers/WICKEDPIXXEL_FashionIndustry.webp",
+      "isDownloaded": false
+    },
+    {
       "id": "wickedpixxelfunctionalnailsalons",
       "title": "FUNCTIONAL NAIL SALONS",
       "author": "WICKED PIXXEL",
@@ -35503,27 +38190,26 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "wickedpixxelfashionindustry",
-      "title": "Fashion Industry",
-      "chineseTitle": "时尚产业：时装工厂",
-      "author": "WICKED PIXXEL",
-      "type": "G职业生涯",
-      "subtype": "小型事业",
-      "downloadUrl": "https://www.patreon.com/posts/fashion-industry-86259064",
-      "translationUrl": "https://www.abonnie.uk/fashion-industry",
-      "image": "/images/trackers/WICKEDPIXXEL_FashionIndustry.webp",
+      "id": "wightspider07nolashesdefault",
+      "title": "No Lashes Default",
+      "chineseTitle": "去除EA睫毛",
+      "author": "WightSpider07",
+      "type": "D视觉美化",
+      "subtype": "路人美化",
+      "downloadUrl": "https://www.curseforge.com/sims4/create-a-sim/no-lashes-default/gallery",
+      "image": "/images/trackers/WightSpider07_NoLashesDefault.webp",
       "isDownloaded": false
     },
     {
-      "id": "wickedpixxelbuddingromance",
-      "title": "BUDDING ROMANCE",
-      "chineseTitle": "情窦初开",
-      "author": "WICKED PIXXEL",
-      "type": "F互动系统",
-      "subtype": "浪漫互动",
-      "downloadUrl": "https://www.patreon.com/posts/budding-romance-120125741",
-      "translationUrl": "https://www.abonnie.uk/budding-romance",
-      "image": "/images/trackers/WICKEDPIXXEL_BUDDINGROMANCE.webp",
+      "id": "zerbucustomschedulesanywhere",
+      "title": "Custom Schedules Anywhere",
+      "chineseTitle": "任意地段自订行程表",
+      "author": "zerbu",
+      "type": "E功能模组",
+      "subtype": "地段特征",
+      "downloadUrl": "https://zerbu.tumblr.com/post/796340989650485248/the-sims-4-mod-custom-schedules-anywhere",
+      "translationUrl": "https://www.abonnie.uk/custom-schedules-anywhere",
+      "image": "/images/trackers/zerbu_CustomSchedulesAnywhere.webp",
       "isDownloaded": false
     },
     {
@@ -35560,18 +38246,6 @@ export default {
       "downloadUrl": "https://zerbu.tumblr.com/post/160454960980/the-sims-4-turbo-careers-mod-pack",
       "translationUrl": "https://www.patreon.com/posts/12-14zhu-ti-geng-59574518",
       "image": "/images/trackers/zerbu_TurboCareersMod.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "zerbucustomschedulesanywhere",
-      "title": "Custom Schedules Anywhere",
-      "chineseTitle": "任意地段自订行程表",
-      "author": "zerbu",
-      "type": "E功能模组",
-      "subtype": "地段特征",
-      "downloadUrl": "https://zerbu.tumblr.com/post/796340989650485248/the-sims-4-mod-custom-schedules-anywhere",
-      "translationUrl": "https://www.abonnie.uk/custom-schedules-anywhere",
-      "image": "/images/trackers/zerbu_CustomSchedulesAnywhere.webp",
       "isDownloaded": false
     },
     {
@@ -35616,61 +38290,6 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/bg-go-for-jog-50068048",
       "translationUrl": "https://www.patreon.com/posts/go-for-jog-yi-qi-70431492",
       "image": "/images/trackers/Zero_GoforaJogTogether.jpg",
-      "isDownloaded": false
-    },
-    {
-      "id": "abonniesimplifiedchinese",
-      "title": "Simplified Chinese",
-      "chineseTitle": "简体补丁+美化字体",
-      "author": "ABonnie",
-      "type": "B核心必备",
-      "subtype": "简中修复",
-      "downloadUrl": "https://www.abonnie.uk/fonts",
-      "image": "/images/trackers/ABonnie_SimplifiedChinese.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "abonniestringsfix",
-      "title": "strings fix",
-      "chineseTitle": "游戏文本小修",
-      "author": "ABonnie",
-      "type": "B核心必备",
-      "subtype": "简中修复",
-      "downloadUrl": "https://www.abonnie.uk/strings-fix",
-      "image": "/images/trackers/ABonnie_stringsfix.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "abonniecache",
-      "title": "cache",
-      "chineseTitle": "一键自动清理游戏缓存",
-      "author": "ABonnie",
-      "type": "B核心必备",
-      "subtype": "其他工具",
-      "downloadUrl": "https://www.abonnie.uk/cache-cleaner",
-      "image": "/images/trackers/ABonnie_cache.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "abonniethumbnailfix",
-      "title": "thumbnail fix",
-      "chineseTitle": "修复缩略图",
-      "author": "ABonnie",
-      "type": "C人物创建",
-      "subtype": "捏人功能",
-      "downloadUrl": "https://www.abonnie.uk/thumbnail-fix",
-      "image": "/images/trackers/ABonnie_thumbnailfix.jpg",
-      "isDownloaded": false
-    },
-    {
-      "id": "abonniemorerandompose",
-      "title": "more random pose",
-      "chineseTitle": "更多随机家庭合影动作",
-      "author": "ABonnie",
-      "type": "C人物创建",
-      "subtype": "捏人功能",
-      "downloadUrl": "https://www.abonnie.uk/more-random-pose",
-      "image": "/images/trackers/ABonnie_morerandompose.webp",
       "isDownloaded": false
     }
   ],
