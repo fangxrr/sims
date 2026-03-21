@@ -5,6 +5,43 @@ import { TRACKERS_DATA as CC_DATA, CCItem } from '../data/trackers';
 import { SmartImage } from '../components/SmartImage';
 
 
+const TYPE_ORDER = [
+  'B核心必备',
+  'C人物创建',
+  'D视觉美化',
+  'E功能模组',
+  'F互动系统',
+  'G职业生涯',
+  'H互动家具',
+  'I种植料理',
+  'J活动节日',
+  'K其他模组'
+];
+
+const SUBTYPE_ORDER: Record<string, string[]> = {
+  'B核心必备': ['顶级必备', '建筑工具', '简中修复', '市民管理', '模组前置', '其他工具'],
+  'C人物创建': ['捏人功能', '拍摄工具', '愿望抱负', '性格特征'],
+  'D视觉美化': ['界面美化', '画面调整', '地图替换', '默认替换', '捏人拉杆', '路人美化', '装饰市民'],
+  'E功能模组': ['行人大修', '地段特征', '种田农务', '宠物系统', '婴幼成长', '青春年少', '情绪扩展', '成长里程', '智能生活', '功能补充'],
+  'F互动系统': ['浪漫互动', '社交互动', '丰富生活', '儿童互动', '兔兔电话', '婚礼系统', '孕育医疗', '互动补充'],
+  'G职业生涯': ['小型事业', '跟随职业', '教育大修', '演艺人员', '厨师餐饮', '其他职业', '职业技术'],
+  'H互动家具': ['电梯楼梯', '运动器材', '音乐乐器', '食物制作', '游乐设施', '宠物用品', '美妆用品', '小型物件', '婴幼用品', '夜店设施', '摊位设施', '其他家具'],
+  'I种植料理': ['种植系统', '料理食谱'],
+  'J活动节日': ['节日庆典', '活动聚会', '课后活动', '自订活动'],
+  'K其他模组': ['美妙奇想']
+};
+
+const getTypeIndex = (type: string) => {
+  const index = TYPE_ORDER.indexOf(type);
+  return index === -1 ? 999 : index;
+};
+
+const getSubtypeIndex = (type: string, subtype: string) => {
+  const orderArray = SUBTYPE_ORDER[type] || [];
+  const index = orderArray.indexOf(subtype);
+  return index === -1 ? 999 : index;
+};
+
 
 export const CCTracker: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState('');
@@ -12,7 +49,12 @@ export const CCTracker: React.FC = () => {
   const [activeFilters, setActiveFilters] = useState<Record<string, string>>({});
 
   const filterOptions = useMemo(() => {
-    const types = Array.from(new Set(CC_DATA.map(item => item.type))).sort();
+    const types = Array.from(new Set(CC_DATA.map(item => item.type))).sort((a, b) => {
+      const indexA = getTypeIndex(a || '');
+      const indexB = getTypeIndex(b || '');
+      if (indexA !== indexB) return indexA - indexB;
+      return (a || '').localeCompare(b || '');
+    });
 
     const subtypeMap: Record<string, string[]> = {};
     CC_DATA.forEach(item => {
@@ -23,7 +65,14 @@ export const CCTracker: React.FC = () => {
         subtypeMap[type].push(subtype);
       }
     });
-    Object.keys(subtypeMap).forEach(key => subtypeMap[key].sort());
+    Object.keys(subtypeMap).forEach(key => {
+      subtypeMap[key].sort((a, b) => {
+        const indexA = getSubtypeIndex(key, a);
+        const indexB = getSubtypeIndex(key, b);
+        if (indexA !== indexB) return indexA - indexB;
+        return a.localeCompare(b);
+      });
+    });
 
     const authors = Array.from(new Set(CC_DATA.map(item => item.author || 'Unknown'))).sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
     const downloadedOptions = ['All', 'Downloaded', 'Not Downloaded'];
@@ -106,10 +155,16 @@ export const CCTracker: React.FC = () => {
       const typeA = a.type || '';
       const typeB = b.type || '';
       if (typeA !== typeB) {
+        const typeIndexA = getTypeIndex(typeA);
+        const typeIndexB = getTypeIndex(typeB);
+        if (typeIndexA !== typeIndexB) return typeIndexA - typeIndexB;
         return typeA.localeCompare(typeB);
       }
       const subtypeA = a.subtype || '';
       const subtypeB = b.subtype || '';
+      const subtypeIndexA = getSubtypeIndex(typeA, subtypeA);
+      const subtypeIndexB = getSubtypeIndex(typeB, subtypeB);
+      if (subtypeIndexA !== subtypeIndexB) return subtypeIndexA - subtypeIndexB;
       return subtypeA.localeCompare(subtypeB);
     });
   }, [searchQuery, activeFilters]);
