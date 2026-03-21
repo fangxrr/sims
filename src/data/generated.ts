@@ -31983,7 +31983,7 @@ export default {
       "subtype": "浪漫互动",
       "downloadUrl": "https://adeepindigomods.itch.io/custom-nuptials",
       "translationUrl": "https://www.patreon.com/posts/3-1zhu-ti-geng-72286080",
-      "image": "/images/trackers/adeepindigo_CustomNuptials.jpg",
+      "image": "/images/trackers/adeepindigo_CustomNuptials.png",
       "isDownloaded": false
     },
     {
