@@ -32014,12 +32014,13 @@ export default {
     {
       "id": "adeepindigoentertainercareeroverhaul",
       "title": "Entertainer Career Overhaul",
+      "chineseTitle": "艺人职业大修",
       "author": "adeepindigo",
       "type": "G职业生涯",
       "subtype": "演艺人员",
       "downloadUrl": "https://adeepindigomods.itch.io/entertainer-career-overhaul",
       "translationUrl": "https://www.patreon.com/posts/3-1zhu-ti-geng-74966382",
-      "image": "/images/trackers/adeepindigo_EntertainerCareerOverhaul.jpg",
+      "image": "/images/trackers/adeepindigo_EntertainerCareerOverhaul.png",
       "isDownloaded": false
     },
     {
@@ -32037,12 +32038,13 @@ export default {
     {
       "id": "adeepindigofamilyandfriendsactivities",
       "title": "Family and Friends Activities",
+      "chineseTitle": "朋友和家庭活动",
       "author": "adeepindigo",
       "type": "F互动系统",
       "subtype": "丰富生活",
       "downloadUrl": "https://adeepindigomods.itch.io/friends-and-family-activities",
       "translationUrl": "https://www.patreon.com/posts/3-1zhu-ti-geng-72184577",
-      "image": "/images/trackers/adeepindigo_FamilyandFriendsActivities.jpg",
+      "image": "/images/trackers/adeepindigo_FamilyandFriendsActivities.png",
       "isDownloaded": false
     },
     {
@@ -32096,12 +32098,13 @@ export default {
     {
       "id": "adeepindigopreteenmod",
       "title": "Pre Teen Mod",
+      "chineseTitle": "青春期前期",
       "author": "adeepindigo",
       "type": "E功能模组",
       "subtype": "青春年少",
       "downloadUrl": "https://adeepindigomods.itch.io/itskatato-preteen-mod",
       "translationUrl": "https://www.patreon.com/posts/3-1zhu-ti-geng-59507279",
-      "image": "/images/trackers/adeepindigo_PreTeenMod.jpg",
+      "image": "/images/trackers/adeepindigo_PreTeenMod.png",
       "isDownloaded": false
     },
     {
@@ -32119,12 +32122,13 @@ export default {
     {
       "id": "adeepindigowritingandwritercareeroverhaul",
       "title": "Writing and Writer Career Overhaul",
+      "chineseTitle": "写作与作家职业大修",
       "author": "adeepindigo",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://adeepindigomods.itch.io/writing-and-writer-career-overhaul",
       "translationUrl": "https://www.patreon.com/posts/7-4zhu-ti-geng-96904760",
-      "image": "/images/trackers/adeepindigo_WritingandWriterCareerOverhaul.jpg",
+      "image": "/images/trackers/adeepindigo_WritingandWriterCareerOverhaul.png",
       "isDownloaded": false
     },
     {
@@ -32381,23 +32385,25 @@ export default {
     {
       "id": "bonniethesimmerfunctionalbarcart",
       "title": "Functional Bar Cart",
+      "chineseTitle": "功能性吧台推车",
       "author": "BonnieTheSimmer",
       "type": "H互动家具",
       "subtype": "食物制作",
       "downloadUrl": "https://www.patreon.com/posts/functional-bar-150588413?utm_campaign=patron_engagement&utm_source=post_link&post_id=150588413&utm_id=2be5e960-111f-4089-a0d0-939e5ac811cd&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/functional-bar-150823758",
-      "image": "/images/trackers/BonnieTheSimmer_FunctionalBarCart.jpg",
+      "image": "/images/trackers/BonnieTheSimmer_FunctionalBarCart.png",
       "isDownloaded": false
     },
     {
       "id": "bosseladytvbedtime",
       "title": "Bedtime",
+      "chineseTitle": "就寝时间",
       "author": "BosseladyTV",
       "type": "E功能模组",
       "subtype": "功能补充",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/the-bedtime-mod",
       "translationUrl": "https://www.patreon.com/posts/bedtime-jiu-qin-81221288",
-      "image": "/images/trackers/BosseladyTV_Bedtime.jpg",
+      "image": "/images/trackers/BosseladyTV_Bedtime.png",
       "isDownloaded": false
     },
     {
@@ -32494,12 +32500,13 @@ export default {
     {
       "id": "carlsguidescarlcollectiblesready",
       "title": "Carl Collectibles Ready",
+      "chineseTitle": "寻找收藏品",
       "author": "Carls Guides",
       "type": "E功能模组",
       "subtype": "功能补充",
       "downloadUrl": "https://www.patreon.com/posts/carl-ready-v1-21-66434572",
       "translationUrl": "https://www.patreon.com/posts/3-3zhu-ti-geng-93157858",
-      "image": "/images/trackers/CarlsGuides_CarlCollectiblesReady.jpg",
+      "image": "/images/trackers/CarlsGuides_CarlCollectiblesReady.png",
       "isDownloaded": false
     },
     {
@@ -32577,12 +32584,13 @@ export default {
     {
       "id": "cepzidarcaderoomfanmadepack",
       "title": "Arcade Room Fanmade Pack",
+      "chineseTitle": "功能性街机房间",
       "author": "Cepzid",
       "type": "H互动家具",
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/arcade-room-pack-61024978?utm_campaign=patron_engagement&utm_source=post_link&post_id=61024978&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWRpc19rZXkiOiJpYTI6NDk3NDE2NzgtNjhlYy00MzI5LThmZjQtNjEzMDk1OGM3YjYxIiwicG9zdF9pZCI6NjEwMjQ5NzgsInBhdHJvbl9pZCI6NTA2MzkyNDN9._f5vdQu_ydhdT4NoAMI31L3TgDEEFTyDqHSPszxUtb0&utm_id=0b40946b-dad1-4a26-ba2a-460bad1fbc03&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/arcade-room-gong-62276358",
-      "image": "/images/trackers/Cepzid_ArcadeRoomFanmadePack.jpg",
+      "image": "/images/trackers/Cepzid_ArcadeRoomFanmadePack.png",
       "isDownloaded": false
     },
     {
@@ -32600,45 +32608,49 @@ export default {
     {
       "id": "cepzidfunctionalbarbellrows",
       "title": "Functional Barbell Rows",
+      "chineseTitle": "功能性杠铃运动",
       "author": "Cepzid",
       "type": "H互动家具",
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/functional-rows-64942778",
       "translationUrl": "https://www.patreon.com/posts/functional-rows-66189824",
-      "image": "/images/trackers/Cepzid_FunctionalBarbellRows.jpg",
+      "image": "/images/trackers/Cepzid_FunctionalBarbellRows.png",
       "isDownloaded": false
     },
     {
       "id": "cepzidfunctionallandlinewallphone",
       "title": "Functional Landline Wall Phone",
+      "chineseTitle": "功能性壁挂电话",
       "author": "Cepzid",
       "type": "H互动家具",
       "subtype": "小型物件",
       "downloadUrl": "https://www.patreon.com/posts/functional-wall-89013394",
       "translationUrl": "https://www.patreon.com/posts/functional-wall-89414600",
-      "image": "/images/trackers/Cepzid_FunctionalLandlineWallPhone.jpg",
+      "image": "/images/trackers/Cepzid_FunctionalLandlineWallPhone.png",
       "isDownloaded": false
     },
     {
       "id": "cepzidfunctionallemonadestandandtablebakesale",
       "title": "Functional Lemonade Stand and Table Bake Sale",
+      "chineseTitle": "功能性柠檬水摊位和烘培摊位",
       "author": "Cepzid",
       "type": "H互动家具",
       "subtype": "摊位设施",
       "downloadUrl": "https://www.patreon.com/posts/72234357?fbclid=IwAR0pg2bhECyN6Ef6pQDJ5UFo7krZYSfOY6WMh6q3qoMvm8x-p8qGdgnSXJc",
       "translationUrl": "https://www.patreon.com/posts/functional-stand-75087173",
-      "image": "/images/trackers/Cepzid_FunctionalLemonadeStandandTableBakeSale.jpg",
+      "image": "/images/trackers/Cepzid_FunctionalLemonadeStandandTableBakeSale.png",
       "isDownloaded": false
     },
     {
       "id": "cepzidfunctionalsoccer",
       "title": "Functional Soccer",
+      "chineseTitle": "功能性足球门",
       "author": "Cepzid",
       "type": "H互动家具",
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/60061320",
       "translationUrl": "https://www.patreon.com/posts/functional-goal-69024389",
-      "image": "/images/trackers/Cepzid_FunctionalSoccer.jpg",
+      "image": "/images/trackers/Cepzid_FunctionalSoccer.png",
       "isDownloaded": false
     },
     {
@@ -32667,12 +32679,13 @@ export default {
     {
       "id": "cepzidplaydrummods",
       "title": "Play Drum Mods",
+      "chineseTitle": "打鼓模组",
       "author": "Cepzid",
       "type": "H互动家具",
       "subtype": "音乐乐器",
       "downloadUrl": "https://www.patreon.com/posts/play-drum-mods-56808638",
       "translationUrl": "https://www.patreon.com/posts/117761740",
-      "image": "/images/trackers/Cepzid_PlayDrumMods.jpg",
+      "image": "/images/trackers/Cepzid_PlayDrumMods.png",
       "isDownloaded": false
     },
     {
@@ -32713,43 +32726,47 @@ export default {
     {
       "id": "cepzidselfmanicureandpedicure",
       "title": "Self Manicure and Pedicure",
+      "chineseTitle": "自我美甲和修脚",
       "author": "Cepzid",
       "type": "F互动系统",
       "subtype": "丰富生活",
       "downloadUrl": "https://www.patreon.com/posts/self-manicure-62812890",
       "translationUrl": "https://www.patreon.com/posts/self-manicure-zi-66190320",
-      "image": "/images/trackers/Cepzid_SelfManicureandPedicure.jpg",
+      "image": "/images/trackers/Cepzid_SelfManicureandPedicure.png",
       "isDownloaded": false
     },
     {
       "id": "cherisidecosims",
       "title": "Deco Sims",
+      "chineseTitle": "装饰性动态模拟市民",
       "author": "Cherisi",
       "type": "D视觉美化",
       "subtype": "装饰市民",
       "downloadUrl": "https://www.patreon.com/cw/Cherisi/posts",
-      "image": "/images/trackers/Cherisi_DecoSims.jpg",
+      "image": "/images/trackers/Cherisi_DecoSims.png",
       "isDownloaded": false
     },
     {
       "id": "cherisidynamicbillboardsccset",
       "title": "Dynamic Billboards CC Set",
+      "chineseTitle": "动态广告牌",
       "author": "Cherisi",
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/dynamic-billboards-cc-set",
-      "image": "/images/trackers/Cherisi_DynamicBillboardsCCSet.jpg",
+      "image": "/images/trackers/Cherisi_DynamicBillboardsCCSet.png",
       "isDownloaded": false
     },
     {
       "id": "vickysimschingyu1023indepthemotions",
       "title": "Indepth Emotions",
+      "chineseTitle": "深入的感情",
       "author": "Vicky Sims chingyu1023",
       "type": "E功能模组",
       "subtype": "情绪扩展",
       "downloadUrl": "https://www.patreon.com/posts/91029329",
       "translationUrl": "https://www.patreon.com/posts/in-depth-shen-ru-93148236",
-      "image": "/images/trackers/VickySimschingyu1023_IndepthEmotions.jpg",
+      "image": "/images/trackers/VickySimschingyu1023_IndepthEmotions.png",
       "isDownloaded": false
     },
     {
@@ -32815,7 +32832,7 @@ export default {
       "title": "Fashion Designer",
       "chineseTitle": "时装设计师",
       "author": "Danitysimmer",
-      "type": "C人物创建",
+      "type": "G职业生涯",
       "subtype": "跟随职业",
       "downloadUrl": "https://www.patreon.com/posts/105152706",
       "translationUrl": "https://www.abonnie.uk/fashion-designer",
@@ -32825,11 +32842,12 @@ export default {
     {
       "id": "daocountertopapplianceexpander",
       "title": "Countertop Appliance Expander",
+      "chineseTitle": "台面电器放置器",
       "author": "Dao",
       "type": "B核心必备",
       "subtype": "建筑工具",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/countertop-appliance-expander",
-      "image": "/images/trackers/Dao_CountertopApplianceExpander.jpg",
+      "image": "/images/trackers/Dao_CountertopApplianceExpander.png",
       "isDownloaded": false
     },
     {
@@ -32889,17 +32907,6 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "dollishaubreyplayhouse",
-      "title": "Aubrey Playhouse",
-      "author": "dollish",
-      "type": "H互动家具",
-      "subtype": "婴幼用品",
-      "downloadUrl": "https://www.patreon.com/posts/aubrey-playhouse-84278475",
-      "translationUrl": "https://www.patreon.com/posts/aubrey-playhouse-90578869",
-      "image": "/images/trackers/dollish_AubreyPlayhouse.jpg",
-      "isDownloaded": false
-    },
-    {
       "id": "dollishplayfulplaypen",
       "title": "Playful Playpen",
       "chineseTitle": "多人婴幼儿围栏",
@@ -32925,12 +32932,13 @@ export default {
     {
       "id": "downinsimslandfunctionalregisters",
       "title": "Functional Registers",
+      "chineseTitle": "功能性收银机",
       "author": "DownInSimsLand",
       "type": "G职业生涯",
       "subtype": "小型事业",
       "downloadUrl": "https://down-in-simsland.tumblr.com/post/738900138719936512/multi-purpose-lots",
       "translationUrl": "https://www.patreon.com/posts/functional-gong-125308127",
-      "image": "/images/trackers/DownInSimsLand_FunctionalRegisters.jpg",
+      "image": "/images/trackers/DownInSimsLand_FunctionalRegisters.png",
       "isDownloaded": false
     },
     {
@@ -33040,12 +33048,13 @@ export default {
     {
       "id": "ellesimsworldromanticaaloverstypemod",
       "title": "Romantica A Lovers Type Mod",
+      "chineseTitle": "恋人类型",
       "author": "ellesimsworld",
       "type": "F互动系统",
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://www.patreon.com/posts/download-lovers-137991992",
       "translationUrl": "https://www.patreon.com/posts/romantica-lovers-140675167",
-      "image": "/images/trackers/ellesimsworld_RomanticaALoversTypeMod.jpg",
+      "image": "/images/trackers/ellesimsworld_RomanticaALoversTypeMod.png",
       "isDownloaded": false
     },
     {
@@ -33115,36 +33124,27 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "finjingsimsphantoktrayandaluminiumwaterdipper",
-      "title": "Phan Tok Tray and Aluminium Water Dipper",
-      "author": "FinJingSims",
-      "type": "H互动家具",
-      "subtype": "其他家具",
-      "downloadUrl": "https://www.curseforge.com/sims4/build-buy/finjingsims-phan-tok-tray-and-aluminium-water",
-      "translationUrl": "https://www.patreon.com/posts/sprinkle-water-97835403",
-      "image": "/images/trackers/FinJingSims_PhanTokTrayandAluminiumWaterDipper.jpg",
-      "isDownloaded": false
-    },
-    {
       "id": "finjingsimssprinklewaterontobuddhastatuetable",
       "title": "Sprinkle Water Onto Buddha Statue Table",
+      "chineseTitle": "将水洒在佛像桌上+泰式托盘",
       "author": "FinJingSims",
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/finjingsims-sprinkle-water-onto-buddha-statue",
       "translationUrl": "https://www.patreon.com/posts/sprinkle-water-97835403",
-      "image": "/images/trackers/FinJingSims_SprinkleWaterOntoBuddhaStatueTable.jpg",
+      "image": "/images/trackers/FinJingSims_SprinkleWaterOntoBuddhaStatueTable.png",
       "isDownloaded": false
     },
     {
       "id": "finjingsimsthaiseatedbuddhastatue",
       "title": "Thai Seated Buddha Statue",
+      "chineseTitle": "泰国坐佛雕像",
       "author": "FinJingSims",
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/finjingsims-thai-seated-buddha-statue",
       "translationUrl": "https://www.patreon.com/posts/thai-seated-tai-97833886",
-      "image": "/images/trackers/FinJingSims_ThaiSeatedBuddhaStatue.jpg",
+      "image": "/images/trackers/FinJingSims_ThaiSeatedBuddhaStatue.png",
       "isDownloaded": false
     },
     {
@@ -33168,17 +33168,6 @@ export default {
       "subtype": "界面美化",
       "downloadUrl": "https://www.patreon.com/posts/mod-hidden-51813502",
       "image": "/images/trackers/Fogity_HiddenHighlight.webp",
-      "isDownloaded": false
-    },
-    {
-      "id": "frankkextraholidays",
-      "title": "Extra Holidays",
-      "author": "Frankk",
-      "type": "J活动节日",
-      "subtype": "节日庆典",
-      "downloadUrl": "https://frankkmods.com/#/mods/extra-holidays",
-      "translationUrl": "https://www.patreon.com/posts/extra-holidays-e-88705123",
-      "image": "/images/trackers/Frankk_ExtraHolidays.jpg",
       "isDownloaded": false
     },
     {
@@ -33207,12 +33196,13 @@ export default {
     {
       "id": "frequentlybasicaskforweddingrolesviatext",
       "title": "Ask for Wedding Roles via Text",
+      "chineseTitle": "通过简讯询问婚礼角色",
       "author": "FrequentlyBasic",
       "type": "F互动系统",
       "subtype": "婚礼系统",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/ask-for-wedding-roles-via-text",
       "translationUrl": "https://www.patreon.com/posts/ask-for-wedding-121253695",
-      "image": "/images/trackers/FrequentlyBasic_AskforWeddingRolesviaText.jpg",
+      "image": "/images/trackers/FrequentlyBasic_AskforWeddingRolesviaText.png",
       "isDownloaded": false
     },
     {
@@ -33241,12 +33231,13 @@ export default {
     {
       "id": "frequentlybasicreconcileovertextremake",
       "title": "Reconcile over Text Remake",
+      "chineseTitle": "用简讯和解",
       "author": "FrequentlyBasic",
       "type": "F互动系统",
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/reconcile-over-text-remake",
       "translationUrl": "https://www.patreon.com/posts/reconcile-over-131772490",
-      "image": "/images/trackers/FrequentlyBasic_ReconcileoverTextRemake.jpg",
+      "image": "/images/trackers/FrequentlyBasic_ReconcileoverTextRemake.png",
       "isDownloaded": false
     },
     {
@@ -33310,12 +33301,13 @@ export default {
     {
       "id": "hamsterbellbellecitylivingcyberpunkfoodstall",
       "title": "City Living Cyberpunk Food Stall",
+      "chineseTitle": "赛博朋克路边摊",
       "author": "hamsterbellbelle",
       "type": "H互动家具",
       "subtype": "摊位设施",
       "downloadUrl": "https://www.patreon.com/posts/77793384",
       "translationUrl": "https://www.patreon.com/posts/city-living-food-93553596",
-      "image": "/images/trackers/hamsterbellbelle_CityLivingCyberpunkFoodStall.jpg",
+      "image": "/images/trackers/hamsterbellbelle_CityLivingCyberpunkFoodStall.png",
       "isDownloaded": false
     },
     {
@@ -33366,12 +33358,13 @@ export default {
     {
       "id": "ilkavellearchaeologistpalaeontologistfreelancer",
       "title": "Archaeologist Palaeontologist Freelancer",
+      "chineseTitle": "考古学家自由职业者",
       "author": "ilkavelle",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/archaeologist-palaeontologist-freelancer",
       "translationUrl": "https://www.patreon.com/posts/6-6geng-xin-kao-94463412",
-      "image": "/images/trackers/ilkavelle_ArchaeologistPalaeontologistFreelancer.jpg",
+      "image": "/images/trackers/ilkavelle_ArchaeologistPalaeontologistFreelancer.png",
       "isDownloaded": false
     },
     {
@@ -33401,12 +33394,13 @@ export default {
     {
       "id": "imperialsimmerrobinstreamingbird",
       "title": "Robin Streaming Bird",
+      "chineseTitle": "知更鸟直播无人机",
       "author": "Imperial Simmer",
       "type": "H互动家具",
       "subtype": "小型物件",
       "downloadUrl": "https://www.patreon.com/posts/robin-streaming-141491761",
       "translationUrl": "https://www.patreon.com/posts/robin-streaming-145807375",
-      "image": "/images/trackers/ImperialSimmer_RobinStreamingBird.jpg",
+      "image": "/images/trackers/ImperialSimmer_RobinStreamingBird.png",
       "isDownloaded": false
     },
     {
@@ -33472,23 +33466,25 @@ export default {
     {
       "id": "janesimstenclimbabletree",
       "title": "Climbable Tree",
+      "chineseTitle": "可攀爬的树",
       "author": "JaneSimsten",
       "type": "H互动家具",
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/mod-climbable-88600597",
       "translationUrl": "https://www.patreon.com/posts/climbable-tree-102765581",
-      "image": "/images/trackers/JaneSimsten_ClimbableTree.jpg",
+      "image": "/images/trackers/JaneSimsten_ClimbableTree.png",
       "isDownloaded": false
     },
     {
       "id": "janesimstenfunctionalhairbrushes",
       "title": "Functional Hairbrushes",
+      "chineseTitle": "功能性发梳",
       "author": "JaneSimsten",
       "type": "H互动家具",
       "subtype": "美妆用品",
       "downloadUrl": "https://www.patreon.com/posts/mod-functional-77282024",
       "translationUrl": "https://www.patreon.com/posts/functional-gong-80883242",
-      "image": "/images/trackers/JaneSimsten_FunctionalHairbrushes.jpg",
+      "image": "/images/trackers/JaneSimsten_FunctionalHairbrushes.png",
       "isDownloaded": false
     },
     {
@@ -33506,23 +33502,25 @@ export default {
     {
       "id": "janesimstenmakeupkit",
       "title": "Makeup Kit",
+      "chineseTitle": "化妆套装",
       "author": "JaneSimsten",
       "type": "H互动家具",
       "subtype": "美妆用品",
       "downloadUrl": "https://www.patreon.com/posts/mod-makeup-kit-85057055",
       "translationUrl": "https://www.patreon.com/posts/3-2zhu-ti-geng-91085348",
-      "image": "/images/trackers/JaneSimsten_MakeupKit.jpg",
+      "image": "/images/trackers/JaneSimsten_MakeupKit.png",
       "isDownloaded": false
     },
     {
       "id": "janesimstenplayableharp",
       "title": "Playable Harp",
+      "chineseTitle": "可演奏的竖琴",
       "author": "JaneSimsten",
       "type": "H互动家具",
       "subtype": "音乐乐器",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/playable-harp",
       "translationUrl": "https://www.patreon.com/posts/3-2zhu-ti-geng-90133593",
-      "image": "/images/trackers/JaneSimsten_PlayableHarp.jpg",
+      "image": "/images/trackers/JaneSimsten_PlayableHarp.png",
       "isDownloaded": false
     },
     {
@@ -33539,12 +33537,13 @@ export default {
     {
       "id": "jayesimsbundleofjoyincoming",
       "title": "Bundle of Joy Incoming",
+      "chineseTitle": "怀孕喜讯",
       "author": "JayESims",
       "type": "F互动系统",
       "subtype": "孕育医疗",
       "downloadUrl": "https://www.patreon.com/posts/its-official-x-138230239?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share",
       "translationUrl": "https://www.patreon.com/posts/bundle-of-joy-xi-139473867",
-      "image": "/images/trackers/JayESims_BundleofJoyIncoming.jpg",
+      "image": "/images/trackers/JayESims_BundleofJoyIncoming.png",
       "isDownloaded": false
     },
     {
@@ -33584,6 +33583,7 @@ export default {
     {
       "id": "johnbaccaratposealignmentinteractions",
       "title": "Pose Alignment Interactions",
+      "chineseTitle": "动作盒子插件:姿势对齐工具",
       "author": "JohnBaccarat",
       "type": "C人物创建",
       "subtype": "拍摄工具",
@@ -33642,23 +33642,25 @@ export default {
     {
       "id": "kayladotcarrynappingtoddlerstobed",
       "title": "Carry Napping Toddlers to Bed",
+      "chineseTitle": "将小睡的幼儿抱上床",
       "author": "KaylaDot",
       "type": "F互动系统",
       "subtype": "儿童互动",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/carry-napping-toddlers-to-bed",
       "translationUrl": "https://www.patreon.com/posts/carry-napping-to-116123567",
-      "image": "/images/trackers/KaylaDot_CarryNappingToddlerstoBed.jpg",
+      "image": "/images/trackers/KaylaDot_CarryNappingToddlerstoBed.png",
       "isDownloaded": false
     },
     {
       "id": "kayladotdesignateddogpottyareaandbringpetsinsideoroutside",
       "title": "Designated Dog Potty Area and Bring Pets Inside or Outside",
+      "chineseTitle": "指定狗狗如厕区",
       "author": "KaylaDot",
       "type": "H互动家具",
       "subtype": "宠物用品",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/designated-dog-potty-area-and-bring-pets-inside-or",
       "translationUrl": "https://www.patreon.com/posts/designated-dog-143848304",
-      "image": "/images/trackers/KaylaDot_DesignatedDogPottyAreaandBringPetsInsideorOutside.jpg",
+      "image": "/images/trackers/KaylaDot_DesignatedDogPottyAreaandBringPetsInsideorOutside.png",
       "isDownloaded": false
     },
     {
@@ -33759,6 +33761,7 @@ export default {
     {
       "id": "khlascarryandkiss",
       "title": "Carry and Kiss",
+      "chineseTitle": "抱起来亲亲",
       "author": "Khlas",
       "type": "F互动系统",
       "subtype": "浪漫互动 ",
@@ -33770,6 +33773,7 @@ export default {
     {
       "id": "khlascuddleandbathtogether",
       "title": "Cuddle And Bath Together",
+      "chineseTitle": "相拥沐浴",
       "author": "Khlas",
       "type": "F互动系统",
       "subtype": "浪漫互动 ",
@@ -33781,56 +33785,61 @@ export default {
     {
       "id": "kiarasims4anglercareer",
       "title": "Angler Career",
+      "chineseTitle": "活跃的垂钓者职业",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "跟随职业",
       "downloadUrl": "https://kiarasims4mods.net/2021/12/23/angler-career/",
       "translationUrl": "https://www.patreon.com/posts/3-5zhu-ti-geng-77505600",
-      "image": "/images/trackers/kiarasims4_AnglerCareer.jpg",
+      "image": "/images/trackers/kiarasims4_AnglerCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4artistcareer",
       "title": "Artist Career",
+      "chineseTitle": "活跃的艺术家职业",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "跟随职业",
       "downloadUrl": "https://kiarasims4mods.net/2022/10/05/artist-career/",
       "translationUrl": "https://www.patreon.com/posts/3-5zhu-ti-geng-78300348",
-      "image": "/images/trackers/kiarasims4_ArtistCareer.jpg",
+      "image": "/images/trackers/kiarasims4_ArtistCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4bakercareer",
       "title": "Baker Career",
+      "chineseTitle": "面包师职业",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/baker-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-88316306",
-      "image": "/images/trackers/kiarasims4_BakerCareer.jpg",
+      "image": "/images/trackers/kiarasims4_BakerCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4bankercareer",
       "title": "Banker Career",
+      "chineseTitle": "半活跃职业-银行家",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/banker-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-88698561",
-      "image": "/images/trackers/kiarasims4_BankerCareer.jpg",
+      "image": "/images/trackers/kiarasims4_BankerCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4celebritymanagercareer",
       "title": "Celebrity Manager Career",
+      "chineseTitle": "明星经纪人职业",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/celebrity-manager-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-89747979",
-      "image": "/images/trackers/kiarasims4_CelebrityManagerCareer.jpg",
+      "image": "/images/trackers/kiarasims4_CelebrityManagerCareer.png",
       "isDownloaded": false
     },
     {
@@ -33848,78 +33857,73 @@ export default {
     {
       "id": "kiarasims4coupleevents",
       "title": "Couple Events",
+      "chineseTitle": "情侣夫妻活动",
       "author": "kiarasims4",
       "type": "J活动节日",
       "subtype": "活动聚会",
       "downloadUrl": "https://kiarasims4mods.net/couple-events/",
       "translationUrl": "https://www.patreon.com/posts/3-24geng-xin-10-96900586",
-      "image": "/images/trackers/kiarasims4_CoupleEvents.jpg",
+      "image": "/images/trackers/kiarasims4_CoupleEvents.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4dentistcareer",
       "title": "Dentist Career",
+      "chineseTitle": "牙医职业",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/dentist-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-92736013",
-      "image": "/images/trackers/kiarasims4_DentistCareer.jpg",
+      "image": "/images/trackers/kiarasims4_DentistCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4dietitiancareer",
       "title": "Dietitian Career",
+      "chineseTitle": "营养师职业",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/dietitian-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-93631481",
-      "image": "/images/trackers/kiarasims4_DietitianCareer.jpg",
+      "image": "/images/trackers/kiarasims4_DietitianCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4djcareer",
       "title": "DJ Career",
+      "chineseTitle": "DJ职业",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/dj-career",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-93999097",
-      "image": "/images/trackers/kiarasims4_DJCareer.jpg",
-      "isDownloaded": false
-    },
-    {
-      "id": "kiarasims4fashiondesignercareer",
-      "title": "Fashion Designer Career",
-      "author": "kiarasims4",
-      "type": "G职业生涯",
-      "subtype": "其他职业",
-      "downloadUrl": "https://legacy.curseforge.com/sims4/mods/fashion-designer-career",
-      "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-96028489",
-      "image": "/images/trackers/kiarasims4_FashionDesignerCareer.jpg",
+      "image": "/images/trackers/kiarasims4_DJCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4femalemaleevents",
       "title": "Female Male Events",
+      "chineseTitle": "男生女生活动",
       "author": "kiarasims4",
       "type": "J活动节日",
       "subtype": "活动聚会",
       "downloadUrl": "https://kiarasims4mods.net/female-male-events/",
       "translationUrl": "https://www.patreon.com/posts/3-23geng-xin-4-l-64511549",
-      "image": "/images/trackers/kiarasims4_FemaleMaleEvents.jpg",
+      "image": "/images/trackers/kiarasims4_FemaleMaleEvents.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4holidayevents",
       "title": "Holiday Events",
+      "chineseTitle": "节日活动",
       "author": "kiarasims4",
       "type": "J活动节日",
       "subtype": "活动聚会",
       "downloadUrl": "https://kiarasims4mods.net/events/holiday-events/",
       "translationUrl": "https://www.patreon.com/posts/kiarasims4modss-123328018",
-      "image": "/images/trackers/kiarasims4_HolidayEvents.jpg",
+      "image": "/images/trackers/kiarasims4_HolidayEvents.png",
       "isDownloaded": false
     },
     {
@@ -33937,17 +33941,19 @@ export default {
     {
       "id": "kiarasims4lotfeatures",
       "title": "Lot Features",
+      "chineseTitle": "54种地段特征",
       "author": "kiarasims4",
       "type": "E功能模组",
       "subtype": "地段特征",
       "downloadUrl": "https://kiarasims4mods.net/traits/lot-traits/",
       "translationUrl": "https://www.patreon.com/posts/3-24geng-xin-53-63867858",
-      "image": "/images/trackers/kiarasims4_LotFeatures.jpg",
+      "image": "/images/trackers/kiarasims4_LotFeatures.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4militaryactivecareer",
       "title": "Military Active Career",
+      "chineseTitle": "可跟随职业：军人职业",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "跟随职业",
@@ -33959,23 +33965,13 @@ export default {
     {
       "id": "kiarasims4miscellaneousevents",
       "title": "Miscellaneous Events",
+      "chineseTitle": "24种各式各样的活动",
       "author": "kiarasims4",
       "type": "J活动节日",
       "subtype": "活动聚会",
-      "downloadUrl": "https://www.patreon.com/posts/3-29geng-xin-23-60536782",
-      "translationUrl": "https://kiarasims4mods.net/misc-events/",
-      "image": "/images/trackers/kiarasims4_MiscellaneousEvents.jpg",
-      "isDownloaded": false
-    },
-    {
-      "id": "kiarasims4modelcareer",
-      "title": "Model Career",
-      "author": "kiarasims4",
-      "type": "G职业生涯",
-      "subtype": "其他职业",
-      "downloadUrl": "https://legacy.curseforge.com/sims4/mods/model-career",
-      "translationUrl": "https://www.patreon.com/posts/model-career-mo-105418647",
-      "image": "/images/trackers/kiarasims4_ModelCareer.jpg",
+      "downloadUrl": "https://kiarasims4mods.net/misc-events/",
+      "translationUrl": "https://www.patreon.com/posts/3-29geng-xin-23-60536782",
+      "image": "/images/trackers/kiarasims4_MiscellaneousEvents.png",
       "isDownloaded": false
     },
     {
@@ -33993,45 +33989,49 @@ export default {
     {
       "id": "kiarasims4partyevents",
       "title": "Party Events",
+      "chineseTitle": "12种派对活动",
       "author": "kiarasims4",
       "type": "J活动节日",
       "subtype": "活动聚会",
       "downloadUrl": "https://kiarasims4mods.net/party-events/",
       "translationUrl": "https://www.patreon.com/posts/kiarasims4modss-123324123",
-      "image": "/images/trackers/kiarasims4_PartyEvents.jpg",
+      "image": "/images/trackers/kiarasims4_PartyEvents.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4personaltraineractivecareer",
       "title": "Personal Trainer Active Career",
+      "chineseTitle": "可跟随职业：健身教练",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "跟随职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/personal-trainer-active-career",
       "translationUrl": "https://www.patreon.com/posts/personal-trainer-125309893",
-      "image": "/images/trackers/kiarasims4_PersonalTrainerActiveCareer.jpg",
+      "image": "/images/trackers/kiarasims4_PersonalTrainerActiveCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4photographeractivecareer",
       "title": "Photographer Active Career",
+      "chineseTitle": "可跟随职业：摄影师",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "跟随职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/photographer-active-career",
       "translationUrl": "https://www.patreon.com/posts/3-31zhu-ti-geng-100961684",
-      "image": "/images/trackers/kiarasims4_PhotographerActiveCareer.jpg",
+      "image": "/images/trackers/kiarasims4_PhotographerActiveCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4rocketscientistactivecareer",
       "title": "Rocket Scientist Active Career",
+      "chineseTitle": "可跟随职业：火箭科学家",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "跟随职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/rocket-scientist-active-career",
       "translationUrl": "https://www.patreon.com/posts/rocket-scientist-134196153",
-      "image": "/images/trackers/kiarasims4_RocketScientistActiveCareer.jpg",
+      "image": "/images/trackers/kiarasims4_RocketScientistActiveCareer.png",
       "isDownloaded": false
     },
     {
@@ -34049,12 +34049,13 @@ export default {
     {
       "id": "kiarasims4simstagraminfluencercareer",
       "title": "Simstagram Influencer Career",
+      "chineseTitle": "Simstagram网红职业",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/simstagram-influencer-career",
       "translationUrl": "https://www.patreon.com/posts/simstagram-hong-111596124",
-      "image": "/images/trackers/kiarasims4_SimstagramInfluencerCareer.jpg",
+      "image": "/images/trackers/kiarasims4_SimstagramInfluencerCareer.png",
       "isDownloaded": false
     },
     {
@@ -34096,78 +34097,85 @@ export default {
     {
       "id": "kiarasims4stylistcareer",
       "title": "Stylist Career",
+      "chineseTitle": "可跟随职业：造型师",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "跟随职业",
       "downloadUrl": "https://kiarasims4mods.net/2022/07/21/stylist-career-2/",
       "translationUrl": "https://www.patreon.com/posts/4-6zhu-ti-geng-84666553",
-      "image": "/images/trackers/kiarasims4_StylistCareer.jpg",
+      "image": "/images/trackers/kiarasims4_StylistCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4tattooartistcareer",
       "title": "Tattoo Artist Career",
+      "chineseTitle": "半活跃职业-刺青师",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/tattoo-artist-career",
       "translationUrl": "https://www.patreon.com/posts/131767059",
-      "image": "/images/trackers/kiarasims4_TattooArtistCareer.jpg",
+      "image": "/images/trackers/kiarasims4_TattooArtistCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4taxprepareractivecareer",
       "title": "Tax Preparer Active Career",
+      "chineseTitle": "可跟随职业：税务专家",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "跟随职业",
       "downloadUrl": "https://kiarasims4mods.net/2025/10/15/tax-preparer-active-career/",
       "translationUrl": "https://www.patreon.com/posts/tax-preparer-bao-144895074",
-      "image": "/images/trackers/kiarasims4_TaxPreparerActiveCareer.jpg",
+      "image": "/images/trackers/kiarasims4_TaxPreparerActiveCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4veterinariancareer",
       "title": "Veterinarian Career",
+      "chineseTitle": "半活跃职业-兽医",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/veterinarian-career",
       "translationUrl": "https://www.patreon.com/posts/veterinarian-ban-113408824",
-      "image": "/images/trackers/kiarasims4_VeterinarianCareer.jpg",
+      "image": "/images/trackers/kiarasims4_VeterinarianCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4woodworkercareer",
       "title": "Woodworker Career",
+      "chineseTitle": "半活跃职业-木工",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/woodworker-career",
       "translationUrl": "https://www.patreon.com/posts/woodworker-ban-113409131",
-      "image": "/images/trackers/kiarasims4_WoodworkerCareer.jpg",
+      "image": "/images/trackers/kiarasims4_WoodworkerCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kiarasims4yogainstructorcareer",
       "title": "Yoga Instructor Career",
+      "chineseTitle": "半活跃职业-瑜伽教练",
       "author": "kiarasims4",
       "type": "G职业生涯",
       "subtype": "其他职业",
       "downloadUrl": "https://legacy.curseforge.com/sims4/mods/yoga-instructor-career",
       "translationUrl": "https://www.patreon.com/posts/yoga-instructor-113857969",
-      "image": "/images/trackers/kiarasims4_YogaInstructorCareer.jpg",
+      "image": "/images/trackers/kiarasims4_YogaInstructorCareer.png",
       "isDownloaded": false
     },
     {
       "id": "kikovanityvanitygirlhairmaintenancemod",
       "title": "vanity girl hair maintenance mod",
+      "chineseTitle": "魅力女孩美发保养",
       "author": "kikovanity",
       "type": "H互动家具",
       "subtype": "美妆用品",
       "downloadUrl": "https://www.patreon.com/posts/vanity-girl-hair-124146009",
       "translationUrl": "https://www.patreon.com/posts/vanity-girl-hair-127158418",
-      "image": "/images/trackers/kikovanity_vanitygirlhairmaintenancemod.jpg",
+      "image": "/images/trackers/kikovanity_vanitygirlhairmaintenancemod.png",
       "isDownloaded": false
     },
     {
@@ -34218,12 +34226,13 @@ export default {
     {
       "id": "kuttoefrontdesk",
       "title": "Front Desk",
+      "chineseTitle": "前台",
       "author": "kuttoe",
       "type": "E功能模组",
       "subtype": "行人大修",
       "downloadUrl": "https://www.patreon.com/posts/new-mini-mod-53703487",
       "translationUrl": " ",
-      "image": "/images/trackers/kuttoe_FrontDesk.jpg",
+      "image": "/images/trackers/kuttoe_FrontDesk.png",
       "isDownloaded": false
     },
     {
@@ -34361,41 +34370,34 @@ export default {
     {
       "id": "lazysimmiesdecosims",
       "title": "Deco Sims",
+      "chineseTitle": "装饰性模拟市民",
       "author": "lazysimmies",
       "type": "D视觉美化",
       "subtype": "装饰市民",
       "downloadUrl": "https://www.patreon.com/cw/lazysimmies/posts",
-      "image": "/images/trackers/lazysimmies_DecoSims.jpg",
-      "isDownloaded": false
-    },
-    {
-      "id": "lianda360infantunnaturalhaircolors",
-      "title": "Infant Unnatural Hair Colors",
-      "author": "lianda360",
-      "type": "C人物创建",
-      "subtype": "捏人功能",
-      "downloadUrl": "https://modthesims.info/d/676915/infant-unnatural-hair-colors.html",
-      "image": "/images/trackers/lianda360_InfantUnnaturalHairColors.jpg",
+      "image": "/images/trackers/lazysimmies_DecoSims.png",
       "isDownloaded": false
     },
     {
       "id": "lijoueoffthewallomsp",
       "title": "Off The Wall OMSP",
+      "chineseTitle": "OMSP",
       "author": "LIJOUE",
       "type": "B核心必备",
       "subtype": "建筑工具",
       "downloadUrl": "https://www.patreon.com/posts/off-wall-omsp-92690670",
-      "image": "/images/trackers/LIJOUE_OffTheWallOMSP.jpg",
+      "image": "/images/trackers/LIJOUE_OffTheWallOMSP.png",
       "isDownloaded": false
     },
     {
       "id": "liquorcustomstyledlooks",
       "title": "Custom Styled Looks",
+      "chineseTitle": "自定义预设造型合集",
       "author": "Liquor",
       "type": "C人物创建",
       "subtype": "捏人功能",
       "downloadUrl": "https://www.patreon.com/posts/custom-styled-zi-128121613",
-      "image": "/images/trackers/Liquor_CustomStyledLooks.jpg",
+      "image": "/images/trackers/Liquor_CustomStyledLooks.png",
       "isDownloaded": false
     },
     {
@@ -34492,12 +34494,13 @@ export default {
     {
       "id": "loreamoregroupmembers",
       "title": "More Group Members",
+      "chineseTitle": "更多团体成员",
       "author": "Lorea",
       "type": "E功能模组",
       "subtype": "功能补充",
       "downloadUrl": "https://www.patreon.com/posts/more-group-in-85417141",
       "translationUrl": "https://www.patreon.com/posts/more-group-geng-118466979",
-      "image": "/images/trackers/Lorea_MoreGroupMembers.jpg",
+      "image": "/images/trackers/Lorea_MoreGroupMembers.png",
       "isDownloaded": false
     },
     {
@@ -34574,12 +34577,13 @@ export default {
     {
       "id": "lotharihoeautomaticpreferences",
       "title": "Automatic Preferences",
+      "chineseTitle": "自动偏好选项",
       "author": "Lotharihoe",
       "type": "E功能模组",
       "subtype": "功能补充",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/automatic-preferences",
       "translationUrl": "https://www.patreon.com/posts/automatic-zi-hao-135502702",
-      "image": "/images/trackers/Lotharihoe_AutomaticPreferences.jpg",
+      "image": "/images/trackers/Lotharihoe_AutomaticPreferences.png",
       "isDownloaded": false
     },
     {
@@ -34962,21 +34966,23 @@ export default {
     {
       "id": "luumianoblu",
       "title": "No Blu",
+      "chineseTitle": "改编环境蓝光",
       "author": "Luumia",
       "type": "D视觉美化",
       "subtype": "画面调整",
       "downloadUrl": "https://luumiasims.com/post/176043227929/its-been-well-over-a-year-since-noblu-v1-came-out",
-      "image": "/images/trackers/Luumia_NoBlu.jpg",
+      "image": "/images/trackers/Luumia_NoBlu.png",
       "isDownloaded": false
     },
     {
       "id": "luumianoglo",
       "title": "No Glo",
+      "chineseTitle": "改编环境模糊光圈",
       "author": "Luumia",
       "type": "D视觉美化",
       "subtype": "画面调整",
       "downloadUrl": "https://luumiasims.com/post/167217001494/i-released-the-noglo-mod-about-a-year-and-a-half",
-      "image": "/images/trackers/Luumia_NoGlo.jpg",
+      "image": "/images/trackers/Luumia_NoGlo.png",
       "isDownloaded": false
     },
     {
@@ -35042,12 +35048,13 @@ export default {
     {
       "id": "maplebellsweetmoments",
       "title": "Sweet Moments",
+      "chineseTitle": "甜蜜时刻",
       "author": "maplebell",
       "type": "F互动系统",
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/more-kisses-134290995?utm_campaign=patron_engagement&utm_source=post_link&post_id=134290995&utm_id=c025b24a-de86-4146-b04e-632fd95c1211&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/sweet-moments-mi-120258360",
-      "image": "/images/trackers/maplebell_SweetMoments.jpg",
+      "image": "/images/trackers/maplebell_SweetMoments.png",
       "isDownloaded": false
     },
     {
@@ -35089,44 +35096,48 @@ export default {
     {
       "id": "marufunctionaltabletopmirrorformakeup",
       "title": "Functional Tabletop mirror for makeup",
+      "chineseTitle": "功能性桌面化妆镜",
       "author": "maru",
       "type": "H互动家具",
       "subtype": "美妆用品",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/functional-tabletop-mirror-for-make-up",
       "translationUrl": "https://www.patreon.com/posts/functional-for-86571140",
-      "image": "/images/trackers/maru_FunctionalTabletopmirrorformakeup.jpg",
+      "image": "/images/trackers/maru_FunctionalTabletopmirrorformakeup.png",
       "isDownloaded": false
     },
     {
       "id": "mcruddinvisibleanimalshed",
       "title": "Invisible animal shed",
+      "chineseTitle": "隐藏动物棚",
       "author": "mcrudd",
       "type": "E功能模组",
       "subtype": "种田农务",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/invisible-animal-shed",
-      "image": "/images/trackers/mcrudd_Invisibleanimalshed.jpg",
+      "image": "/images/trackers/mcrudd_Invisibleanimalshed.png",
       "isDownloaded": false
     },
     {
       "id": "mercuryfoamballetbarremod",
       "title": "Ballet Barre Mod",
+      "chineseTitle": "芭蕾杆",
       "author": "Mercuryfoam",
       "type": "H互动家具",
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/mercuryfoam-mod-142191712",
       "translationUrl": "https://www.patreon.com/posts/ballet-barre-ba-69429726",
-      "image": "/images/trackers/Mercuryfoam_BalletBarreMod.jpg",
+      "image": "/images/trackers/Mercuryfoam_BalletBarreMod.png",
       "isDownloaded": false
     },
     {
       "id": "mercuryfoamballroomdancemod",
       "title": "Ballroom Dance Mod",
+      "chineseTitle": "双人交际舞",
       "author": "Mercuryfoam",
       "type": "F互动系统",
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/mercuryfoam-mod-141666835",
       "translationUrl": "https://www.patreon.com/posts/3-17geng-xin-ren-60350633",
-      "image": "/images/trackers/Mercuryfoam_BallroomDanceMod.jpg",
+      "image": "/images/trackers/Mercuryfoam_BallroomDanceMod.png",
       "isDownloaded": false
     },
     {
@@ -35144,56 +35155,61 @@ export default {
     {
       "id": "mercuryfoamlieonlapinteractionforkids",
       "title": "Lie On Lap Interaction for Kids",
+      "chineseTitle": "躺在腿上 儿童版",
       "author": "Mercuryfoam",
       "type": "F互动系统",
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/lie-on-lap-for-68306474",
       "translationUrl": "https://www.patreon.com/posts/lie-on-lap-for-71296205",
-      "image": "/images/trackers/Mercuryfoam_LieOnLapInteractionforKids.jpg",
+      "image": "/images/trackers/Mercuryfoam_LieOnLapInteractionforKids.webp",
       "isDownloaded": false
     },
     {
       "id": "mercuryfoammusicfestivalandconcertmod",
       "title": "Music Festival and Concert Mod",
+      "chineseTitle": "音乐节模组",
       "author": "Mercuryfoam",
       "type": "H互动家具",
       "subtype": "音乐乐器",
       "downloadUrl": "https://www.patreon.com/posts/music-festival-60654361",
       "translationUrl": "https://www.patreon.com/posts/music-festival-62763807",
-      "image": "/images/trackers/Mercuryfoam_MusicFestivalandConcertMod.jpg",
+      "image": "/images/trackers/Mercuryfoam_MusicFestivalandConcertMod.png",
       "isDownloaded": false
     },
     {
       "id": "mercuryfoampoledancemod",
       "title": "Pole Dance Mod",
+      "chineseTitle": "钢管舞蹈",
       "author": "Mercuryfoam",
       "type": "H互动家具",
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/mercuryfoam-pole-141221022",
       "translationUrl": "https://www.patreon.com/posts/pole-dance-gang-84332689",
-      "image": "/images/trackers/Mercuryfoam_PoleDanceMod.jpg",
+      "image": "/images/trackers/Mercuryfoam_PoleDanceMod.png",
       "isDownloaded": false
     },
     {
       "id": "mercuryfoamromanticsurpriseproposalinteractions",
       "title": "Romantic Surprise Proposal Interactions",
+      "chineseTitle": "浪漫惊喜求婚",
       "author": "Mercuryfoam",
       "type": "F互动系统",
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/romantic-beta-62763568",
       "translationUrl": "https://www.patreon.com/posts/romantic-lang-xi-81217697",
-      "image": "/images/trackers/Mercuryfoam_RomanticSurpriseProposalInteractions.jpg",
+      "image": "/images/trackers/Mercuryfoam_RomanticSurpriseProposalInteractions.png",
       "isDownloaded": false
     },
     {
       "id": "midnitetechcallmemaybe",
       "title": "Call Me Maybe",
+      "chineseTitle": "来电大修",
       "author": "midnitetech",
       "type": "F互动系统",
       "subtype": "兔兔电话",
       "downloadUrl": "https://www.patreon.com/posts/call-me-maybe-127818072?utm_campaign=patron_engagement&utm_source=post_link&post_id=127818072&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWRpc19rZXkiOiJpYTI6NGFmYzExODctYWUzNy00OGNjLWE5MzMtNGNjNGJkOTI5ZWYwIiwicG9zdF9pZCI6MTI3ODE4MDcyLCJwYXRyb25faWQiOjUwNjM5MjQzfQ.JNutYBHmaUYO-tDsGuHSgpi0R6VIDDx1CL3Xvx8SpYc&utm_id=d7989462-b185-4ddd-8929-881e7e52dbd0&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/call-me-maybe-da-130845859",
-      "image": "/images/trackers/midnitetech_CallMeMaybe.jpg",
+      "image": "/images/trackers/midnitetech_CallMeMaybe.png",
       "isDownloaded": false
     },
     {
@@ -35257,12 +35273,13 @@ export default {
     {
       "id": "mizoreyukiibowatshrine",
       "title": "Bow At Shrine",
+      "chineseTitle": "向神龛鞠躬",
       "author": "MizoreYukii",
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://www.patreon.com/posts/new-mod-bow-at-43859688",
       "translationUrl": "https://www.patreon.com/posts/bow-at-shrine-re-114295774",
-      "image": "/images/trackers/MizoreYukii_BowAtShrine.jpg",
+      "image": "/images/trackers/MizoreYukii_BowAtShrine.png",
       "isDownloaded": false
     },
     {
@@ -35323,12 +35340,13 @@ export default {
     {
       "id": "mizoreyukiiplanetcanineactivedoggydaycarebusiness",
       "title": "Planet Canine Active Doggy Daycare Business",
+      "chineseTitle": "活跃的狗狗日托",
       "author": "MizoreYukii",
       "type": "G职业生涯",
       "subtype": "跟随职业",
       "downloadUrl": "https://www.patreon.com/posts/mod-planet-doggy-69014863",
       "translationUrl": "https://www.patreon.com/posts/active-doggy-huo-92440641",
-      "image": "/images/trackers/MizoreYukii_PlanetCanineActiveDoggyDaycareBusiness.jpg",
+      "image": "/images/trackers/MizoreYukii_PlanetCanineActiveDoggyDaycareBusiness.png",
       "isDownloaded": false
     },
     {
@@ -35349,7 +35367,7 @@ export default {
       "type": "C人物创建",
       "subtype": "捏人功能",
       "downloadUrl": "https://www.patreon.com/posts/52900882",
-      "image": "/images/trackers/MizoreYukii_StyledLooksHider.jpg",
+      "image": "/images/trackers/MizoreYukii_StyledLooksHider.png",
       "isDownloaded": false
     },
     {
@@ -35403,7 +35421,7 @@ export default {
       "type": "H互动家具",
       "subtype": "夜店设施",
       "downloadUrl": "https://mrcreativex.tumblr.com/post/621802313836871680/mcx-build-your-own-dance-floor-get-to-work#notes",
-      "image": "/images/trackers/MrCreativeX_BuildyourOwnDanceFloor.jpg",
+      "image": "/images/trackers/MrCreativeX_BuildyourOwnDanceFloor.png",
       "isDownloaded": false
     },
     {
@@ -35413,7 +35431,7 @@ export default {
       "type": "H互动家具",
       "subtype": "夜店设施",
       "downloadUrl": "https://mrcreativex.tumblr.com/post/621450608695738368/mcx-holo-dj-booth-get-together-needed-new-mesh-dj",
-      "image": "/images/trackers/MrCreativeX_MCXHOLODJBOOTH.jpg",
+      "image": "/images/trackers/MrCreativeX_MCXHOLODJBOOTH.png",
       "isDownloaded": false
     },
     {
@@ -35550,7 +35568,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/posts/small-mods-69121597",
-      "image": "/images/trackers/NVGames_SMALLMODS.jpg",
+      "image": "/images/trackers/NVGames_SMALLMODS.png",
       "isDownloaded": false
     },
     {
@@ -35595,7 +35613,7 @@ export default {
       "subtype": "婴幼成长",
       "downloadUrl": "https://www.patreon.com/posts/self-soothing-66353288",
       "translationUrl": "https://www.patreon.com/posts/self-soothing-zi-71297769",
-      "image": "/images/trackers/OzzySims4Mods_SelfSoothingToddlers.jpg",
+      "image": "/images/trackers/OzzySims4Mods_SelfSoothingToddlers.png",
       "isDownloaded": false
     },
     {
@@ -35630,7 +35648,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/toddler-pack-52862857",
       "translationUrl": "https://www.patreon.com/posts/3-15geng-xin-you-54055773",
-      "image": "/images/trackers/PandaSama_ToddlerCreativityPack.jpg",
+      "image": "/images/trackers/PandaSama_ToddlerCreativityPack.png",
       "isDownloaded": false
     },
     {
@@ -35641,7 +35659,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/toddler-play-55595133",
       "translationUrl": "https://www.patreon.com/posts/toddler-play-you-56512052",
-      "image": "/images/trackers/PandaSama_ToddlerPlayTelephone.jpg",
+      "image": "/images/trackers/PandaSama_ToddlerPlayTelephone.png",
       "isDownloaded": false
     },
     {
@@ -35652,7 +35670,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/toddler-play-kit-56613427?utm_medium=post_notification_email&utm_source=post_link&utm_campaign=patron_engagement",
       "translationUrl": "https://www.patreon.com/posts/3-4zhu-ti-geng-57537780",
-      "image": "/images/trackers/PandaSama_ToddlerPlayTunnelMakeupKit.jpg",
+      "image": "/images/trackers/PandaSama_ToddlerPlayTunnelMakeupKit.png",
       "isDownloaded": false
     },
     {
@@ -35663,7 +35681,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/toddler-stuff-49517597",
       "translationUrl": "https://www.patreon.com/posts/toddler-stuff-er-65533964",
-      "image": "/images/trackers/PandaSama_ToddlerStuffModPack.jpg",
+      "image": "/images/trackers/PandaSama_ToddlerStuffModPack.png",
       "isDownloaded": false
     },
     {
@@ -35706,7 +35724,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/posts/129774098?collection=1315245",
-      "image": "/images/trackers/Plantyl_abitgreenersulanipalmtreesoverrides.jpg",
+      "image": "/images/trackers/Plantyl_abitgreenersulanipalmtreesoverrides.png",
       "isDownloaded": false
     },
     {
@@ -36009,7 +36027,7 @@ export default {
       "type": "E功能模组",
       "subtype": "种田农务",
       "downloadUrl": "https://ravasheen.com/download/absolutely-radishing-garden-planters/",
-      "image": "/images/trackers/Ravasheen_AbsolutelyRadishingGardenPlanters.jpg",
+      "image": "/images/trackers/Ravasheen_AbsolutelyRadishingGardenPlanters.png",
       "isDownloaded": false
     },
     {
@@ -36019,7 +36037,7 @@ export default {
       "type": "H互动家具",
       "subtype": "食物制作",
       "downloadUrl": "https://ravasheen.com/download/a-dough-able-cupcake-maker/",
-      "image": "/images/trackers/Ravasheen_ADoughAbleCupcakeMaker.jpg",
+      "image": "/images/trackers/Ravasheen_ADoughAbleCupcakeMaker.png",
       "isDownloaded": false
     },
     {
@@ -36029,7 +36047,7 @@ export default {
       "type": "G职业生涯",
       "subtype": "小型事业",
       "downloadUrl": "https://ravasheen.com/download/beso-rapido-motel-functional-desk-bell/",
-      "image": "/images/trackers/Ravasheen_BesoRapidoMotelFunctionalDeskBell.jpg",
+      "image": "/images/trackers/Ravasheen_BesoRapidoMotelFunctionalDeskBell.png",
       "isDownloaded": false
     },
     {
@@ -36039,7 +36057,7 @@ export default {
       "type": "H互动家具",
       "subtype": "游乐设施",
       "downloadUrl": "https://ravasheen.com/download/cheapskate-roller-ice-rink-set/",
-      "image": "/images/trackers/Ravasheen_CheapskateRollerIceRinkSet.jpg",
+      "image": "/images/trackers/Ravasheen_CheapskateRollerIceRinkSet.png",
       "isDownloaded": false
     },
     {
@@ -36059,7 +36077,7 @@ export default {
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://ravasheen.com/download/drag-shop-community-kiosk/",
-      "image": "/images/trackers/Ravasheen_DragShopCommunityKiosk.jpg",
+      "image": "/images/trackers/Ravasheen_DragShopCommunityKiosk.png",
       "isDownloaded": false
     },
     {
@@ -36070,7 +36088,7 @@ export default {
       "subtype": "建筑工具",
       "downloadUrl": "https://ravasheen.com/download/easy-peasy-lumen-squeezy-hidden-lights/",
       "translationUrl": "https://www.patreon.com/posts/3-3zhu-ti-geng-76030051",
-      "image": "/images/trackers/Ravasheen_EasyPeasyLumenSqueezyHiddenLights.jpg",
+      "image": "/images/trackers/Ravasheen_EasyPeasyLumenSqueezyHiddenLights.png",
       "isDownloaded": false
     },
     {
@@ -36080,7 +36098,7 @@ export default {
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://ravasheen.com/download/elgato-streaming-set/",
-      "image": "/images/trackers/Ravasheen_ElgatoContentCreatorSet.jpg",
+      "image": "/images/trackers/Ravasheen_ElgatoContentCreatorSet.png",
       "isDownloaded": false
     },
     {
@@ -36090,7 +36108,7 @@ export default {
       "type": "G职业生涯",
       "subtype": "厨师餐饮",
       "downloadUrl": "https://ravasheen.com/download/enjoy-the-lentil-things-resturant-set/",
-      "image": "/images/trackers/Ravasheen_EnjoyTheLentilThingsResturantSet.jpg",
+      "image": "/images/trackers/Ravasheen_EnjoyTheLentilThingsResturantSet.png",
       "isDownloaded": false
     },
     {
@@ -36100,7 +36118,7 @@ export default {
       "type": "H互动家具",
       "subtype": "婴幼用品",
       "downloadUrl": "https://ravasheen.com/download/fantastical-play-rug/",
-      "image": "/images/trackers/Ravasheen_FantasticalPlayRug.jpg",
+      "image": "/images/trackers/Ravasheen_FantasticalPlayRug.png",
       "isDownloaded": false
     },
     {
@@ -36110,7 +36128,7 @@ export default {
       "type": "G职业生涯",
       "subtype": "小型事业",
       "downloadUrl": "https://ravasheen.com/download/film-reaper-movie-theater/",
-      "image": "/images/trackers/Ravasheen_FilmReaperMovieTheater.jpg",
+      "image": "/images/trackers/Ravasheen_FilmReaperMovieTheater.png",
       "isDownloaded": false
     },
     {
@@ -36120,7 +36138,7 @@ export default {
       "type": "B核心必备",
       "subtype": "建筑工具",
       "downloadUrl": "https://ravasheen.com/download/flood-saucer-light/",
-      "image": "/images/trackers/Ravasheen_FloodSaucerLight.jpg",
+      "image": "/images/trackers/Ravasheen_FloodSaucerLight.png",
       "isDownloaded": false
     },
     {
@@ -36131,7 +36149,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://ravasheen.com/download/functional-vending-machines/",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-69878371",
-      "image": "/images/trackers/Ravasheen_FunctionalVendingMachine.jpg",
+      "image": "/images/trackers/Ravasheen_FunctionalVendingMachine.png",
       "isDownloaded": false
     },
     {
@@ -36153,7 +36171,7 @@ export default {
       "type": "H互动家具",
       "subtype": "婴幼用品",
       "downloadUrl": "https://ravasheen.com/download/little-campers-kit-add-on/",
-      "image": "/images/trackers/Ravasheen_LittleCampersKitAddOn.jpg",
+      "image": "/images/trackers/Ravasheen_LittleCampersKitAddOn.png",
       "isDownloaded": false
     },
     {
@@ -36163,7 +36181,7 @@ export default {
       "type": "H互动家具",
       "subtype": "运动器材",
       "downloadUrl": "https://ravasheen.com/download/loud-cheer/",
-      "image": "/images/trackers/Ravasheen_LoudCheer.jpg",
+      "image": "/images/trackers/Ravasheen_LoudCheer.png",
       "isDownloaded": false
     },
     {
@@ -36174,7 +36192,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://ravasheen.com/download/mint-to-be-ice-cream-market/",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-74965617",
-      "image": "/images/trackers/Ravasheen_MintToBeIceCreamMarket.jpg",
+      "image": "/images/trackers/Ravasheen_MintToBeIceCreamMarket.png",
       "isDownloaded": false
     },
     {
@@ -36184,7 +36202,7 @@ export default {
       "type": "H互动家具",
       "subtype": "游乐设施",
       "downloadUrl": "https://ravasheen.com/download/mood-swings/",
-      "image": "/images/trackers/Ravasheen_MoodSwings.jpg",
+      "image": "/images/trackers/Ravasheen_MoodSwings.png",
       "isDownloaded": false
     },
     {
@@ -36194,7 +36212,7 @@ export default {
       "type": "H互动家具",
       "subtype": "宠物用品",
       "downloadUrl": "https://ravasheen.com/download/muttropolitan-dog/",
-      "image": "/images/trackers/Ravasheen_MuttropolitanDog.jpg",
+      "image": "/images/trackers/Ravasheen_MuttropolitanDog.png",
       "isDownloaded": false
     },
     {
@@ -36205,7 +36223,7 @@ export default {
       "subtype": "宠物用品",
       "downloadUrl": "https://www.thesimsresource.com/downloads/details/category/sims4-objects-furnishing-pets/title/muttropolitan-pet-wash/id/1483667/",
       "translationUrl": "https://www.patreon.com/posts/muttropolitan-wu-87289017",
-      "image": "/images/trackers/Ravasheen_MuttropolitanPetWash.jpg",
+      "image": "/images/trackers/Ravasheen_MuttropolitanPetWash.png",
       "isDownloaded": false
     },
     {
@@ -36216,7 +36234,7 @@ export default {
       "subtype": "食物制作",
       "downloadUrl": "https://ravasheen.com/download/nectar-cooler-bar/",
       "translationUrl": "https://www.patreon.com/posts/nectar-cooler-ba-76032062",
-      "image": "/images/trackers/Ravasheen_NectarCoolerBar.jpg",
+      "image": "/images/trackers/Ravasheen_NectarCoolerBar.png",
       "isDownloaded": false
     },
     {
@@ -36249,7 +36267,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://ravasheen.com/download/porto-luminoso-market-cutouts/",
       "translationUrl": "https://www.patreon.com/posts/porto-luminoso-112948064",
-      "image": "/images/trackers/Ravasheen_PortoLuminosoMarketCutouts.jpg",
+      "image": "/images/trackers/Ravasheen_PortoLuminosoMarketCutouts.png",
       "isDownloaded": false
     },
     {
@@ -36259,7 +36277,7 @@ export default {
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://ravasheen.com/download/separated-more-choices-streaming-station/",
-      "image": "/images/trackers/Ravasheen_SeparatedMoreChoicesStreamingStation.jpg",
+      "image": "/images/trackers/Ravasheen_SeparatedMoreChoicesStreamingStation.png",
       "isDownloaded": false
     },
     {
@@ -36270,7 +36288,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://ravasheen.com/download/shop-chef-buffet/",
       "translationUrl": "https://www.patreon.com/posts/3-14zhu-ti-geng-91999416",
-      "image": "/images/trackers/Ravasheen_ShopChefBuffet.jpg",
+      "image": "/images/trackers/Ravasheen_ShopChefBuffet.png",
       "isDownloaded": false
     },
     {
@@ -36281,7 +36299,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://ravasheen.com/download/shop-chef-ingredients/",
       "translationUrl": "https://www.patreon.com/posts/3-14zhu-ti-geng-69747945",
-      "image": "/images/trackers/Ravasheen_ShopChefIngredients.jpg",
+      "image": "/images/trackers/Ravasheen_ShopChefIngredients.png",
       "isDownloaded": false
     },
     {
@@ -36292,7 +36310,7 @@ export default {
       "subtype": "夜店设施",
       "downloadUrl": "https://ravasheen.com/download/side-fx-visual-effect-player/",
       "translationUrl": "https://www.patreon.com/posts/3-19zhu-ti-geng-76315123",
-      "image": "/images/trackers/Ravasheen_SideFXVisualEffectPlayer.jpg",
+      "image": "/images/trackers/Ravasheen_SideFXVisualEffectPlayer.png",
       "isDownloaded": false
     },
     {
@@ -36314,7 +36332,7 @@ export default {
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://ravasheen.com/download/straight-outta-compost/",
-      "image": "/images/trackers/Ravasheen_StraightOuttaCompost.jpg",
+      "image": "/images/trackers/Ravasheen_StraightOuttaCompost.png",
       "isDownloaded": false
     },
     {
@@ -36324,7 +36342,7 @@ export default {
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://ravasheen.com/download/trash-talk-recycler/",
-      "image": "/images/trackers/Ravasheen_TrashTalkRecycler.jpg",
+      "image": "/images/trackers/Ravasheen_TrashTalkRecycler.png",
       "isDownloaded": false
     },
     {
@@ -36452,7 +36470,7 @@ export default {
       "type": "C人物创建",
       "subtype": "捏人功能",
       "downloadUrl": "https://www.patreon.com/posts/bg-cas-filters-5-126616540",
-      "image": "/images/trackers/Sejian_CASFilters.jpg",
+      "image": "/images/trackers/Sejian_CASFilters.png",
       "isDownloaded": false
     },
     {
@@ -36463,7 +36481,7 @@ export default {
       "subtype": "婴幼用品",
       "downloadUrl": "https://www.patreon.com/posts/baby-steps-112580732",
       "translationUrl": "https://www.patreon.com/posts/infant-activity-113413297",
-      "image": "/images/trackers/ShoobySims_BabyStepsInfantActivityWalker.jpg",
+      "image": "/images/trackers/ShoobySims_BabyStepsInfantActivityWalker.png",
       "isDownloaded": false
     },
     {
@@ -36474,7 +36492,7 @@ export default {
       "subtype": "摊位设施",
       "downloadUrl": "https://www.patreon.com/posts/simply-zest-122272499",
       "translationUrl": "https://www.patreon.com/posts/functional-stand-123330824",
-      "image": "/images/trackers/ShoobySims_SimplytheZestFunctionalLemonadeStand.jpg",
+      "image": "/images/trackers/ShoobySims_SimplytheZestFunctionalLemonadeStand.png",
       "isDownloaded": false
     },
     {
@@ -36834,7 +36852,7 @@ export default {
       "type": "H互动家具",
       "subtype": "其他家具",
       "downloadUrl": "https://www.patreon.com/posts/92516478?collection=202512",
-      "image": "/images/trackers/SimMattically_OwnableandFunctionalCars.jpg",
+      "image": "/images/trackers/SimMattically_OwnableandFunctionalCars.png",
       "isDownloaded": false
     },
     {
@@ -36844,7 +36862,7 @@ export default {
       "type": "B核心必备",
       "subtype": "其他工具",
       "downloadUrl": "https://www.patreon.com/posts/152087374?collection=1619621",
-      "image": "/images/trackers/SimMattically_QuickSaveButtonBuildBuyMode.jpg",
+      "image": "/images/trackers/SimMattically_QuickSaveButtonBuildBuyMode.png",
       "isDownloaded": false
     },
     {
@@ -36854,7 +36872,7 @@ export default {
       "type": "B核心必备",
       "subtype": "其他工具",
       "downloadUrl": "https://www.patreon.com/posts/141300682?collection=202512",
-      "image": "/images/trackers/SimMattically_QuickSaveButtonLiveMode.jpg",
+      "image": "/images/trackers/SimMattically_QuickSaveButtonLiveMode.png",
       "isDownloaded": false
     },
     {
@@ -36964,7 +36982,7 @@ export default {
       "type": "C人物创建",
       "subtype": "捏人功能",
       "downloadUrl": "https://simplyanjuta.tumblr.com/post/656809319871971328/custom-basegame-styled-looks-f",
-      "image": "/images/trackers/SIMPLYANJUTA_StyledLooksBackground.jpg",
+      "image": "/images/trackers/SIMPLYANJUTA_StyledLooksBackground.png",
       "isDownloaded": false
     },
     {
@@ -37045,7 +37063,7 @@ export default {
       "type": "F互动系统",
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/autonomous-first-kiss",
-      "image": "/images/trackers/sims4meBienchens_AutonomousFirstKiss.jpg",
+      "image": "/images/trackers/sims4meBienchens_AutonomousFirstKiss.png",
       "isDownloaded": false
     },
     {
@@ -37110,12 +37128,13 @@ export default {
     {
       "id": "simsefingetmakeovers",
       "title": "Get Makeovers",
+      "chineseTitle": "小型事业活动：美容造型",
       "author": "Simsefin",
       "type": "G职业生涯",
       "subtype": "小型事业",
       "downloadUrl": "https://www.patreon.com/posts/new-mini-mod-get-123952733",
       "translationUrl": "https://www.patreon.com/posts/get-makeovers-124409751",
-      "image": "/images/trackers/Simsefin_GetMakeovers.jpg",
+      "image": "/images/trackers/Simsefin_GetMakeovers.webp",
       "isDownloaded": false
     },
     {
@@ -37135,7 +37154,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/collection/361649?view=expanded",
-      "image": "/images/trackers/Simsiboy_MatteTreeReplacement.jpg",
+      "image": "/images/trackers/Simsiboy_MatteTreeReplacement.png",
       "isDownloaded": false
     },
     {
@@ -37145,7 +37164,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "界面美化",
       "downloadUrl": "https://www.patreon.com/posts/public-loading-116121689",
-      "image": "/images/trackers/Simsiboy_SimplicityLoadingScreen.jpg",
+      "image": "/images/trackers/Simsiboy_SimplicityLoadingScreen.png",
       "isDownloaded": false
     },
     {
@@ -37180,7 +37199,7 @@ export default {
       "subtype": "小型事业",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/instant-business-cash-register",
       "translationUrl": "https://www.patreon.com/posts/instant-business-143174604",
-      "image": "/images/trackers/Simsteries_InstantBusinessCashRegister.jpg",
+      "image": "/images/trackers/Simsteries_InstantBusinessCashRegister.png",
       "isDownloaded": false
     },
     {
@@ -37203,7 +37222,7 @@ export default {
       "subtype": "小型物件",
       "downloadUrl": "https://simularity.cc/cc/objects/little-outdoor-washtub/",
       "translationUrl": "https://www.patreon.com/posts/little-outdoor-103682479",
-      "image": "/images/trackers/simularity_LittleOutdoorWashtub.jpg",
+      "image": "/images/trackers/simularity_LittleOutdoorWashtub.png",
       "isDownloaded": false
     },
     {
@@ -37237,7 +37256,7 @@ export default {
       "subtype": "节日庆典",
       "downloadUrl": "https://www.patreon.com/posts/me-time-calendar-89466745",
       "translationUrl": "https://www.patreon.com/posts/me-time-calendar-96465022",
-      "image": "/images/trackers/SimwithShan_MeTimeCalendarTraditions.jpg",
+      "image": "/images/trackers/SimwithShan_MeTimeCalendarTraditions.png",
       "isDownloaded": false
     },
     {
@@ -37247,17 +37266,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/baby-bottle-default-replacement",
-      "image": "/images/trackers/SIXAMCC_BabyBottleDefaultReplacement.jpg",
-      "isDownloaded": false
-    },
-    {
-      "id": "snarkysimsgeneticunnaturalhaircoloursforkidstots",
-      "title": "Genetic Unnatural Hair Colours for Kids Tots",
-      "author": "snarky sims",
-      "type": "C人物创建",
-      "subtype": "捏人功能",
-      "downloadUrl": "https://snarky-sims-witch.tumblr.com/post/177382749428/genetic-unnatural-hair-colours-for-kids-tots",
-      "image": "/images/trackers/snarkysims_GeneticUnnaturalHairColoursforKidsTots.jpg",
+      "image": "/images/trackers/SIXAMCC_BabyBottleDefaultReplacement.png",
       "isDownloaded": false
     },
     {
@@ -37301,18 +37310,19 @@ export default {
       "subtype": "社交互动",
       "downloadUrl": "https://www.patreon.com/posts/update-for-one-138297640?utm_campaign=patron_engagement&utm_source=post_link&post_id=138297640&utm_id=d9af90ab-2ef6-4538-84ce-a8e39e8eacdc&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/one-where-they-107163838",
-      "image": "/images/trackers/SonozakiSisters_TheOneWhereTheyAreFriends.jpg",
+      "image": "/images/trackers/SonozakiSisters_TheOneWhereTheyAreFriends.png",
       "isDownloaded": false
     },
     {
       "id": "sonozakisisterstheonewithalltheromanceremake",
       "title": "The One With All The Romance Remake",
+      "chineseTitle": "浪漫满屋",
       "author": "SonozakiSisters",
       "type": "F互动系统",
       "subtype": "浪漫互动 ",
       "downloadUrl": "https://www.patreon.com/posts/141692273",
       "translationUrl": "https://www.patreon.com/posts/one-with-all-man-144441391",
-      "image": "/images/trackers/SonozakiSisters_TheOneWithAllTheRomanceRemake.jpg",
+      "image": "/images/trackers/SonozakiSisters_TheOneWithAllTheRomanceRemake.webp",
       "isDownloaded": false
     },
     {
@@ -37323,7 +37333,7 @@ export default {
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/mega-by-katie-141739291?utm_campaign=patron_engagement&utm_source=post_link&post_id=141739291&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWRpc19rZXkiOiJpYTI6YzdhNjRhOWEtOTA5MS00ZmVhLTk5ZTYtMDc0MjU2YjZjNTYzIiwicG9zdF9pZCI6MTQxNzM5MjkxLCJwYXRyb25faWQiOjUwNjM5MjQzfQ.oEiY-hdU7GkIWGzp74s4SjYu2o5VUUY_vxnFT5RUCew&utm_id=cc6f51a8-0d6f-4146-a476-a79b874af08d&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/one-with-loving-108113214",
-      "image": "/images/trackers/SonozakiSisters_TheOneWithTheLovingParents.jpg",
+      "image": "/images/trackers/SonozakiSisters_TheOneWithTheLovingParents.png",
       "isDownloaded": false
     },
     {
@@ -37334,7 +37344,7 @@ export default {
       "subtype": "婴幼成长",
       "downloadUrl": "https://www.patreon.com/posts/twins-update-142934347",
       "translationUrl": "https://www.patreon.com/posts/twins-mod-shuang-109891467",
-      "image": "/images/trackers/SonozakiSisters_TwinsUpdate.jpg",
+      "image": "/images/trackers/SonozakiSisters_TwinsUpdate.png",
       "isDownloaded": false
     },
     {
@@ -37356,7 +37366,7 @@ export default {
       "type": "H互动家具",
       "subtype": "游乐设施",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/simlife-gaming-rug",
-      "image": "/images/trackers/SrslySims_SimLifeGamingRug.jpg",
+      "image": "/images/trackers/SrslySims_SimLifeGamingRug.png",
       "isDownloaded": false
     },
     {
@@ -37471,7 +37481,7 @@ export default {
       "subtype": "电梯楼梯",
       "downloadUrl": "https://www.patreon.com/posts/72465250",
       "translationUrl": "https://www.patreon.com/posts/functional-gong-75484532",
-      "image": "/images/trackers/thepancake1andMizoreYukii_FunctionalSpiralStaircases.jpg",
+      "image": "/images/trackers/thepancake1andMizoreYukii_FunctionalSpiralStaircases.png",
       "isDownloaded": false
     },
     {
@@ -37605,7 +37615,7 @@ export default {
       "chineseTitle": "BBB 更好的建造购买",
       "author": "TwistedMexi",
       "type": "B核心必备",
-      "subtype": "建筑工具",
+      "subtype": "顶级必备",
       "downloadUrl": "https://twistedmexi.com/Mods/",
       "translationUrl": "https://www.abonnie.uk/better-buildbuy",
       "image": "/images/trackers/TwistedMexi_BetterBuildBuy.webp",
@@ -37650,7 +37660,7 @@ export default {
       "chineseTitle": "TOOL 自由建造工具",
       "author": "TwistedMexi",
       "type": "B核心必备",
-      "subtype": "建筑工具",
+      "subtype": "顶级必备",
       "downloadUrl": "https://twistedmexi.com/Mods/",
       "translationUrl": "https://www.abonnie.uk/tool",
       "image": "/images/trackers/TwistedMexi_TOOL.webp",
@@ -37934,7 +37944,7 @@ export default {
       "subtype": "婴幼成长",
       "downloadUrl": "https://www.patreon.com/posts/64089802",
       "translationUrl": "https://www.patreon.com/posts/te-zheng-yi-yu-112750345",
-      "image": "/images/trackers/VickySimschingyu1023_InbornPersonalityMod.jpg",
+      "image": "/images/trackers/VickySimschingyu1023_InbornPersonalityMod.png",
       "isDownloaded": false
     },
     {
@@ -38011,7 +38021,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/posts/131973534?collection=107843",
-      "image": "/images/trackers/Vixonspixels_BillsOverride.jpg",
+      "image": "/images/trackers/Vixonspixels_BillsOverride.png",
       "isDownloaded": false
     },
     {
@@ -38065,7 +38075,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/posts/116510570?collection=107843",
-      "image": "/images/trackers/Vixonspixels_DefaultCoffeeBag.jpg",
+      "image": "/images/trackers/Vixonspixels_DefaultCoffeeBag.png",
       "isDownloaded": false
     },
     {
@@ -38075,7 +38085,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/posts/116248059?collection=107843",
-      "image": "/images/trackers/Vixonspixels_Defaultcoffeecup.jpg",
+      "image": "/images/trackers/Vixonspixels_Defaultcoffeecup.png",
       "isDownloaded": false
     },
     {
@@ -38085,7 +38095,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/posts/95926456?collection=107843",
-      "image": "/images/trackers/Vixonspixels_DefaultCookingBaster.jpg",
+      "image": "/images/trackers/Vixonspixels_DefaultCookingBaster.png",
       "isDownloaded": false
     },
     {
@@ -38106,7 +38116,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/posts/114162986?collection=107843",
-      "image": "/images/trackers/Vixonspixels_DefaultHoofPick.jpg",
+      "image": "/images/trackers/Vixonspixels_DefaultHoofPick.png",
       "isDownloaded": false
     },
     {
@@ -38149,7 +38159,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/posts/115862013?collection=107843",
-      "image": "/images/trackers/Vixonspixels_Defaultnailfile.jpg",
+      "image": "/images/trackers/Vixonspixels_Defaultnailfile.png",
       "isDownloaded": false
     },
     {
@@ -38346,7 +38356,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "界面美化",
       "downloadUrl": "https://www.patreon.com/posts/110818388",
-      "image": "/images/trackers/Vyxated_activeobjretexture.jpg",
+      "image": "/images/trackers/Vyxated_activeobjretexture.png",
       "isDownloaded": false
     },
     {
@@ -38400,7 +38410,7 @@ export default {
       "type": "B核心必备",
       "subtype": "建筑工具",
       "downloadUrl": "https://www.patreon.com/posts/137620544?collection=478429",
-      "image": "/images/trackers/Vyxated_halfwallthumbnailoverrides.jpg",
+      "image": "/images/trackers/Vyxated_halfwallthumbnailoverrides.png",
       "isDownloaded": false
     },
     {
@@ -38421,7 +38431,7 @@ export default {
       "type": "B核心必备",
       "subtype": "建筑工具",
       "downloadUrl": "https://www.patreon.com/posts/highlight-133076520",
-      "image": "/images/trackers/Vyxated_highlightoutlineoverride.jpg",
+      "image": "/images/trackers/Vyxated_highlightoutlineoverride.png",
       "isDownloaded": false
     },
     {
@@ -38431,7 +38441,7 @@ export default {
       "type": "C人物创建",
       "subtype": "捏人功能",
       "downloadUrl": "https://www.patreon.com/posts/93254283?collection=226728",
-      "image": "/images/trackers/Vyxated_ReflectionFrontGlocasbackgroundcaslightingmod.jpg",
+      "image": "/images/trackers/Vyxated_ReflectionFrontGlocasbackgroundcaslightingmod.png",
       "isDownloaded": false
     },
     {
@@ -38441,7 +38451,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "界面美化",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-cursor-136401170",
-      "image": "/images/trackers/Vyxated_sims4cursoroverrides.jpg",
+      "image": "/images/trackers/Vyxated_sims4cursoroverrides.png",
       "isDownloaded": false
     },
     {
@@ -38485,7 +38495,7 @@ export default {
       "subtype": "小型事业",
       "downloadUrl": "https://www.patreon.com/posts/shopping-doesnt-123993350",
       "translationUrl": "https://www.patreon.com/posts/shopping-doesnt-124423156",
-      "image": "/images/trackers/WafflesMixIns_ShoppingDoesntEmptyShelves.jpg",
+      "image": "/images/trackers/WafflesMixIns_ShoppingDoesntEmptyShelves.png",
       "isDownloaded": false
     },
     {
@@ -38507,7 +38517,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-amusment-66873088",
       "translationUrl": "https://www.patreon.com/posts/waronkccde-yun-69945011",
-      "image": "/images/trackers/waronkcc_amusmentrollercostertogetherplay.jpg",
+      "image": "/images/trackers/waronkcc_amusmentrollercostertogetherplay.png",
       "isDownloaded": false
     },
     {
@@ -38541,7 +38551,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-fuction-73116320",
       "translationUrl": "https://www.patreon.com/posts/bumpercars-for-77499801",
-      "image": "/images/trackers/waronkcc_bumpercarsfuction.jpg",
+      "image": "/images/trackers/waronkcc_bumpercarsfuction.png",
       "isDownloaded": false
     },
     {
@@ -38563,7 +38573,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-carousel-69174678",
       "translationUrl": "https://www.patreon.com/posts/carousel-swing-74644865",
-      "image": "/images/trackers/waronkcc_carouselswingfuctiontogether.jpg",
+      "image": "/images/trackers/waronkcc_carouselswingfuctiontogether.png",
       "isDownloaded": false
     },
     {
@@ -38574,7 +38584,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-ferris-70608706",
       "translationUrl": "https://www.patreon.com/posts/ferris-wheel-ke-75484241",
-      "image": "/images/trackers/waronkcc_ferriswheelfuctiontogether.jpg",
+      "image": "/images/trackers/waronkcc_ferriswheelfuctiontogether.png",
       "isDownloaded": false
     },
     {
@@ -38585,7 +38595,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/go-cart-fuction-74434132",
       "translationUrl": "https://www.patreon.com/posts/go-cart-fuction-80198690",
-      "image": "/images/trackers/waronkcc_gocartfuctiontogether.jpg",
+      "image": "/images/trackers/waronkcc_gocartfuctiontogether.png",
       "isDownloaded": false
     },
     {
@@ -38596,7 +38606,7 @@ export default {
       "subtype": "其他家具",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-hammock-94482231",
       "translationUrl": "https://www.patreon.com/posts/hammock-fuction-99651804",
-      "image": "/images/trackers/waronkcc_hammockfuction.jpg",
+      "image": "/images/trackers/waronkcc_hammockfuction.png",
       "isDownloaded": false
     },
     {
@@ -38607,7 +38617,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-fuction-80934116",
       "translationUrl": "https://www.patreon.com/posts/lanzandera-gong-85092959",
-      "image": "/images/trackers/waronkcc_lanzanderafuction.jpg",
+      "image": "/images/trackers/waronkcc_lanzanderafuction.png",
       "isDownloaded": false
     },
     {
@@ -38618,7 +38628,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-pirate-93052075",
       "translationUrl": "https://www.patreon.com/posts/pirate-ship-ride-99652495",
-      "image": "/images/trackers/waronkcc_pirateshiprideammusment.jpg",
+      "image": "/images/trackers/waronkcc_pirateshiprideammusment.png",
       "isDownloaded": false
     },
     {
@@ -38629,7 +38639,7 @@ export default {
       "subtype": "其他家具",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-plane-63620793",
       "translationUrl": "https://www.patreon.com/posts/plane-fuction-ji-73208387",
-      "image": "/images/trackers/waronkcc_planefuction.jpg",
+      "image": "/images/trackers/waronkcc_planefuction.png",
       "isDownloaded": false
     },
     {
@@ -38640,7 +38650,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-skatepark-89907660",
       "translationUrl": "https://www.patreon.com/posts/skatepark-gong-99653620",
-      "image": "/images/trackers/waronkcc_skateparkfuction.jpg",
+      "image": "/images/trackers/waronkcc_skateparkfuction.png",
       "isDownloaded": false
     },
     {
@@ -38651,7 +38661,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-sled-77778298",
       "translationUrl": "https://www.patreon.com/posts/sled-water-ren-82569105",
-      "image": "/images/trackers/waronkcc_sledwatertogetherfuction.jpg",
+      "image": "/images/trackers/waronkcc_sledwatertogetherfuction.png",
       "isDownloaded": false
     },
     {
@@ -38662,7 +38672,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-new-pool-54378165",
       "translationUrl": "https://www.patreon.com/posts/new-object-pool-73209277",
-      "image": "/images/trackers/waronkcc_summerpack2.jpg",
+      "image": "/images/trackers/waronkcc_summerpack2.png",
       "isDownloaded": false
     },
     {
@@ -38673,7 +38683,7 @@ export default {
       "subtype": "游乐设施",
       "downloadUrl": "https://www.patreon.com/posts/sims-4-water-76198710",
       "translationUrl": "https://www.patreon.com/posts/water-coster-ren-81544035",
-      "image": "/images/trackers/waronkcc_watercosterfuctiontogether.jpg",
+      "image": "/images/trackers/waronkcc_watercosterfuctiontogether.png",
       "isDownloaded": false
     },
     {
@@ -38763,7 +38773,7 @@ export default {
       "subtype": "小型事业",
       "downloadUrl": "https://www.patreon.com/posts/functional-nail-146570715?utm_campaign=patron_engagement&utm_source=post_link&post_id=146570715&utm_id=1a076648-419e-45e4-884f-66ab30b0d1e4&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/3-5zhu-ti-geng-92391559",
-      "image": "/images/trackers/WICKEDPIXXEL_FUNCTIONALNAILSALONS.jpg",
+      "image": "/images/trackers/WICKEDPIXXEL_FUNCTIONALNAILSALONS.png",
       "isDownloaded": false
     },
     {
@@ -38774,7 +38784,7 @@ export default {
       "subtype": "演艺人员",
       "downloadUrl": "https://www.patreon.com/posts/music-industry-1-116471588",
       "translationUrl": "https://www.patreon.com/posts/3-11zhu-ti-geng-95209395",
-      "image": "/images/trackers/WICKEDPIXXEL_MUSICINDUSTRYMOD.jpg",
+      "image": "/images/trackers/WICKEDPIXXEL_MUSICINDUSTRYMOD.png",
       "isDownloaded": false
     },
     {
@@ -38839,45 +38849,59 @@ export default {
     {
       "id": "zeroassignnpcjobs",
       "title": "Assign NPC Jobs",
+      "chineseTitle": "指定NPC角色",
       "author": "Zero",
       "type": "B核心必备",
       "subtype": "市民管理",
       "downloadUrl": "https://www.patreon.com/posts/assign-npc-jobs-73945932",
       "translationUrl": "https://www.patreon.com/posts/assign-npc-jobs-120757305",
-      "image": "/images/trackers/Zero_AssignNPCJobs.jpg",
+      "image": "/images/trackers/Zero_AssignNPCJobs.webp",
       "isDownloaded": false
     },
     {
       "id": "zeroautonomousgosteadyandpropose",
       "title": "Autonomous Go Steady and Propose",
+      "chineseTitle": "自主提议浪漫关系",
       "author": "Zero",
       "type": "F互动系统",
       "subtype": "浪漫互动",
       "downloadUrl": "https://www.patreon.com/posts/bg-autonomous-go-52368400",
       "translationUrl": "https://www.patreon.com/posts/autonomous-go-zi-89748814",
-      "image": "/images/trackers/Zero_AutonomousGoSteadyandPropose.jpg",
+      "image": "/images/trackers/Zero_AutonomousGoSteadyandPropose.webp",
       "isDownloaded": false
     },
     {
       "id": "zerocallfamilyforhelpwithkids",
       "title": "Call Family for Help With Kids",
+      "chineseTitle": "让家人过来照顾孩子",
       "author": "Zero",
       "type": "F互动系统",
       "subtype": "儿童互动",
       "downloadUrl": "https://www.patreon.com/posts/call-family-for-117084253?utm_campaign=patron_engagement&utm_source=post_link&post_id=117084253&utm_id=5a3a91a5-1ee0-4b65-9e57-2593ff20bff8&utm_medium=email",
       "translationUrl": "https://www.patreon.com/posts/call-family-for-118466185",
-      "image": "/images/trackers/Zero_CallFamilyforHelpWithKids.jpg",
+      "image": "/images/trackers/Zero_CallFamilyforHelpWithKids.webp",
       "isDownloaded": false
     },
     {
       "id": "zerogoforajogtogether",
       "title": "Go for a Jog Together",
+      "chineseTitle": "一起散步",
       "author": "Zero",
       "type": "F互动系统",
       "subtype": "社交互动",
       "downloadUrl": "https://www.patreon.com/posts/bg-go-for-jog-50068048",
       "translationUrl": "https://www.patreon.com/posts/go-for-jog-yi-qi-70431492",
-      "image": "/images/trackers/Zero_GoforaJogTogether.jpg",
+      "image": "/images/trackers/Zero_GoforaJogTogether.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "brazenlotustartosamarketstalls",
+      "title": "Tartosa Market Stalls",
+      "author": "BrazenLotus",
+      "type": "H互动家具",
+      "subtype": "摊位设施",
+      "downloadUrl": "https://www.brazenlotus.com/object/tartosa-market-stalls",
+      "image": "/images/trackers/BrazenLotus_TartosaMarketStalls.jpg",
       "isDownloaded": false
     }
   ],
