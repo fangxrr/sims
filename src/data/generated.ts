@@ -35853,17 +35853,6 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "ravasheendragshopcommunitykiosk",
-      "title": "Drag Shop Community Kiosk",
-      "chineseTitle": "可以旅行/购买/上厕所的报刊亭",
-      "author": "Ravasheen",
-      "type": "H互动家具",
-      "subtype": "其他家具",
-      "downloadUrl": "https://ravasheen.com/download/drag-shop-community-kiosk/",
-      "image": "/images/trackers/Ravasheen_DragShopCommunityKiosk.png",
-      "isDownloaded": false
-    },
-    {
       "id": "ravasheeneasypeasylumensqueezyhiddenlights",
       "title": "Easy Peasy Lumen Squeezy Hidden Lights",
       "chineseTitle": "流明开光隐藏灯",
