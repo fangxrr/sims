@@ -137,9 +137,12 @@ export const CCTracker: React.FC = () => {
   const filteredItems = useMemo(() => {
     return CC_DATA.filter(item => {
       const title = item.title || '';
+      const chineseTitle = item.chineseTitle || '';
       const author = item.author || '';
-      const matchesSearch = title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-        author.toLowerCase().includes(searchQuery.toLowerCase());
+      const query = searchQuery.toLowerCase();
+      const matchesSearch = title.toLowerCase().includes(query) ||
+        chineseTitle.toLowerCase().includes(query) ||
+        author.toLowerCase().includes(query);
 
       const matchesFilters = Object.entries(activeFilters).every(([key, value]) => {
         if (key === 'isDownloaded') {

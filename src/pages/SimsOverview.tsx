@@ -63,7 +63,9 @@ export const SimsOverview: React.FC = () => {
 
   const filteredSims = useMemo(() => {
     return Object.values(SIMS_DATA).filter(sim => {
-      const matchesSearch = sim.name.toLowerCase().includes(searchQuery.toLowerCase());
+      const query = searchQuery.toLowerCase();
+      const matchesSearch = (sim.name || '').toLowerCase().includes(query) || 
+                            (sim.chineseName || '').toLowerCase().includes(query);
       const matchesFilters = Object.entries(activeFilters).every(([key, value]) => {
         if (key === 'homelessStatus') {
           if (value === 'Homeless') return sim.isHomeless === true;

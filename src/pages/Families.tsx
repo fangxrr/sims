@@ -23,8 +23,10 @@ export const Families: React.FC = () => {
   const filteredFamilies = useMemo(() => {
     return Object.values(FAMILIES_DATA).filter(family => {
       if (!family) return false;
-      const name = family.chineseName || family.name || '';
-      const matchesSearch = name.toLowerCase().includes(searchQuery.toLowerCase());
+      const name = family.name || '';
+      const chineseName = family.chineseName || '';
+      const query = searchQuery.toLowerCase();
+      const matchesSearch = name.toLowerCase().includes(query) || chineseName.toLowerCase().includes(query);
       const matchesWorld = selectedWorld ? family.world === selectedWorld : true;
       const matchesHousing = housingStatus === 'All'
         ? true

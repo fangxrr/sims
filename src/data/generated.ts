@@ -32059,7 +32059,7 @@ export default {
       "type": "B核心必备",
       "subtype": "其他工具",
       "downloadUrl": "https://www.patreon.com/posts/115248620",
-      "image": "/images/trackers/WafflesMixIns_akeHeirloomasCheat.jpg",
+      "image": "/images/trackers/WafflesMixIns_akeHeirloomasCheat.webp",
       "isDownloaded": false
     },
     {
@@ -32411,7 +32411,7 @@ export default {
       "title": "San Sequoia Bridge Override",
       "chineseTitle": "替换圣西果亚大桥",
       "author": "Alerionjkeee",
-      "type": "B核心必备",
+      "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.curseforge.com/sims4/mods/san-sequoia-bridge-override-by-alerion",
       "image": "/images/trackers/Alerionjkeee_SanSequoiaBridgeOverride.webp",
@@ -33035,7 +33035,7 @@ export default {
     {
       "id": "tiashaccwrenchoverride",
       "title": "CC Wrench Override",
-      "chineseTitle": "CC扳手",
+      "chineseTitle": "CC扳手替换",
       "author": "Tiasha",
       "type": "D视觉美化",
       "subtype": "界面美化",
@@ -33638,7 +33638,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/posts/computer-126595678",
-      "image": "/images/trackers/simkatu_computeranimationoverride.webp",
+      "image": "/images/trackers/simkatu_computeranimationoverride.jpg",
       "isDownloaded": false
     },
     {
@@ -33707,7 +33707,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "默认替换",
       "downloadUrl": "https://www.patreon.com/posts/93604981?collection=361649",
-      "image": "/images/trackers/Simsiboy_MatteReplacement.jpg",
+      "image": "/images/trackers/Simsiboy_MatteReplacement.png",
       "isDownloaded": false
     },
     {
@@ -35047,7 +35047,7 @@ export default {
       "title": "Carls Try to Make Friends Smart Interaction",
       "chineseTitle": "自动智慧交友",
       "author": "Carls Guides",
-      "type": "E功能模组",
+      "type": "F互动系统",
       "subtype": "社交互动",
       "downloadUrl": "https://www.patreon.com/posts/carls-try-to-v1-66817317",
       "translationUrl": "https://www.abonnie.uk/try-to-make-friends-smart-interaction",
@@ -35266,7 +35266,7 @@ export default {
       "subtype": "行人大修",
       "downloadUrl": "https://zerbu.tumblr.com/post/712256097134772224/the-sims-4-mod-spawn-refresh",
       "translationUrl": "https://www.patreon.com/posts/spawn-refresh-se-83622783",
-      "image": "/images/trackers/zerbu_SpawnRefresh.webp",
+      "image": "/images/trackers/zerbu_SpawnRefresh.jpg",
       "isDownloaded": false
     },
     {
@@ -38283,7 +38283,7 @@ export default {
       "subtype": "运动器材",
       "downloadUrl": "https://www.patreon.com/posts/mod-ballet-skill-101313993",
       "translationUrl": "https://www.patreon.com/posts/ballet-skill-ba-104094069",
-      "image": "/images/trackers/JaneSimsten_BalletSkill.jpg",
+      "image": "/images/trackers/JaneSimsten_BalletSkill.webp",
       "isDownloaded": false
     },
     {
