@@ -37074,6 +37074,7 @@ export default {
       "type": "G职业生涯",
       "subtype": "演艺人员",
       "downloadUrl": "https://simularity.cc/mods/tuning/awards-notifications/",
+      "translationUrl": "https://www.abonnie.uk/starlight-accolades-notification",
       "image": "/images/trackers/simularity_StarlightAccoladesNotification.webp",
       "isDownloaded": false
     },
