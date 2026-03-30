@@ -35853,17 +35853,6 @@ export default {
       "isDownloaded": false
     },
     {
-      "id": "ravasheenconsoleyourselfgamingmat",
-      "title": "Console Yourself Gaming Mat",
-      "chineseTitle": "地毯式动态游戏垫",
-      "author": "Ravasheen",
-      "type": "H互动家具",
-      "subtype": "游乐设施",
-      "downloadUrl": "https://ravasheen.com/download/console-yourself-gaming-mat/",
-      "image": "/images/trackers/Ravasheen_ConsoleYourselfGamingMat.jpg",
-      "isDownloaded": false
-    },
-    {
       "id": "ravasheendragshopcommunitykiosk",
       "title": "Drag Shop Community Kiosk",
       "chineseTitle": "可以旅行/购买/上厕所的报刊亭",
