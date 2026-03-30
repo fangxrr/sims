@@ -47,18 +47,7 @@ export const Families: React.FC = () => {
       >
         <div className="absolute inset-0 noise-overlay z-0 mix-blend-overlay"></div>
 
-        <div className="absolute top-0 left-0 w-full h-12 flex items-center px-5 border-b border-white/5 z-20 bg-white/5 backdrop-blur-md">
-          <div className="flex gap-2">
-            <div className="w-3 h-3 rounded-full bg-white/20 border border-white/5"></div>
-            <div className="w-3 h-3 rounded-full bg-white/20 border border-white/5"></div>
-            <div className="w-3 h-3 rounded-full bg-white/20 border border-white/5"></div>
-          </div>
-          <div className="mx-auto text-[10px] tracking-widest text-white/30 uppercase font-semibold pointer-events-none">
-            Families Overview.exe
-          </div>
-        </div>
-
-        <div className="flex-1 flex flex-col pt-12 overflow-hidden z-10">
+        <div className="flex-1 flex flex-col overflow-hidden z-10">
           <div className="px-4 py-4 md:px-8 md:py-6 flex items-center justify-between border-b border-white/5">
             <div className="flex items-center gap-3">
               <div className="p-2 rounded-full bg-white/5 border border-white/10">
