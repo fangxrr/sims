@@ -83,25 +83,13 @@ export const Notes: React.FC = () => {
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.5, ease: "easeOut" }}
-        className="glass-panel w-full h-full rounded-3xl overflow-hidden flex flex-col relative group"
+        className="w-full h-full overflow-hidden flex flex-col relative group"
       >
         {/* Noise Overlay */}
         <div className="absolute inset-0 noise-overlay z-0 mix-blend-overlay"></div>
         
-        {/* Window Header */}
-        <div className="absolute top-0 left-0 w-full h-12 flex items-center px-5 border-b border-white/5 z-20 bg-white/5 backdrop-blur-md">
-          <div className="flex gap-2">
-            <div className="w-3 h-3 rounded-full bg-white/20 border border-white/5"></div>
-            <div className="w-3 h-3 rounded-full bg-white/20 border border-white/5"></div>
-            <div className="w-3 h-3 rounded-full bg-white/20 border border-white/5"></div>
-          </div>
-          <div className="mx-auto text-[10px] tracking-widest text-white/30 uppercase font-semibold pointer-events-none">
-            Notes.exe
-          </div>
-        </div>
-
         {/* Content Area */}
-        <div className="flex-1 flex pt-12 overflow-hidden z-10 relative">
+        <div className="flex-1 flex overflow-hidden z-10 relative">
           
           {/* Sidebar - Note List */}
           <div 

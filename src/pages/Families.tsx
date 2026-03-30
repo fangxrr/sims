@@ -43,7 +43,7 @@ export const Families: React.FC = () => {
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.5, ease: "easeOut" }}
-        className="glass-panel w-full h-full rounded-3xl overflow-hidden flex flex-col relative group"
+        className="w-full h-full overflow-hidden flex flex-col relative group"
       >
         <div className="absolute inset-0 noise-overlay z-0 mix-blend-overlay"></div>
 
