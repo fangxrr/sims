@@ -37074,7 +37074,7 @@ export default {
       "type": "G职业生涯",
       "subtype": "演艺人员",
       "downloadUrl": "https://simularity.cc/mods/tuning/awards-notifications/",
-      "image": "/images/trackers/simularity_StarlightAccoladesNotification.webp",
+      "image": "/images/trackers/simularity_StarlightAccoladesNotification.jpg",
       "isDownloaded": false
     },
     {
