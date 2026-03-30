@@ -15,7 +15,7 @@ export const SimDetail: React.FC = () => {
 
   if (!sim) {
     return (
-      <main className="relative z-10 flex flex-col items-center justify-center h-full w-full px-8 pt-20 pb-32 text-white">
+      <main className="relative z-10 flex flex-col items-center justify-center h-full w-full px-8 pb-32 text-white">
         <p>Sim not found.</p>
         <button onClick={() => navigate(-1)} className="mt-4 underline">Go Back</button>
       </main>
@@ -23,7 +23,7 @@ export const SimDetail: React.FC = () => {
   }
 
   return (
-    <main className="relative z-10 flex flex-col items-center justify-center h-full w-full px-8 pt-20 pb-32">
+    <main className="relative z-10 flex flex-col items-center justify-center h-full w-full px-8 pb-32">
       <motion.div
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}

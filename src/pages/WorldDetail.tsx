@@ -61,7 +61,7 @@ export const WorldDetail: React.FC = () => {
   }, [baseWorld]);
 
   return (
-    <main className="relative z-10 flex flex-col items-center justify-start h-full w-full px-4 pt-20 pb-28 overflow-y-auto custom-scrollbar">
+    <main className="relative z-10 flex flex-col items-center justify-start h-full w-full px-4 pb-28 overflow-y-auto custom-scrollbar">
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}

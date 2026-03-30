@@ -89,7 +89,7 @@ export const Creators: React.FC = () => {
   }, [searchQuery, activeFilters]);
 
   return (
-    <main className="relative z-10 flex flex-col items-center justify-center h-full w-full px-4 pt-16 pb-20 md:px-12 md:pt-20 md:pb-28">
+    <main className="relative z-10 flex flex-col items-center justify-center h-full w-full px-4 pb-20 md:px-12 md:pb-28">
       <motion.div
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}

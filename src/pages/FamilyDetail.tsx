@@ -25,7 +25,7 @@ export const FamilyDetail: React.FC = () => {
   };
 
   return (
-    <main className="relative z-10 w-full h-full px-8 pt-14 pb-32 overflow-y-auto custom-scrollbar">
+    <main className="relative z-10 w-full h-full px-8 pb-32 overflow-y-auto custom-scrollbar">
 
       {/* Back Button */}
       <button

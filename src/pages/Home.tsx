@@ -8,7 +8,7 @@ export const Home: React.FC = () => {
   const navigate = useNavigate();
 
   return (
-    <main className="relative z-10 flex flex-col items-center justify-center h-full w-full px-4 pt-12 sm:pt-16 pb-20 sm:pb-28">
+    <main className="relative z-10 flex flex-col items-center justify-center h-full w-full px-4 pb-20 sm:pb-28">
       <motion.div 
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}

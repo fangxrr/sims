@@ -12,21 +12,19 @@ export const Layout: React.FC = () => {
       {/* Overlay for background darkening */}
       <div className="absolute inset-0 bg-[#050505]/60 pointer-events-none z-0"></div>
       
-      {/* Header */}
-      <header className="fixed top-0 left-0 w-full z-50 flex items-center justify-between px-6 py-3 bg-black/20 backdrop-blur-md border-b border-white/5">
-        <div className="flex items-center gap-4">
-          <div className="w-[12px] h-[16px] bg-white opacity-90" style={{ clipPath: 'polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%)' }}></div>
-          <span className="text-[11px] font-bold tracking-[0.15em] uppercase text-white/90">SIMS FILES</span>
-        </div>
-        
-        <div className="flex items-center gap-6 text-[10px] font-medium tracking-widest uppercase text-white/60">
-          {isMainPage ? (
+      {/* Floating Controls */}
+      <div className="fixed bottom-4 right-4 sm:bottom-6 sm:right-6 z-50">
+        {isMainPage ? (
+          <div className="bg-black/40 backdrop-blur-md border border-white/10 rounded-full px-4 py-2 text-[10px] font-medium tracking-widest uppercase text-white/60 shadow-lg">
             <DataManager />
-          ) : (
-            <Link to="/" className="hover:text-white transition-colors duration-300 cursor-pointer">Main</Link>
-          )}
-        </div>
-      </header>
+          </div>
+        ) : (
+          <Link to="/" className="flex items-center gap-2 px-4 py-2 sm:px-5 sm:py-2.5 rounded-full bg-black/40 backdrop-blur-md border border-white/10 text-[10px] font-bold tracking-widest uppercase text-white/80 hover:text-white hover:bg-white/10 transition-all duration-300 shadow-[0_0_15px_rgba(255,255,255,0.05)] group">
+            <div className="w-1.5 h-1.5 rounded-full bg-white/40 group-hover:bg-white transition-colors shadow-[0_0_5px_rgba(255,255,255,0.5)]"></div>
+            MAIN
+          </Link>
+        )}
+      </div>
 
       {/* Main Content Area */}
       <Outlet />
