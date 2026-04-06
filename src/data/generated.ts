@@ -38179,8 +38179,8 @@ export default {
       "title": "active obj retexture",
       "chineseTitle": "替换摆放框",
       "author": "Vyxated",
-      "type": "B核心必备",
-      "subtype": "建筑工具",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
       "downloadUrl": "https://www.patreon.com/posts/110818388",
       "image": "/images/trackers/Vyxated_activeobjretexture.png",
       "isDownloaded": false
@@ -38234,8 +38234,8 @@ export default {
       "title": "half wall thumbnail overrides",
       "chineseTitle": "替换半墙数字",
       "author": "Vyxated",
-      "type": "B核心必备",
-      "subtype": "建筑工具",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
       "downloadUrl": "https://www.patreon.com/posts/137620544?collection=478429",
       "image": "/images/trackers/Vyxated_halfwallthumbnailoverrides.png",
       "isDownloaded": false
@@ -38256,8 +38256,8 @@ export default {
       "title": "highlight outline override",
       "chineseTitle": "替换选择高光",
       "author": "Vyxated",
-      "type": "B核心必备",
-      "subtype": "建筑工具",
+      "type": "D视觉美化",
+      "subtype": "界面美化",
       "downloadUrl": "https://www.patreon.com/posts/highlight-133076520",
       "image": "/images/trackers/Vyxated_highlightoutlineoverride.png",
       "isDownloaded": false
