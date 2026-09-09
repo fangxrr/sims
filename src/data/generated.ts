@@ -246,7 +246,7 @@ export default {
       "maritalStatus": "Divorced",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/KimDennis.jpg",
+      "image": "/images/sims/KimDennis.png",
       "career": "无业",
       "aspiration": {
         "name": "显赫家世"
@@ -311,7 +311,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/LewisVivian.jpg",
+      "image": "/images/sims/LewisVivian.png",
       "career": "无业",
       "aspiration": {
         "name": "快乐大家庭"
@@ -376,7 +376,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/KimSpencerAlice.jpg",
+      "image": "/images/sims/KimSpencerAlice.png",
       "career": "无业",
       "aspiration": {
         "name": "非凡画家"
@@ -454,7 +454,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/LewisEric.jpg",
+      "image": "/images/sims/LewisEric.png",
       "career": "无业",
       "aspiration": {
         "name": "豪宅大王"
@@ -520,7 +520,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/LewisKimOlivia.jpg",
+      "image": "/images/sims/LewisKimOlivia.png",
       "career": "小学C",
       "aspiration": {
         "name": "艺术天才"
@@ -579,7 +579,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/PancakesBob.jpg",
+      "image": "/images/sims/PancakesBob.png",
       "career": "烹饪-三级",
       "aspiration": {
         "name": "妙手主厨"
@@ -633,7 +633,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/PancakesEliza.jpg",
+      "image": "/images/sims/PancakesEliza.png",
       "career": "无业",
       "aspiration": {
         "name": "豪宅大王"
@@ -683,7 +683,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/LeeLiberty.jpg",
+      "image": "/images/sims/LeeLiberty.png",
       "career": "太空人-二级",
       "aspiration": {
         "name": "书呆子的脑袋"
@@ -729,7 +729,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/HolidaySummer.jpg",
+      "image": "/images/sims/HolidaySummer.png",
       "career": "烹饪-二级",
       "aspiration": {
         "name": "世界之友"
@@ -779,7 +779,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/ScottTravis.jpg",
+      "image": "/images/sims/ScottTravis.png",
       "career": "科技达人-二级",
       "aspiration": {
         "name": "电脑神童"
@@ -825,7 +825,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/ZestJohnny.jpg",
+      "image": "/images/sims/ZestJohnny.png",
       "career": "演艺人员-二级",
       "aspiration": {
         "name": "喜剧之王"
@@ -882,7 +882,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/PatelZoe.jpg",
+      "image": "/images/sims/PatelZoe.png",
       "career": "无业",
       "aspiration": {
         "name": "世界之友"
@@ -932,7 +932,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/KalaniMitchell.jpg",
+      "image": "/images/sims/KalaniMitchell.png",
       "career": "烹饪-一级",
       "aspiration": {
         "name": "喜剧之王"
@@ -982,7 +982,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/HuntingtonIIIJ.jpg",
+      "image": "/images/sims/HuntingtonIIIJ.png",
       "career": "科技达人-二级",
       "aspiration": {
         "name": "健美运动员"
@@ -1032,7 +1032,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/RichardsGavin.jpg",
+      "image": "/images/sims/RichardsGavin.png",
       "career": "写作-二级",
       "aspiration": {
         "name": "畅销作家"
@@ -1078,7 +1078,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/CalienteKatrina.jpg",
+      "image": "/images/sims/CalienteKatrina.png",
       "career": "演艺人员-四级",
       "aspiration": {
         "name": "心灵伴侣"
@@ -1139,7 +1139,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/CalienteDina.jpg",
+      "image": "/images/sims/CalienteDina.png",
       "career": "烹饪-一级",
       "aspiration": {
         "name": "家财万万贯"
@@ -1197,7 +1197,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/CalienteNina.jpg",
+      "image": "/images/sims/CalienteNina.png",
       "career": "无业",
       "aspiration": {
         "name": "反派情人"
@@ -1251,7 +1251,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/LotharioDon.jpg",
+      "image": "/images/sims/LotharioDon.png",
       "career": "无业",
       "aspiration": {
         "name": "连环浪漫"
@@ -1297,7 +1297,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/LandgraabGeoffrey.jpg",
+      "image": "/images/sims/LandgraabGeoffrey.png",
       "career": "特务-五级",
       "aspiration": {
         "name": "显赫家世"
@@ -1362,7 +1362,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/LandgraabNancy.jpg",
+      "image": "/images/sims/LandgraabNancy.png",
       "career": "罪犯-五级",
       "aspiration": {
         "name": "家财万万贯"
@@ -1431,7 +1431,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
-      "image": "/images/sims/LandgraabMalcolm.jpg",
+      "image": "/images/sims/LandgraabMalcolm.png",
       "career": "高中C",
       "aspiration": {
         "name": "全民公敌"
@@ -1489,7 +1489,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/HaasMaaike.jpg",
+      "image": "/images/sims/HaasMaaike.png",
       "career": "写作-二级",
       "aspiration": {
         "name": "畅销作家"
@@ -1535,7 +1535,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/FaustUlrike.jpg",
+      "image": "/images/sims/FaustUlrike.png",
       "career": "画家-二级",
       "aspiration": {
         "name": "非凡画家"
@@ -1585,7 +1585,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/FyresDominic.jpg",
+      "image": "/images/sims/FyresDominic.png",
       "career": "演艺人员-四级",
       "aspiration": {
         "name": "音乐天才"
@@ -1646,7 +1646,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/FyresMoira.jpg",
+      "image": "/images/sims/FyresMoira.png",
       "career": "无业",
       "aspiration": {
         "name": "自由植物学家"
@@ -1703,7 +1703,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/FyresSiobhan.jpg",
+      "image": "/images/sims/FyresSiobhan.png",
       "career": "商业-二级",
       "aspiration": {
         "name": "群雄之首"
@@ -1764,7 +1764,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/FyresMorgan.jpg",
+      "image": "/images/sims/FyresMorgan.png",
       "career": "高中C",
       "aspiration": {
         "name": "派对动物"
@@ -1818,7 +1818,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/MunchMila.jpg",
+      "image": "/images/sims/MunchMila.png",
       "career": "烹饪-三级",
       "aspiration": {
         "name": "快乐大家庭"
@@ -1882,7 +1882,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/MunchGunther.jpg",
+      "image": "/images/sims/MunchGunther.png",
       "career": "写作-一级",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -1939,7 +1939,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/MunchWolfgang.jpg",
+      "image": "/images/sims/MunchWolfgang.png",
       "career": "高中C",
       "aspiration": {
         "name": "全民公敌"
@@ -1997,7 +1997,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/MunchLucas.jpg",
+      "image": "/images/sims/MunchLucas.png",
       "career": "小学C",
       "aspiration": {
         "name": "艺术天才"
@@ -2049,7 +2049,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/VillarealJacques.jpg",
+      "image": "/images/sims/VillarealJacques.png",
       "career": "罪犯-老大-九级",
       "aspiration": {
         "name": "全民公敌"
@@ -2105,7 +2105,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/VillarealLuna.jpg",
+      "image": "/images/sims/VillarealLuna.png",
       "career": "高中C",
       "aspiration": {
         "name": "世界之友"
@@ -2159,7 +2159,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/VillarealHugo.jpg",
+      "image": "/images/sims/VillarealHugo.png",
       "career": "高中C",
       "aspiration": {
         "name": "妙手主厨"
@@ -2213,7 +2213,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/VillarealMax.jpg",
+      "image": "/images/sims/VillarealMax.png",
       "career": "小学D",
       "aspiration": {
         "name": "天生好动"
@@ -2261,7 +2261,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/BjergsenBjorn.jpg",
+      "image": "/images/sims/BjergsenBjorn.png",
       "career": "特务-三级",
       "aspiration": {
         "name": "心灵伴侣"
@@ -2326,7 +2326,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/BjergsenClara.jpg",
+      "image": "/images/sims/BjergsenClara.png",
       "career": "烹饪-三级",
       "aspiration": {
         "name": "显赫家世"
@@ -2383,7 +2383,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/BjergsenSofia.jpg",
+      "image": "/images/sims/BjergsenSofia.png",
       "career": "高中C",
       "aspiration": {
         "name": "音乐天才"
@@ -2441,7 +2441,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/BjergsenElsa.jpg",
+      "image": "/images/sims/BjergsenElsa.png",
       "career": "小学B",
       "aspiration": {
         "name": "神童"
@@ -2489,7 +2489,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/LeChienJoaquin.jpg",
+      "image": "/images/sims/LeChienJoaquin.png",
       "career": "演艺人员-二级",
       "aspiration": {
         "name": "家财万万贯"
@@ -2539,7 +2539,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/RomeoSergio.jpg",
+      "image": "/images/sims/RomeoSergio.png",
       "career": "科技达人-二级",
       "aspiration": {
         "name": "家财万万贯"
@@ -2589,7 +2589,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/BehrYuki.jpg",
+      "image": "/images/sims/BehrYuki.png",
       "career": "高中C",
       "aspiration": {
         "name": "电脑神童"
@@ -2636,7 +2636,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/BehrCandy.jpg",
+      "image": "/images/sims/BehrCandy.png",
       "career": "演艺人员-二级",
       "aspiration": {
         "name": "派对动物"
@@ -2690,7 +2690,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/CapricciosaEva.jpg",
+      "image": "/images/sims/CapricciosaEva.png",
       "career": "无业",
       "aspiration": {
         "name": "连环浪漫"
@@ -2736,7 +2736,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/RosaJade.jpg",
+      "image": "/images/sims/RosaJade.png",
       "career": "商业-二级",
       "aspiration": {
         "name": "豪宅大王"
@@ -2786,7 +2786,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/FlexMarcus.jpg",
+      "image": "/images/sims/FlexMarcus.png",
       "career": "无业",
       "aspiration": {
         "name": "世界之友"
@@ -2836,7 +2836,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Windenburg",
       "worldId": "windenburg",
-      "image": "/images/sims/RoccaPaolo.jpg",
+      "image": "/images/sims/RoccaPaolo.png",
       "career": "运动员-二级",
       "aspiration": {
         "name": "健美运动员"
@@ -2890,7 +2890,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/RasoyaRaj.jpg",
+      "image": "/images/sims/RasoyaRaj.png",
       "career": "烹饪-主厨-七级",
       "aspiration": {
         "name": "快乐大家庭"
@@ -2944,7 +2944,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/RasoyaGeeta.jpg",
+      "image": "/images/sims/RasoyaGeeta.png",
       "career": "评论家-美食评论家-五级",
       "aspiration": {
         "name": "显赫家世"
@@ -3002,7 +3002,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/BheedaArun.jpg",
+      "image": "/images/sims/BheedaArun.png",
       "career": "科技达人-二级",
       "aspiration": {
         "name": "家财万万贯"
@@ -3056,7 +3056,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/BheedaJesminder.jpg",
+      "image": "/images/sims/BheedaJesminder.png",
       "career": "烹饪-调酒师-六级",
       "aspiration": {
         "name": "调酒大师"
@@ -3114,7 +3114,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/FengLily.jpg",
+      "image": "/images/sims/FengLily.png",
       "career": "商业-管理-九级",
       "aspiration": {
         "name": "豪宅大王"
@@ -3175,7 +3175,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/FengVictor.jpg",
+      "image": "/images/sims/FengVictor.png",
       "career": "政治家-八级",
       "aspiration": {
         "name": "家财万万贯"
@@ -3229,7 +3229,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/LoboDiego.jpg",
+      "image": "/images/sims/LoboDiego.png",
       "career": "评论家-艺术评论家-七级",
       "aspiration": {
         "name": "家财万万贯"
@@ -3283,7 +3283,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/PizzazzPenny.jpg",
+      "image": "/images/sims/PizzazzPenny.png",
       "career": "社群媒体-网络人格-八级",
       "aspiration": {
         "name": "城市本地人"
@@ -3341,7 +3341,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/KiboAkira.jpg",
+      "image": "/images/sims/KiboAkira.png",
       "career": "科技达人-一级",
       "aspiration": {
         "name": "馆长"
@@ -3391,7 +3391,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/OjoMiko.jpg",
+      "image": "/images/sims/OjoMiko.png",
       "career": "政治家-三级",
       "aspiration": {
         "name": "连环浪漫"
@@ -3445,7 +3445,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/WalshDarling.jpg",
+      "image": "/images/sims/WalshDarling.png",
       "career": "高中B",
       "aspiration": {
         "name": "狡黠之王"
@@ -3492,7 +3492,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/JangAnaya.jpg",
+      "image": "/images/sims/JangAnaya.png",
       "career": "画家-真实主宰-九级",
       "aspiration": {
         "name": "非凡画家"
@@ -3554,7 +3554,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/JangBaako.jpg",
+      "image": "/images/sims/JangBaako.png",
       "career": "演艺人员-谐星-九级",
       "aspiration": {
         "name": "喜剧之王"
@@ -3616,7 +3616,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/JangBillie.jpg",
+      "image": "/images/sims/JangBillie.png",
       "career": "小学A",
       "aspiration": {
         "name": "交际花"
@@ -3655,7 +3655,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
-      "image": "/images/sims/BenaliSalim.jpg",
+      "image": "/images/sims/BenaliSalim.png",
       "career": "写作-二级",
       "aspiration": {
         "name": "畅销作家"
@@ -3705,7 +3705,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Forgotten Hollow",
       "worldId": "forgottenhollow",
-      "image": "/images/sims/StraudVladislaus.jpg",
+      "image": "/images/sims/StraudVladislaus.png",
       "career": "无业",
       "aspiration": {
         "name": "大师吸血鬼"
@@ -3759,7 +3759,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Forgotten Hollow",
       "worldId": "forgottenhollow",
-      "image": "/images/sims/VatoreLilith.jpg",
+      "image": "/images/sims/VatoreLilith.png",
       "career": "无业",
       "aspiration": {
         "name": "吸血鬼家族"
@@ -3808,7 +3808,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Forgotten Hollow",
       "worldId": "forgottenhollow",
-      "image": "/images/sims/VatoreCaleb.jpg",
+      "image": "/images/sims/VatoreCaleb.png",
       "career": "无业",
       "aspiration": {
         "name": "善良吸血鬼"
@@ -3857,7 +3857,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
-      "image": "/images/sims/LynxCatarina.jpg",
+      "image": "/images/sims/LynxCatarina.png",
       "career": "烹饪-三级",
       "aspiration": {
         "name": "动物之友"
@@ -3911,7 +3911,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
-      "image": "/images/sims/DelgatoSupriya.jpg",
+      "image": "/images/sims/DelgatoSupriya.png",
       "career": "无业",
       "aspiration": {
         "name": "动物之友"
@@ -3976,7 +3976,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
-      "image": "/images/sims/DelgatoJustin.jpg",
+      "image": "/images/sims/DelgatoJustin.png",
       "career": "商业-五级",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -4041,7 +4041,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
-      "image": "/images/sims/DelgatoEvie.jpg",
+      "image": "/images/sims/DelgatoEvie.png",
       "aspiration": {},
       "traits": [
         {
@@ -4094,7 +4094,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
-      "image": "/images/sims/DelgatoPierce.jpg",
+      "image": "/images/sims/DelgatoPierce.png",
       "career": "小学B",
       "aspiration": {
         "name": "交际花"
@@ -4146,7 +4146,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
-      "image": "/images/sims/HeckingBrant.jpg",
+      "image": "/images/sims/HeckingBrant.png",
       "career": "运动员-健美选手-五级",
       "aspiration": {
         "name": "馆长"
@@ -4208,7 +4208,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Brindleton Bay",
       "worldId": "brindletonbay",
-      "image": "/images/sims/HeckingBrent.jpg",
+      "image": "/images/sims/HeckingBrent.png",
       "career": "画家-四级",
       "aspiration": {
         "name": "非凡画家"
@@ -4270,7 +4270,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/JeongVenessa.jpg",
+      "image": "/images/sims/JeongVenessa.png",
       "career": "演员-三级",
       "aspiration": {
         "name": "世界知名名人"
@@ -4323,7 +4323,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/WardJudith.jpg",
+      "image": "/images/sims/WardJudith.png",
       "career": "演员-八级",
       "aspiration": {
         "name": "豪宅大王"
@@ -4377,7 +4377,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/BaileyThorne.jpg",
+      "image": "/images/sims/BaileyThorne.png",
       "career": "演艺人员-音乐家-六级",
       "aspiration": {
         "name": "音乐天才"
@@ -4443,7 +4443,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/MoonOctavia.jpg",
+      "image": "/images/sims/MoonOctavia.png",
       "career": "写作-作者-六级",
       "aspiration": {
         "name": "畅销作家"
@@ -4501,7 +4501,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/BaileyMoonOrange.jpg",
+      "image": "/images/sims/BaileyMoonOrange.png",
       "career": "小学C",
       "aspiration": {
         "name": "交际花"
@@ -4557,7 +4557,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/ChoBrytani.jpg",
+      "image": "/images/sims/ChoBrytani.png",
       "career": "演艺人员-谐星-六级",
       "aspiration": {
         "name": "喜剧之王"
@@ -4611,7 +4611,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/DreamerDirk.jpg",
+      "image": "/images/sims/DreamerDirk.png",
       "career": "科技达人-六级",
       "aspiration": {
         "name": "电脑神童"
@@ -4661,7 +4661,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/BrokeDustin.jpg",
+      "image": "/images/sims/BrokeDustin.png",
       "career": "商业-六级",
       "aspiration": {
         "name": "家财万万贯"
@@ -4719,7 +4719,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/AltoHolly.jpg",
+      "image": "/images/sims/AltoHolly.png",
       "career": "画家-六级",
       "aspiration": {
         "name": "非凡画家"
@@ -4773,7 +4773,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/FabulousIzzy.jpg",
+      "image": "/images/sims/FabulousIzzy.png",
       "career": "风格潮流人士-造型师-六级",
       "aspiration": {
         "name": "派对动物"
@@ -4823,7 +4823,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/FlemmingKayla.jpg",
+      "image": "/images/sims/FlemmingKayla.png",
       "career": "运动员-健美选手-五级",
       "aspiration": {
         "name": "健美运动员"
@@ -4924,7 +4924,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/sims/SigworthJess.jpg",
+      "image": "/images/sims/SigworthJess.png",
       "career": "军事-三级",
       "aspiration": {
         "name": "显赫家世"
@@ -4986,7 +4986,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/sims/SigworthDylan.jpg",
+      "image": "/images/sims/SigworthDylan.png",
       "career": "无业",
       "aspiration": {
         "name": "书呆子的脑袋"
@@ -5048,7 +5048,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/sims/SigworthChristie.jpg",
+      "image": "/images/sims/SigworthChristie.png",
       "career": "小学C",
       "aspiration": {
         "name": "艺术天才"
@@ -5100,7 +5100,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/sims/CahillGeorge.jpg",
+      "image": "/images/sims/CahillGeorge.png",
       "career": "退休",
       "aspiration": {
         "name": "全民公敌"
@@ -5154,7 +5154,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/sims/EgglestonMark.jpg",
+      "image": "/images/sims/EgglestonMark.png",
       "career": "无业",
       "aspiration": {
         "name": "世界之友"
@@ -5208,7 +5208,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/sims/MartinAlice.jpg",
+      "image": "/images/sims/MartinAlice.png",
       "career": "无业",
       "aspiration": {
         "name": "非凡画家"
@@ -5262,7 +5262,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/sims/HollandLeslie.jpg",
+      "image": "/images/sims/HollandLeslie.png",
       "career": "无业",
       "aspiration": {
         "name": "畅销作家"
@@ -5316,7 +5316,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/sims/RoswellTed.jpg",
+      "image": "/images/sims/RoswellTed.png",
       "career": "无业",
       "aspiration": {
         "name": "家财万万贯"
@@ -5374,7 +5374,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/sims/RoswellMeredith.jpg",
+      "image": "/images/sims/RoswellMeredith.png",
       "career": "无业",
       "aspiration": {
         "name": "家财万万贯"
@@ -5436,7 +5436,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/sims/PriesErwin.jpg",
+      "image": "/images/sims/PriesErwin.png",
       "aspiration": {
         "name": "文艺复兴模拟市民"
       },
@@ -5489,7 +5489,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/NgataOliana.jpg",
+      "image": "/images/sims/NgataOliana.png",
       "career": "运动员-健美选手-五级",
       "aspiration": {
         "name": "健美运动员"
@@ -5547,7 +5547,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/IllesLeila.jpg",
+      "image": "/images/sims/IllesLeila.png",
       "career": "画家-四级",
       "aspiration": {
         "name": "非凡画家"
@@ -5605,7 +5605,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/NgataTane.jpg",
+      "image": "/images/sims/NgataTane.png",
       "career": "小学C",
       "aspiration": {
         "name": "神童"
@@ -5657,7 +5657,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/KahananuiAlika.jpg",
+      "image": "/images/sims/KahananuiAlika.png",
       "career": "商业-四级",
       "aspiration": {
         "name": "家财万万贯"
@@ -5715,7 +5715,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/KahananuiMele.jpg",
+      "image": "/images/sims/KahananuiMele.png",
       "career": "商业-四级",
       "aspiration": {
         "name": "豪宅大王"
@@ -5773,7 +5773,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/HoapiliKeala.jpg",
+      "image": "/images/sims/HoapiliKeala.png",
       "career": "无业",
       "aspiration": {
         "name": "自由植物学家"
@@ -5827,7 +5827,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/HauataLia.jpg",
+      "image": "/images/sims/HauataLia.png",
       "career": "写作-四级",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -5881,7 +5881,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/KealohaMakoa.jpg",
+      "image": "/images/sims/KealohaMakoa.png",
       "career": "自然资源保护人士-三级",
       "aspiration": {
         "name": "显赫家世"
@@ -5950,7 +5950,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/KealohaLilliana.jpg",
+      "image": "/images/sims/KealohaLilliana.png",
       "career": "烹饪-调酒师-六级",
       "aspiration": {
         "name": "快乐大家庭"
@@ -6016,7 +6016,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/TallaDuane.jpg",
+      "image": "/images/sims/TallaDuane.png",
       "career": "高中C",
       "aspiration": {
         "name": "王牌钓手"
@@ -6071,7 +6071,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/KealohaNani.jpg",
+      "image": "/images/sims/KealohaNani.png",
       "aspiration": {},
       "traits": [
         {
@@ -6124,7 +6124,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/MahiaiNalani.jpg",
+      "image": "/images/sims/MahiaiNalani.png",
       "aspiration": {
         "name": "海滩生活"
       },
@@ -6173,7 +6173,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/IonaKalamainuu.jpg",
+      "image": "/images/sims/IonaKalamainuu.png",
       "aspiration": {
         "name": "狡黠之王"
       },
@@ -6222,7 +6222,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/HekekiaUkupanipo.jpg",
+      "image": "/images/sims/HekekiaUkupanipo.png",
       "aspiration": {
         "name": "海滩生活"
       },
@@ -6275,7 +6275,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/sims/UhaPakaa.jpg",
+      "image": "/images/sims/UhaPakaa.png",
       "aspiration": {
         "name": "世界之友"
       },
@@ -6324,7 +6324,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/ClarkeBecca.jpg",
+      "image": "/images/sims/ClarkeBecca.png",
       "career": "大学",
       "aspiration": {
         "name": "学术"
@@ -6374,7 +6374,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/WrightJulia.jpg",
+      "image": "/images/sims/WrightJulia.png",
       "career": "大学",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -6424,7 +6424,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/ElderberryEkram.jpg",
+      "image": "/images/sims/ElderberryEkram.png",
       "career": "无业",
       "aspiration": {
         "name": "王牌钓手"
@@ -6482,7 +6482,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/ElderberryEleanore.jpg",
+      "image": "/images/sims/ElderberryEleanore.png",
       "career": "无业",
       "aspiration": {
         "name": "显赫家世"
@@ -6540,7 +6540,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/ElderberryRohan.jpg",
+      "image": "/images/sims/ElderberryRohan.png",
       "career": "高中A",
       "aspiration": {
         "name": "学术"
@@ -6594,7 +6594,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/PleasantAngela.jpg",
+      "image": "/images/sims/PleasantAngela.png",
       "career": "大学",
       "aspiration": {
         "name": "非凡画家"
@@ -6652,7 +6652,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/PleasantLilith.jpg",
+      "image": "/images/sims/PleasantLilith.png",
       "career": "大学",
       "aspiration": {
         "name": "全民公敌"
@@ -6710,7 +6710,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/FletcherCameron.jpg",
+      "image": "/images/sims/FletcherCameron.png",
       "career": "大学",
       "aspiration": {
         "name": "电脑神童"
@@ -6756,7 +6756,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/BhamraSerena.jpg",
+      "image": "/images/sims/BhamraSerena.png",
       "aspiration": {
         "name": "全民公敌"
       },
@@ -6809,7 +6809,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/FenJing.jpg",
+      "image": "/images/sims/FenJing.png",
       "aspiration": {
         "name": "狡黠之王"
       },
@@ -6862,7 +6862,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/JabariThomas.jpg",
+      "image": "/images/sims/JabariThomas.png",
       "aspiration": {
         "name": "文艺复兴模拟市民"
       },
@@ -6915,7 +6915,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/sims/McKinnonLana.jpg",
+      "image": "/images/sims/McKinnonLana.png",
       "aspiration": {
         "name": "电脑神童"
       },
@@ -6967,7 +6967,7 @@ export default {
       "age": "Elder",
       "maritalStatus": "Single",
       "worldId": "glimmerok",
-      "image": "/images/sims/CharmMinerva.jpg",
+      "image": "/images/sims/CharmMinerva.png",
       "career": "无业",
       "aspiration": {
         "name": "书呆子的脑袋"
@@ -7035,7 +7035,7 @@ export default {
       "age": "Teen",
       "maritalStatus": "Single",
       "worldId": "glimmerok",
-      "image": "/images/sims/CharmGemma.jpg",
+      "image": "/images/sims/CharmGemma.png",
       "career": "高中B",
       "aspiration": {
         "name": "魔法与巫术"
@@ -7104,7 +7104,7 @@ export default {
       "age": "Young Adult",
       "maritalStatus": "Engaged",
       "worldId": "glimmerok",
-      "image": "/images/sims/CharmDarrel.jpg",
+      "image": "/images/sims/CharmDarrel.png",
       "career": "商业-二级",
       "aspiration": {
         "name": "心灵伴侣"
@@ -7176,7 +7176,7 @@ export default {
       "age": "Young Adult",
       "maritalStatus": "Engaged",
       "worldId": "glimmerok",
-      "image": "/images/sims/ErnestEmilia.jpg",
+      "image": "/images/sims/ErnestEmilia.png",
       "career": "烹饪-调酒师-六级",
       "aspiration": {
         "name": "药水供应商"
@@ -7233,7 +7233,7 @@ export default {
       "age": "Young Adult",
       "maritalStatus": "Single",
       "worldId": "glimmerok",
-      "image": "/images/sims/AnansiGrace.jpg",
+      "image": "/images/sims/AnansiGrace.png",
       "career": "科技达人-一级",
       "aspiration": {
         "name": "药水供应商"
@@ -7290,7 +7290,7 @@ export default {
       "age": "Young Adult",
       "maritalStatus": "Single",
       "worldId": "glimmerok",
-      "image": "/images/sims/ColletteTomax.jpg",
+      "image": "/images/sims/ColletteTomax.png",
       "career": "写作-一级",
       "aspiration": {
         "name": "魔法与巫术"
@@ -7347,7 +7347,7 @@ export default {
       "age": "Young Adult",
       "maritalStatus": "Single",
       "worldId": "glimmerok",
-      "image": "/images/sims/EmberMorgyn.jpg",
+      "image": "/images/sims/EmberMorgyn.png",
       "aspiration": {
         "name": "魔法与巫术"
       },
@@ -7386,7 +7386,7 @@ export default {
       "age": "Adult",
       "maritalStatus": "Single",
       "worldId": "glimmerok",
-      "image": "/images/sims/FabaL.jpg",
+      "image": "/images/sims/FabaL.png",
       "aspiration": {
         "name": "狡黠之王"
       },
@@ -7442,7 +7442,7 @@ export default {
       "age": "Adult",
       "maritalStatus": "Single",
       "worldId": "glimmerok",
-      "image": "/images/sims/SilversweaterSimeon.jpg",
+      "image": "/images/sims/SilversweaterSimeon.png",
       "aspiration": {
         "name": "文艺复兴模拟市民"
       },
@@ -7495,7 +7495,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/HarrisCletus.jpg",
+      "image": "/images/sims/HarrisCletus.png",
       "career": "无业",
       "aspiration": {
         "name": "快乐大家庭"
@@ -7560,7 +7560,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/HarrisFaye.jpg",
+      "image": "/images/sims/HarrisFaye.png",
       "career": "烹饪-主厨-六级",
       "aspiration": {
         "name": "妙手主厨"
@@ -7629,7 +7629,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/HarrisJeb.jpg",
+      "image": "/images/sims/HarrisJeb.png",
       "career": "高中C",
       "aspiration": {
         "name": "心灵伴侣"
@@ -7691,7 +7691,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/HarrisGideon.jpg",
+      "image": "/images/sims/HarrisGideon.png",
       "career": "小学C",
       "aspiration": {
         "name": "交际花"
@@ -7739,7 +7739,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/SpencerFrancine.jpg",
+      "image": "/images/sims/SpencerFrancine.png",
       "career": "无业",
       "aspiration": {
         "name": "连环浪漫"
@@ -7804,7 +7804,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/TinkerTina.jpg",
+      "image": "/images/sims/TinkerTina.png",
       "career": "自由工作者-工匠",
       "aspiration": {
         "name": "自造大师"
@@ -7862,7 +7862,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/TinkerYasemin.jpg",
+      "image": "/images/sims/TinkerYasemin.png",
       "career": "自由工作者-作家",
       "aspiration": {
         "name": "畅销作家"
@@ -7920,7 +7920,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/TinkerOlive.jpg",
+      "image": "/images/sims/TinkerOlive.png",
       "career": "小学C",
       "aspiration": {
         "name": "艺术天才"
@@ -8090,7 +8090,7 @@ export default {
       "age": "Young Adult",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/GreenburgKnox.jpg",
+      "image": "/images/sims/GreenburgKnox.png",
       "career": "无业",
       "aspiration": {
         "name": "环保改革者"
@@ -8150,7 +8150,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/GreenburgMary.jpg",
+      "image": "/images/sims/GreenburgMary.png",
       "career": "无业",
       "aspiration": {
         "name": "自由植物学家"
@@ -8207,7 +8207,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Evergreen Harbor",
       "worldId": "evergreenharbor",
-      "image": "/images/sims/GreenburgBlossom.jpg",
+      "image": "/images/sims/GreenburgBlossom.png",
       "career": "无业",
       "aspiration": {
         "name": "自造大师"
@@ -8261,7 +8261,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/ItoNaoki.jpg",
+      "image": "/images/sims/ItoNaoki.png",
       "career": "商业-六级",
       "aspiration": {
         "name": "显赫家世"
@@ -8329,7 +8329,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/ItoMegumi.jpg",
+      "image": "/images/sims/ItoMegumi.png",
       "career": "商业-六级",
       "aspiration": {
         "name": "极限运动爱好者"
@@ -8397,7 +8397,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/ItoKiyoshi.jpg",
+      "image": "/images/sims/ItoKiyoshi.png",
       "career": "高中C",
       "aspiration": {
         "name": "极限运动爱好者"
@@ -8462,7 +8462,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/ItoNanami.jpg",
+      "image": "/images/sims/ItoNanami.png",
       "career": "小学C",
       "aspiration": {
         "name": "天生好动"
@@ -8513,7 +8513,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/NishidakeShigeru.jpg",
+      "image": "/images/sims/NishidakeShigeru.png",
       "career": "无业",
       "aspiration": {
         "name": "快乐大家庭"
@@ -8586,7 +8586,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/NishidakeSachiko.jpg",
+      "image": "/images/sims/NishidakeSachiko.png",
       "career": "无业",
       "aspiration": {
         "name": "快乐大家庭"
@@ -8655,7 +8655,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/NishidakeKaori.jpg",
+      "image": "/images/sims/NishidakeKaori.png",
       "career": "高中C",
       "aspiration": {
         "name": "极限运动爱好者"
@@ -8724,7 +8724,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/AkiyamaKado.jpg",
+      "image": "/images/sims/AkiyamaKado.png",
       "career": "上班族-专家-五级",
       "aspiration": {
         "name": "木漏隙光山观景者"
@@ -8796,7 +8796,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/AkiyamaJenna.jpg",
+      "image": "/images/sims/AkiyamaJenna.png",
       "career": "上班族-主管-六级",
       "aspiration": {
         "name": "木漏隙光山观景者"
@@ -8864,7 +8864,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/AkiyamaTaku.jpg",
+      "image": "/images/sims/AkiyamaTaku.png",
       "career": "小学C",
       "aspiration": {
         "name": "艺术天才"
@@ -8919,7 +8919,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
-      "image": "/images/sims/AkiyamaMiki.jpg",
+      "image": "/images/sims/AkiyamaMiki.png",
       "career": "小学C",
       "aspiration": {
         "name": "交际花"
@@ -8974,7 +8974,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/MoodyIan.jpg",
+      "image": "/images/sims/MoodyIan.png",
       "career": "退休",
       "aspiration": {
         "name": "世界之友"
@@ -9052,7 +9052,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/McMillanDerek.jpg",
+      "image": "/images/sims/McMillanDerek.png",
       "career": "退休",
       "aspiration": {
         "name": "畅销作家"
@@ -9126,7 +9126,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/WatsonImran.jpg",
+      "image": "/images/sims/WatsonImran.png",
       "career": "小学C",
       "aspiration": {
         "name": "天生好动"
@@ -9185,7 +9185,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/WatsonMaira.jpg",
+      "image": "/images/sims/WatsonMaira.png",
       "career": "小学B",
       "aspiration": {
         "name": "艺术天才"
@@ -9244,7 +9244,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/WatsonRahmi.jpg",
+      "image": "/images/sims/WatsonRahmi.png",
       "career": "风格潮流人士-二级",
       "aspiration": {
         "name": "馆长"
@@ -9320,7 +9320,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/WatsonRashidah.jpg",
+      "image": "/images/sims/WatsonRashidah.png",
       "career": "高中C",
       "aspiration": {
         "name": "心灵伴侣"
@@ -9385,7 +9385,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/WatsonThomas.jpg",
+      "image": "/images/sims/WatsonThomas.png",
       "career": "无业",
       "aspiration": {
         "name": "乡村管理人"
@@ -9461,7 +9461,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/KangCecilia.jpg",
+      "image": "/images/sims/KangCecilia.png",
       "career": "自由工作者-程式设计师",
       "aspiration": {
         "name": "乡村管理人"
@@ -9531,7 +9531,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/ScottSimon.jpg",
+      "image": "/images/sims/ScottSimon.png",
       "career": "无业",
       "aspiration": {
         "name": "快乐大家庭"
@@ -9597,7 +9597,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/ScottSara.jpg",
+      "image": "/images/sims/ScottSara.png",
       "career": "NPC",
       "aspiration": {
         "name": "派对动物"
@@ -9655,7 +9655,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/CrumplebottomAgnes.jpg",
+      "image": "/images/sims/CrumplebottomAgnes.png",
       "career": "NPC",
       "aspiration": {
         "name": "自由植物学家"
@@ -9717,7 +9717,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/CrumplebottomAgatha.jpg",
+      "image": "/images/sims/CrumplebottomAgatha.png",
       "career": "NPC",
       "aspiration": {
         "name": "连环浪漫"
@@ -9783,7 +9783,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/BellMichael.jpg",
+      "image": "/images/sims/BellMichael.png",
       "career": "NPC",
       "aspiration": {
         "name": "乡村管理人"
@@ -9853,7 +9853,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/ChopraRahul.jpg",
+      "image": "/images/sims/ChopraRahul.png",
       "career": "高中C",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -9912,7 +9912,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/ChopraLavina.jpg",
+      "image": "/images/sims/ChopraLavina.png",
       "career": "NPC",
       "aspiration": {
         "name": "显赫家世"
@@ -9982,7 +9982,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/sims/GoldbloomKim.jpg",
+      "image": "/images/sims/GoldbloomKim.png",
       "career": "NPC",
       "aspiration": {
         "name": "世界之友"
@@ -10040,7 +10040,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/LaurentGreta.jpg",
+      "image": "/images/sims/LaurentGreta.png",
       "career": "高中A",
       "aspiration": {
         "name": "自由植物学家"
@@ -10102,7 +10102,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/LaurentHector.jpg",
+      "image": "/images/sims/LaurentHector.png",
       "career": "无业",
       "aspiration": {
         "name": "调酒大师"
@@ -10175,7 +10175,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/LaurentHilary.jpg",
+      "image": "/images/sims/LaurentHilary.png",
       "career": "烹饪-三级",
       "aspiration": {
         "name": "妙手主厨"
@@ -10252,7 +10252,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/LaurentJace.jpg",
+      "image": "/images/sims/LaurentJace.png",
       "career": "小学C",
       "aspiration": {
         "name": "交际花"
@@ -10312,7 +10312,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/ThebeArnessa.jpg",
+      "image": "/images/sims/ThebeArnessa.png",
       "career": "无业",
       "aspiration": {
         "name": "显赫家世"
@@ -10377,7 +10377,7 @@ export default {
       "maritalStatus": "Engaged",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/MarkovicMateo.jpg",
+      "image": "/images/sims/MarkovicMateo.png",
       "career": "演艺人员-音乐家-七级",
       "aspiration": {
         "name": "快乐大家庭"
@@ -10439,7 +10439,7 @@ export default {
       "maritalStatus": "Engaged",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/MarkovicLucia.jpg",
+      "image": "/images/sims/MarkovicLucia.png",
       "career": "演艺人员-音乐家-七级",
       "aspiration": {
         "name": "音乐天才"
@@ -10501,7 +10501,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/MarkovicTomi.jpg",
+      "image": "/images/sims/MarkovicTomi.png",
       "career": "小学D",
       "aspiration": {
         "name": "艺术天才"
@@ -10553,7 +10553,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/JaleelFaiz.jpg",
+      "image": "/images/sims/JaleelFaiz.png",
       "career": "NPC",
       "aspiration": {
         "name": "心灵伴侣"
@@ -10607,7 +10607,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/SotoCamille.jpg",
+      "image": "/images/sims/SotoCamille.png",
       "career": "退休",
       "aspiration": {
         "name": "畅销作家"
@@ -10676,7 +10676,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/sims/SotoDominique.jpg",
+      "image": "/images/sims/SotoDominique.png",
       "career": "退休",
       "aspiration": {
         "name": "非凡画家"
@@ -10738,7 +10738,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/PriceJanae.jpg",
+      "image": "/images/sims/PriceJanae.png",
       "career": "商业-五级",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -10806,7 +10806,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/PriceMarcel.jpg",
+      "image": "/images/sims/PriceMarcel.png",
       "career": "写作-作者-七级",
       "aspiration": {
         "name": "书呆子的脑袋"
@@ -10874,7 +10874,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/PriceJayden.jpg",
+      "image": "/images/sims/PriceJayden.png",
       "career": "小学C",
       "aspiration": {
         "name": "交际花"
@@ -10929,7 +10929,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/PriceSavannah.jpg",
+      "image": "/images/sims/PriceSavannah.png",
       "career": "高中C",
       "aspiration": {
         "name": "电脑神童"
@@ -10986,7 +10986,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/PriceSidney.jpg",
+      "image": "/images/sims/PriceSidney.png",
       "career": "高中C",
       "aspiration": {
         "name": "世界之友"
@@ -11047,7 +11047,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/PuriKevin.jpg",
+      "image": "/images/sims/PuriKevin.png",
       "career": "高中C",
       "aspiration": {
         "name": "目标导向"
@@ -11094,7 +11094,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/PrescottAmy.jpg",
+      "image": "/images/sims/PrescottAmy.png",
       "career": "小学C",
       "aspiration": {
         "name": "天生好动"
@@ -11147,7 +11147,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/PrescottMei.jpg",
+      "image": "/images/sims/PrescottMei.png",
       "career": "NPC",
       "aspiration": {
         "name": "显赫家世"
@@ -11212,7 +11212,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/PrescottMolly.jpg",
+      "image": "/images/sims/PrescottMolly.png",
       "career": "高中C",
       "aspiration": {
         "name": "音乐天才"
@@ -11275,7 +11275,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/LumTai.jpg",
+      "image": "/images/sims/LumTai.png",
       "career": "NPC",
       "aspiration": {
         "name": "王牌钓手"
@@ -11336,7 +11336,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/HarjoAsh.jpg",
+      "image": "/images/sims/HarjoAsh.png",
       "career": "高中C",
       "aspiration": {
         "name": "霸气偶像"
@@ -11398,7 +11398,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/HarjoAva.jpg",
+      "image": "/images/sims/HarjoAva.png",
       "career": "NPC",
       "aspiration": {
         "name": "妙手主厨"
@@ -11463,7 +11463,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/HarjoLucha.jpg",
+      "image": "/images/sims/HarjoLucha.png",
       "career": "烹饪-二级",
       "aspiration": {
         "name": "妙手主厨"
@@ -11524,7 +11524,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/KaneNoah.jpg",
+      "image": "/images/sims/KaneNoah.png",
       "career": "高中C",
       "aspiration": {
         "name": "狡黠之王"
@@ -11582,7 +11582,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/MorlindAnjelo.jpg",
+      "image": "/images/sims/MorlindAnjelo.png",
       "career": "NPC",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -11640,7 +11640,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/HiddlestixEloise.jpg",
+      "image": "/images/sims/HiddlestixEloise.png",
       "career": "NPC",
       "aspiration": {
         "name": "家财万万贯"
@@ -11690,7 +11690,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/sims/CoombesRita.jpg",
+      "image": "/images/sims/CoombesRita.png",
       "career": "NPC",
       "aspiration": {
         "name": "馆长"
@@ -11744,7 +11744,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/sims/VolkovKristopher.jpg",
+      "image": "/images/sims/VolkovKristopher.png",
       "career": "自由工作者-程式设计师",
       "aspiration": {
         "name": "显赫家世"
@@ -11817,7 +11817,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/sims/VolkovJacob.jpg",
+      "image": "/images/sims/VolkovJacob.png",
       "career": "高中A",
       "aspiration": {
         "name": "联合会使节"
@@ -11880,7 +11880,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/sims/ZhuLily.jpg",
+      "image": "/images/sims/ZhuLily.png",
       "career": "无业",
       "aspiration": {
         "name": "世界之友"
@@ -11949,7 +11949,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/sims/HowellLou.jpg",
+      "image": "/images/sims/HowellLou.png",
       "career": "无业",
       "aspiration": {
         "name": "狼人始业式"
@@ -12015,7 +12015,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/sims/LopezCelene.jpg",
+      "image": "/images/sims/LopezCelene.png",
       "career": "NPC",
       "aspiration": {
         "name": "社区知己"
@@ -12076,7 +12076,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/sims/OaklowRory.jpg",
+      "image": "/images/sims/OaklowRory.png",
       "career": "自由工作者",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -12150,7 +12150,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/sims/WilderWolfgang.jpg",
+      "image": "/images/sims/WilderWolfgang.png",
       "career": "NPC",
       "aspiration": {
         "name": "畅销作家"
@@ -12208,7 +12208,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/sims/Greg.jpg",
+      "image": "/images/sims/Greg.png",
       "career": "无业",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -12249,7 +12249,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/RoblesJay.jpg",
+      "image": "/images/sims/RoblesJay.png",
       "career": "自由工作者",
       "aspiration": {
         "name": "妙手主厨"
@@ -12322,7 +12322,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/RuanoDoli.jpg",
+      "image": "/images/sims/RuanoDoli.png",
       "career": "风格潮流人士-风潮引领者-八级",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -12376,7 +12376,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/RuanoTala.jpg",
+      "image": "/images/sims/RuanoTala.png",
       "aspiration": {},
       "traits": [
         {
@@ -12426,7 +12426,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/RoblesIgnacio.jpg",
+      "image": "/images/sims/RoblesIgnacio.png",
       "career": "退休",
       "aspiration": {
         "name": "连环浪漫"
@@ -12497,7 +12497,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/RoblesBernice.jpg",
+      "image": "/images/sims/RoblesBernice.png",
       "career": "商业-投资人-九级",
       "aspiration": {
         "name": "王牌钓手"
@@ -12578,7 +12578,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/RoblesIan.jpg",
+      "image": "/images/sims/RoblesIan.png",
       "career": "写作-作者-九级",
       "aspiration": {
         "name": "显赫家世"
@@ -12653,7 +12653,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/RoblesAurelio.jpg",
+      "image": "/images/sims/RoblesAurelio.png",
       "career": "高中B",
       "aspiration": {
         "name": "音乐天才"
@@ -12717,7 +12717,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/MichaelsonCeleste.jpg",
+      "image": "/images/sims/MichaelsonCeleste.png",
       "career": "科技达人-创新企业家-十级",
       "aspiration": {
         "name": "快乐大家庭"
@@ -12778,7 +12778,7 @@ export default {
       "maritalStatus": "Married",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/MichaelsonChristopher.jpg",
+      "image": "/images/sims/MichaelsonChristopher.png",
       "career": "科技达人-创新企业家-九级",
       "aspiration": {
         "name": "书呆子的脑袋"
@@ -12843,7 +12843,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/MichaelsonAtlas.jpg",
+      "image": "/images/sims/MichaelsonAtlas.png",
       "career": "小学C",
       "aspiration": {
         "name": "游玩时间队长"
@@ -12886,7 +12886,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/MichaelsonOrion.jpg",
+      "image": "/images/sims/MichaelsonOrion.png",
       "aspiration": {},
       "traits": [
         {
@@ -12926,7 +12926,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/LunaXochitl.jpg",
+      "image": "/images/sims/LunaXochitl.png",
       "career": "运动员-职业运动员-八级",
       "aspiration": {
         "name": "心灵伴侣"
@@ -12984,7 +12984,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/SullivanEleanor.jpg",
+      "image": "/images/sims/SullivanEleanor.png",
       "career": "保姆-三级",
       "aspiration": {
         "name": "狡黠之王"
@@ -13042,7 +13042,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/LunaKarmine.jpg",
+      "image": "/images/sims/LunaKarmine.png",
       "career": "小学C",
       "aspiration": {
         "name": "创意 天才"
@@ -13082,7 +13082,7 @@ export default {
       "maritalStatus": "Single",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/sims/KylesonKyle.jpg",
+      "image": "/images/sims/KylesonKyle.png",
       "career": "无业",
       "aspiration": {
         "name": "派对动物"
@@ -13132,7 +13132,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Chestnut Ridge",
       "worldId": "chestnutridge",
-      "image": "/images/sims/GoosemanDon.jpg",
+      "image": "/images/sims/GoosemanDon.png",
       "career": "无业",
       "aspiration": {
         "name": "王牌钓手"
@@ -13186,7 +13186,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Chestnut Ridge",
       "worldId": "chestnutridge",
-      "image": "/images/sims/TraceyMarissa.jpg",
+      "image": "/images/sims/TraceyMarissa.png",
       "career": "无业",
       "aspiration": {
         "name": "家财万万贯"
@@ -13244,7 +13244,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Chestnut Ridge",
       "worldId": "chestnutridge",
-      "image": "/images/sims/DavilaDani.jpg",
+      "image": "/images/sims/DavilaDani.png",
       "career": "无业",
       "aspiration": {
         "name": "佳酿制作专家"
@@ -13310,7 +13310,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Chestnut Ridge",
       "worldId": "chestnutridge",
-      "image": "/images/sims/GroveUmber.jpg",
+      "image": "/images/sims/GroveUmber.png",
       "career": "自由工作者-数位艺术家",
       "aspiration": {
         "name": "快乐大家庭"
@@ -13376,7 +13376,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Chestnut Ridge",
       "worldId": "chestnutridge",
-      "image": "/images/sims/GroveJuniper.jpg",
+      "image": "/images/sims/GroveJuniper.png",
       "career": "无业",
       "aspiration": {
         "name": "自由植物学家"
@@ -13446,7 +13446,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Chestnut Ridge",
       "worldId": "chestnutridge",
-      "image": "/images/sims/GroveWren.jpg",
+      "image": "/images/sims/GroveWren.png",
       "career": "小学C",
       "aspiration": {
         "name": "天生好动"
@@ -13494,7 +13494,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Chestnut Ridge",
       "worldId": "chestnutridge",
-      "image": "/images/sims/GroveSienna.jpg",
+      "image": "/images/sims/GroveSienna.png",
       "career": "无业",
       "aspiration": {
         "name": "冠军骑手"
@@ -13559,7 +13559,7 @@ export default {
       "maritalStatus": "Divorced",
       "world": "Chestnut Ridge",
       "worldId": "chestnutridge",
-      "image": "/images/sims/CrinkletopRoberto.jpg",
+      "image": "/images/sims/CrinkletopRoberto.png",
       "career": "NPC",
       "aspiration": {
         "name": "王牌钓手"
@@ -13613,7 +13613,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/CahyaputriVanesha.jpg",
+      "image": "/images/sims/CahyaputriVanesha.png",
       "career": "咖啡师-二级",
       "aspiration": {
         "name": "五星级业主"
@@ -13658,7 +13658,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/CahyaputriZhafira.jpg",
+      "image": "/images/sims/CahyaputriZhafira.png",
       "career": "高中C",
       "aspiration": {
         "name": "秘密发掘者"
@@ -13700,7 +13700,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/LinhChanh.jpg",
+      "image": "/images/sims/LinhChanh.png",
       "career": "退休",
       "aspiration": {
         "name": "王牌钓手"
@@ -13760,7 +13760,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/LinhArturo.jpg",
+      "image": "/images/sims/LinhArturo.png",
       "career": "太空人-四级",
       "aspiration": {
         "name": "书呆子的脑袋"
@@ -13829,7 +13829,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/SadyaLien.jpg",
+      "image": "/images/sims/SadyaLien.png",
       "career": "风格潮流人士-造型师-八级",
       "aspiration": {
         "name": "社区知己"
@@ -13902,7 +13902,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/SadyaAlon.jpg",
+      "image": "/images/sims/SadyaAlon.png",
       "career": "自由工作者-程式设计师",
       "aspiration": {
         "name": "自由植物学家"
@@ -13966,7 +13966,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/SadyaCam.jpg",
+      "image": "/images/sims/SadyaCam.png",
       "career": "小学C",
       "aspiration": {
         "name": "艺术天才"
@@ -14009,7 +14009,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/LinhThi.jpg",
+      "image": "/images/sims/LinhThi.png",
       "career": "特务-七级",
       "aspiration": {
         "name": "挑剔的居民"
@@ -14077,7 +14077,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/BunMaBua.jpg",
+      "image": "/images/sims/BunMaBua.png",
       "career": "退休",
       "aspiration": {
         "name": "馆长"
@@ -14130,7 +14130,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/BunMaKasem.jpg",
+      "image": "/images/sims/BunMaKasem.png",
       "career": "科技达人-创新企业家-八级",
       "aspiration": {
         "name": "快乐大家庭"
@@ -14192,7 +14192,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/BunMaNin.jpg",
+      "image": "/images/sims/BunMaNin.png",
       "career": "运动员-健美选手-五级",
       "aspiration": {
         "name": "托马郎知识之泉"
@@ -14254,7 +14254,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/BunMaSud.jpg",
+      "image": "/images/sims/BunMaSud.png",
       "aspiration": {},
       "traits": [
         {
@@ -14294,7 +14294,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/sims/LiPanya.jpg",
+      "image": "/images/sims/LiPanya.png",
       "career": "NPC",
       "aspiration": {
         "name": "五星级业主"
@@ -14344,7 +14344,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
-      "image": "/images/sims/LopezMonica.jpg",
+      "image": "/images/sims/LopezMonica.png",
       "career": "太空人-七级",
       "aspiration": {
         "name": "浪漫探索家"
@@ -14413,7 +14413,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
-      "image": "/images/sims/LopezCarlos.jpg",
+      "image": "/images/sims/LopezCarlos.png",
       "career": "运动员-职业运动员-六级",
       "aspiration": {
         "name": "健美运动员"
@@ -14467,7 +14467,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
-      "image": "/images/sims/LopezLuz.jpg",
+      "image": "/images/sims/LopezLuz.png",
       "career": "高中C",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -14518,7 +14518,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
-      "image": "/images/sims/OrtegaCarmen.jpg",
+      "image": "/images/sims/OrtegaCarmen.png",
       "career": "退休",
       "aspiration": {
         "name": "世界之友"
@@ -14568,7 +14568,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
-      "image": "/images/sims/CruzElia.jpg",
+      "image": "/images/sims/CruzElia.png",
       "career": "烹饪-主厨-十级",
       "aspiration": {
         "name": "妙手主厨"
@@ -14626,7 +14626,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
-      "image": "/images/sims/AguilarManuel.jpg",
+      "image": "/images/sims/AguilarManuel.png",
       "career": "演艺人员-音乐家-七级",
       "aspiration": {
         "name": "模范伴侣"
@@ -14692,7 +14692,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
-      "image": "/images/sims/XicotencatlYoltic.jpg",
+      "image": "/images/sims/XicotencatlYoltic.png",
       "career": "风格潮流人士-造型师-六级",
       "aspiration": {
         "name": "心灵伴侣"
@@ -14742,7 +14742,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
-      "image": "/images/sims/NadirAziz.jpg",
+      "image": "/images/sims/NadirAziz.png",
       "career": "自由工作者-作家",
       "aspiration": {
         "name": "畅销作家"
@@ -14800,7 +14800,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
-      "image": "/images/sims/NadirValentina.jpg",
+      "image": "/images/sims/NadirValentina.png",
       "career": "恋爱咨询师-六级",
       "aspiration": {
         "name": "家财万万贯"
@@ -14854,7 +14854,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/GomesEsther.jpg",
+      "image": "/images/sims/GomesEsther.png",
       "career": "死神-二级",
       "aspiration": {
         "name": "鬼魂历史学家"
@@ -14908,7 +14908,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/IzadiZuleika.jpg",
+      "image": "/images/sims/IzadiZuleika.png",
       "career": "死神-二级",
       "aspiration": {
         "name": "自由植物学家"
@@ -14958,7 +14958,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/GomesRadwan.jpg",
+      "image": "/images/sims/GomesRadwan.png",
       "career": "太空人-四级",
       "aspiration": {
         "name": "心灵伴侣"
@@ -15020,7 +15020,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/GomesTziporah.jpg",
+      "image": "/images/sims/GomesTziporah.png",
       "career": "写作-作者-十级",
       "aspiration": {
         "name": "畅销作家"
@@ -15082,7 +15082,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/GomesZelmira.jpg",
+      "image": "/images/sims/GomesZelmira.png",
       "career": "高中A",
       "aspiration": {
         "name": "馆长"
@@ -15136,7 +15136,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/AetherKai.jpg",
+      "image": "/images/sims/AetherKai.png",
       "career": "特务-七级",
       "aspiration": {
         "name": "书呆子的脑袋"
@@ -15202,7 +15202,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/AetherEkade.jpg",
+      "image": "/images/sims/AetherEkade.png",
       "career": "商业-六级",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -15264,7 +15264,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/AetherTakama.jpg",
+      "image": "/images/sims/AetherTakama.png",
       "career": "小学A",
       "aspiration": {
         "name": "艺术天才"
@@ -15306,7 +15306,7 @@ export default {
       "maritalStatus": "Engaged",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/CoffinLayne.jpg",
+      "image": "/images/sims/CoffinLayne.png",
       "career": "演艺人员-音乐家-十级",
       "aspiration": {
         "name": "社区知己"
@@ -15371,7 +15371,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/SpecterNyon.jpg",
+      "image": "/images/sims/SpecterNyon.png",
       "career": "高中C",
       "aspiration": {
         "name": "畅销作家"
@@ -15432,7 +15432,7 @@ export default {
       "maritalStatus": "Engaged",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/SpecterOlive.jpg",
+      "image": "/images/sims/SpecterOlive.png",
       "career": "殡葬者-丧葬承办人-九级",
       "aspiration": {
         "name": "连环浪漫"
@@ -15502,7 +15502,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/Alice.jpg",
+      "image": "/images/sims/Alice.png",
       "career": "NPC",
       "aspiration": {
         "name": "快乐大家庭"
@@ -15556,7 +15556,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/Edith.jpg",
+      "image": "/images/sims/Edith.png",
       "career": "NPC",
       "aspiration": {
         "name": "天生好动"
@@ -15601,7 +15601,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/GothLadyRavendancer.jpg",
+      "image": "/images/sims/GothLadyRavendancer.png",
       "career": "NPC",
       "aspiration": {
         "name": "鬼魂历史学家"
@@ -15651,7 +15651,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/sims/WarezWaylon.jpg",
+      "image": "/images/sims/WarezWaylon.png",
       "career": "NPC",
       "aspiration": {
         "name": "鬼魂历史学家"
@@ -15701,7 +15701,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/LodenErik.jpg",
+      "image": "/images/sims/LodenErik.png",
       "career": "小学C",
       "aspiration": {
         "name": "艺术天才"
@@ -15769,7 +15769,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/LodenFreya.jpg",
+      "image": "/images/sims/LodenFreya.png",
       "career": "高中C",
       "aspiration": {
         "name": "健美运动员"
@@ -15839,7 +15839,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/LodenGrammaHattie.jpg",
+      "image": "/images/sims/LodenGrammaHattie.png",
       "career": "NPC",
       "aspiration": {
         "name": "显赫家世"
@@ -15916,7 +15916,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/LodenNora.jpg",
+      "image": "/images/sims/LodenNora.png",
       "career": "小型事业",
       "aspiration": {
         "name": "尊荣企业家"
@@ -15993,7 +15993,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/LodenDahlia.jpg",
+      "image": "/images/sims/LodenDahlia.png",
       "career": "自由工作者-作家",
       "aspiration": {
         "name": "畅销作家"
@@ -16066,7 +16066,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/SarpongLerato.jpg",
+      "image": "/images/sims/SarpongLerato.png",
       "career": "小学A",
       "aspiration": {
         "name": "神童"
@@ -16119,7 +16119,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/SarpongNia.jpg",
+      "image": "/images/sims/SarpongNia.png",
       "career": "小型事业",
       "aspiration": {
         "name": "社区知己"
@@ -16181,7 +16181,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/ColemanCannonball.jpg",
+      "image": "/images/sims/ColemanCannonball.png",
       "career": "演艺人员-音乐家-六级",
       "aspiration": {
         "name": "音乐天才"
@@ -16251,7 +16251,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/BlackCrispin.jpg",
+      "image": "/images/sims/BlackCrispin.png",
       "career": "画家-艺术品买家-七级",
       "aspiration": {
         "name": "尊荣企业家"
@@ -16325,7 +16325,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/MarkOllie.jpg",
+      "image": "/images/sims/MarkOllie.png",
       "career": "高中A",
       "aspiration": {
         "name": "书呆子的脑袋"
@@ -16380,7 +16380,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/KoopmanGert.jpg",
+      "image": "/images/sims/KoopmanGert.png",
       "career": "无业",
       "aspiration": {
         "name": "世界之友"
@@ -16447,7 +16447,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/KoopmanJolanda.jpg",
+      "image": "/images/sims/KoopmanJolanda.png",
       "career": "小型事业",
       "aspiration": {
         "name": "大师指导者"
@@ -16505,7 +16505,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/HoffmanBruno.jpg",
+      "image": "/images/sims/HoffmanBruno.png",
       "career": "无业",
       "aspiration": {
         "name": "尊荣企业家"
@@ -16567,7 +16567,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/HoffmanFelix.jpg",
+      "image": "/images/sims/HoffmanFelix.png",
       "career": "NPC",
       "aspiration": {
         "name": "妙手主厨"
@@ -16625,7 +16625,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/NyhusCorey.jpg",
+      "image": "/images/sims/NyhusCorey.png",
       "career": "烹饪-调酒师-七级",
       "aspiration": {
         "name": "心灵伴侣"
@@ -16683,7 +16683,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/sims/AmriZain.jpg",
+      "image": "/images/sims/AmriZain.png",
       "career": "演艺人员-音乐家-五级",
       "aspiration": {
         "name": "音乐天才"
@@ -16750,7 +16750,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/NhoamGlen.jpg",
+      "image": "/images/sims/NhoamGlen.png",
       "career": "无业",
       "aspiration": {
         "name": "馆长"
@@ -16800,7 +16800,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/LadipoAyo.jpg",
+      "image": "/images/sims/LadipoAyo.png",
       "career": "科技达人-创新企业家-八级",
       "aspiration": {
         "name": "电脑神童"
@@ -16862,7 +16862,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/LadipoFlora.jpg",
+      "image": "/images/sims/LadipoFlora.png",
       "career": "自由工作者-数位艺术家",
       "aspiration": {
         "name": "书呆子的脑袋"
@@ -16924,7 +16924,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/DeMurayElric.jpg",
+      "image": "/images/sims/DeMurayElric.png",
       "career": "烹饪-调酒师-七级",
       "aspiration": {
         "name": "自然游牧"
@@ -16986,7 +16986,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/AttenberryTodd.jpg",
+      "image": "/images/sims/AttenberryTodd.png",
       "career": "无业",
       "aspiration": {
         "name": "灵药爱好者"
@@ -17044,7 +17044,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/SummerdreamTitania.jpg",
+      "image": "/images/sims/SummerdreamTitania.png",
       "career": "天然疗法师-好奇药师-六级",
       "aspiration": {
         "name": "灵药爱好者"
@@ -17109,7 +17109,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/SummerdreamOberon.jpg",
+      "image": "/images/sims/SummerdreamOberon.png",
       "career": "无业",
       "aspiration": {
         "name": "显赫家世"
@@ -17174,7 +17174,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/SummerdreamMara.jpg",
+      "image": "/images/sims/SummerdreamMara.png",
       "career": "小学C",
       "aspiration": {
         "name": "交际花"
@@ -17225,7 +17225,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/LadipoIris.jpg",
+      "image": "/images/sims/LadipoIris.png",
       "career": "保姆-二级",
       "aspiration": {
         "name": "仙子故事"
@@ -17290,7 +17290,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/KishkaNadya.jpg",
+      "image": "/images/sims/KishkaNadya.png",
       "career": "演艺人员-音乐家-五级",
       "aspiration": {
         "name": "音乐天才"
@@ -17344,7 +17344,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/AmaniZhaleh.jpg",
+      "image": "/images/sims/AmaniZhaleh.png",
       "career": "NPC",
       "aspiration": {
         "name": "和谐仙子"
@@ -17394,7 +17394,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/RenCare.jpg",
+      "image": "/images/sims/RenCare.png",
       "career": "NPC",
       "aspiration": {
         "name": "烤起司"
@@ -17448,7 +17448,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/AlmightySpruce.jpg",
+      "image": "/images/sims/AlmightySpruce.png",
       "career": "NPC",
       "aspiration": {
         "name": "自然游牧"
@@ -17493,7 +17493,7 @@ export default {
       "age": "Young Adult",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/NatureMother.jpg",
+      "image": "/images/sims/NatureMother.png",
       "career": "NPC",
       "aspiration": {
         "name": "世界之友"
@@ -17543,7 +17543,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/sims/TraderJoe.jpg",
+      "image": "/images/sims/TraderJoe.png",
       "career": "NPC",
       "aspiration": {
         "name": "狡黠之王"
@@ -17593,7 +17593,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/ChavezRalstonNigel.jpg",
+      "image": "/images/sims/ChavezRalstonNigel.png",
       "career": "无业",
       "aspiration": {
         "name": "快乐大家庭"
@@ -17677,7 +17677,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/ChavezRalstonSara.jpg",
+      "image": "/images/sims/ChavezRalstonSara.png",
       "career": "公园工作者-公园辅导员-十级",
       "aspiration": {
         "name": "小动物猎人"
@@ -17761,7 +17761,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/ChavezRalstonAeris.jpg",
+      "image": "/images/sims/ChavezRalstonAeris.png",
       "career": "小学C",
       "aspiration": {
         "name": "艺术天才"
@@ -17812,7 +17812,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/ChavezRalstonErin.jpg",
+      "image": "/images/sims/ChavezRalstonErin.png",
       "career": "小学C",
       "aspiration": {
         "name": "街区酷小孩"
@@ -17863,7 +17863,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/AddamJane.jpg",
+      "image": "/images/sims/AddamJane.png",
       "career": "无业",
       "aspiration": {
         "name": "调酒大师"
@@ -17936,7 +17936,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/AddamStar.jpg",
+      "image": "/images/sims/AddamStar.png",
       "career": "无业",
       "aspiration": {
         "name": "世界之友"
@@ -18001,7 +18001,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/TchotchkeAgora.jpg",
+      "image": "/images/sims/TchotchkeAgora.png",
       "career": "无业",
       "aspiration": {
         "name": "狡黠之王"
@@ -18058,7 +18058,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/BrokeSkip.jpg",
+      "image": "/images/sims/BrokeSkip.png",
       "career": "自由工作者-程式设计师",
       "aspiration": {
         "name": "家财万万贯"
@@ -18241,7 +18241,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/ScoopBuddy.jpg",
+      "image": "/images/sims/ScoopBuddy.png",
       "career": "小学C",
       "aspiration": {
         "name": "天生好动"
@@ -18334,7 +18334,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/AkamineToshie.jpg",
+      "image": "/images/sims/AkamineToshie.png",
       "career": "自由工作者-作家",
       "aspiration": {
         "name": "畅销作家"
@@ -18392,7 +18392,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/KunalRaheel.jpg",
+      "image": "/images/sims/KunalRaheel.png",
       "career": "NPC",
       "aspiration": {
         "name": "王牌钓手"
@@ -18528,7 +18528,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/MontyJuliette.jpg",
+      "image": "/images/sims/MontyJuliette.png",
       "career": "无业",
       "aspiration": {
         "name": "显赫家世"
@@ -18601,7 +18601,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/MontyRomeo.jpg",
+      "image": "/images/sims/MontyRomeo.png",
       "career": "烹饪-五级",
       "aspiration": {
         "name": "心灵伴侣"
@@ -18668,7 +18668,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/MontyDante.jpg",
+      "image": "/images/sims/MontyDante.png",
       "career": "高中C",
       "aspiration": {
         "name": "喜剧之王"
@@ -18729,7 +18729,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/AltoEnzo.jpg",
+      "image": "/images/sims/AltoEnzo.png",
       "career": "贵族-七级",
       "aspiration": {
         "name": "连环浪漫"
@@ -18790,7 +18790,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/CappTybalt.jpg",
+      "image": "/images/sims/CappTybalt.png",
       "career": "贵族-九级",
       "aspiration": {
         "name": "豪宅大王"
@@ -18876,7 +18876,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/CappBeatrice.jpg",
+      "image": "/images/sims/CappBeatrice.png",
       "career": "写作-记者-六级",
       "aspiration": {
         "name": "世界之友"
@@ -18956,7 +18956,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/CappCeleste.jpg",
+      "image": "/images/sims/CappCeleste.png",
       "career": "演艺人员-音乐家-六级",
       "aspiration": {
         "name": "心灵伴侣"
@@ -19040,7 +19040,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/CappVirgilio.jpg",
+      "image": "/images/sims/CappVirgilio.png",
       "career": "上班族-三级",
       "aspiration": {
         "name": "狡黠之王"
@@ -19124,7 +19124,7 @@ export default {
       "maritalStatus": "Widowed",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/DarongAdekoya.jpg",
+      "image": "/images/sims/DarongAdekoya.png",
       "career": "无业",
       "aspiration": {
         "name": "畅销作家"
@@ -19202,7 +19202,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/DarongJawara.jpg",
+      "image": "/images/sims/DarongJawara.png",
       "career": "贵族-九级",
       "aspiration": {
         "name": "快乐大家庭"
@@ -19282,7 +19282,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/DarongAmarachi.jpg",
+      "image": "/images/sims/DarongAmarachi.png",
       "career": "高中B",
       "aspiration": {
         "name": "非凡画家"
@@ -19355,7 +19355,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/DarongObi.jpg",
+      "image": "/images/sims/DarongObi.png",
       "career": "小学A",
       "aspiration": {
         "name": "神童"
@@ -19415,7 +19415,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/AnanouEkene.jpg",
+      "image": "/images/sims/AnanouEkene.png",
       "career": "无业",
       "aspiration": {
         "name": "书呆子的脑袋"
@@ -19477,7 +19477,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/AnanouAfua.jpg",
+      "image": "/images/sims/AnanouAfua.png",
       "career": "小学D",
       "aspiration": {
         "name": "交际花"
@@ -19522,7 +19522,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/ThebeVCordelia.jpg",
+      "image": "/images/sims/ThebeVCordelia.png",
       "career": "贵族-九级",
       "aspiration": {
         "name": "馆长"
@@ -19609,7 +19609,7 @@ export default {
       "age": "Young Adult",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/AbrantesThiago.jpg",
+      "image": "/images/sims/AbrantesThiago.png",
       "career": "贵族-八级",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -19678,7 +19678,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/AbrantesErmelinda.jpg",
+      "image": "/images/sims/AbrantesErmelinda.png",
       "career": "贵族-六级",
       "aspiration": {
         "name": "显赫家世"
@@ -19746,7 +19746,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/AbrantesSofia.jpg",
+      "image": "/images/sims/AbrantesSofia.png",
       "career": "高中A",
       "aspiration": {
         "name": "社区知己"
@@ -19809,7 +19809,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/RomualdoAloisio.jpg",
+      "image": "/images/sims/RomualdoAloisio.png",
       "career": "罪犯-五级",
       "aspiration": {
         "name": "全民公敌"
@@ -19862,7 +19862,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/OnojaAkachi.jpg",
+      "image": "/images/sims/OnojaAkachi.png",
       "career": "贵族-五级",
       "aspiration": {
         "name": "健美运动员"
@@ -19923,7 +19923,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/FidentialConnie.jpg",
+      "image": "/images/sims/FidentialConnie.png",
       "career": "无业",
       "aspiration": {
         "name": "畅销作家"
@@ -19964,7 +19964,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/CappConsort.jpg",
+      "image": "/images/sims/CappConsort.png",
       "aspiration": {
         "name": "显赫家世"
       },
@@ -20037,7 +20037,7 @@ export default {
       "maritalStatus": "Dating",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/sims/AcostaFia.jpg",
+      "image": "/images/sims/AcostaFia.png",
       "career": "无业",
       "aspiration": {
         "name": "全民公敌"
@@ -20143,7 +20143,7 @@ export default {
       "lot": "Cypress Terrace",
       "lotId": "cypressterrace",
       "worldId": "willowcreek",
-      "image": "/images/families/SpencerKimLewis.jpg",
+      "image": "/images/families/SpencerKimLewis.png",
       "description": "好吧，以下是详细分析：丹尼斯·金和莉迪亚·斯宾塞生了一个女儿叫做艾莉丝·斯宾塞·金，然后离婚了。艾莉丝嫁给埃瑞克·路易斯，然后有了她自己的女儿奥莉维亚.金.路易斯。他们和艾莉丝的父亲（还记得丹尼斯吧？）和埃瑞克的母亲薇薇安．路易斯一起住。喂，可从没人说过家庭这回事很简单！",
       "members": [
         {
@@ -20171,7 +20171,7 @@ export default {
       "lot": "Pique Hearth",
       "lotId": "piquehearth",
       "worldId": "willowcreek",
-      "image": "/images/families/Pancakes.jpg",
+      "image": "/images/families/Pancakes.png",
       "description": "好可怜的鲍伯与伊莱莎 -- 他们曾经快乐过吗？他们似乎没有办法做任何事来讨彼此欢心。是什么让这对情侣继续在一起？或是反过来说，到底要怎样的火花才有办法让他们分离？",
       "members": [
         {
@@ -20190,7 +20190,7 @@ export default {
       "lot": "Garden Essence",
       "lotId": "gardenessence",
       "worldId": "willowcreek",
-      "image": "/images/families/BFF.jpg",
+      "image": "/images/families/BFF.png",
       "description": "自由自在的莉柏缇、活泼的桑默与宅宅崔维斯是不太相像的好友，没什么可以拆散他们三个。除了桑默与李柏缇对崔维斯那慢慢增长、若有似无的情意…",
       "members": [
         {
@@ -20212,7 +20212,7 @@ export default {
       "lot": "Slipshod Mesquite",
       "lotId": "slipshodmesquite",
       "worldId": "oasissprings",
-      "image": "/images/families/Zest.jpg",
+      "image": "/images/families/Zest.png",
       "description": "强尼·杰斯有艺名也有明星梦，偏偏就是没有才华...强尼因为翘课所以被朗德古拉伯小学退学，想要当一个单人喜剧谐星，靠自己名利双收。",
       "members": [
         {
@@ -20228,7 +20228,7 @@ export default {
       "lot": "Cacti Casa",
       "lotId": "cacticasa",
       "worldId": "oasissprings",
-      "image": "/images/families/Roomies.jpg",
+      "image": "/images/families/Roomies.png",
       "description": "这个家庭看来就像是从电视情境喜剧里搬出来的。这个星期得意的柔依、随和的米切尔、淑女情人杰、还有知性的盖文又会有什么古怪的倒楣事呢？记得收看哦！",
       "members": [
         {
@@ -20253,7 +20253,7 @@ export default {
       "lot": "Sultry Springside",
       "lotId": "sultryspringside",
       "worldId": "oasissprings",
-      "image": "/images/families/Caliente.jpg",
+      "image": "/images/families/Caliente.png",
       "description": "现在卡崔娜‧卡琳恩特女家长已经搬去和无赖男孩玩伴唐恩一起住，不再是只有女孩的世界了。现在唐恩家里有三个热情迷人的女人，他有办法忠贞不渝，还是会和好几个卡林恩特女人乱来呢？",
       "members": [
         {
@@ -20278,7 +20278,7 @@ export default {
       "lot": "Affluista Mansion",
       "lotId": "affluistamansion",
       "worldId": "oasissprings",
-      "image": "/images/families/Landgraab.jpg",
+      "image": "/images/families/Landgraab.png",
       "description": "朗德古拉伯一家似乎家庭美满、有钱、有礼且勇敢。但南茜和杰弗瑞似乎隐藏着什么。他们的秘密会让他们走向陌路，还是会让他们继续建立起属于自己的富裕王朝？",
       "members": [
         {
@@ -20300,7 +20300,7 @@ export default {
       "lot": "Waterlock Redoubt",
       "lotId": "waterlockredoubt",
       "worldId": "windenburg",
-      "image": "/images/families/Behr.jpg",
+      "image": "/images/families/Behr.png",
       "description": "小雪和坎蒂最近从她们过世的亲爱的贝洱奶奶那继承了一栋古典稳重的房子。极客少女小雪非常崇拜她那很酷的DJ姐姐坎蒂，不过小雪自己也有一些疯狂技能。当然，她可能没办法成为像坎蒂一样的前卫搓碟大师，但她可以在“炫动方块”上击败任何人。她也迅速地成为温登堡最恶名昭彰的地下黑客。",
       "members": [
         {
@@ -20319,7 +20319,7 @@ export default {
       "lot": "The Lighthouse",
       "lotId": "thelighthouse",
       "worldId": "windenburg",
-      "image": "/images/families/Bjergsen.jpg",
+      "image": "/images/families/Bjergsen.png",
       "description": "青少年音乐剧天才索菲亚有梦想，她想成就一番事业。甚至连她阴沉的老爸，完美主义者的老妈，或是讨人厌的天才儿童妹妹都无法阻止她努力攀上颠峰！",
       "members": [
         {
@@ -20344,7 +20344,7 @@ export default {
       "lot": "Dock Den",
       "lotId": "dockden",
       "worldId": "windenburg",
-      "image": "/images/families/Bro.jpg",
+      "image": "/images/families/Bro.png",
       "description": "科技通大块头瑟吉欧和急躁的DJ瓦昆除了生命中的美好事物之外……没什么共通点。当他们迅速在排行榜爬升并赚进大把钞票时，他们能让他们的住所变得多棒呢？",
       "members": [
         {
@@ -20363,7 +20363,7 @@ export default {
       "lot": "Cottage Am See",
       "lotId": "cottageamsee",
       "worldId": "windenburg",
-      "image": "/images/families/FreeSpirits.jpg",
+      "image": "/images/families/FreeSpirits.png",
       "description": "书呆子艾克跟具艺术气息的乌里克不太注重物质生活，不过即使如此，这两个室友也承认他们的房子需要一些改进。艾克可以卖得出去几个故事，或是乌里克终于能拿得出一幅符合他严格标准的画作吗？",
       "members": [
         {
@@ -20382,7 +20382,7 @@ export default {
       "lot": "Dresden House",
       "lotId": "dresdenhouse",
       "worldId": "windenburg",
-      "image": "/images/families/Fyres.jpg",
+      "image": "/images/families/Fyres.png",
       "description": "在多米尼克与莫拉这对爱侣之间，所有事都好得不能再好了，可惜他们的女儿不这么认为！富含自由精神的摩根只想和她的叛逆朋友们享乐，但西沃恩本无法忍受那种态度。西沃恩本决心要建立一个可以帮助她事业抱负并受朋友欢迎的机制。这对父母可以享受一点自己的宁静时光吗？还是西沃恩本会在房里的紧张气氛爆发之前搬出去自立呢？",
       "members": [
         {
@@ -20407,7 +20407,7 @@ export default {
       "lot": "Coorinberg Cottage",
       "lotId": "coorinbergcottage",
       "worldId": "windenburg",
-      "image": "/images/families/Munch.jpg",
+      "image": "/images/families/Munch.png",
       "description": "扶养三个孩子从来都不容易，尤其是其中一个拒绝搬出家里，而另一个阴沉又叛逆。不过蜜拉·大嚼客不是为她的家庭牺牲奉献，她就会一无是处，而且她的小卢卡斯总是在她在餐厅辛苦工作一天后，让她打起精神。",
       "members": [
         {
@@ -20432,7 +20432,7 @@ export default {
       "lot": "Factory One",
       "lotId": "factoryone",
       "worldId": "windenburg",
-      "image": "/images/families/Partihaus.jpg",
+      "image": "/images/families/Partihaus.png",
       "description": "喝酒，调情，跳舞，再重复这些。在马库斯扩大邀请后，碧玉，伊娃跟保禄很快地就抓紧机会探索世界，并在温登堡建立了终极婴儿床。从此派对便未曾停歇。当他们在一起时，永远都有好戏可看，而他们总是在一起！他们四个人只有做一份半的工作，他们究竟是怎么弄到钱来付帐单的？",
       "members": [
         {
@@ -20457,7 +20457,7 @@ export default {
       "lot": "Von-Windenburg Estate",
       "lotId": "vonwindenburgestate",
       "worldId": "windenburg",
-      "image": "/images/families/Villareal.jpg",
+      "image": "/images/families/Villareal.png",
       "description": "雅克的妻子在...呃...神秘的状况下消失后，他被留在他巨大的宅邸里扶养三个孩子长大。卢娜和雨果是拥有典型青少年问题的好孩子，但最小的马克斯是浑然天成的恶势力。究竟是雅克会先被孩子们搞疯呢，还是雅克古怪的习惯跟嗜好会把孩子们搞疯？",
       "members": [
         {
@@ -20482,7 +20482,7 @@ export default {
       "lot": "910 Medina Studios",
       "lotId": "910medinastudios",
       "worldId": "sanmyshuno",
-      "image": "/images/families/Benali.jpg",
+      "image": "/images/families/Benali.png",
       "description": "萨利姆在艺术区长大，从小被诗人，音乐家与艺术家环绕。就在他完成那本书之后……他下定决心要当个伟大的作家。喔，还有那个他得破关的电子游戏。再想想，他也得小睡一下。",
       "members": [
         {
@@ -20498,7 +20498,7 @@ export default {
       "lot": "2A Jasmine Suites",
       "lotId": "2ajasminesuites",
       "worldId": "sanmyshuno",
-      "image": "/images/families/Bheeda.jpg",
+      "image": "/images/families/Bheeda.png",
       "description": "有个即将出世的宝宝和狭小的城市公寓，洁敏德和阿伦能为他们的新生儿腾出空间吗？宝宝出生后洁敏德会继续她的调酒工作，还是选择待在家里画画？",
       "members": [
         {
@@ -20517,7 +20517,7 @@ export default {
       "lot": "IX Landgraab",
       "lotId": "ixlandgraab",
       "worldId": "sanmyshuno",
-      "image": "/images/families/Feng.jpg",
+      "image": "/images/families/Feng.png",
       "description": "维克托是受人尊敬且位高权重的政治家。莉丽是一名强悍的女商人。他们受人敬重但阴郁的本质掩盖了他们总有一天要掌管圣米舒诺的邪恶秘密计划！",
       "members": [
         {
@@ -20536,7 +20536,7 @@ export default {
       "lot": "121 Hakim House",
       "lotId": "121hakimhouse",
       "worldId": "sanmyshuno",
-      "image": "/images/families/Jang.jpg",
+      "image": "/images/families/Jang.png",
       "description": "巴科与安娜亚来到圣米舒诺这座熙嚷的城市，好让巴科拓展他正在崛起的喜剧演员事业，而安娜亚则可厘清究竟该专注于哪种兴趣来作为她的职业生涯：该成为启发人心的女歌手还是成功的画家？他们古怪的孩子比莉则乐于享受各种活动。讲到交新朋友，这只交际达人可是没有任何筛选条件的，就算没受邀请也要闯进她邻居的公寓！",
       "members": [
         {
@@ -20558,7 +20558,7 @@ export default {
       "lot": "701 ZenView",
       "lotId": "701zenview",
       "worldId": "sanmyshuno",
-      "image": "/images/families/KaraokeLegends.jpg",
+      "image": "/images/families/KaraokeLegends.png",
       "description": "米可是个活泼，有抱负的政治家，和她热爱篮球的好兄弟达林共用一个房间。他们魅力无限的室友基博在米可的眼中梦幻十足，但他对于她再明显不过的调情完全不以为意。他们对卡拉OK共同的热爱能让他们在一起吗？",
       "members": [
         {
@@ -20580,7 +20580,7 @@ export default {
       "lot": "1020 Alto Apartments",
       "lotId": "1020altoapartments",
       "worldId": "sanmyshuno",
-      "image": "/images/families/Lobo.jpg",
+      "image": "/images/families/Lobo.png",
       "description": "不论你是已打响名号或初出茅庐的艺术家，都会在迪亚戈·罗保将他的批判脚步踏进艺廊的那一天期待到浑身颤抖。如果你让他留下深刻印象，你这辈子就注定成功。但如果出了点差错，哪怕只有一种颜色他不喜欢，你可能永远再也无法在这个城镇工作。",
       "members": [
         {
@@ -20596,7 +20596,7 @@ export default {
       "lot": "1312 21 Chic Street",
       "lotId": "131221chic-street",
       "worldId": "sanmyshuno",
-      "image": "/images/families/Pizzazz.jpg",
+      "image": "/images/families/Pizzazz.png",
       "description": "佩妮是圣米舒诺最酷的事件以及最新潮流的来源。但这位一线网红对她职业生涯的忠贞奉献是否会阻碍她寻找恋情呢？",
       "members": [
         {
@@ -20612,7 +20612,7 @@ export default {
       "lot": "20 Culpepper House",
       "lotId": "20culpepperhouse",
       "worldId": "sanmyshuno",
-      "image": "/images/families/Rasoya.jpg",
+      "image": "/images/families/Rasoya.png",
       "description": "拉吉可能是个成功的厨师，但他那严厉的母亲仍很担心他何时才能找个好女孩，延续香火……",
       "members": [
         {
@@ -20631,7 +20631,7 @@ export default {
       "lot": "Straud Mansion",
       "lotId": "straudmansion",
       "worldId": "forgottenhollow",
-      "image": "/images/families/Straud.jpg",
+      "image": "/images/families/Straud.png",
       "description": "弗拉德劳斯·斯特劳伯爵四世是最近一位住在斯特劳豪宅的后裔，他长得和祖先们非常相似。自从遗忘山谷创建以来，他们世世代代都居住在这里。",
       "members": [
         {
@@ -20647,7 +20647,7 @@ export default {
       "lot": "Wolfsbane Manor",
       "lotId": "wolfsbanemanor",
       "worldId": "forgottenhollow",
-      "image": "/images/families/Vatore.jpg",
+      "image": "/images/families/Vatore.png",
       "description": "维托家的兄弟姐妹几年前搬进遗忘山谷并努力让遗忘山谷成为他们的家。这有时并不容易，因位他们和弗拉德劳斯·斯特劳处得不是很好，但被问到这点时，他们只提到他们对烹饪的品味不太相同。",
       "members": [
         {
@@ -20666,7 +20666,7 @@ export default {
       "lot": "It’s A Good House",
       "lotId": "itsagoodhouse",
       "worldId": "brindletonbay",
-      "image": "/images/families/Hecking.jpg",
+      "image": "/images/families/Hecking.png",
       "description": "新婚的布林特和布兰特似乎对他们的新家生活很满意。小镇的喧嚣为布林特的画作带来灵感，布兰特则热爱探索湾区的美丽社区。但该由谁带着心爱的小玫这件事，他们似乎一直无法取得共识。",
       "members": [
         {
@@ -20685,7 +20685,7 @@ export default {
       "lot": "Catscratch Cottage",
       "lotId": "catscratchcottage",
       "worldId": "brindletonbay",
-      "image": "/images/families/Lynx.jpg",
+      "image": "/images/families/Lynx.png",
       "description": "社区里的猫很清楚要上哪去吃顿大餐。卡特琳娜对动物总是很心软，和她住在一起的猫拥有猫咪们所能奢求的最好的家。有时候卡特琳娜会自问，生命的意义是否不仅止于猫……通常她想完就随即又收留了另一只浪猫。",
       "members": [
         {
@@ -20701,7 +20701,7 @@ export default {
       "lot": "Chateau Frise",
       "lotId": "chateaufrise",
       "worldId": "brindletonbay",
-      "image": "/images/families/Delgato.jpg",
+      "image": "/images/families/Delgato.png",
       "description": "虽然塞普莉亚很爱她全职妈妈的工作，但要压抑她当个受过充分训练的兽医的梦想却越来越难。尤其是现在虎斑兽医诊所的老板想把诊所卖掉。她的先生贾斯汀一直都很支持，且一直提议要暂时离开工作岗位，好让她追求自己的梦想。但塞普莉亚真的可以信任他能在布鲁和巴塞洛谬之间维持家里的和平吗？更别说还有皮尔斯和伊薇了！",
       "members": [
         {
@@ -20726,7 +20726,7 @@ export default {
       "lot": "Upland Place",
       "lotId": "uplandplace",
       "worldId": "delsolvalley",
-      "image": "/images/families/Jeong.jpg",
+      "image": "/images/families/Jeong.png",
       "description": "凡妮莎·郑刚从古朴的乡村小镇搬到太阳谷。她希望能以新兴女演员的身分闯出一番大事业。她已经出演了几个小规模广告，但她的经纪人一直表示她有资质，只要找到能打破既往印象的角色就好。",
       "members": [
         {
@@ -20742,7 +20742,7 @@ export default {
       "lot": "Bailey-Moon Manor",
       "lotId": "baileymoonmanor",
       "worldId": "delsolvalley",
-      "image": "/images/families/BaileyMoon.jpg",
+      "image": "/images/families/BaileyMoon.png",
       "description": "欧克塔维雅·穆恩与索恩·百利是本世纪的强大夫妻档。欧克塔维雅是索恩所有热门歌曲背后的天才作词人。由于索恩近日在社交媒体上的失败举动，导致他的公众形象开始走下坡。索恩的粉丝逐渐觉悟到欧克塔维雅才是天赋异禀的人。他们有个天性善良的儿子叫奥兰治，由于他丰衣足食，没什么人生目标，因此有些幼稚。",
       "members": [
         {
@@ -20764,7 +20764,7 @@ export default {
       "lot": "The Ward Den",
       "lotId": "thewardden",
       "worldId": "delsolvalley",
-      "image": "/images/families/Ward.jpg",
+      "image": "/images/families/Ward.png",
       "description": "茱迪·瓦德是演员界的传奇。从喜剧到戏剧，她都曾出演过。你想得到的作品，她都曾出演过。但这不代表与她当朋友是件容易的事，茱迪已经毁了无数与他人之间的友谊桥梁。她不惜代价，一心想变有钱人。为了在职业生涯中更进一步，不惜把人推入火坑。她已历经多次婚姻，但她的另一半只会拖慢她前进的脚步。她喜爱快节奏的生活，不甘于平庸一生。",
       "members": [
         {
@@ -20778,7 +20778,7 @@ export default {
       "chineseName": "周",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/families/Cho.jpg",
+      "image": "/images/families/Cho.png",
       "members": [
         {
           "id": "chobrytani"
@@ -20791,7 +20791,7 @@ export default {
       "chineseName": "德里莫",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/families/Dreamer.jpg",
+      "image": "/images/families/Dreamer.png",
       "members": [
         {
           "id": "dreamerdirk"
@@ -20817,7 +20817,7 @@ export default {
       "chineseName": "艾托",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/families/Alto.jpg",
+      "image": "/images/families/Alto.png",
       "members": [
         {
           "id": "altoholly"
@@ -20833,7 +20833,7 @@ export default {
       "chineseName": "菲比乐斯 ",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/families/Fabulous.jpg",
+      "image": "/images/families/Fabulous.png",
       "members": [
         {
           "id": "fabulousizzy"
@@ -20846,7 +20846,7 @@ export default {
       "chineseName": "弗莱明",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/families/Flemming.jpg",
+      "image": "/images/families/Flemming.png",
       "members": [
         {
           "id": "flemmingkayla"
@@ -20859,7 +20859,7 @@ export default {
       "chineseName": "婴儿",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/families/Baby.jpg",
+      "image": "/images/families/Baby.png",
       "members": [
         {
           "id": "arielbaby"
@@ -20873,7 +20873,7 @@ export default {
       "lot": "Riverside Grove",
       "lotId": "riversidegrove",
       "worldId": "strangerville",
-      "image": "/images/families/Sigworth.jpg",
+      "image": "/images/families/Sigworth.png",
       "description": "希格沃斯一家是镇上的新居民。妈妈杰茜因工作关系转来诡奇小镇的国立基地。在基地待了几天后，丈夫狄伦发现他的妻子显得有点奇怪。尽管狄伦尽他所能向女儿克莉丝缇保证一切都没事，她也开始渐渐留意到状况有异，而且她发现事情真相只是时间早晚的问题。",
       "members": [
         {
@@ -20894,7 +20894,7 @@ export default {
       "lot": "Old Penelope",
       "lotId": "oldpenelope",
       "worldId": "strangerville",
-      "image": "/images/families/Cahill.jpg",
+      "image": "/images/families/Cahill.png",
       "description": "乔治·卡希尔是一名退休驾驶员，他曾经十分享受驾着心爱的飞机潘妮洛普，横跨世界各地长途飞行。途经诡奇小镇时出现一道巨大的闪光，导致他的飞机短路而坠毁。此后，乔治便在老潘妮洛普的货舱中扎营，并一直居住在诡奇小镇的郊区至今。尽管他对诡奇小镇的居民抱持着疑心，但他并无恶意，且几乎不与人往来。",
       "members": [
         {
@@ -20909,7 +20909,7 @@ export default {
       "lot": "StrangerVille Overlook",
       "lotId": "strangervilleoverlook",
       "worldId": "strangerville",
-      "image": "/images/families/Roswell.jpg",
+      "image": "/images/families/Roswell.png",
       "description": "罗斯威尔一家人是诡奇小镇最资深的住户之一。泰德.罗斯威尔自从成了镇长后，就一直积极要推动诡奇小镇的高科技发展。他做了一些见不得人的交易，但他成就了一些重要的建设，例如陨石坑基地和秘密实验室。泰德的妻子梅瑞迪斯留意到他晚上的行为举止非常怪异，也许这和他为了试图掩盖某些事而频繁造访秘密实验室有关。",
       "members": [
         {
@@ -20928,7 +20928,7 @@ export default {
       "lot": "Dream Weavers Way",
       "lotId": "dreamweaversway",
       "worldId": "strangerville",
-      "image": "/images/families/EclecticArts.jpg",
+      "image": "/images/families/EclecticArts.png",
       "description": "“多元艺术”家庭由三位好友组成，他们为了探所内在的创造力而决定挥别现代世界。他们从父母那里收到了一大笔可观的金钱，并用这些钱在节奏较慢的镇上探索创造力的梦想。",
       "members": [
         {
@@ -20948,7 +20948,7 @@ export default {
       "chineseName": "普里斯",
       "world": "Stranger Ville",
       "worldId": "strangerville",
-      "image": "/images/families/Pries.jpg",
+      "image": "/images/families/Pries.png",
       "members": [
         {
           "id": "prieserwin"
@@ -20963,7 +20963,7 @@ export default {
       "lot": "Journey’s End",
       "lotId": "journeysend",
       "worldId": "sulani",
-      "image": "/images/families/Kahananui.jpg",
+      "image": "/images/families/Kahananui.png",
       "description": "自封为“索拉尼岛大使”的梅丽与亚力卡是对有进取心的夫妻，他们决定在远离欧汉纳里镇喧嚣的梦幻行馆里度过退休生活。",
       "members": [
         {
@@ -20982,7 +20982,7 @@ export default {
       "lot": "Reef Finery",
       "lotId": "reeffinery",
       "worldId": "sulani",
-      "image": "/images/families/Ngata.jpg",
+      "image": "/images/families/Ngata.png",
       "description": "来称索拉尼岛寻找灵感的莱拉没想到会深深爱上这座岛。她爱上的不只是岛屿风光，还有轻易接受她进入他们家庭的欧莉亚娜和她的儿子塔内。现在他们三人是密不可分的三人组，索拉尼为他们的家，用自己的脚步享受岛上的沙滩与海洋。",
       "members": [
         {
@@ -21004,7 +21004,7 @@ export default {
       "lot": "Chieftain’s Villa",
       "lotId": "chieftainsvilla",
       "worldId": "sulani",
-      "image": "/images/families/Hoapili.jpg",
+      "image": "/images/families/Hoapili.png",
       "description": "位于欧哈纳里镇中心的高处，琪拉俯瞰着寻求她指引的镇民。这位充满活力，拥有年轻内心的老奶奶将年轻的莉亚纳入她的羽翼之下，将索拉尼岛世代传承的知识与文化传递下去。",
       "members": [
         {
@@ -21023,7 +21023,7 @@ export default {
       "lot": "Kin-Ship",
       "lotId": "kinship",
       "worldId": "sulani",
-      "image": "/images/families/Kealoha.jpg",
+      "image": "/images/families/Kealoha.png",
       "description": "基阿罗哈家族是索拉尼岛的缩影：一个勤奋、热情且团结一致的年轻家族，在支持他们扩大的家族社区光明未来的同时，坚定地根植于岛上的传统以纪念过往历史。",
       "members": [
         {
@@ -21046,7 +21046,7 @@ export default {
       "chineseName": "玛西艾",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/families/Mahiai.jpg",
+      "image": "/images/families/Mahiai.png",
       "members": [
         {
           "id": "mahiainalani"
@@ -21059,7 +21059,7 @@ export default {
       "chineseName": "伊欧那",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/families/Iona.jpg",
+      "image": "/images/families/Iona.png",
       "members": [
         {
           "id": "ionakalamainuu"
@@ -21072,7 +21072,7 @@ export default {
       "chineseName": "海克基亚",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/families/Hekekia.jpg",
+      "image": "/images/families/Hekekia.png",
       "members": [
         {
           "id": "hekekiaukupanipo"
@@ -21085,7 +21085,7 @@ export default {
       "chineseName": "乌哈",
       "world": "Sulani",
       "worldId": "sulani",
-      "image": "/images/families/Uha.jpg",
+      "image": "/images/families/Uha.png",
       "members": [
         {
           "id": "uhapakaa"
@@ -21100,7 +21100,7 @@ export default {
       "lot": "Briny Tower",
       "lotId": "brinytower",
       "worldId": "britechester",
-      "image": "/images/families/Fletcher.jpg",
+      "image": "/images/families/Fletcher.png",
       "description": "卡梅伦·弗莱彻一心想着在学校里问道求知，获得真知灼见。然而他不太懂得如何跟身边的人交朋友。但只要往正确方向轻轻一推，卡梅伦一定能掌握大学生活。",
       "members": [
         {
@@ -21116,7 +21116,7 @@ export default {
       "lot": "Spring Steppes",
       "lotId": "springsteppes",
       "worldId": "britechester",
-      "image": "/images/families/Elderberry.jpg",
+      "image": "/images/families/Elderberry.png",
       "description": "埃克拉姆和伊莲诺在吉布斯山丘度过了他们的一生，从年轻的爱情到成长的家庭，最后退休。伊莲诺喜欢看到每个学期新生到来，但埃克拉姆并不总是喜欢青年人接管他们安静的小镇。最近，这对夫妇十几岁的孙子罗洛恩正准备考虑上大学，所以搬来和他们住在一起了。洛恩很快就要高中毕业了，他必须决定自己到底要上哪所大学。",
       "members": [
         {
@@ -21138,7 +21138,7 @@ export default {
       "lot": "Wyvern Hall",
       "lotId": "wyvernhall",
       "worldId": "britechester",
-      "image": "/images/families/BestofFriends.jpg",
+      "image": "/images/families/BestofFriends.png",
       "description": "尤莉娅和贝卡自从在幼儿园第一次见面起就一直是最好的朋友。认识他们的人都无法想象他们没有形影成双上大学是什么情景。现在，他们开始了进入象牙塔的全新旅程，两人要看他们的友谊是否能经受住这次新冒险的考研，让他们顺利进入成人世界。",
       "members": [
         {
@@ -21157,7 +21157,7 @@ export default {
       "lot": "Mossy Lane",
       "lotId": "mossylane",
       "worldId": "britechester",
-      "image": "/images/families/Pleasant.jpg",
+      "image": "/images/families/Pleasant.png",
       "description": "安吉拉·普莱森特和莉莉丝·普莱森特已经搬到吉布斯山的一处老房子里去了，准备住在这儿去布莱斯彻特的名牌大学求学了。这将是一个真正的考验，看看他们作为双胞胎的关系能否克服他们之间的差异。他们的专业已经把他们分成了不同的大学，但是他们究竟会产生分歧，还是一起努力共度难关，这成为了他们生活中的一个全新挑战。",
       "members": [
         {
@@ -21174,7 +21174,7 @@ export default {
       "chineseName": "巴姆拉",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/families/Bhamra.jpg",
+      "image": "/images/families/Bhamra.png",
       "members": [
         {
           "id": "bhamraserena"
@@ -21187,7 +21187,7 @@ export default {
       "chineseName": "冯",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/families/Fen.jpg",
+      "image": "/images/families/Fen.png",
       "members": [
         {
           "id": "fenjing"
@@ -21200,7 +21200,7 @@ export default {
       "chineseName": "贾巴里",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/families/Jabari.jpg",
+      "image": "/images/families/Jabari.png",
       "members": [
         {
           "id": "jabarithomas"
@@ -21213,7 +21213,7 @@ export default {
       "chineseName": "麦金农",
       "world": "Britechester",
       "worldId": "britechester",
-      "image": "/images/families/McKinnon.jpg",
+      "image": "/images/families/McKinnon.png",
       "members": [
         {
           "id": "mckinnonlana"
@@ -21237,7 +21237,7 @@ export default {
       "lot": "Rock Ridge Canyon",
       "lotId": "rockridgecanyon",
       "worldId": "glimmerbrook",
-      "image": "/images/families/Charm.jpg",
+      "image": "/images/families/Charm.png",
       "description": "恰姆家族造就了一代又一代杰出的施法术士，米涅瓦经常对她的孩子们提起这件事。杰玛厌恶她家人的高度期望，尽管她暗中想让他们感到骄傲。达雷尔是一位有抱负的决斗家，他最近和艾米莉亚订婚，艾米莉亚刚成为施法术士不久，为了达到该家族的期望而肩负不少重担。",
       "members": [
         {
@@ -21262,7 +21262,7 @@ export default {
       "lot": "Creek Side Corner",
       "lotId": "creeksidecorner",
       "worldId": "glimmerbrook",
-      "image": "/images/families/AmicableAcolytes.jpg",
+      "image": "/images/families/AmicableAcolytes.png",
       "description": "葛蕾丝和托麦斯自从成为施法术士起就是室友了。他们白天有各自的工作，但魔法仍是他们的主要目标，而且他们之间有着良性的竞争，要比赛谁会先成为高手施法术士！",
       "members": [
         {
@@ -21279,7 +21279,7 @@ export default {
       "chineseName": "炭炭",
       "world": "Glimmerbrook",
       "worldId": "glimmerbrook",
-      "image": "/images/families/Ember.jpg",
+      "image": "/images/families/Ember.png",
       "members": [
         {
           "id": "embermorgyn"
@@ -21292,7 +21292,7 @@ export default {
       "chineseName": "法芭",
       "world": "Glimmerbrook",
       "worldId": "glimmerbrook",
-      "image": "/images/families/Faba.jpg",
+      "image": "/images/families/Faba.png",
       "members": [
         {
           "id": "fabal"
@@ -21305,7 +21305,7 @@ export default {
       "chineseName": "席维史威特",
       "world": "Glimmerbrook",
       "worldId": "glimmerbrook",
-      "image": "/images/families/Silversweater.jpg",
+      "image": "/images/families/Silversweater.png",
       "members": [
         {
           "id": "silversweatersimeon"
@@ -21320,7 +21320,7 @@ export default {
       "lot": "The Portsmouth Promenade",
       "lotId": "theportsmouthpromenade",
       "worldId": "evergreenharbor",
-      "image": "/images/families/Greenburg.jpg",
+      "image": "/images/families/Greenburg.png",
       "description": "玛莉和布洛森是城里的一对老派夫妻。他们想把城里装饰得更漂亮，玛莉专注于她的花园，布洛森则在闲置的空间上绘画。但是岁月不饶人。幸好他们的养子诺克斯在为家族的名声而奋斗，帮助世界变得更环保一点。可惜，有时候他的“奋斗”太字面了。",
       "members": [
         {
@@ -21342,7 +21342,7 @@ export default {
       "lot": "Miner Mansion",
       "lotId": "minermansion",
       "worldId": "evergreenharbor",
-      "image": "/images/families/Harris.jpg",
+      "image": "/images/families/Harris.png",
       "description": "克莱特斯和菲伊在格里姆斯采石场以超低价格找到了这个传统悠久的房子。它看起来没有什么问题，哈里斯夫妇也不会质疑这么优惠的交易。克莱特斯自由奔放的母亲很快搬了过来，组成了这个快乐的大家庭。奇怪的是，他们的大儿子头上总是套着一个丢人的袋子。而且全家人只有菲伊有工作，但房子却装修得很好。这到底是怎么回事？",
       "members": [
         {
@@ -21370,7 +21370,7 @@ export default {
       "lot": "The Old Mill",
       "lotId": "theoldmill",
       "worldId": "evergreenharbor",
-      "image": "/images/families/SterlingRico.jpg",
+      "image": "/images/families/SterlingRico.png",
       "description": "贝丝和朱尔斯是一对有远大梦想的夫妻。他们的梦想就是美妙的金钱。身为土木设计师的贝丝处在一个完美的位置，可以说服市政府官员和居民们通过对她的收入有利的计划。而她的共犯朱尔斯是一名潮流教主，热爱时尚就像他热爱说服人们花钱买他那糟糕的时尚风格一样。他们性格开朗、魅力十足，像一阵企业家旋风一样在常青港四处奔波。",
       "members": [
         {
@@ -21389,7 +21389,7 @@ export default {
       "lot": "Pigulock Manor",
       "lotId": "pigulockmanor",
       "worldId": "evergreenharbor",
-      "image": "/images/families/Tinker.jpg",
+      "image": "/images/families/Tinker.png",
       "description": "天才但却永远充满压力的蒂娜·廷克尔是一名非常成功的自由手工艺者。和她同样成功的伴侣雅丝敏说服她和女儿奥莉薇一起搬到了针叶车站。蒂娜接了太多的工作，雅丝敏想让她放松下来，多陪陪家人。与此同时，充满好奇心的小奥莉薇最喜欢的莫过于欣赏她两位母亲的作品，并梦想着追随她们的脚步。",
       "members": [
         {
@@ -21411,7 +21411,7 @@ export default {
       "lot": "5-3-1 Shinrinyoku",
       "lotId": "5-3-1shinrinyoku",
       "worldId": "mtkomorebi",
-      "image": "/images/families/Akiyama.jpg",
+      "image": "/images/families/Akiyama.png",
       "description": "秋山一家离开忙碌喧嚣的城市，搬到了廉长大的安静小镇。虽然要牺牲通勤时间，不过珍娜和廉希望这里关系亲密的社区和美丽的自然环境能够弥补这一点。廉惊讶地得知他儿时的心上人伊藤惠美也搬回了树影斑驳山。他很想让过去就留在过去，但少年时的心伤还在隐隐作痛。",
       "members": [
         {
@@ -21436,7 +21436,7 @@ export default {
       "lot": "2-5-1 Wakabamori",
       "lotId": "2-5-1wakabamori",
       "worldId": "mtkomorebi",
-      "image": "/images/families/Ito.jpg",
+      "image": "/images/families/Ito.png",
       "description": "伊藤惠美从小在千叶町长大，身为金牌双板滑雪者，她想让自己的孩子也在这里成长，但旧日的情愫或许会让她分心。伊藤直树也曾是奖牌获得者，他是一个精于计算的商人，对树影斑驳山有着颇具争议的设想，包括更多的旅游业、金钱和现代化。七海和清志继承了父母的运动天赋，但他们都各有主意。七海只想做个无忧无虑的孩子，而清志一见钟情的并不只是雪道……",
       "members": [
         {
@@ -21461,7 +21461,7 @@ export default {
       "lot": "5-6-1 Shinrinyoku",
       "lotId": "5-6-1shinrinyoku",
       "worldId": "mtkomorebi",
-      "image": "/images/families/Nishidake.jpg",
+      "image": "/images/families/Nishidake.png",
       "description": "据说西岳家族是木漏隙光山的神圣守护者。确实，伊藤家族的当地开发计划让茂大为震怒。不过幸子因为和惠美的妈妈是老朋友了，对这位年轻姑娘很有好感。而且她也清楚自己孙女的心里装着谁……香织在失去父母后搬到了木漏隙光山，她很快爱上了这里的雪道，以及她祖父的世仇的儿子！她最大的愿望就是融化祖父冻结成冰的心。",
       "members": [
         {
@@ -21499,7 +21499,7 @@ export default {
       "lot": "14 Nettle Lane",
       "lotId": "14nettlelane",
       "worldId": "henfordonbagley",
-      "image": "/images/families/MoodyMcMillan.jpg",
+      "image": "/images/families/MoodyMcMillan.png",
       "description": "在从事了时间长到自己都不想承认的办公室工作后，德里克找到了一个愿意和他一起过他年轻时梦想的田园生活的人，于是两人搬到了他家的小屋，再也没有离开。除了拒绝那些很想买下他们房子的开发商的出价时，伊安和德雷克轮流制定日程，过着既刺激又安宁的生活。尽管——或者说正是由于——他们有着不同点，时间对这对老情侣非常仁慈，他们作为亨福昂贝格利社区的核心成员，过着心满意足的退休生活。",
       "members": [
         {
@@ -21518,7 +21518,7 @@ export default {
       "lot": "3 Cobblebottom Street",
       "lotId": "3cobblebottomstreet",
       "worldId": "henfordonbagley",
-      "image": "/images/families/Scott.jpg",
+      "image": "/images/families/Scott.png",
       "description": "作为芬奇维克受欢迎的酒吧地精的臂膀的老板，斯科特一家简直过上了梦想中的生活！呃，至少是莎拉的梦想。西蒙是一个不再生活在城市中的城市男孩，他每次遇到鸡时还是会感觉有些尴尬。不过，他还是决定支持妻子的梦想。他们为小家庭增加新成员的愿望是会让这一切变得更好还是更糟呢？",
       "members": [
         {
@@ -21537,7 +21537,7 @@ export default {
       "lot": "Olde Mill Hill",
       "lotId": "oldemillhill",
       "worldId": "henfordonbagley",
-      "image": "/images/families/Watson.jpg",
+      "image": "/images/families/Watson.png",
       "description": "虽然托马斯一直计划要继承家产，但他感觉力不从心。作为一个把成功等同于庄稼大小的人，他的信心和家庭都在渐行渐远。虽然他的妻子拉赫米喜爱乡间的空气，但她对丈夫的感情正逐渐失去新鲜感，喜爱也日渐消退。他们的三个孩子中最年长的拉希达感觉自己被困在了这里，成天梦想着在贝格利亨福德之外生活——这些梦想让她与一个志同道合的人之间产生了火花。而两个年纪较小的孩子性格则大不相同！伊姆兰喜欢待在安全的家里，而玛利亚则勇敢地探索未知的世界。这个忙乱的家庭是会团结在一起，还是会在他们的“老新”家里分崩离析呢？",
       "members": [
         {
@@ -21563,7 +21563,7 @@ export default {
       "chineseName": "乔普拉",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/families/Chopra.jpg",
+      "image": "/images/families/Chopra.png",
       "description": "作为单亲妈妈，抚养拉胡尔并不容易，但拉维娜越来越喜欢这种关系，并且很享受照料村庄做个好邻居的快乐。拉胡尔很尊敬他能干的母亲，但他一直生活在这个小村庄里，他渴望出去旅行，看看大千世界。不过他也不忍心留下妈妈独自一人生活。",
       "members": [
         {
@@ -21580,7 +21580,7 @@ export default {
       "chineseName": "克兰普巴顿",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/families/Crumplebottom.jpg",
+      "image": "/images/families/Crumplebottom.png",
       "members": [
         {
           "id": "crumplebottomagnes"
@@ -21596,7 +21596,7 @@ export default {
       "chineseName": "贝尔",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/families/Bell.jpg",
+      "image": "/images/families/Bell.png",
       "description": "比起与模拟市民相处，动物的陪伴更能给麦可带来慰藉。尽管他在约会时有些尴尬，但这样的他作为布兰伯伍德森林的生物饲养员是很称职的。多年前，他修缮了一间破败的林中小屋，从此便成为了那里各种植物和动物的非正式护理员。",
       "members": [
         {
@@ -21610,7 +21610,7 @@ export default {
       "chineseName": "戈德布鲁姆",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
-      "image": "/images/families/Goldbloom.jpg",
+      "image": "/images/families/Goldbloom.png",
       "description": "对金来说，在温馨的亨福昂贝格利生活最棒的一点就是可以结识许多新朋友，比如精神饱满的小马伊拉，还有沉迷幻想的麦可·贝尔。另一个让她感到骄傲的就是杂货摊位：那是一个社交活动和优质产品的枢纽。金见证了这个村庄的沉浮，总是想知道顾客们生活中的琐事。",
       "members": [
         {
@@ -21654,7 +21654,7 @@ export default {
       "lot": "The Old Wood Nectary",
       "lotId": "theoldwoodnectary",
       "worldId": "tartosa",
-      "image": "/images/families/Markovic.jpg",
+      "image": "/images/families/Markovic.png",
       "description": "马尔科维奇家族在当地因为对婚庆行业中的音乐贡献而闻名，尽管他们自己的婚礼一再推迟。其中有相当一部分原因是由于他们和劳伦特家族之间的关系有些紧张。马蒂奥认为劳伦特家族把持着当地的婚礼业务，因此他非常努力地维持自己家族在婚庆行业中的地位。尽管露西亚对赫克托这位前任确是充满敌意，但这些恩怨情仇再加上工作让他们忙得不可开交……连办婚礼都没时间！",
       "members": [
         {
@@ -21674,7 +21674,7 @@ export default {
       "chineseName": "杰里尔",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/families/Jaleel.jpg",
+      "image": "/images/families/Jaleel.png",
       "description": "费兹是一名满腔诗意、无可救药的浪漫主义者，而他又住在专门从事婚庆行业的区域之中——这不断提醒着他自己的单身状态。他大多数时间都在村庄广场卖花，幻想着他生命中缺失的灵魂伴侣。也许有一天，他的梦想能够成真。但在那之前……他那有适合所有人的花朵",
       "members": [
         {
@@ -21688,7 +21688,7 @@ export default {
       "chineseName": "索托",
       "world": "Tartosa",
       "worldId": "tartosa",
-      "image": "/images/families/Soto.jpg",
+      "image": "/images/families/Soto.png",
       "description": "多年前，多米尼克和卡米尔在塔图沙成婚。每年她们都会回来度假，希望能够再次体验只有塔图沙能够给予的满满爱意——以及丰富的当地文化。两人都退休后，她们决定取消这每年的行程，改为永久定居。\r\r\n\r\r\n多米尼克是一名艺术家，现在大部分时间都在村庄广场绘制风景画和肖像画；卡米尔则是一名作家，她对这个地区的历史沿革深感兴趣。许多人将她视为是光明港的历史学家，而她也时常会和多明妮可一起享受户外风光，同时也会向愿意聆听的人畅谈当地的历史。",
       "members": [
         {
@@ -21707,7 +21707,7 @@ export default {
       "lot": "The Collective Cabin",
       "lotId": "thecollectivecabin",
       "worldId": "moonwoodmill",
-      "image": "/images/families/Volkov.jpg",
+      "image": "/images/families/Volkov.png",
       "description": "克里斯托弗·沃尔科夫在世的时间比大多数人的记忆还长。他创立并领导了月亮木集体，并热心接纳任何流离失所或感到迷失的狼人。 莉莉很久以前就加入了这个家庭，她是一个孤独的流浪者，吸血鬼夺去了她最亲密的朋友。在她之后罗里也加入了，然后是雅各布。虽然罗里和养父的关系恶化了，雅各布和克里斯托弗的关系却变好起来。他们都有着同样冷静而强烈的灵魂，月亮木工厂的每个人都知道克里斯托弗想让雅各布成为他族群的继承人。",
       "members": [
         {
@@ -21727,7 +21727,7 @@ export default {
       "chineseName": "豪威尔",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/families/Howell.jpg",
+      "image": "/images/families/Howell.png",
       "description": "卢来到月木锯木厂后不久，为了给约会对象赛琳留下好印象，他取笑了镇上臭名昭著的野蛮狼人格雷格。他的错误决定给他和赛琳都带来了糟糕的后果，但当她寻求解药时，卢认为他可以挺过去……结果并不像他的预期那样。这个恶作剧大师是会学着去爱内心出现的狼性呢，还是会尝试着从他陷入的麻烦中找到出路呢？",
       "members": [
         {
@@ -21741,7 +21741,7 @@ export default {
       "chineseName": "洛佩兹",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/families/LopezCelene.jpg",
+      "image": "/images/families/LopezCelene.png",
       "description": "从她还是个小女孩的时候，赛琳就被浪漫的狼人故事迷住了。然而，在一次午夜的森林约会中，意料之外的事发生了。幸运的是，她发现了一种可以避免变成狼的解药。她现在更加谨慎了，但作为当地酒吧的老板，她可以在不会受伤的情况下更近距离了解狼人的奇妙世界。",
       "members": [
         {
@@ -21755,7 +21755,7 @@ export default {
       "chineseName": "奥克洛",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/families/Oaklow.jpg",
+      "image": "/images/families/Oaklow.png",
       "description": "大多数月亮木工厂的居民都知道罗里是獠牙的首领，但她最初到来时也是困惑的年轻狼人，那时是克里斯托弗·沃尔科夫在照顾她。他试图教她控制自己，把她当作花园里的一朵花来养育，但随着洛里的成长，两人渐行渐远。他的理想和价值观压抑了她内心的狼性，最终洛里臣服于她内心的野兽，离开了自己的族群。如今，洛里似乎已经明白了一切，但在内心深处，她仍在探索如何成为一名她一直希望克里斯托弗能够成为的领袖。",
       "members": [
         {
@@ -21769,7 +21769,7 @@ export default {
       "chineseName": "威尔德",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/families/Wilder.jpg",
+      "image": "/images/families/Wilder.png",
       "description": "沃夫冈在月亮锯木厂生活了几十年，他一直在记录狼人的历史，并试图给他们一个更光明的未来。他是一位专门写狼人“小说”的著名作家，他的书将“友好的狼人邻居”的概念引入了流行文化。因为他用了笔名，没有人意识到他的真实身份实际上就是他所拥护的狼人。",
       "members": [
         {
@@ -21783,7 +21783,7 @@ export default {
       "chineseName": "格雷格",
       "world": "Moonwood Mill",
       "worldId": "moonwoodmill",
-      "image": "/images/families/Greg.jpg",
+      "image": "/images/families/Greg.png",
       "members": [
         {
           "id": "greg"
@@ -21798,7 +21798,7 @@ export default {
       "lot": "Water Tower Way",
       "lotId": "watertowerway",
       "worldId": "copperdale",
-      "image": "/images/families/Harjo.jpg",
+      "image": "/images/families/Harjo.png",
       "description": "对美食的共同热爱让艾娃和鲁卡走到一起，相爱了。艾娃最近在高中的食堂工作，她专业的烹饪技能让食堂的食物变得前所未有的美味！鲁卡还在学习阶段，但已经被提升为洗碗工头，因此高兴极了。灰灰决定全身心投入到时尚生活中，潜心研究模拟市民潮流人士的生活方式，还花了大量的时间研究Trendi。诺亚有点喜欢搞恶作剧，他每天不是忙着美式足球训练，就是幻想着自己的暗恋对象西德尼·普莱斯。哈卓夫妇既要养育青少年，又要创作食谱，一系列疯狂的冒险之旅正等着他们。",
       "members": [
         {
@@ -21823,7 +21823,7 @@ export default {
       "lot": "Golden Peak",
       "lotId": "goldenpeak",
       "worldId": "copperdale",
-      "image": "/images/families/Prescott.jpg",
+      "image": "/images/families/Prescott.png",
       "description": "这座庄园历史悠久，经过几代人的传承，现在的主人是普列斯考特家族。梅·普列斯考特和她的两个女儿以及她的父亲泰住在这里，梅是考柏戴尔高中的校长。梅的丈夫去世后，她把所有精力都放在了保护女儿上，对她们精心呵护，有时候甚至都到了令人尴尬的程度。莫莉是在学生中间很出名，她对音乐有着谜一般的热情。她从捣蛋鬼小妹艾米身上受到了启发，正学着接受自己更叛逆的一面。泰很享受和孙女们在一起的时光，特别是在学校做校工时与莫莉多待一会。这个家庭相亲相爱，一同自豪地继承了普列斯考特这个姓氏。",
       "members": [
         {
@@ -21848,7 +21848,7 @@ export default {
       "lot": "BridgeCreek Drive",
       "lotId": "bridgecreekdrive",
       "worldId": "copperdale",
-      "image": "/images/families/Price.jpg",
+      "image": "/images/families/Price.png",
       "description": "考柏戴尔的校园情侣校友贾娜·普莱斯和马塞尔·普莱斯回来了，带着他们的三个孩子西德尼、萨凡纳和杰登搬回了原来的社区。他们还邀请外国交换生凯文到热闹的家里来做客。这是个忙碌的家庭，热衷于参与活动、发展爱好。马塞尔在写他最新的小说，贾娜有自己的全职工作，是一名成功的地区经理。萨凡纳和西德尼这对双胞胎，既沉浸于自己的兴趣爱好，同时努力保持好成绩。杰登非常尊敬他的兄弟姐妹，迫不及待地想成为像他们和他的朋友凯文一样的人。生活当然可以让他们分离，但他们知道彼此之间一定可以互相依赖。",
       "members": [
         {
@@ -21877,7 +21877,7 @@ export default {
       "chineseName": "莫林德",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/families/Morlind.jpg",
+      "image": "/images/families/Morlind.png",
       "members": [
         {
           "id": "morlind-anjelo"
@@ -21890,7 +21890,7 @@ export default {
       "chineseName": "希多史提",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/families/Hiddlestix.jpg",
+      "image": "/images/families/Hiddlestix.png",
       "members": [
         {
           "id": "hiddlestixeloise"
@@ -21903,7 +21903,7 @@ export default {
       "chineseName": "库尔斯",
       "world": "Copperdale",
       "worldId": "copperdale",
-      "image": "/images/families/Coombes.jpg",
+      "image": "/images/families/Coombes.png",
       "members": [
         {
           "id": "coombesrita"
@@ -21918,7 +21918,7 @@ export default {
       "lot": "7 Eucalyptus Lane",
       "lotId": "7eucalyptuslane",
       "worldId": "sansequoia",
-      "image": "/images/families/Michaelson.jpg",
+      "image": "/images/families/Michaelson.png",
       "description": "塞莱斯特和克里斯多夫是在同一家初创公司上班时认识的。两人第一次出去喝咖啡的时候，不可思议地发现彼此竟有那么多共同点！他们结婚之后收养了阿特拉斯，然后很快把他宠成了混世魔王。现在他们又收养了欧莱恩，每天努力工作，立志要把两个孩子养成和自己一样的书呆子。",
       "members": [
         {
@@ -21943,7 +21943,7 @@ export default {
       "lot": "Robles Point",
       "lotId": "roblespoint",
       "worldId": "sansequoia",
-      "image": "/images/families/Robles.jpg",
+      "image": "/images/families/Robles.png",
       "description": "罗布雷斯家族在这个社区的地位相当稳固——从渔业贸易开始飞速发展的时候，他们就一直住在这里，多年来把持着兴旺繁荣的家族企业。伊格纳西奥是一家之主，他们家族在此地根基深厚，却并未因此而守旧古板。他们认识这里的每一个人，也热衷于参与到社区的一切事务中——例如不仅投入大把的空闲时间在水岸边停留，还在吉尔伯特花园组织大型家庭聚会，如此种种，不一而足。",
       "members": [
         {
@@ -21966,7 +21966,7 @@ export default {
       "chineseName": "罗布雷斯-鲁阿诺",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/families/RoblesRuano.jpg",
+      "image": "/images/families/RoblesRuano.png",
       "description": "罗布雷斯-鲁阿诺家族是有点不合常规，但什么都按着规矩来也太太太无聊了啊，不是吗？这些人是无论如何都要表达自我、树立个性的人。父母两人都希望他们特立独行的风范能够让略微有点粘人的女儿塔拉发生一点变化。只要多付出一点爱，塔拉肯定会成长为一个自信（且创造力十足！）的孩子。",
       "members": [
         {
@@ -21987,7 +21987,7 @@ export default {
       "world": "San Sequoia",
       "lotId": "36bayaniplace",
       "worldId": "sansequoia",
-      "image": "/images/families/LunaSullivan.jpg",
+      "image": "/images/families/LunaSullivan.png",
       "description": "卢那-沙利文一家有点不同寻常，卡尔敏的爸爸在一场不幸的厨房事故中丧生，她的妈妈需要帮助……所以她的祖母埃莉诺就搬到她家做起了当家祖母。可是不得不说，卡尔敏的好祖母就跟她一样，傻里傻气的！",
       "members": [
         {
@@ -22007,7 +22007,7 @@ export default {
       "chineseName": "凯尔森",
       "world": "San Sequoia",
       "worldId": "sansequoia",
-      "image": "/images/families/Kyleson.jpg",
+      "image": "/images/families/Kyleson.png",
       "description": "凯尔也就是个，普通的家伙，好吗？",
       "members": [
         {
@@ -22023,7 +22023,7 @@ export default {
       "lot": "Canyon Crossing",
       "lotId": "canyoncrossing",
       "worldId": "chestnutridge",
-      "image": "/images/families/Gooseman.jpg",
+      "image": "/images/families/Gooseman.png",
       "description": "这位传奇马术冠军是西耶娜和安柏尔母亲的导师，退役后就和他的爱马“杜克”隐居驰骋峡谷，过着简单快乐的生活。唐和“杜克”相依为伴，欣赏峡谷壮阔的景色，享受着辛勤工作的成果。",
       "members": [
         {
@@ -22039,7 +22039,7 @@ export default {
       "lot": "Sweet Nectar Glade",
       "lotId": "sweetnectarglade",
       "worldId": "chestnutridge",
-      "image": "/images/families/NectarMakingDuo.jpg",
+      "image": "/images/families/NectarMakingDuo.png",
       "description": "这对组合准备在佳酿制造界闯出名堂。玛丽莎凭借她爱社交的个性和雄心壮志建立关系网。丹妮则是个鉴赏家，一心一意钻研深奥的佳酿制作工艺。两人的关系有时会有些紧张，但在内心深处她们总是互相依靠。",
       "members": [
         {
@@ -22080,7 +22080,7 @@ export default {
       "lot": "Champion’s Grove",
       "lotId": "championsgrove",
       "worldId": "chestnutridge",
-      "image": "/images/families/SiennaFlapjack.jpg",
+      "image": "/images/families/SiennaFlapjack.png",
       "description": "西耶娜曾多次携手她的爱马盐湖燕麦饼（简称燕麦饼）斩获终极马术冠军赛，她很乐意分享自己的独门秘笈，将马儿们训练成优秀的赛马。双亲过世以后，她的兄弟继承了家族牧场，她则开始正式驯马和参与比赛。现在她运营着骑马啦！马术中心，对有上进心的爱马人士不吝鼓励、倾囊相授。",
       "members": [
         {
@@ -22094,7 +22094,7 @@ export default {
       "chineseName": "克林克托普",
       "world": "Chestnut Ridge",
       "worldId": "chestnutridge",
-      "image": "/images/families/Crinkletop.jpg",
+      "image": "/images/families/Crinkletop.png",
       "members": [
         {
           "id": "crinkletoproberto"
@@ -22109,7 +22109,7 @@ export default {
       "lot": "Taka Soi 15",
       "lotId": "takasoi15",
       "worldId": "tomarang",
-      "image": "/images/families/Cahyaputri.jpg",
+      "image": "/images/families/Cahyaputri.png",
       "description": "不幸的微波炉加热水事件令他们失去了父母查亚和武兰，那之后，凡妮莎不得不承担重任。作为“大姐”和“监护人”，要在同一屋檐下同时照顾一位青少年，并应付租客的恶作剧可不容易！",
       "members": [
         {
@@ -22128,7 +22128,7 @@ export default {
       "lot": "Sungai Point",
       "lotId": "sungaipoint",
       "worldId": "tomarang",
-      "image": "/images/families/LinhSadya.jpg",
+      "image": "/images/families/LinhSadya.png",
       "description": "要养活琳·萨迪亚一家确实需要全村之力。莉恩和阿隆为了照顾孩子和年迈的父母，忙得不可开交。幸好，多种收入来源让他们能够轻松支付租金。一个热闹的家庭，也会带来一些混乱。幸好，只要踏出家门，就能够重获平静。",
       "members": [
         {
@@ -22156,7 +22156,7 @@ export default {
       "lot": "Sungai Point",
       "lotId": "sungaipoint",
       "worldId": "tomarang",
-      "image": "/images/families/Linh.jpg",
+      "image": "/images/families/Linh.png",
       "description": "一个人住看似很孤独，但缇的所有家人都住在她楼上！她为自己“怪阿姨”的称号而感到自豪，而她的奇怪之处并不仅限于她独特的室内装潢。然而，她还是有些不为人知的事。有时独居的好处，就是能够拥有隐私……除了要藏好她的小丑画作就是了。",
       "members": [
         {
@@ -22172,7 +22172,7 @@ export default {
       "lot": "Hothotok Shore",
       "lotId": "hothotokshore",
       "worldId": "tomarang",
-      "image": "/images/families/BunMa.jpg",
+      "image": "/images/families/BunMa.png",
       "description": "邦玛一家非常传统，他们依靠牢固的家庭纽带来渡过生活中的起起落落。布雅坚持让她儿子一家搬进来跟她一起同住，好让她帮忙照顾自己的孙子苏德。虽然他有时很黏人，但布雅非常珍惜这个将自己世世代代的智慧传承下去的机会，而卡塞姆和宁则努力工作，享受他们的新婚生活。",
       "members": [
         {
@@ -22195,7 +22195,7 @@ export default {
       "chineseName": "李",
       "world": "Tomarang",
       "worldId": "tomarang",
-      "image": "/images/families/Li.jpg",
+      "image": "/images/families/Li.png",
       "members": [
         {
           "id": "lipanya"
@@ -22210,7 +22210,7 @@ export default {
       "lot": "La Suite del Flechazo",
       "lotId": "lasuitedelflechazo",
       "worldId": "ciudadenamorada",
-      "image": "/images/families/Nadir.jpg",
+      "image": "/images/families/Nadir.png",
       "description": "阿奇兹和瓦伦蒂娜首次相遇时，他们是两名高中生，在家乡的一间花店里一起为情侣制作周年纪念花束。他们被彼此对爱情的共同热爱所吸引。虽然这种平静的生活方式对阿齐兹而言非常完美，但瓦伦蒂娜一直想搬到城市里，将她对爱情的迷恋变成更有野心的职业生涯。他们在青年时期克服了许多起起落落，存了一笔钱并搬到城市里，他们终于成功了——好吧，至少瓦伦蒂娜觉得自己成功了。瓦伦蒂娜成为了爱慕之城的知名媒人，全心投入到她新的人生热情：协助其他人找到像她和阿齐兹一样精彩的爱情。不过，阿奇兹却觉得自己被抛下了。这从来都不是他的梦想，而他的妻子总是忙于处理其他情侣的问题，却忽视了自己的问题。瓦伦蒂娜会继续花费精力处理其他情侣的关系，而让自己的爱情关系破裂吗？她能够学会如何在爱情、工作和阿奇兹之间找到平衡吗？",
       "members": [
         {
@@ -22229,7 +22229,7 @@ export default {
       "lot": "Avenida de la Eternidad",
       "lotId": "avenidadelaeternidad",
       "worldId": "ciudadenamorada",
-      "image": "/images/families/DynamicDaters.jpg",
+      "image": "/images/families/DynamicDaters.png",
       "description": "这四个非常不一样的模拟市民怎么会住在一个屋檐下？故事是这样的，听好了。卡门是一位极为成功的退休执行长，她的妻子去世后，她希望在自己的黄金岁月里找到一点乐趣。多年前，爱利亚被聘请为卡门公司的主厨，两人因此相识并从那以后形影不离。曼努尔最近也加入了这群朋友，他在一次晚上聚会中认识了爱利亚和卡门后，便立即迷上了卡门。卡门也觉得他超凡脱俗的个性非常有趣，他的吸引力讨人喜欢的同时也带点傻气。不久后，曼努尔的密友兼造型顾问约尔提克，也加入了这个有趣的室友圈子。谁知道这个家庭到底会发生怎样的疯狂浪漫事件呢！",
       "members": [
         {
@@ -22254,7 +22254,7 @@ export default {
       "lot": "Calle de la Promesa",
       "lotId": "calledelapromesa",
       "worldId": "ciudadenamorada",
-      "image": "/images/families/Lopez.jpg",
+      "image": "/images/families/Lopez.png",
       "description": "莫妮卡的前夫发现自己在草坪地精雕刻方面的天赋后，决定离开他的家人，在地精艺术的奇异世界里追求事业，自此之后，洛佩兹家庭的情况便发生了改变。莫妮卡觉得自己再也找不到爱情了，并决心要将生活奉献给她孩子们的幸福。然而，孩子们逐渐长大了，她正面临可怕的空巢危机。莫妮卡决定，是时候重新探索她的浪漫一面了——她不知道这将会令她爱上那位独一无二、镇上臭名昭著的梦中情人，曼努尔·阿吉拉尔…他碰巧也是她儿子的高中同学。随着自己的前同学与妈妈踏入了变幻莫测的成人约会世界，卡洛斯觉得受到威胁，而勒兹则进入了青少年时期，对爱情抱持着紧张的态度。这个家庭的未来生活中真的能拥有幸福和爱情吗？",
       "members": [
         {
@@ -22276,7 +22276,7 @@ export default {
       "lot": "Specter Family Manor",
       "lotId": "specterfamilymanor",
       "worldId": "ravenwood",
-      "image": "/images/families/Specter.jpg",
+      "image": "/images/families/Specter.png",
       "description": "幽浑家族充满了神秘色彩。有传言说，奥莉薇的前几任丈夫都死于非命，这让她现在与莱恩 科芬——枯萎逆时针乐队的创始人和唯一成员——订婚变得相当尴尬。莱恩是否知道，这位即将成为他配偶的幽浑家族一员，在她的储藏室里藏着骷髅呢？他肯定不会过多地询问她儿子尼昂的神秘身世。这么说吧，也许死神之所以不监视他们家，完全是因为奥莉薇过去的风流韵事。",
       "members": [
         {
@@ -22298,7 +22298,7 @@ export default {
       "lot": "Mourning Mist Manor",
       "lotId": "mourningmistmanor",
       "worldId": "ravenwood",
-      "image": "/images/families/IzadiGomes.jpg",
+      "image": "/images/families/IzadiGomes.png",
       "description": "当埃丝特·戈麦斯正在寻找鬼魂室友时，可怜的苏莱卡因一起不幸的牛头摇摇树「事故」而离世，并恰巧也在同个社区寻找新住处。如今，两人共享一个家，埃丝特正慢慢教苏莱卡适应鬼魂生活、以及在死神手下工作的职涯发展技巧。",
       "members": [
         {
@@ -22317,7 +22317,7 @@ export default {
       "lot": "Teardrop Cottage",
       "lotId": "teardropcottage",
       "worldId": "ravenwood",
-      "image": "/images/families/Gomes.jpg",
+      "image": "/images/families/Gomes.png",
       "description": "拉德万和茨波拉·戈麦斯试过做鬼的滋味后，认为做鬼并不适合他们——至少现在还不适合。与此同时，拉德万还得全力阻止他笨拙的妻子不要过早地遇到死神。在一片混乱中，他们的孩子，十几岁的泽尔米拉有一天在散步时发现了一张塔罗牌，从此便一头扎进了自己对来世的研究中。现在，泽尔米拉开始接受内心的恐怖一面，并发现家族过去曾与哥特一家一位非常特殊的成员有着独特的联系。对这个家庭来说，事情似乎变得有点诡异了！",
       "members": [
         {
@@ -22339,7 +22339,7 @@ export default {
       "lot": "The Marigold Chateau",
       "lotId": "themarigoldchateau",
       "worldId": "ravenwood",
-      "image": "/images/families/Aether.jpg",
+      "image": "/images/families/Aether.png",
       "description": "在与一只宠物乌鸦沟通失败后，凯·艾瑟发现自己的肉体形态比预期的要差。这是一个许多家庭都熟悉的故事，但这个故事里有一个不幸的变故，给凯的丈夫埃卡德以及他们的儿子高间都带来了巨大的压力——凯似乎不仅不知道自己已经死了，他也不相信有鬼魂。很尴尬吧？但在当地互助小组的帮助下，以及在家人的关爱下，也许凯会开始看到曙光。",
       "members": [
         {
@@ -22359,7 +22359,7 @@ export default {
       "chineseName": "艾莉丝",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/families/Alice.jpg",
+      "image": "/images/families/Alice.png",
       "members": [
         {
           "id": "alice"
@@ -22372,7 +22372,7 @@ export default {
       "chineseName": "伊迪丝",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/families/Edith.jpg",
+      "image": "/images/families/Edith.png",
       "members": [
         {
           "id": "edith"
@@ -22385,7 +22385,7 @@ export default {
       "chineseName": "鸦舞者女士",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/families/GothLady.jpg",
+      "image": "/images/families/GothLady.png",
       "members": [
         {
           "id": "gothladyravendancer"
@@ -22398,7 +22398,7 @@ export default {
       "chineseName": "瓦雷兹",
       "world": "Ravenwood",
       "worldId": "ravenwood",
-      "image": "/images/families/Warez.jpg",
+      "image": "/images/families/Warez.png",
       "members": [
         {
           "id": "warezwaylon"
@@ -22413,7 +22413,7 @@ export default {
       "lot": "Terra-Potta",
       "lotId": "terrapotta",
       "worldId": "nordhaven",
-      "image": "/images/families/Koopman.jpg",
+      "image": "/images/families/Koopman.png",
       "description": "几十年来，库普曼家族烧制的精美陶器一直是诺黑凡的主打特色。格特年轻时便接手了家族店铺，那时他并没有信心能够独自经营，直到遇到了乔兰达。两人一见钟情，在一起后，陶土大地获得了前所未有的成功。然而，世事难料。经过多年的婚姻生活，加上女儿已经离开家去上大学，乔兰达和格特不再像以前那样相濡以沫。他们的大部分时间都是各行其是；她照看总店，而他则经常在当地市场摆摊——据小道消息说，有人看到他和一些顾客的关系特别亲昵。这对夫妇能否重燃旧情，还是这段爱情已经破裂到无法修复？",
       "members": [
         {
@@ -22432,7 +22432,7 @@ export default {
       "lot": "The Old Foundry",
       "lotId": "theoldfoundry",
       "worldId": "nordhaven",
-      "image": "/images/families/UrbaneHousesharers.jpg",
+      "image": "/images/families/UrbaneHousesharers.png",
       "description": "肯诺伯搬到北港后，先在“酒红旋律”演出，赚了一些钱。当地人非常喜欢他的音乐，没过多久，他有了买下这家酒吧的想法，以实现自己长久以来经营一家爵士酒廊的梦想——只可惜，他的钱还不太够。后来，肯诺伯认识了克里斯平，这给他带来了新的机会。克里斯平年轻时在后现代艺术雕塑上砸了太多钱，现在他想为他收养的孩子奥利存点模拟币。没过多久，他们就搬到了一起，从此开始分摊账单。是的，克里斯平有时太过自负，而且肯诺伯也还没攒够酒吧的钱，但我们的这位梦想家已经在这座新城市找到了自己的方向。作为一个从未有过机会成为父亲的人，他越来越喜欢奥利出现在他的生活中。",
       "members": [
         {
@@ -22454,7 +22454,7 @@ export default {
       "lot": "Spilled Neon",
       "lotId": "spilledneon",
       "worldId": "nordhaven",
-      "image": "/images/families/Sarpong.jpg",
+      "image": "/images/families/Sarpong.png",
       "description": "在跟随一对地下纹身艺术家学艺多年后，尼娅搬回了诺黑凡，在她从小长大的家乡追逐开设纹身工作室的梦想。但除了新的技能和事业心，她还带回了一个小孩。她的女儿莱拉托也很开心可以搬到新的地方……她希望能住上最高层的房间，离她喜欢研究的星座更近一些。这是尼娅人生新篇章的开始，她开始思考，做单亲妈妈和开创自己的事业，哪个更具挑战性？",
       "members": [
         {
@@ -22473,7 +22473,7 @@ export default {
       "lot": "Koffieboon",
       "lotId": "koffieboon",
       "worldId": "nordhaven",
-      "image": "/images/families/Loden.jpg",
+      "image": "/images/families/Loden.png",
       "description": "自加莫克建成以来，快乐咖啡就成了这里的一部分，并且始终由洛登家族经营。轮到诺拉接手时，她欣然接受，但谁能当她的继承者呢？诺拉的女儿芙蕾娅对继承咖啡馆毫无兴趣，她更喜欢自己深爱的舞蹈艺术。同样，小儿子艾瑞克在黏土和颜料制作方面更具天赋，对经营生意兴趣寥寥。现在，诺拉倍感压力，尽管她的母亲海蒂一再安慰她，她还是觉得自己不能辜负已故父亲和众多洛登家先祖留下的遗产。幸好她有妻子达莉娅的支持，后者广受好评的煽情爱情小说能够让诺拉逃避现实片刻。",
       "members": [
         {
@@ -22499,7 +22499,7 @@ export default {
       "chineseName": "霍夫曼",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/families/Hoffman.jpg",
+      "image": "/images/families/Hoffman.png",
       "description": "霍夫曼的糖果摊一直以来都是诺黑凡所有孩子的最爱。然而，随着他的妻子去世，他的孩子纷纷搬走。每个人都认为，即使是不知疲倦的布鲁诺·霍夫曼最终也会卖掉他的生意然后退休。",
       "members": [
         {
@@ -22516,7 +22516,7 @@ export default {
       "chineseName": "尼赫斯",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/families/Nyhus.jpg",
+      "image": "/images/families/Nyhus.png",
       "description": "科里随遇而安，热爱每一天。他在柜台后面端出饮料，看着人们打情骂俏，不断迸发出新的激情。 他在想，是否有一天，他也能找到心爱的人。",
       "members": [
         {
@@ -22530,7 +22530,7 @@ export default {
       "chineseName": "艾姆利",
       "world": "Nordhaven",
       "worldId": "nordhaven",
-      "image": "/images/families/Amri.jpg",
+      "image": "/images/families/Amri.png",
       "description": "这一切终于发生了——带着一把吉他和充满希望的乐观主义，札因鼓起勇气离开了家，去追求真正的爱好：唱歌。 当然，大多数人都无法在音乐的道路上走得很远，但如果你连尝试都不敢，又有什么意义呢？札因已经准备好迎接生活的挑战！",
       "members": [
         {
@@ -22546,7 +22546,7 @@ export default {
       "lot": "Gimmley Gardensbrook",
       "lotId": "gimmleygardensbrook",
       "worldId": "innisgreen",
-      "image": "/images/families/EnchantedLovers.jpg",
+      "image": "/images/families/EnchantedLovers.png",
       "description": "两个性格迥异的恋人排除万难走到一起，如今拥有了一个温馨小家。托德和艾尔里克因喜爱自然与魔法而结缘，他们经常整天晒太阳，或在水畔采探。但生活不可能事事完美——托德的药剂师事业蒸蒸日上，艾尔里克则开始寻找调酒师之外的更大人生目标。他陷入了对真实自我本质的迷茫，甚至开始思索，剪断翅膀能否让自己获得更多的自由。只有时间能知道答案。",
       "members": [
         {
@@ -22565,7 +22565,7 @@ export default {
       "lot": "Bard Boulevard",
       "lotId": "bardboulevard",
       "worldId": "innisgreen",
-      "image": "/images/families/MysticalBesties.jpg",
+      "image": "/images/families/MysticalBesties.png",
       "description": "原本为单身人士打造的空间，现在被伊丽丝和娜迪亚打造成共同住所。两人在举办晚会的仙灵之家外偶遇，迅速结为好友，娜迪亚更是要求伊丽丝搬入她空余的那间房间。这对闺蜜都热爱自然和魔法，偶尔还有点叛逆，她们一面享受大好青春年华，一面寻找着属于自己的神秘之路，无论它最后会通向何方。",
       "members": [
         {
@@ -22584,7 +22584,7 @@ export default {
       "lot": "42 Normfair Drive",
       "lotId": "42normfairdrive",
       "worldId": "innisgreen",
-      "image": "/images/families/Ladipo.jpg",
+      "image": "/images/families/Ladipo.png",
       "description": "虽然搬到了一个风景更优美的地方，拉迪波一家仍然过着依赖科技的生活。对芙洛拉和阿约而言，最贴近园艺的活动就是给自己的鲜活室内盆栽浇水——显然，大自然只是他们生活的一个美好布景。但需要额外照料的不只是鲜活室内盆栽。在他们的女儿伊丽丝离开家去追寻充满魔法的生活后，这个家庭内部出现了一道裂隙。面对这份逐渐疏离的沉重关系，拉迪波夫妇必须与女儿建立共识，否则彼此间的隔阂将越来越大。",
       "members": [
         {
@@ -22603,7 +22603,7 @@ export default {
       "lot": "8 Gnome Coast Street",
       "lotId": "8gnomecoaststreet",
       "worldId": "innisgreen",
-      "image": "/images/families/Nhoam.jpg",
+      "image": "/images/families/Nhoam.png",
       "description": "格努•诺姆——阿德摩尔海岸当地的疯狂挥舞手臂非充气地精小人，住在这个简陋居所里，房间里摆满了个人收藏的地精。格努很享受这种遗世独立的生活，喜欢在格努姆的店传播地精福音，或者做做木工，打磨自己最近写的专业大作（也许是地精题材的同人小说）。年级虽大但风采依旧，格努是一个乐于助人的热心领居，有时也会给地精施魔法让它代劳。",
       "members": [
         {
@@ -22619,7 +22619,7 @@ export default {
       "lot": "Puckitt Hall",
       "lotId": "puckitthall",
       "worldId": "innisgreen",
-      "image": "/images/families/Summerdream.jpg",
+      "image": "/images/families/Summerdream.png",
       "description": "早在很久之前，夏梦家族便是恒露森林的高阶仙灵家族。缇塔尼亚和奥伯伦这对知名夫妇在应对育儿难题的同时，还需艰难维系他们那充满情绪动荡的婚姻。不过幸运的是，仙灵以情绪起伏为生，因此这些冲突闹剧反而让他们无比满足。至于玛拉，她迫切渴望自己长出翅膀的那一天到来，午后不是陪父亲钓鱼，就是追着蝴蝶跑。",
       "members": [
         {
@@ -22639,7 +22639,7 @@ export default {
       "chineseName": "阿曼尼",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/families/Amani.jpg",
+      "image": "/images/families/Amani.png",
       "members": [
         {
           "id": "amanizhaleh"
@@ -22652,7 +22652,7 @@ export default {
       "chineseName": "任",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/families/Ren.jpg",
+      "image": "/images/families/Ren.png",
       "members": [
         {
           "id": "rencare"
@@ -22665,7 +22665,7 @@ export default {
       "chineseName": "天树",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/families/Almighty.jpg",
+      "image": "/images/families/Almighty.png",
       "members": [
         {
           "id": "almightyspruce"
@@ -22678,7 +22678,7 @@ export default {
       "chineseName": "自然",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/families/Nature.jpg",
+      "image": "/images/families/Nature.png",
       "members": [
         {
           "id": "naturemother"
@@ -22691,7 +22691,7 @@ export default {
       "chineseName": "商",
       "world": "Innisgreen",
       "worldId": "innisgreen",
-      "image": "/images/families/Trader.jpg",
+      "image": "/images/families/Trader.png",
       "members": [
         {
           "id": "traderjoe"
@@ -22706,7 +22706,7 @@ export default {
       "lot": "Love Highland",
       "lotId": "lovehighland",
       "worldId": "gibbipoint",
-      "image": "/images/families/AddamCommune.jpg",
+      "image": "/images/families/AddamCommune.png",
       "description": "珍与斯塔·亚当以他们的「爱的高地」度假地闻名──还有他们那带刺的个性。他们还有两位室友斯基普和阿戈拉。在这四人同住的情况下，真难理解他们为什么还需要走出家门寻找生活中的额外刺激。",
       "members": [
         {
@@ -22750,7 +22750,7 @@ export default {
       "lot": "Wanderwood Wonder",
       "lotId": "wanderwoodwonder",
       "worldId": "gibbipoint",
-      "image": "/images/families/ChavezRalston.jpg",
+      "image": "/images/families/ChavezRalston.png",
       "description": "一家之长奈吉尔正在吉比吉比营地实现他儿时的梦想，担任营地主任；而他的妻子莎拉则将她对创意与混乱的热爱投入在担任营地辅导员的工作中。他们的双胞胎女儿，艾莉丝与艾琳，也常常看起来像是一对截然不同的极端姐妹花。",
       "members": [
         {
@@ -22791,7 +22791,7 @@ export default {
       "lot": "Bellacorde Palace",
       "lotId": "bellacordepalace",
       "worldId": "ondarion",
-      "image": "/images/families/Capp.jpg",
+      "image": "/images/families/Capp.png",
       "description": "提伯特的人生可说是样样不缺——拥有所有人梦寐以求的模拟币，还有一栋适合举办豪华派对的梦想豪宅。哦，还有，自从把妹妹茱丽叶赶走之后，他就是贝拉科德中地位最高的贵族。但也许他还能得到更多？毕竟，在昂达里昂还有谁比他这样的富翁更适合当国王？他完美形象中唯一的小污点，就是三个孩子都已长大，却坚持长期单身、拒绝安定下来！首先是比阿特丽丝，她是整个王国都爱戴的明珠，她明明可以选任何人，却还在抱怨自己渴望更「有意义」的东西。接着是理想主义者塞莱斯特，她居然相信家族那一套关于荣誉与骑士精神的家训就该被当真。真是天真到极点。最后是维吉里欧。呃。真是丢脸的儿子，老是批评上流社会，说他们虚伪。为什么他就不能像提伯特一样，好好享受他的财富呢！",
       "members": [
         {
@@ -22816,7 +22816,7 @@ export default {
       "lot": "Renaissance Road",
       "lotId": "renaissanceroad",
       "worldId": "ondarion",
-      "image": "/images/families/Monty.jpg",
+      "image": "/images/families/Monty.png",
       "description": "追随内心，为茱丽叶·蒙蒂（前姓卡普）带来了巨大的后果。被原本的世家除名后，她失去了贵族阶级与大部分财富。然而，与挚爱罗密欧在一起的生活却美好得多。看到他们的儿子但丁逐渐长大，成为和父亲一样心地善良的人，更让她由衷地感到满足。然而——如今新家庭已在此扎根安定——她仍不时幻想夺回曾经失去的一切。",
       "members": [
         {
@@ -22857,7 +22857,7 @@ export default {
       "lot": "Verdemar Palace",
       "lotId": "verdemarpalace",
       "worldId": "ondarion",
-      "image": "/images/families/Thebe.jpg",
+      "image": "/images/families/Thebe.png",
       "description": "经历多年的海上冒险后，柯德莉亚·提比五世终于回到了维德玛，并且似乎在此定居了下来。如今她快乐地与阿布兰特斯世家的蒂亚戈结为连理，仿佛获得了登上王位所需的一切。但不少人依然好奇，柯德莉亚究竟是真的想统治王国，还是对冒险的渴望终将胜过一切呢？许多双眼睛都正紧盯着她，渴求着下一个丑闻的发生……",
       "members": [
         {
@@ -22876,7 +22876,7 @@ export default {
       "lot": "Casa Do Corsário",
       "lotId": "casadocorsario",
       "worldId": "ondarion",
-      "image": "/images/families/Romualdo.jpg",
+      "image": "/images/families/Romualdo.png",
       "description": "年少时，阿洛伊西奥学到人生最深刻的一课：只问结果，不问手段。在丹贝莱长大的时光很美好，但他知道自己渴望更多刺激。因此，他搬到了父亲的故乡维德玛。他很快就在这里发现，只要你怀抱雄心壮志、也足够精明，无论是挑战平民与贵族间的不公，或是要趁势从中获益，都能找到不少引人入胜的机会。",
       "members": [
         {
@@ -22892,7 +22892,7 @@ export default {
       "lot": "Dambele Palace",
       "lotId": "dambelepalace",
       "worldId": "ondarion",
-      "image": "/images/families/Darong.jpg",
+      "image": "/images/families/Darong.png",
       "description": "「团结带来力量」是达隆家族的家训。他们也确实世世代代同心一体……但这真能永远持续吗？年迈的世家首领阿德科亚，自女儿贾瓦拉年幼时，便梦想她有朝一日成为女王。多年来，她也证明自己是绝佳人选，透过慈善事业在全王国赢得青睐。她登上王冠的道路似乎正一路顺遂，直到丈夫猝不及防的早逝。仿佛这还不够，随着她的人气日渐高涨，越来越多好事之徒开始打探达隆家，追究这个看似完美的家族是否真的毫无丑闻可言。挑战接踵而来之际，贾瓦拉仍奋勇向前，集结挚爱家族的力量，支撑她在争夺王冠的竞逐中挺进。",
       "members": [
         {
@@ -22917,7 +22917,7 @@ export default {
       "lot": "18 Bright Cliff",
       "lotId": "18brightcliff",
       "worldId": "ondarion",
-      "image": "/images/families/Ananou.jpg",
+      "image": "/images/families/Ananou.png",
       "description": "爱玩又傻气，阿南努一家是热情好客的家族——只要你不介意那些恶作剧！但他们可不只有欢笑和游戏而已。埃克内·阿南努，一辈子都只是个朴实工匠，如今在女儿过世后肩负起抚养孙女阿芙娅的责任。那孩子的父亲呢？嗯，没人真正知道他是谁。埃克内只说，那人跟他们其他人实在太不一样。于是双方同意由阿芙娅留在阿南努家，长大后过一种「普通人生」，不管那到底是什么意思。但许多人仍对这个谜团闲言闲语，甚至有人发誓看见阿南努家信箱里出现过数笔相当可观的捐款。",
       "members": [
         {
@@ -22936,7 +22936,7 @@ export default {
       "lot": "12 Lakeview Apartments",
       "lotId": "12lakeviewapartments",
       "worldId": "ondarion",
-      "image": "/images/families/AltoEnzo.jpg",
+      "image": "/images/families/AltoEnzo.png",
       "description": "你听好，恩佐可是整个昂达里昂最炙手可热、最迷人的黄金单身汉。至少他妈妈是这么说的，她一直盼着他别再到处玩乐、去做点正事。至于他前后甩了的几十位前任，对他的想法可能就跟他妈妈不太一样了。",
       "members": []
     },
@@ -22960,7 +22960,7 @@ export default {
       "chineseName": "菲德纳尔",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/families/Fidential.jpg",
+      "image": "/images/families/Fidential.png",
       "description": "康妮真的非常了解昂达里昂居民们的生活与八卦。或许知道得太多了。",
       "members": [
         {
@@ -22974,7 +22974,7 @@ export default {
       "chineseName": "卡普",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/families/CappConsort.jpg",
+      "image": "/images/families/CappConsort.png",
       "description": "康索特·卡普对自己的世家变成如今这副德性震惊不已，决心无论过多久都要留下，务必让这些肮脏、纵欲的后代重新学会洁身自爱。就算要花上永恒的时光也在所不惜。",
       "members": [
         {
@@ -22988,7 +22988,7 @@ export default {
       "chineseName": "阿科斯塔",
       "world": "Ondarion",
       "worldId": "ondarion",
-      "image": "/images/families/Acosta.jpg",
+      "image": "/images/families/Acosta.png",
       "description": "在满是黑暗流言的世界里，菲娅也有着属于自己的秘密。但凭借着传奇般的剑术与追求正义的天命，她的信念始终坚不可摧。",
       "members": [
         {
@@ -23270,8 +23270,9 @@ export default {
       "worldId": "willowcreek",
       "districtId": "crawdadquarter",
       "image": "/images/lots/MagnoliaBlossomPark.png",
+      "chineseName": "玉兰花公园",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "sylvanglade",
