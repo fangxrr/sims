@@ -28490,8 +28490,8 @@ export default {
     {
       "id": "copperdale",
       "name": "Copperdale",
-      "chineseName": "考柏戴尔",
-      "description": "曾因其发展蓬勃的矿业而为人熟知，充满古朴风情与历史气息的考柏戴尔就这样座落在拉苏里湖的湖畔。创镇者贾斯伯‧普列斯考特曾在此地遍寻宝贵的水晶，希望有一天考柏戴尔能成长茁壮，成为适合家庭定居和旅人游览的繁华社区。尽管一台台的矿车永久陷入了停滞，镇民们仍持续繁荣地发展这城镇。有着丰富的学术气息和冒险机会的考柏戴尔，如今成了许多寻求小镇生活、同时又为自己或青少年儿女而怀抱着都市梦想的家庭定居之处。他们一起在这里挖掘出了远比先前更加珍贵的宝物——那就是心爱的高中回忆。",
+      "chineseName": "科珀代尔",
+      "description": "曾因其发展蓬勃的矿业而为人熟知，充满古朴风情与历史气息的科珀代尔就这样座落在拉苏里湖的湖畔。创镇者贾斯伯‧普列斯考特曾在此地遍寻宝贵的水晶，希望有一天科珀代尔能成长茁壮，成为适合家庭定居和旅人游览的繁华社区。尽管一台台的矿车永久陷入了停滞，镇民们仍持续繁荣地发展这城镇。有着丰富的学术气息和冒险机会的科珀代尔，如今成了许多寻求小镇生活、同时又为自己或青少年儿女而怀抱着都市梦想的家庭定居之处。他们一起在这里挖掘出了远比先前更加珍贵的宝物——那就是心爱的高中回忆。",
       "image": "/images/worlds/Copperdale.jpg",
       "sizes": [
         "64x64",
@@ -28519,8 +28519,8 @@ export default {
     {
       "id": "chestnutridge",
       "name": "Chestnut Ridge",
-      "chineseName": "栗子山",
-      "description": "这个社群之所以能够组成，是因为有许多团体基于和马匹与土地的共同连结而聚在一起。这个地区很快就成了著名的马术枢纽，所有与马相关的大小事在此都能搞定，这座城镇精通养育和训练马匹的技艺，并且有着美丽又广阔的景观。随时间过去，这里肥沃的土壤又带来许多关于佳酿制作的良机，因此更加闻名遐迩。透过所有居民们的努力，这个地区的发展蒸蒸日上，最后变成了今天的栗子山。",
+      "chineseName": "栗树岭",
+      "description": "这个社群之所以能够组成，是因为有许多团体基于和马匹与土地的共同连结而聚在一起。这个地区很快就成了著名的马术枢纽，所有与马相关的大小事在此都能搞定，这座城镇精通养育和训练马匹的技艺，并且有着美丽又广阔的景观。随时间过去，这里肥沃的土壤又带来许多关于佳酿制作的良机，因此更加闻名遐迩。透过所有居民们的努力，这个地区的发展蒸蒸日上，最后变成了今天的栗树岭。",
       "image": "/images/worlds/ChestnutRidge.jpg",
       "sizes": [
         "64x64",
@@ -28620,8 +28620,8 @@ export default {
     {
       "id": "ondarion",
       "name": "Ondarion",
-      "chineseName": "昂达里昂",
-      "description": "昂达里昂王国这个尊贵的国度，其名称源自连结三大海岸的翡翠之海。正是在这同一片海岸线上，三种截然不同却同受一方海洋滋养的文化，比邻共存、交流传统。它们携手缔造了贵族与名流世家下辉煌的传承，绵延无数世代。直到今日，昂达里昂的贵族依旧透过政治角力与王位继承之战彼此决斗，只为了争夺那至高无上的最终目标：王国的王室冠冕。",
+      "chineseName": "安达里昂",
+      "description": "安达里昂王国这个尊贵的国度，其名称源自连结三大海岸的翡翠之海。正是在这同一片海岸线上，三种截然不同却同受一方海洋滋养的文化，比邻共存、交流传统。它们携手缔造了贵族与名流世家下辉煌的传承，绵延无数世代。直到今日，安达里昂的贵族依旧透过政治角力与王位继承之战彼此决斗，只为了争夺那至高无上的最终目标：王国的王室冠冕。",
       "image": "/images/worlds/Ondarion.jpg",
       "sizes": [
         "64x64",
@@ -32848,6 +32848,17 @@ export default {
       "subtype": "建筑工具",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/countertop-appliance-expander",
       "image": "/images/trackers/Dao_CountertopApplianceExpander.png",
+      "isDownloaded": false
+    },
+    {
+      "id": "daoappliancecoordinationunit",
+      "title": "ApplianceCoordinationUnit",
+      "chineseTitle": "任何桌面放置电器",
+      "author": "Dao",
+      "type": "B核心必备",
+      "subtype": "建筑工具",
+      "downloadUrl": "https://www.curseforge.com/sims4/build-buy/dao-appliancecoordinationunit-mk-ii",
+      "image": "/images/trackers/Dao_ApplianceCoordinationUnit.jpg",
       "isDownloaded": false
     },
     {
@@ -38716,6 +38727,28 @@ export default {
       "downloadUrl": "https://www.patreon.com/posts/bg-go-for-jog-50068048",
       "translationUrl": "https://www.patreon.com/posts/go-for-jog-yi-qi-70431492",
       "image": "/images/trackers/Zero_GoforaJogTogether.webp",
+      "isDownloaded": false
+    },
+    {
+      "id": "simmatticallyimmersiveworldmap",
+      "title": "Immersive World Map",
+      "chineseTitle": "替换大世界地图",
+      "author": "SimMattically",
+      "type": "D视觉美化",
+      "subtype": "地图替换",
+      "downloadUrl": "https://www.patreon.com/SimMattically/posts/immersive-world-164621133",
+      "image": "/images/trackers/SimMattically_ImmersiveWorldMap.jpg",
+      "isDownloaded": false
+    },
+    {
+      "id": "momo-ccobjectadjustmentslider",
+      "title": "Object Adjustment Slider",
+      "chineseTitle": "调整物品大小高度",
+      "author": "Momo-CC",
+      "type": "B核心必备",
+      "subtype": "建筑工具",
+      "downloadUrl": "https://www.patreon.com/MOMOCC/posts/momo-cc-object-160603716",
+      "image": "/images/trackers/MomoCC_ObjectAdjustmentSlider.jpg",
       "isDownloaded": false
     }
   ],
