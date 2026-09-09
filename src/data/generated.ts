@@ -10,7 +10,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/GothMortimer.jpg",
+      "image": "/images/sims/GothMortimer.png",
       "career": "写作-三级",
       "aspiration": {
         "name": "文艺复兴模拟市民"
@@ -67,7 +67,7 @@ export default {
       "maritalStatus": "Married",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/GothBella.jpg",
+      "image": "/images/sims/GothBella.png",
       "career": "特务-二级",
       "aspiration": {
         "name": "派对动物"
@@ -132,7 +132,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/GothCassandra.jpg",
+      "image": "/images/sims/GothCassandra.png",
       "career": "高中C",
       "aspiration": {
         "name": "音乐天才"
@@ -186,7 +186,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Willow Creek",
       "worldId": "willowcreek",
-      "image": "/images/sims/GothAlexander.jpg",
+      "image": "/images/sims/GothAlexander.png",
       "career": "小学C",
       "aspiration": {
         "name": "神童"
@@ -20118,7 +20118,7 @@ export default {
       "lot": "Ophelia Villa",
       "lotId": "opheliavilla",
       "worldId": "willowcreek",
-      "image": "/images/families/Goth.jpg",
+      "image": "/images/families/Goth.png",
       "description": "高斯是怀着贵族气息，被阴森围绕的家族。 夹在莫蒂默所写的恐怖故事与贝拉的神秘消失之间，卡珊多拉与亚历山大会不会也同样长大成为阴沉的人？",
       "members": [
         {
@@ -23269,7 +23269,7 @@ export default {
       "world": "Willow Creek",
       "worldId": "willowcreek",
       "districtId": "crawdadquarter",
-      "image": "/images/lots/MagnoliaBlossomPark.jpg",
+      "image": "/images/lots/MagnoliaBlossomPark.png",
       "isDownloaded": false,
       "isBuilt": false
     },
@@ -32858,7 +32858,7 @@ export default {
       "type": "B核心必备",
       "subtype": "建筑工具",
       "downloadUrl": "https://www.curseforge.com/sims4/build-buy/dao-appliancecoordinationunit-mk-ii",
-      "image": "/images/trackers/Dao_ApplianceCoordinationUnit.jpg",
+      "image": "/images/trackers/Dao_ApplianceCoordinationUnit.png",
       "isDownloaded": false
     },
     {
@@ -38737,7 +38737,7 @@ export default {
       "type": "D视觉美化",
       "subtype": "地图替换",
       "downloadUrl": "https://www.patreon.com/SimMattically/posts/immersive-world-164621133",
-      "image": "/images/trackers/SimMattically_ImmersiveWorldMap.jpg",
+      "image": "/images/trackers/SimMattically_ImmersiveWorldMap.png",
       "isDownloaded": false
     },
     {
