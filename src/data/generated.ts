@@ -448,7 +448,7 @@ export default {
       "id": "lewiseric",
       "familyId": "spencerkimlewis",
       "name": "Lewis Eric",
-      "chineseName": "路易斯·埃瑞克",
+      "chineseName": "路易斯·埃里克",
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Married",
@@ -677,7 +677,7 @@ export default {
       "id": "leeliberty",
       "familyId": "bff",
       "name": "Lee Liberty",
-      "chineseName": "李·莉柏缇",
+      "chineseName": "李·莉珀缇",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -876,7 +876,7 @@ export default {
       "id": "patelzoe",
       "familyId": "roomies",
       "name": "Patel Zoe",
-      "chineseName": "帕托·柔依",
+      "chineseName": "帕托·柔伊",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -1291,7 +1291,7 @@ export default {
       "id": "landgraabgeoffrey",
       "familyId": "landgraab",
       "name": "Landgraab Geoffrey",
-      "chineseName": "朗德古拉伯·杰弗瑞",
+      "chineseName": "朗德古拉伯·乔弗瑞",
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
@@ -2583,7 +2583,7 @@ export default {
       "id": "behryuki",
       "familyId": "behr",
       "name": "Behr Yuki",
-      "chineseName": "贝洱·小雪",
+      "chineseName": "贝洱·雪",
       "gender": "Female",
       "age": "Teen",
       "maritalStatus": "Single",
@@ -3486,7 +3486,7 @@ export default {
       "id": "janganaya",
       "familyId": "jang",
       "name": "Jang Anaya",
-      "chineseName": "詹·安娜亚",
+      "chineseName": "詹·阿纳亚",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
@@ -3802,7 +3802,7 @@ export default {
       "id": "vatorecaleb",
       "familyId": "vatore",
       "name": "Vatore Caleb",
-      "chineseName": "维托·伽勒",
+      "chineseName": "维托·迦勒",
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -4653,7 +4653,7 @@ export default {
     },
     {
       "id": "brokedustin",
-      "familyId": "dustin",
+      "familyId": "broke",
       "name": "Broke Dustin",
       "chineseName": "布洛柯·德斯汀",
       "gender": "Male",
@@ -4868,16 +4868,16 @@ export default {
       }
     },
     {
-      "id": "arielbaby",
+      "id": "babyariel",
       "familyId": "baby",
-      "name": "Ariel Baby",
+      "name": "Baby Ariel ",
       "chineseName": "婴儿·艾莉",
       "gender": "Female",
       "age": "Teen",
       "maritalStatus": "Single",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/sims/ArielBaby.jpg",
+      "image": "/images/sims/BabyAriel.png",
       "career": "高中C",
       "aspiration": {
         "name": "世界知名名人"
@@ -5821,7 +5821,7 @@ export default {
       "id": "hauatalia",
       "familyId": "hoapili",
       "name": "Hauata Lia",
-      "chineseName": "哈乌阿塔·莉亚",
+      "chineseName": "哈巫阿塔·莉亚",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -7685,7 +7685,7 @@ export default {
       "id": "harrisgideon",
       "familyId": "harris",
       "name": "Harris Gideon",
-      "chineseName": "哈里斯·吉恩迪",
+      "chineseName": "哈里斯·吉迪恩",
       "gender": "Male",
       "age": "Child",
       "maritalStatus": "Single",
@@ -7733,7 +7733,7 @@ export default {
       "id": "spencerfrancine",
       "familyId": "harris",
       "name": "Spencer Francine",
-      "chineseName": "斯宾塞·芙兰辛",
+      "chineseName": "斯班瑟·弗兰辛",
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
@@ -7856,7 +7856,7 @@ export default {
       "id": "tinkeryasemin",
       "familyId": "tinker",
       "name": "Tinker Yasemin",
-      "chineseName": "廷克尔·雅思敏",
+      "chineseName": "廷克尔·雅丝敏",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
@@ -9453,7 +9453,7 @@ export default {
     },
     {
       "id": "kangcecilia",
-      "familyId": "anewstart",
+      "familyId": "kang",
       "name": "Kang Cecilia",
       "chineseName": "康·塞西莉亚",
       "gender": "Female",
@@ -10732,7 +10732,7 @@ export default {
       "id": "pricejanae",
       "familyId": "price",
       "name": "Price Janae",
-      "chineseName": "普莱斯·贾娜",
+      "chineseName": "普莱斯·贾内",
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
@@ -11573,9 +11573,9 @@ export default {
       }
     },
     {
-      "id": "morlind-anjelo",
+      "id": "morlindanjelo",
       "familyId": "morlind",
-      "name": "Morlind  Anjelo",
+      "name": "Morlind Anjelo",
       "chineseName": "莫林德·安杰洛",
       "gender": "Male",
       "age": "Young Adult",
@@ -11634,7 +11634,7 @@ export default {
       "id": "hiddlestixeloise",
       "familyId": "hiddlestix",
       "name": "Hiddlestix Eloise",
-      "chineseName": "希多史提·伊洛丝",
+      "chineseName": "希德尔斯蒂克斯·伊洛丝",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -11684,7 +11684,7 @@ export default {
       "id": "coombesrita",
       "familyId": "coombes",
       "name": "Coombes Rita",
-      "chineseName": "库尔斯·丽塔",
+      "chineseName": "库姆斯·丽塔",
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
@@ -12243,7 +12243,7 @@ export default {
       "id": "roblesjay",
       "familyId": "roblesruano",
       "name": "Robles Jay",
-      "chineseName": "罗布雷斯·杰",
+      "chineseName": "罗布雷斯·杰伊",
       "gender": "Non-binary",
       "age": "Young Adult",
       "maritalStatus": "Married",
@@ -12316,7 +12316,7 @@ export default {
       "id": "ruanodoli",
       "familyId": "roblesruano",
       "name": "Ruano Doli",
-      "chineseName": "鲁阿诺·多莉",
+      "chineseName": "鲁阿诺·多利",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Married",
@@ -12572,7 +12572,7 @@ export default {
       "id": "roblesian",
       "familyId": "robles",
       "name": "Robles Ian",
-      "chineseName": "罗布雷斯·伊恩",
+      "chineseName": "罗布雷斯·伊安",
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
@@ -12647,7 +12647,7 @@ export default {
       "id": "roblesaurelio",
       "familyId": "robles",
       "name": "Robles Aurelio",
-      "chineseName": "罗布雷斯·奥雷利奥",
+      "chineseName": "罗布雷斯·奥雷里奥",
       "gender": "Male",
       "age": "Teen",
       "maritalStatus": "Single",
@@ -12920,7 +12920,7 @@ export default {
       "id": "lunaxochitl",
       "familyId": "lunasullivan",
       "name": "Luna Xochitl",
-      "chineseName": "卢那·霍奇蒂尔",
+      "chineseName": "卢娜·霍奇蒂尔",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Widowed",
@@ -13036,7 +13036,7 @@ export default {
       "id": "lunakarmine",
       "familyId": "lunasullivan",
       "name": "Luna Karmine",
-      "chineseName": "卢那·卡尔敏",
+      "chineseName": "卢娜·卡尔敏",
       "gender": "Female",
       "age": "Child",
       "maritalStatus": "Single",
@@ -13238,7 +13238,7 @@ export default {
       "id": "daviladani",
       "familyId": "nectarmakingduo",
       "name": "Davila Dani",
-      "chineseName": "达维拉·丹妮",
+      "chineseName": "黛维拉·丹妮",
       "gender": "Non-binary",
       "age": "Young Adult",
       "maritalStatus": "Dating",
@@ -13302,7 +13302,7 @@ export default {
     },
     {
       "id": "groveumber",
-      "familyId": "grovefamily",
+      "familyId": "grove",
       "name": "Grove Umber",
       "chineseName": "格洛夫·安柏尔",
       "gender": "Male",
@@ -13368,7 +13368,7 @@ export default {
     },
     {
       "id": "grovejuniper",
-      "familyId": "grovefamily",
+      "familyId": "grove",
       "name": "Grove Juniper",
       "chineseName": "格洛夫·朱妮珀",
       "gender": "Female",
@@ -13438,7 +13438,7 @@ export default {
     },
     {
       "id": "grovewren",
-      "familyId": "grovefamily",
+      "familyId": "grove",
       "name": "Grove Wren",
       "chineseName": "格洛夫·雷恩",
       "gender": "Male",
@@ -13488,7 +13488,7 @@ export default {
       "id": "grovesienna",
       "familyId": "siennaflapjack",
       "name": "Grove Sienna",
-      "chineseName": "格洛夫·西椰娜",
+      "chineseName": "格洛夫·西耶娜",
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Single",
@@ -13607,7 +13607,7 @@ export default {
       "id": "cahyaputrivanesha",
       "familyId": "cahyaputri",
       "name": "Cahyaputri Vanesha",
-      "chineseName": "卡雅普特里·瓦妮莎",
+      "chineseName": "卡亚普特里·瓦妮莎",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -13652,7 +13652,7 @@ export default {
       "id": "cahyaputrizhafira",
       "familyId": "cahyaputri",
       "name": "Cahyaputri Zhafira",
-      "chineseName": "卡雅普特里·扎菲拉",
+      "chineseName": "卡亚普特里·扎菲拉",
       "gender": "Female",
       "age": "Teen",
       "maritalStatus": "Single",
@@ -14071,7 +14071,7 @@ export default {
       "id": "bunmabua",
       "familyId": "bunma",
       "name": "BunMa Bua",
-      "chineseName": "邦玛·布雅",
+      "chineseName": "邦玛·布阿",
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
@@ -14736,7 +14736,7 @@ export default {
       "id": "nadiraziz",
       "familyId": "nadir",
       "name": "Nadir Aziz",
-      "chineseName": "纳迪尔·阿奇兹",
+      "chineseName": "纳迪尔·阿齐兹",
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
@@ -14902,7 +14902,7 @@ export default {
       "id": "izadizuleika",
       "familyId": "izadigomes",
       "name": "Izadi Zuleika",
-      "chineseName": "伊扎迪·祖拉卡",
+      "chineseName": "伊扎迪·祖莱卡",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -15130,7 +15130,7 @@ export default {
       "id": "aetherkai",
       "familyId": "aether",
       "name": "Aether Kai",
-      "chineseName": "伊瑟·凯",
+      "chineseName": "艾瑟·凯",
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
@@ -15196,7 +15196,7 @@ export default {
       "id": "aetherekade",
       "familyId": "aether",
       "name": "Aether Ekade",
-      "chineseName": "伊瑟·埃卡德",
+      "chineseName": "艾瑟·埃卡德",
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Married",
@@ -15258,7 +15258,7 @@ export default {
       "id": "aethertakama",
       "familyId": "aether",
       "name": "Aether Takama",
-      "chineseName": "伊瑟·高间",
+      "chineseName": "艾瑟·高间",
       "gender": "Male",
       "age": "Child",
       "maritalStatus": "Single",
@@ -15426,7 +15426,7 @@ export default {
       "id": "specterolive",
       "familyId": "specter",
       "name": "Specter Olive",
-      "chineseName": "幽浑·奥莉薇",
+      "chineseName": "幽浑·奥莉弗",
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Engaged",
@@ -15763,7 +15763,7 @@ export default {
       "id": "lodenfreya",
       "familyId": "loden",
       "name": "Loden Freya",
-      "chineseName": "洛登·芙蕾雅",
+      "chineseName": "洛登·芙蕾娅",
       "gender": "Female",
       "age": "Teen",
       "maritalStatus": "Single",
@@ -16561,7 +16561,7 @@ export default {
       "id": "hoffmanfelix",
       "familyId": "hoffman",
       "name": "Hoffman Felix",
-      "chineseName": "霍夫曼·菲利克斯",
+      "chineseName": "霍夫曼·菲力克斯",
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -16918,7 +16918,7 @@ export default {
       "id": "demurayelric",
       "familyId": "enchantedlovers",
       "name": "DeMuray Elric",
-      "chineseName": "德穆雷·艾尔里克",
+      "chineseName": "德穆雷·艾尔利克",
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Dating",
@@ -17857,7 +17857,7 @@ export default {
       "id": "addamjane",
       "familyId": "addamcommune",
       "name": "Addam Jane",
-      "chineseName": "亚当·珍",
+      "chineseName": "亚当·简",
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
@@ -17930,7 +17930,7 @@ export default {
       "id": "addamstar",
       "familyId": "addamcommune",
       "name": "Addam Star",
-      "chineseName": "亚当·斯塔",
+      "chineseName": "亚当·斯达",
       "gender": "Female",
       "age": "Adult",
       "maritalStatus": "Married",
@@ -18052,7 +18052,7 @@ export default {
       "id": "brokeskip",
       "familyId": "addamcommune",
       "name": "Broke Skip",
-      "chineseName": "布罗克·斯基普",
+      "chineseName": "布洛柯·斯基普",
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Single",
@@ -18124,13 +18124,13 @@ export default {
       "id": "perryfreeda",
       "familyId": "perry",
       "name": "Perry Freeda",
-      "chineseName": "佩里·芙丽达",
+      "chineseName": "佩里·弗丽达",
       "gender": "Female",
       "age": "Elder",
       "maritalStatus": "Single",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/PerryFreeda.jpg",
+      "image": "/images/sims/PerryFreeda.png",
       "career": "无业",
       "aspiration": {
         "name": "健美运动员"
@@ -18200,7 +18200,7 @@ export default {
       "maritalStatus": "Single",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/sims/PerryDougie.jpg",
+      "image": "/images/sims/PerryDougie.png",
       "career": "小学C",
       "aspiration": {
         "name": "神童"
@@ -18255,64 +18255,6 @@ export default {
         }
       ],
       "skills": [],
-      "relationships": {
-        "spouse": [],
-        "lover": [],
-        "parents": [],
-        "children": [],
-        "siblings": [],
-        "grandparents": [],
-        "grandchildren": [],
-        "relatives": []
-      }
-    },
-    {
-      "id": "preenerpruella",
-      "familyId": "preener",
-      "name": "Preener Pruella",
-      "chineseName": "普利挪·普鲁艾拉",
-      "gender": "Female",
-      "age": "Young Adult",
-      "maritalStatus": "Single",
-      "world": "Gibbi Point",
-      "worldId": "gibbipoint",
-      "image": "/images/sims/PreenerPruella.jpg",
-      "career": "NPC",
-      "aspiration": {
-        "name": "小动物猎人"
-      },
-      "traits": [
-        {
-          "name": "宅宅"
-        },
-        {
-          "name": "忠诚"
-        },
-        {
-          "name": "欢乐"
-        },
-        {
-          "name": "收藏家"
-        }
-      ],
-      "skills": [
-        {
-          "name": "魅力",
-          "level": 10
-        },
-        {
-          "name": "钓鱼",
-          "level": 10
-        },
-        {
-          "name": "灵巧",
-          "level": 10
-        },
-        {
-          "name": "唱歌",
-          "level": 10
-        }
-      ],
       "relationships": {
         "spouse": [],
         "lover": [],
@@ -18384,9 +18326,9 @@ export default {
     },
     {
       "id": "kunalraheel",
-      "familyId": "kunal",
+      "familyId": "kunalraheel",
       "name": "Kunal Raheel",
-      "chineseName": "库南·拉希尔",
+      "chineseName": "库纳尔·拉希尔",
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -18454,9 +18396,9 @@ export default {
     },
     {
       "id": "kunallaxmi",
-      "familyId": "kunal",
+      "familyId": "kunallaxmi",
       "name": "Kunal Laxmi",
-      "chineseName": "库南·拉克希米",
+      "chineseName": "库纳尔·拉克希米",
       "gender": "Non-binary",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -18721,7 +18663,7 @@ export default {
     },
     {
       "id": "altoenzo",
-      "familyId": "alto",
+      "familyId": "altoenzo",
       "name": "Alto Enzo",
       "chineseName": "艾托·恩佐",
       "gender": "Male",
@@ -18784,7 +18726,7 @@ export default {
       "id": "capptybalt",
       "familyId": "capp",
       "name": "Capp Tybalt",
-      "chineseName": "卡普·提伯特",
+      "chineseName": "卡普·泰伯尔特",
       "gender": "Male",
       "age": "Adult",
       "maritalStatus": "Single",
@@ -18870,7 +18812,7 @@ export default {
       "id": "cappbeatrice",
       "familyId": "capp",
       "name": "Capp Beatrice",
-      "chineseName": "卡普·比阿特丽丝",
+      "chineseName": "卡普·比阿特丽斯",
       "gender": "Female",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -19409,7 +19351,7 @@ export default {
       "id": "ananouekene",
       "familyId": "ananou",
       "name": "Ananou Ekene",
-      "chineseName": "阿南努·埃克内",
+      "chineseName": "阿纳努·埃克内",
       "gender": "Male",
       "age": "Elder",
       "maritalStatus": "Single",
@@ -19471,7 +19413,7 @@ export default {
       "id": "ananouafua",
       "familyId": "ananou",
       "name": "Ananou Afua",
-      "chineseName": "阿南努·阿芙娅",
+      "chineseName": "阿纳努·阿芙娅",
       "gender": "Female",
       "age": "Child",
       "maritalStatus": "Single",
@@ -19803,7 +19745,7 @@ export default {
       "id": "romualdoaloisio",
       "familyId": "romualdo",
       "name": "Romualdo Aloisio",
-      "chineseName": "罗穆阿尔多·阿洛伊西奥",
+      "chineseName": "罗莫尔多·阿洛伊西奥",
       "gender": "Male",
       "age": "Young Adult",
       "maritalStatus": "Single",
@@ -19854,7 +19796,7 @@ export default {
     },
     {
       "id": "onojaakachi",
-      "familyId": "akachi",
+      "familyId": "onoja",
       "name": "Onoja Akachi",
       "chineseName": "奥诺贾·阿卡其 ",
       "gender": "Male",
@@ -20144,7 +20086,7 @@ export default {
       "lotId": "cypressterrace",
       "worldId": "willowcreek",
       "image": "/images/families/SpencerKimLewis.png",
-      "description": "好吧，以下是详细分析：丹尼斯·金和莉迪亚·斯宾塞生了一个女儿叫做艾莉丝·斯宾塞·金，然后离婚了。艾莉丝嫁给埃瑞克·路易斯，然后有了她自己的女儿奥莉维亚.金.路易斯。他们和艾莉丝的父亲（还记得丹尼斯吧？）和埃瑞克的母亲薇薇安．路易斯一起住。喂，可从没人说过家庭这回事很简单！",
+      "description": "好吧，以下是详细分析：丹尼斯·金和莉迪亚·斯宾塞生了一个女儿叫做艾莉丝·斯宾塞·金，然后离婚了。艾莉丝嫁给埃里克·路易斯，然后有了她自己的女儿奥莉维亚.金.路易斯。他们和艾莉丝的父亲（还记得丹尼斯吧？）和埃瑞克的母亲薇薇安一起住。喂，可从没人说过家庭这回事很简单！",
       "members": [
         {
           "id": "kimdennis"
@@ -20799,12 +20741,12 @@ export default {
       ]
     },
     {
-      "id": "dustin",
-      "name": "Dustin",
+      "id": "broke",
+      "name": "Broke",
       "chineseName": "布洛柯",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
-      "image": "/images/families/Dustin.jpg",
+      "image": "/images/families/Broke.png",
       "members": [
         {
           "id": "brokedustin"
@@ -20821,9 +20763,6 @@ export default {
       "members": [
         {
           "id": "altoholly"
-        },
-        {
-          "id": "altoenzo"
         }
       ]
     },
@@ -20862,13 +20801,14 @@ export default {
       "image": "/images/families/Baby.png",
       "members": [
         {
-          "id": "arielbaby"
+          "id": "babyariel"
         }
       ]
     },
     {
       "id": "sigworth",
       "name": "Sigworth family",
+      "chineseName": "希格沃斯",
       "world": "Stranger Ville",
       "lot": "Riverside Grove",
       "lotId": "riversidegrove",
@@ -20890,6 +20830,7 @@ export default {
     {
       "id": "cahill",
       "name": "Cahill family",
+      "chineseName": "卡希尔",
       "world": "Stranger Ville",
       "lot": "Old Penelope",
       "lotId": "oldpenelope",
@@ -20905,6 +20846,7 @@ export default {
     {
       "id": "roswell",
       "name": "Roswell family",
+      "chineseName": "罗斯威尔",
       "world": "Stranger Ville",
       "lot": "StrangerVille Overlook",
       "lotId": "strangervilleoverlook",
@@ -21485,11 +21427,7 @@ export default {
       "worldId": "henfordonbagley",
       "image": "/images/families/ANewStart.jpg",
       "description": "在大城市生活并心碎后，塞西莉亚决定为了一小块园地和几只鸡放弃她过去的一切。她仍在寻找能够共度余生的人，不过在跟当地生物饲养员迈克尔·贝尔进行了一次想要忘记的约会后，她暂时只想和来访的小动物们建立长期关系。",
-      "members": [
-        {
-          "id": "kangcecilia"
-        }
-      ]
+      "members": []
     },
     {
       "id": "moodymcmillan",
@@ -21880,7 +21818,7 @@ export default {
       "image": "/images/families/Morlind.png",
       "members": [
         {
-          "id": "morlind-anjelo"
+          "id": "morlindanjelo"
         }
       ]
     },
@@ -22060,17 +21998,7 @@ export default {
       "worldId": "chestnutridge",
       "image": "/images/families/GroveFamily.jpg",
       "description": "安柏尔和朱妮珀是青梅竹马，从母亲哪儿学习马术后，安柏尔会给朱妮珀歌颂小曲夸奖她的马术技能。在双亲过世后，为了纪念自己的本土传承，安柏尔继承了家族牧场，而他的姐妹西耶娜成了镇里的驯马师。他们的儿子雷恩对动物很有热情，正在训练斯塔布莱特，也就是安柏尔小时候救助的马儿露娜生的小马驹……伴随着安柏尔甜蜜而悠扬的门廊赞歌，牧场生活徐徐展开。",
-      "members": [
-        {
-          "id": "groveumber"
-        },
-        {
-          "id": "grovejuniper"
-        },
-        {
-          "id": "grovewren"
-        }
-      ]
+      "members": []
     },
     {
       "id": "siennaflapjack",
@@ -22104,7 +22032,7 @@ export default {
     {
       "id": "cahyaputri",
       "name": "Cahyaputri family",
-      "chineseName": "卡雅普特里",
+      "chineseName": "卡亚普特里",
       "world": "Tomarang",
       "lot": "Taka Soi 15",
       "lotId": "takasoi15",
@@ -22731,7 +22659,7 @@ export default {
       "lot": "Seabreeze Scenic",
       "lotId": "seabreezescenic",
       "worldId": "gibbipoint",
-      "image": "/images/families/Perry.jpg",
+      "image": "/images/families/Perry.png",
       "description": "芙丽达·佩里从没想过自己会一边经营「重燃新生健身静修营」，一边照顾她那害羞又贴心的孙子道奇——但事到如今，也只能一边兼顾了！芙丽达每天忙于飞轮课程与激励他人突破自我，同时也鼓励道奇走出户外、探索世界，也许还能唤醒他内心那位潜藏的「野孩子」。",
       "members": [
         {
@@ -22768,16 +22696,26 @@ export default {
       ]
     },
     {
-      "id": "kunal",
+      "id": "kunalraheel",
       "name": "Kunal family",
-      "chineseName": "库南",
+      "chineseName": "库纳尔",
       "world": "Gibbi Point",
       "worldId": "gibbipoint",
-      "image": "/images/families/Kunal.jpg",
+      "image": "/images/families/KunalRaheel.png",
       "members": [
         {
           "id": "kunalraheel"
-        },
+        }
+      ]
+    },
+    {
+      "id": "kunallaxmi",
+      "name": "Kunal family",
+      "chineseName": "库纳尔",
+      "world": "Gibbi Point",
+      "worldId": "gibbipoint",
+      "image": "/images/families/KunalLaxmi.png",
+      "members": [
         {
           "id": "kunallaxmi"
         }
@@ -22912,13 +22850,13 @@ export default {
     {
       "id": "ananou",
       "name": "Ananou family",
-      "chineseName": "阿南努",
+      "chineseName": "阿纳努",
       "world": "Ondarion",
       "lot": "18 Bright Cliff",
       "lotId": "18brightcliff",
       "worldId": "ondarion",
       "image": "/images/families/Ananou.png",
-      "description": "爱玩又傻气，阿南努一家是热情好客的家族——只要你不介意那些恶作剧！但他们可不只有欢笑和游戏而已。埃克内·阿南努，一辈子都只是个朴实工匠，如今在女儿过世后肩负起抚养孙女阿芙娅的责任。那孩子的父亲呢？嗯，没人真正知道他是谁。埃克内只说，那人跟他们其他人实在太不一样。于是双方同意由阿芙娅留在阿南努家，长大后过一种「普通人生」，不管那到底是什么意思。但许多人仍对这个谜团闲言闲语，甚至有人发誓看见阿南努家信箱里出现过数笔相当可观的捐款。",
+      "description": "爱玩又傻气，阿纳努一家是热情好客的家族——只要你不介意那些恶作剧！但他们可不只有欢笑和游戏而已。埃克内·阿纳努，一辈子都只是个朴实工匠，如今在女儿过世后肩负起抚养孙女阿芙娅的责任。那孩子的父亲呢？嗯，没人真正知道他是谁。埃克内只说，那人跟他们其他人实在太不一样。于是双方同意由阿芙娅留在阿南努家，长大后过一种「普通人生」，不管那到底是什么意思。但许多人仍对这个谜团闲言闲语，甚至有人发誓看见阿南努家信箱里出现过数笔相当可观的捐款。",
       "members": [
         {
           "id": "ananouekene"
@@ -22938,7 +22876,11 @@ export default {
       "worldId": "ondarion",
       "image": "/images/families/AltoEnzo.png",
       "description": "你听好，恩佐可是整个昂达里昂最炙手可热、最迷人的黄金单身汉。至少他妈妈是这么说的，她一直盼着他别再到处玩乐、去做点正事。至于他前后甩了的几十位前任，对他的想法可能就跟他妈妈不太一样了。",
-      "members": []
+      "members": [
+        {
+          "id": "altoenzo"
+        }
+      ]
     },
     {
       "id": "akachi",
@@ -22948,11 +22890,7 @@ export default {
       "worldId": "ondarion",
       "image": "/images/families/Akachi.jpg",
       "description": "要成为真正的菁英，必须兼具技能、美貌与智慧。而阿卡奇全都具备。那为何依然感到人生应该还有更多、更高远的目标正呼唤着自己前去实现呢？",
-      "members": [
-        {
-          "id": "onojaakachi"
-        }
-      ]
+      "members": []
     },
     {
       "id": "fidential",
@@ -23008,7 +22946,6 @@ export default {
       "worldId": "willowcreek",
       "districtId": "foundrycove",
       "image": "/images/lots/BargainBend.jpg",
-      "chineseName": "",
       "downloadUrl": "",
       "isDownloaded": false,
       "isBuilt": false
@@ -23478,9 +23415,10 @@ export default {
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "districtId": "bedrockstrait",
-      "image": "/images/lots/SlipshodMesquite.jpg",
+      "image": "/images/lots/SlipshodMesquite.png",
+      "chineseName": "塞拉利亚 · 筑",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "cacticasa",
@@ -23550,15 +23488,16 @@ export default {
     {
       "id": "affluistamansion",
       "name": "Affluista Mansion",
-      "type": "Residential",
+      "type": "VacationRental",
       "price": 0,
       "size": "50×50",
       "world": "Oasis Springs",
       "worldId": "oasissprings",
       "districtId": "acquisitionbutte",
-      "image": "/images/lots/AffluistaMansion.jpg",
+      "image": "/images/lots/AffluistaMansion.png",
+      "chineseName": "卡帕多奇亚",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "desertbloom",
@@ -23636,26 +23575,30 @@ export default {
     {
       "id": "twinoraclepoint",
       "name": "Twin Oracle Point",
+      "type": "Park",
       "price": 0,
       "size": "50×40",
       "world": "Newcrest",
       "worldId": "newcrest",
       "districtId": "llamalagoon",
-      "image": "/images/lots/TwinOraclePoint.jpg",
+      "image": "/images/lots/TwinOraclePoint.png",
+      "chineseName": "埃菲尔公园",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "avariceacres",
       "name": "Avarice Acres",
+      "type": "SmallBusiness",
       "price": 0,
       "size": "40×30",
       "world": "Newcrest",
       "worldId": "newcrest",
       "districtId": "llamalagoon",
-      "image": "/images/lots/AvariceAcres.jpg",
+      "image": "/images/lots/AvariceAcres.png",
+      "chineseName": "圣叙尔比斯",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "ripplingflats",
@@ -23983,9 +23926,10 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "districtId": "oldeplatz",
-      "image": "/images/lots/FactoryOne.jpg",
+      "image": "/images/lots/FactoryOne.png",
+      "chineseName": "圣莱托教堂",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "waterlockredoubt",
@@ -24022,22 +23966,24 @@ export default {
       "world": "Windenburg",
       "worldId": "windenburg",
       "districtId": "oldeplatz",
-      "image": "/images/lots/TheNarwhalArms.jpg",
+      "image": "/images/lots/TheNarwhalArms.png",
+      "chineseName": "独角鲸古典艺术学院",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "southsquarecoffee",
       "name": "South Square Coffee",
-      "type": "Cafe",
+      "type": "SmallBusiness",
       "price": 0,
       "size": "30×20",
       "world": "Windenburg",
       "worldId": "windenburg",
       "districtId": "oldeplatz",
-      "image": "/images/lots/SouthSquareCoffee.jpg",
+      "image": "/images/lots/SouthSquareCoffee.png",
+      "chineseName": "南方广场水晶",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "oldquarterinn",
@@ -24107,15 +24053,16 @@ export default {
     {
       "id": "discothequepaneuropa",
       "name": "Discotheque Pan Europa",
-      "type": "Nightclub",
+      "type": "Restaurant",
       "price": 0,
       "size": "30×20",
       "world": "Windenburg",
       "worldId": "windenburg",
       "districtId": "lykkecentre",
-      "image": "/images/lots/DiscothequePanEuropa.jpg",
+      "image": "/images/lots/DiscothequePanEuropa.png",
+      "chineseName": "港海之味",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "coorinbergcottage",
@@ -24185,15 +24132,16 @@ export default {
     {
       "id": "thesummerhome",
       "name": "The Summer Home",
-      "type": "Residential",
+      "type": "Restaurant",
       "price": 0,
       "size": "40×30",
       "world": "Windenburg",
       "worldId": "windenburg",
       "districtId": "windslar",
-      "image": "/images/lots/TheSummerHome.jpg",
+      "image": "/images/lots/TheSummerHome.png",
+      "chineseName": "蒸汽时代餐厅",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "thelighthouse",
@@ -24552,22 +24500,24 @@ export default {
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "districtId": "fashiondistrict",
-      "image": "/images/lots/TorendiTowerPenthouse.jpg",
+      "image": "/images/lots/TorendiTowerPenthouse.png",
+      "chineseName": "托兰帝高塔顶层豪华公寓",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "planethoneypop",
       "name": "Planet Honey Pop!",
-      "type": "Karaoke",
+      "type": "Bar",
       "price": 0,
       "size": "30×20",
       "world": "San Myshuno",
       "worldId": "sanmyshuno",
       "districtId": "fashiondistrict",
-      "image": "/images/lots/PlanetHoneyPop.jpg",
+      "image": "/images/lots/PlanetHoneyPop.png",
+      "chineseName": "蜜糖星球流行乐吧",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "1010altoapartments",
@@ -25174,15 +25124,16 @@ export default {
     {
       "id": "wardpark",
       "name": "Ward Park",
-      "type": "NationalPark",
+      "type": "WorkPlace",
       "price": 0,
       "size": "20×20",
       "world": "Del Sol Valley",
       "worldId": "delsolvalley",
       "districtId": "starlightboulevard",
-      "image": "/images/lots/WardPark.jpg",
+      "image": "/images/lots/WardPark.png",
+      "chineseName": "PBP Click! 工作室",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "studiopbp",
@@ -25486,15 +25437,16 @@ export default {
     {
       "id": "thesandbar",
       "name": "The Sand Bar",
-      "type": "Bar",
+      "type": "Restaurant",
       "price": 0,
       "size": "30×20",
       "world": "Sulani",
       "worldId": "sulani",
       "districtId": "ohanalitown",
-      "image": "/images/lots/TheSandBar.jpg",
+      "image": "/images/lots/TheSandBar.png",
+      "chineseName": "海沙餐吧",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "ohanalibeach",
@@ -25518,9 +25470,10 @@ export default {
       "world": "Sulani",
       "worldId": "sulani",
       "districtId": "lanisttaz",
-      "image": "/images/lots/ReefFinery.jpg",
+      "image": "/images/lots/ReefFinery.png",
+      "chineseName": "礁脉海滩",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "journeysend",
@@ -25583,9 +25536,10 @@ export default {
       "world": "Britechester",
       "worldId": "britechester",
       "districtId": "universityofbritechester",
-      "image": "/images/lots/DarbysDen.jpg",
+      "image": "/images/lots/DarbysDen.png",
+      "chineseName": "达比之窝",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "darkwinghouse",
@@ -25622,9 +25576,10 @@ export default {
       "world": "Britechester",
       "worldId": "britechester",
       "districtId": "universityofbritechester",
-      "image": "/images/lots/WyvernHall.jpg",
+      "image": "/images/lots/WyvernHall.png",
+      "chineseName": "飞龙厅",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "larryslagoon",
@@ -25726,9 +25681,10 @@ export default {
       "world": "Britechester",
       "worldId": "britechester",
       "districtId": "gibbshill",
-      "image": "/images/lots/PeppersPub.jpg",
+      "image": "/images/lots/PeppersPub.png",
+      "chineseName": "菘蓝咖啡厅",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "springsteppes",
@@ -26014,16 +25970,16 @@ export default {
     {
       "id": "2-4-1wakabamori",
       "name": "2-4-1 Wakabamori",
-      "type": "Residential",
+      "type": "Restaurant",
       "price": 0,
       "size": "20×15",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
       "districtId": "wakaba",
-      "image": "/images/lots/241Wakabamori.jpg",
-      "chineseName": "、",
+      "image": "/images/lots/2-4-1Wakabamori.png",
+      "chineseName": "2-4-1若叶拉面屋",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "2-4-2wakabamori",
@@ -26041,15 +25997,16 @@ export default {
     {
       "id": "2-4-3wakabamori",
       "name": "2-4-3 Wakabamori",
-      "type": "Residential",
+      "type": "SmallBusiness",
       "price": 0,
       "size": "20×15",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
       "districtId": "wakaba",
-      "image": "/images/lots/243Wakabamori.jpg",
+      "image": "/images/lots/2-4-3Wakabamori.png",
+      "chineseName": "2-4-3若叶茶室",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "2-5-1wakabamori",
@@ -26060,9 +26017,10 @@ export default {
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
       "districtId": "wakaba",
-      "image": "/images/lots/251Wakabamori.jpg",
+      "image": "/images/lots/2-5-1Wakabamori.png",
+      "chineseName": "2-5-1若叶森林",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "hazakuralounge",
@@ -26145,15 +26103,16 @@ export default {
     {
       "id": "5-1-1kiyomatsu",
       "name": "5-1-1 Kiyomatsu",
-      "type": "Rental",
+      "type": "VacationRental",
       "price": 0,
       "size": "30×20",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
       "districtId": "yukimatsu",
-      "image": "/images/lots/511Kiyomatsu.jpg",
+      "image": "/images/lots/5-1-1Kiyomatsu.png",
+      "chineseName": "5-1-1清松",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "5-1-2kiyomatsu",
@@ -26184,15 +26143,16 @@ export default {
     {
       "id": "kiyomatsupoint",
       "name": "Kiyomatsu Point",
-      "type": "Residential",
+      "type": "SmallBusiness",
       "price": 0,
       "size": "50×50",
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
       "districtId": "yukimatsu",
-      "image": "/images/lots/KiyomatsuPoint.jpg",
+      "image": "/images/lots/KiyomatsuPoint.png",
+      "chineseName": "清松御野",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "mtkomorebipeak",
@@ -26203,9 +26163,10 @@ export default {
       "world": "Mt. Komorebi",
       "worldId": "mtkomorebi",
       "districtId": "yukimatsu",
-      "image": "/images/lots/MtKomorebiPeak.jpg",
+      "image": "/images/lots/MtKomorebiPeak.png",
+      "chineseName": "木漏れ日山顶峰",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "thegnomesarms",
@@ -26314,15 +26275,16 @@ export default {
     {
       "id": "13nettlelane",
       "name": "13 Nettle Lane",
-      "type": "Rental",
+      "type": "SmallBusiness",
       "price": 0,
       "size": "30×20",
       "world": "Henford-on-Bagley",
       "worldId": "henfordonbagley",
       "districtId": "thebramblewood",
-      "image": "/images/lots/13NettleLane.jpg",
+      "image": "/images/lots/13NettleLane.png",
+      "chineseName": "荨麻街13号",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "cordeliassecretcottage",
@@ -26405,15 +26367,16 @@ export default {
     {
       "id": "celebrazionedamore",
       "name": "Celebrazione d’Amore",
-      "type": "Lounge",
+      "type": "Spa",
       "price": 0,
       "size": "50×40",
       "world": "Tartosa",
       "worldId": "tartosa",
       "districtId": "portoluminoso",
-      "image": "/images/lots/CelebrazionedAmore.jpg",
+      "image": "/images/lots/CelebrazionedAmore.png",
+      "chineseName": "斯帕托皮亚水疗中心",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "baiadellamore",
@@ -26600,15 +26563,16 @@ export default {
     {
       "id": "littlefallsnook",
       "name": "Little Falls Nook",
-      "type": "Residential",
+      "type": "VacationRental",
       "price": 0,
       "size": "20×20",
       "world": "Copperdale",
       "worldId": "copperdale",
       "districtId": "plumbitecove",
-      "image": "/images/lots/LittleFallsNook.jpg",
+      "image": "/images/lots/LittleFallsNook.png",
+      "chineseName": "小小瀑布角落",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "thrifttea",
@@ -26730,15 +26694,16 @@ export default {
     {
       "id": "anchorpointlibrary",
       "name": "Anchorpoint Library",
-      "type": "Library",
+      "type": "WorkPlace",
       "price": 0,
       "size": "30×20",
       "world": "San Sequoia",
       "worldId": "sansequoia",
       "districtId": "anchorpointwharf",
-      "image": "/images/lots/AnchorpointLibrary.jpg",
+      "image": "/images/lots/AnchorpointLibrary.png",
+      "chineseName": "锚点大楼",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "anchorpointabode",
@@ -26782,15 +26747,16 @@ export default {
     {
       "id": "17celebrationway",
       "name": "18 Celebration Way",
-      "type": "Residential",
+      "type": "SmallBusiness",
       "price": 0,
       "size": "40×20",
       "world": "San Sequoia",
       "worldId": "sansequoia",
       "districtId": "gilbertgardens",
-      "image": "/images/lots/17CelebrationWay.jpg",
+      "image": "/images/lots/17CelebrationWay.png",
+      "chineseName": "春田花花幼稚园",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "celebration-center",
@@ -27029,15 +26995,16 @@ export default {
     {
       "id": "rokayarockside",
       "name": "Ro Kaya Rockside",
-      "type": "Residential",
+      "type": "SmallBusiness",
       "price": 0,
       "size": "40×30",
       "world": "Tomarang",
       "worldId": "tomarang",
       "districtId": "morensong",
-      "image": "/images/lots/RoKayaRockside.jpg",
+      "image": "/images/lots/RoKayaRockside.png",
+      "chineseName": "罗卡亚岩边",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "takasoi15",
@@ -27055,28 +27022,30 @@ export default {
     {
       "id": "cheewitcheewaakanto",
       "name": "Chee-wit Chee-waa Kanto",
-      "type": "Residential",
+      "type": "SmallBusiness",
       "price": 0,
       "size": "20×15",
       "world": "Tomarang",
       "worldId": "tomarang",
       "districtId": "morensong",
-      "image": "/images/lots/CheewitCheewaaKanto.jpg",
+      "image": "/images/lots/CheewitCheewaaKanto.png",
+      "chineseName": "美妙生活角",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "zosultamanbotani",
       "name": "ZoSul Taman Botani",
-      "type": "NationalPark",
+      "type": "Museum",
       "price": 0,
       "size": "30×30",
       "world": "Tomarang",
       "worldId": "tomarang",
       "districtId": "morensong",
-      "image": "/images/lots/ZoSulTamanBotani.jpg",
+      "image": "/images/lots/ZoSulTamanBotani.png",
+      "chineseName": "佐苏尔真理府",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "isdariverfront",
@@ -27237,15 +27206,16 @@ export default {
     {
       "id": "medianaranja",
       "name": "Media Naranja",
-      "type": "Park",
+      "type": "Bar",
       "price": 0,
       "size": "30×30",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
       "districtId": "plazamariposa",
-      "image": "/images/lots/MediaNaranja.jpg",
+      "image": "/images/lots/MediaNaranja.png",
+      "chineseName": "科切拉山谷",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "calledelapromesa",
@@ -27289,15 +27259,16 @@ export default {
     {
       "id": "caminitodeldeseo",
       "name": "Caminito del Deseo",
-      "type": "Residential",
+      "type": "SmallBusiness",
       "price": 0,
       "size": "50×40",
       "world": "Ciudad Enamorada",
       "worldId": "ciudadenamorada",
       "districtId": "vistahermosa",
-      "image": "/images/lots/CaminitodelDeseo.jpg",
+      "image": "/images/lots/CaminitodelDeseo.png",
+      "chineseName": "马里波萨小巷",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "lagunadelabrazo",
@@ -27549,15 +27520,16 @@ export default {
     {
       "id": "comfortablycanalside",
       "name": "Comfortably Canalside",
-      "type": "Residential",
+      "type": "SmallBusiness",
       "price": 0,
       "size": "20×20",
       "world": "Nordhaven",
       "worldId": "nordhaven",
       "districtId": "gammelvik",
-      "image": "/images/lots/ComfortablyCanalside.jpg",
+      "image": "/images/lots/ComfortablyCanalside.png",
+      "chineseName": "悠然运河畔",
       "isDownloaded": false,
-      "isBuilt": false
+      "isBuilt": true
     },
     {
       "id": "newharborpark",
